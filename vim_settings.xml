@@ -14,21 +14,6 @@
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java" timestamp="1536301022718">
         <mark key="'" line="52" column="7" />
       </file>
-      <file name="D:/mywork/first-gradle/first-web/src/main/resources/application.yml" timestamp="1536137306666">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/controller/HelloController.java" timestamp="1539237476775">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="0" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationServiceImpl.java" timestamp="1536204747142">
-        <mark key="'" line="272" column="36" />
-      </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/FirstWeb.java" timestamp="1536128272013">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="51" />
@@ -40,6 +25,14 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
         <mark key="^" line="65" column="4" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1539243478146">
+        <mark key="a" line="178" column="4" />
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="178" column="52" />
+        <mark key="]" line="180" column="26" />
+        <mark key="." line="180" column="26" />
+        <mark key="^" line="180" column="26" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
@@ -53,30 +46,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/mywork/myWeb/suiyiTest/src/main/java/TestClass.java" timestamp="1536291751835">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
         <mark key="]" line="390" column="0" />
         <mark key="^" line="391" column="44" />
         <mark key="." line="390" column="0" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/AccountIntegralWriteLockMoudleImpl.java" timestamp="1536291501559">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="67" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="26" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" timestamp="1536308642124">
-        <mark key="'" line="19" column="30" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/center/OrganizationCenterServiceImpl.java" timestamp="1536110887112">
         <mark key="[" line="144" column="64" />
@@ -84,28 +58,16 @@
         <mark key="^" line="145" column="49" />
         <mark key="." line="145" column="49" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReturn.java" timestamp="1536291372541">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1536286255230">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/OrganizationMapper.xml" timestamp="1536223554258">
-        <mark key="[" line="81" column="42" />
-        <mark key="]" line="81" column="18" />
-        <mark key="^" line="81" column="18" />
-        <mark key="." line="81" column="18" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539242389816">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="51" column="8" />
-        <mark key="^" line="51" column="8" />
-        <mark key="." line="51" column="8" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539242688101">
+        <mark key="[" line="86" column="86" />
+        <mark key="]" line="86" column="81" />
+        <mark key="^" line="86" column="81" />
+        <mark key="." line="86" column="81" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
@@ -113,13 +75,8 @@
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="/course [bzr-dev]" timestamp="1539242145572">
+      <file name="/course [bzr-dev]" timestamp="1539242792260">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/config/ApplicationSecurity.java" timestamp="1536496447799">
-        <mark key="[" line="70" column="19" />
-        <mark key="]" line="70" column="41" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539240112024">
         <mark key="[" line="30" column="0" />
@@ -127,32 +84,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1536283848332">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1539238048036">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="D:/mywork/myWeb/suiyiTest/src/main/java/leetcode/algorithm/AlorithmTest.java" timestamp="1536115123080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/Organization.java" timestamp="1536111714733">
-        <mark key="[" line="94" column="3" />
-        <mark key="]" line="104" column="33" />
-        <mark key="^" line="93" column="72" />
-        <mark key="." line="93" column="72" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1536308267451">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539242231177">
         <mark key="[" line="45" column="0" />
@@ -166,8 +102,7 @@
         <mark key="." line="26" column="4" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1536460058177" />
-      <file name="/xjz_headline [bzr-dev]" timestamp="1539242148103">
+      <file name="/xjz_headline [bzr-dev]" timestamp="1539242795559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
@@ -175,20 +110,6 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
-      </file>
-      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1536286544527">
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="." line="309" column="0" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-      </file>
-      <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
-        <mark key="[" line="7" column="19" />
       </file>
       <file name="/bzr_dev_1.5.0.xjz_headline [bzr-dev]" timestamp="1539238026444">
         <mark key="[" line="0" column="0" />
@@ -209,6 +130,12 @@
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" timestamp="1536303167624">
         <mark key="'" line="1274" column="86" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshowImage.java" timestamp="1539243406237">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="49" column="28" />
+        <mark key="." line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/pom.xml" timestamp="1536286553373">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -219,6 +146,103 @@
         <mark key="]" line="79" column="28" />
         <mark key="." line="79" column="28" />
         <mark key="^" line="79" column="28" />
+      </file>
+      <file name="D:/mywork/first-gradle/first-web/src/main/resources/application.yml" timestamp="1536137306666">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/controller/HelloController.java" timestamp="1539237476775">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationServiceImpl.java" timestamp="1536204747142">
+        <mark key="'" line="272" column="36" />
+      </file>
+      <file name="D:/mywork/myWeb/suiyiTest/src/main/java/TestClass.java" timestamp="1536291751835">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/AccountIntegralWriteLockMoudleImpl.java" timestamp="1536291501559">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="26" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" timestamp="1536308642124">
+        <mark key="'" line="19" column="30" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReturn.java" timestamp="1536291372541">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
+        <mark key="^" line="25" column="57" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/OrganizationMapper.xml" timestamp="1536223554258">
+        <mark key="[" line="81" column="42" />
+        <mark key="]" line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+      </file>
+      <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/config/ApplicationSecurity.java" timestamp="1536496447799">
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowService.java" timestamp="1539243466948">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1536283848332">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1539238048036">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/Organization.java" timestamp="1536111714733">
+        <mark key="[" line="94" column="3" />
+        <mark key="]" line="104" column="33" />
+        <mark key="^" line="93" column="72" />
+        <mark key="." line="93" column="72" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1536308267451">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1536460058177" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" timestamp="1539243376901">
+        <mark key="'" line="48" column="32" />
+        <mark key="[" line="358" column="20" />
+        <mark key="]" line="358" column="33" />
+      </file>
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1536286544527">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
+        <mark key="[" line="7" column="19" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/IndexApi.java" timestamp="1536306041110">
         <mark key="[" line="58" column="37" />
@@ -231,11 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="46" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.7.RELEASE/spring-boot-autoconfigure-1.5.7.RELEASE.jar!/META-INF/spring-configuration-metadata.json" />
-      <jump line="0" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationCommentServiceImapl.java" />
-      <jump line="266" column="10" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-4-0.sql" />
-      <jump line="34" column="6" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/SignUpUrl.java" />
       <jump line="340" column="7" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/usercenter/AccountServiceImpl.java" />
       <jump line="79" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/usercenter/AccountServiceImpl.java" />
       <jump line="21" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/usercenter/AccountCacheImpl.java" />
@@ -331,58 +350,63 @@
       <jump line="1274" column="86" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
       <jump line="8" column="32" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" />
       <jump line="19" column="30" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" />
+      <jump line="166" column="8" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
+      <jump line="41" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
+      <jump line="48" column="32" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" />
+      <jump line="177" column="4" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
+      <jump line="64" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>xjz_slideshow_image</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>storeImage</text>
       </register>
       <register name="0" type="4">
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXByaXZhdGUgWGp6U2xpZGVzaG93SW1hZ2VNYXBwZXIgeGp6U2xpZGVzaG93SW1hZ2VNYXBwZXI7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFhqelNsaWRlc2hvd0ltYWdlTWFwcGVybChYanpTbGlkZXNob3dJbWFnZU1hcHBlciB4anpTbGlkZXNob3dJbWFnZU1hcHBlcmwpIHsKCQl0aGlzLnhqelNsaWRlc2hvd0ltYWdlTWFwcGVybCA9IHhqelNsaWRlc2hvd0ltYWdlTWFwcGVybDs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LlhqekhlYWRsaW5lOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQoK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog19TU9mlkCiAgICAgKi8KCUBUYWJsZUlkKHZhbHVlPSJhdXRvX3BrIiwgdHlwZT0gSWRUeXBlLkFVVE8pCglwcml2YXRlIExvbmcgYXV0b1BrOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>storeImage</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>storeImage</last-pattern>
       <last-replace>1.4.0</last-replace>
       <last-substitute>1.3.0</last-substitute>
       <last-dir>1</last-dir>
@@ -390,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VedioStatusPolling</entry>
         <entry>view</entry>
         <entry>duiba</entry>
         <entry>删除</entry>
@@ -410,6 +433,7 @@
         <entry>^setnx</entry>
         <entry>setnx</entry>
         <entry>set</entry>
+        <entry>storeImage</entry>
       </history-search>
       <history-cmd>
         <entry>32,34s/\cdirection/Sentence/g</entry>
