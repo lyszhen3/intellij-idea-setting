@@ -3,4 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
 </keymap>
