@@ -1,0 +1,6 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="serviceDirectoryPath" value="D:/Applications/Scoop/apps/gradle/current" />
+    <option name="gradleVmOptions" value="-XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
+  </component>
+</application>

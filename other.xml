@@ -1,0 +1,155 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache version="6.11.4" last-modified="1507021534000" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="true" url="http://gz.571xz.com:32100">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>df9adfc5dfc1dfc7dfc4dfc0dfc3df93</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>947206869@qq.com</username>
+    </YouTrack>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://xzof.f3322.net/svn" />
+        <option value="svn://xzof.f3322.net/svn/pom_program/code/templates" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://xzof.f3322.net/svn" />
+        <option value="svn://xzof.f3322.net/svn/pom_program/code/templates" />
+        <option value="http://svn.tedu.cn/1608se/stu0133" />
+        <option value="http://svn.tedu.cn/svn/1608se/stu0133" />
+        <option value="svn://http://xzof.f3322.net/svn" />
+        <option value="svn://192.168.1.191/svn" />
+        <option value="https://svn/192.168.1.191/svn" />
+        <option value="http://svn://192.168.1.191/svn" />
+        <option value="svn://192.168.1.191/svn/" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\program\TortoiseSVN\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn://192.168.1.191/svn/pom_program/code/data-pom/mall-pom/mall-data-test">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\app_work\mall-data-test" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://192.168.1.191/svn/pom_program/code/webs-pom2/main-site3.2">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\work-1\main-site3.2" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/data-pom2">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\data-pom\data-pom2" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/data-pom2/daifa-pom2">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\data-pom\data-pom2\daifa-pom2" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/webs-pom2/daifa_site4.0_1">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\work-1\daifa_site4.0_1" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/webs-pom2/daifa_site6.0">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\work-1\daifa_site6.0" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/webs-pom2/daifa_web/6.0/daifa_site_release">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\work-1\daifa_site_release" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/webs-pom2/main-site3.1">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\work-1\main-site3.1" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn://xzof.f3322.net/svn/pom_program/code/webs-pom2/main-site3.2">
+          <value>
+            <set>
+              <option value="D:\workspaceidea\work-1\main-site3.2" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+    <pattern>lin</pattern>
+    <pattern>zen</pattern>
+    <pattern>set zen xxx;</pattern>
+    <pattern>lin;</pattern>
+    <pattern>LOCK</pattern>
+    <pattern>LOCK*</pattern>
+    <pattern>kv_session</pattern>
+    <pattern>kv_session*</pattern>
+    <pattern>kv_organization.*</pattern>
+    <pattern>kv_organization*</pattern>
+    <pattern>kv_organization:*</pattern>
+    <pattern>kv_session:*</pattern>
+    <pattern>kv_session*533</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="127.0.0.1" host="127.0.0.1" port="6379" password="" timestamp="1521604507517" />
+    </servers>
+    <servers>
+      <general label="bzr测试redis" host="10.100.64.15" port="6379" password="" timestamp="1521680537551" />
+    </servers>
+  </component>
+</application>
