@@ -101,13 +101,19 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539242389816">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="51" column="8" />
+        <mark key="^" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
         <mark key="]" line="46" column="54" />
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="/course [bzr-dev]" timestamp="1539240281171">
+      <file name="/course [bzr-dev]" timestamp="1539242145572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/config/ApplicationSecurity.java" timestamp="1536496447799">
@@ -148,11 +154,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539240141816">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="44" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="38" column="44" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539242231177">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -161,7 +167,7 @@
         <mark key="^" line="26" column="3" />
       </file>
       <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1536460058177" />
-      <file name="/xjz_headline [bzr-dev]" timestamp="1539240284119">
+      <file name="/xjz_headline [bzr-dev]" timestamp="1539242148103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
