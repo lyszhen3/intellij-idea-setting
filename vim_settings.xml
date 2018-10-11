@@ -5,12 +5,12 @@
       <mark key="N" line="92" column="25" filename="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" timestamp="1539244338964">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="134" column="22" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" timestamp="1539248602387">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="85" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/FirstWeb.java" timestamp="1536128272013">
         <mark key="[" line="14" column="30" />
@@ -31,6 +31,11 @@
         <mark key="]" line="128" column="8" />
         <mark key="." line="180" column="26" />
         <mark key="^" line="180" column="26" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/AbstractSortUpdateMoudle.java" timestamp="1539248307371">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
@@ -76,10 +81,10 @@
       <file name="/course [bzr-dev]" timestamp="1539243644924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539247568575">
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539248077769">
         <mark key="a" line="67" column="4" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="97" column="26" />
         <mark key="." line="63" column="0" />
         <mark key="^" line="92" column="4" />
       </file>
@@ -88,6 +93,11 @@
         <mark key="]" line="17" column="70" />
         <mark key="^" line="17" column="70" />
         <mark key="." line="17" column="70" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshow.java" timestamp="1539248677927">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="D:/mywork/myWeb/suiyiTest/src/main/java/leetcode/algorithm/AlorithmTest.java" timestamp="1536115123080">
         <mark key="[" line="19" column="0" />
@@ -144,6 +154,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/SortSupport.java" timestamp="1539248653550">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1539238180350">
         <mark key="[" line="79" column="33" />
         <mark key="]" line="79" column="28" />
@@ -167,8 +183,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/DefaultSortUpdateMoudle.java" timestamp="1539247481773">
-        <mark key="[" line="14" column="37" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/DefaultSortUpdateMoudle.java" timestamp="1539248721565">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/AccountIntegralWriteLockMoudleImpl.java" timestamp="1536291501559">
         <mark key="[" line="35" column="0" />
@@ -356,11 +375,11 @@
       <jump line="38" column="36" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
+      <register name="&quot;" type="4">
+        <text>xjzHeadline.getSort()</text>
       </register>
       <register name="-" type="4">
-        <text>updateSliIds</text>
+        <text>xjzHeadline.getSort()</text>
       </register>
       <register name="/" type="4">
         <text>storeImage</text>
@@ -369,34 +388,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CXB1YmxpYyBJbnRlZ2VyIGdldFNvcnQoKSB7CgkJcmV0dXJuIHNvcnQ7Cgl9CgoJcHVibGljIHZvaWQgc2V0U29ydChJbnRlZ2VyIHNvcnQpIHsKCQl0aGlzLnNvcnQgPSBzb3J0OwoJfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CS8qKgoJICogxcXQ8goJICovCglwcml2YXRlIEludGVnZXIgc29ydDs=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvL8XF0PK6xc7KzOIK</text>
+        <text encoding="base64">CQkJIiwgc29ydD0iICsgc29ydCArCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eGp6SGVhZGxpbmUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CXB1YmxpYyBJbnRlZ2VyIGdldFNvcnQoKSB7CgkJcmV0dXJuIHNvcnQ7Cgl9CgoJcHVibGljIHZvaWQgc2V0U29ydChJbnRlZ2VyIHNvcnQpIHsKCQl0aGlzLnNvcnQgPSBzb3J0OwoJfQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogxcXQ8gogICAgICovCglwcml2YXRlIEludGVnZXIgc29ydDs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMaXN0PFhqekhlYWRsaW5lPiBuZWVkQ2hhbmdlcyA9IHRoaXMuZ2V0TmVlZENoYW5nZXMoZmlsdGVyLCB4anpIZWFkbGluZS5nZXRTb3J0KCksIG9sZFNvcnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgWGp6U2xpZGVzaG93SW1hZ2VNYXBwZXIgeGp6U2xpZGVzaG93SW1hZ2VNYXBwZXI7Cg==</text>
+        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVzIikK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
