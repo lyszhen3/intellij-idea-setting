@@ -12,9 +12,6 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="134" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java" timestamp="1536301022718">
-        <mark key="'" line="52" column="7" />
-      </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/FirstWeb.java" timestamp="1536128272013">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="51" />
@@ -79,11 +76,11 @@
       <file name="/course [bzr-dev]" timestamp="1539243644924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539244520388">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="19" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539245477175">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="52" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/mywork/myWeb/suiyiTest/src/main/java/leetcode/algorithm/AlorithmTest.java" timestamp="1536115123080">
         <mark key="[" line="19" column="0" />
@@ -129,9 +126,6 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" timestamp="1536303167624">
-        <mark key="'" line="1274" column="86" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshowImage.java" timestamp="1539243406237">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="49" column="28" />
@@ -161,9 +155,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationServiceImpl.java" timestamp="1536204747142">
-        <mark key="'" line="272" column="36" />
-      </file>
       <file name="D:/mywork/myWeb/suiyiTest/src/main/java/TestClass.java" timestamp="1536291751835">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -179,9 +170,6 @@
         <mark key="]" line="22" column="67" />
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="26" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" timestamp="1536308642124">
-        <mark key="'" line="19" column="30" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReturn.java" timestamp="1536291372541">
         <mark key="[" line="25" column="19" />
@@ -220,7 +208,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536308267451">
+      <file name="/Dummy.txt" timestamp="1539245103368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -360,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eGp6SGVhZGxpbmUK</text>
       </register>
       <register name="-" type="4">
         <text>void</text>
@@ -372,7 +360,7 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eGp6SGVhZGxpbmUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,22 +372,22 @@
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgWGp6U2xpZGVzaG93SW1hZ2VNYXBwZXIgeGp6U2xpZGVzaG93SW1hZ2VNYXBwZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgWGp6U2xpZGVzaG93SW1hZ2VNYXBwZXIgeGp6U2xpZGVzaG93SW1hZ2VNYXBwZXI7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFhqelNsaWRlc2hvd0ltYWdlTWFwcGVybChYanpTbGlkZXNob3dJbWFnZU1hcHBlciB4anpTbGlkZXNob3dJbWFnZU1hcHBlcmwpIHsKCQl0aGlzLnhqelNsaWRlc2hvd0ltYWdlTWFwcGVybCA9IHhqelNsaWRlc2hvd0ltYWdlTWFwcGVybDs=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
