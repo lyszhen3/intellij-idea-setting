@@ -5,11 +5,12 @@
       <mark key="N" line="92" column="25" filename="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" timestamp="1539238496404">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="50" column="59" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" timestamp="1539244338964">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="134" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java" timestamp="1536301022718">
         <mark key="'" line="52" column="7" />
@@ -63,11 +64,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539242688101">
-        <mark key="[" line="86" column="86" />
-        <mark key="]" line="86" column="81" />
-        <mark key="^" line="86" column="81" />
-        <mark key="." line="86" column="81" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539244137623">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="89" column="86" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
@@ -75,11 +76,11 @@
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="/course [bzr-dev]" timestamp="1539242792260">
+      <file name="/course [bzr-dev]" timestamp="1539243644924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539240112024">
-        <mark key="[" line="30" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539244520388">
+        <mark key="[" line="35" column="8" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="19" />
@@ -90,11 +91,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539242231177">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="36" column="18" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="36" column="18" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539244475120">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="56" column="60" />
+        <mark key="^" line="56" column="60" />
+        <mark key="." line="56" column="60" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -102,7 +103,7 @@
         <mark key="." line="26" column="4" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="/xjz_headline [bzr-dev]" timestamp="1539242795559">
+      <file name="/xjz_headline [bzr-dev]" timestamp="1539243647507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
@@ -122,10 +123,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineService.java" timestamp="1539239528417">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineService.java" timestamp="1539244546853">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" timestamp="1536303167624">
         <mark key="'" line="1274" column="86" />
@@ -255,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="7" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/usercenter/AccountServiceImpl.java" />
       <jump line="79" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/usercenter/AccountServiceImpl.java" />
       <jump line="21" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/usercenter/AccountCacheImpl.java" />
       <jump line="72" column="18" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/duibaorder/DuibaOrderServiceImpl.java" />
@@ -355,10 +356,11 @@
       <jump line="48" column="32" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" />
       <jump line="177" column="4" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
       <jump line="64" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
+      <jump line="56" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>void</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>void</text>
@@ -376,25 +378,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgWGp6U2xpZGVzaG93SW1hZ2VNYXBwZXIgeGp6U2xpZGVzaG93SW1hZ2VNYXBwZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgWGp6U2xpZGVzaG93SW1hZ2VNYXBwZXIgeGp6U2xpZGVzaG93SW1hZ2VNYXBwZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFhqelNsaWRlc2hvd0ltYWdlTWFwcGVybChYanpTbGlkZXNob3dJbWFnZU1hcHBlciB4anpTbGlkZXNob3dJbWFnZU1hcHBlcmwpIHsKCQl0aGlzLnhqelNsaWRlc2hvd0ltYWdlTWFwcGVybCA9IHhqelNsaWRlc2hvd0ltYWdlTWFwcGVybDs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkK</text>
