@@ -24,18 +24,18 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="65" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1539250014026">
-        <mark key="a" line="159" column="4" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1539251840889">
+        <mark key="a" line="148" column="4" />
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="103" column="58" />
-        <mark key="]" line="103" column="70" />
-        <mark key="." line="103" column="58" />
-        <mark key="^" line="161" column="26" />
+        <mark key="[" line="125" column="119" />
+        <mark key="]" line="128" column="30" />
+        <mark key="." line="128" column="30" />
+        <mark key="^" line="128" column="30" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/AbstractSortUpdateMoudle.java" timestamp="1539249436575">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/AbstractSortUpdateMoudle.java" timestamp="1539251479963">
+        <mark key="[" line="52" column="3" />
+        <mark key="]" line="52" column="12" />
+        <mark key="." line="52" column="3" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
@@ -81,12 +81,11 @@
       <file name="/course [bzr-dev]" timestamp="1539243644924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539249912648">
-        <mark key="a" line="69" column="4" />
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="83" column="46" />
-        <mark key="^" line="81" column="106" />
-        <mark key="." line="79" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539252672591">
+        <mark key="a" line="70" column="4" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1539246687948">
         <mark key="[" line="16" column="74" />
@@ -105,8 +104,8 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539246348830">
-        <mark key="[" line="63" column="89" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539251889596">
+        <mark key="[" line="67" column="5" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -137,11 +136,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineService.java" timestamp="1539246250808">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="48" />
-        <mark key="." line="28" column="48" />
-        <mark key="^" line="28" column="48" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineService.java" timestamp="1539251957288">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshowImage.java" timestamp="1539243406237">
         <mark key="[" line="91" column="0" />
@@ -183,10 +182,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/DefaultSortUpdateMoudle.java" timestamp="1539250482757">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/DefaultSortUpdateMoudle.java" timestamp="1539251296935">
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="16" />
+        <mark key="." line="65" column="16" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/AccountIntegralWriteLockMoudleImpl.java" timestamp="1536291501559">
         <mark key="[" line="35" column="0" />
@@ -375,10 +374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlMaXN0PEI+IG5lZWRDaGFuZ2VzID0gdGhpcy5nZXROZWVkQ2hhbmdlcyhmaWx0ZXIsIG5ld1NvcnQsIG9sZFNvcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>XjzHeadline</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>storeImage</text>
@@ -387,13 +386,13 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlMaXN0PEI+IG5lZWRDaGFuZ2VzID0gdGhpcy5nZXROZWVkQ2hhbmdlcyhmaWx0ZXIsIG5ld1NvcnQsIG9sZFNvcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly+7urTmuPzQwmlkCgkJCUxpc3Q8U3RyaW5nPiB1cGRhdGVTbGlJZHMgPSBuZXcgQXJyYXlMaXN0PD4oMTApOwoJCQlpZihzbGlkZXNob3cuZ2V0U29ydCgpIT1udWxsICYmICFvbGQuZ2V0U29ydCgpLmVxdWFscyhzbGlkZXNob3cuZ2V0U29ydCgpKSl7CgoJCQkJSW50ZWdlciBjb3VudCA9IHhqelNsaWRlc2hvd01hcHBlci5zZWxlY3RDb3VudChuZXcgRW50aXR5V3JhcHBlcjw+KCkpOwoJCQkJaWYoc2xpZGVzaG93LmdldFNvcnQoKSA+IGNvdW50KXsKCQkJCQl0aHJvdyBuZXcgQ3VzdG9tRXhjZXB0aW9uKEFwaUNvZGUuSU5WQUxJRF9QQVJBTUVURVIsIsXF0PK6xbOsuf3X7rTzxcXQ8iIpOwoJCQkJfQoJCQkJSW50ZWdlciBvbGRTb3J0ID0gb2xkLmdldFNvcnQoKTsKCgkJCQluZXcgQWJzdHJhY3RTb3J0VXBkYXRlTW91ZGxlPFhqelNsaWRlc2hvdz4oeGp6U2xpZGVzaG93TWFwcGVyKXsKCQkJCQlAT3ZlcnJpZGUKCQkJCQlwdWJsaWMgdm9pZCB1cGRhdGUoKSB7CgkJCQkJCU1hcDxTdHJpbmcsIE9iamVjdD4gZmlsdGVyID0gbmV3IEhhc2hNYXA8PigpOwoJCQkJCQlMaXN0PFhqelNsaWRlc2hvdz4gbmVlZENoYW5nZXMgPSB0aGlzLmdldE5lZWRDaGFuZ2VzKGZpbHRlciwgc2xpZGVzaG93LmdldFNvcnQoKSwgb2xkU29ydCk7CgkJCQkJCW5lZWRDaGFuZ2VzLmZvckVhY2gocmVjb3JkLT57CgkJCQkJCQlyZWNvcmQuc2V0U29ydChvbGRTb3J0ID4gc2xpZGVzaG93LmdldFNvcnQoKT9yZWNvcmQuZ2V0U29ydCgpKzEgOiByZWNvcmQuZ2V0U29ydCgpLTEpOwoJCQkJCQkJeGp6U2xpZGVzaG93TWFwcGVyLnVwZGF0ZUJ5SWQocmVjb3JkKTsKCQkJCQkJCS8vu7q05sXF0PK4/GnQ1MTcCgkJCQkJCQl1cGRhdGVTbGlJZHMuYWRkKHJlY29yZC5nZXRJZCgpKTsKCQkJCQkJfSk7CgkJCQkJfQoJCQkJfS51cGRhdGUoKTsKCgkJCX0KCQkJeGp6U2xpZGVzaG93TWFwcGVyLnVwZGF0ZUJ5SWQoc2xpZGVzaG93KTsKCQkJdXBkYXRlU2xpSWRzLmFkZChzbGlkZXNob3cuZ2V0SWQoKSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -402,19 +401,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLy+7urTmuPzQwmlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy/V4rHfxNjFxdDy0rLSqtDeuMQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkJTGlzdDxTdHJpbmc+IHVwZGF0ZUlkcyA9IG5ldyBBcnJheUxpc3Q8PigxMCk7CgkJCWlmKHhqekhlYWRsaW5lLmdldFNvcnQoKSE9bnVsbCAmJiAhb2xkLmdldFNvcnQoKS5lcXVhbHMoeGp6SGVhZGxpbmUuZ2V0U29ydCgpKSl7CgoJCQkJSW50ZWdlciBjb3VudCA9IHhqekhlYWRsaW5lTWFwcGVyLnNlbGVjdENvdW50KG5ldyBFbnRpdHlXcmFwcGVyPD4oKSk7CgkJCQlpZih4anpIZWFkbGluZS5nZXRTb3J0KCkgPiBjb3VudCl7CgkJCQkJdGhyb3cgbmV3IEN1c3RvbUV4Y2VwdGlvbihBcGlDb2RlLklOVkFMSURfUEFSQU1FVEVSLCLFxdDyusWzrLn91+6088XF0PIiKTsKCQkJCX0KCQkJCUludGVnZXIgb2xkU29ydCA9IG9sZC5nZXRTb3J0KCk7CgoJCQkJbmV3IEFic3RyYWN0U29ydFVwZGF0ZU1vdWRsZTxYanpIZWFkbGluZT4oeGp6SGVhZGxpbmVNYXBwZXIpewoJCQkJCUBPdmVycmlkZQoJCQkJCXB1YmxpYyB2b2lkIHVwZGF0ZSgpIHsKCQkJCQkJTWFwPFN0cmluZywgT2JqZWN0PiBmaWx0ZXIgPSBuZXcgSGFzaE1hcDw+KCk7CgkJCQkJCUxpc3Q8WGp6SGVhZGxpbmU+IG5lZWRDaGFuZ2VzID0gdGhpcy5nZXROZWVkQ2hhbmdlcyhmaWx0ZXIsIHhqekhlYWRsaW5lLmdldFNvcnQoKSwgb2xkU29ydCk7CgkJCQkJCW5lZWRDaGFuZ2VzLmZvckVhY2gocmVjb3JkLT57CgkJCQkJCQlyZWNvcmQuc2V0U29ydChvbGRTb3J0ID4geGp6SGVhZGxpbmUuZ2V0U29ydCgpP3JlY29yZC5nZXRTb3J0KCkrMSA6IHJlY29yZC5nZXRTb3J0KCktMSk7CgkJCQkJCQl4anpIZWFkbGluZU1hcHBlci51cGRhdGVCeUlkKHJlY29yZCk7CgkJCQkJCQkvL7u6tObFxdDyuPxp0NTE3AoJCQkJCQkJdXBkYXRlSWRzLmFkZChyZWNvcmQuZ2V0SWQoKSk7CgkJCQkJCX0pOwoJCQkJCX0KCQkJCX0udXBkYXRlKCk7CgoJCQl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJeGp6U2xpZGVzaG93TWFwcGVyLmRlbGV0ZUJ5SWQoaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
