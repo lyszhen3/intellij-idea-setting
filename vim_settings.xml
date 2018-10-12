@@ -69,14 +69,8 @@
       <file name="/course [bzr-dev]" timestamp="1539243644924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1539315497785">
-        <mark key="a" line="70" column="4" />
-        <mark key="[" line="79" column="56" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1539313161045">
-        <mark key="[" line="17" column="71" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1539331361159">
+        <mark key="[" line="18" column="84" />
         <mark key="]" line="17" column="70" />
         <mark key="^" line="17" column="70" />
         <mark key="." line="17" column="70" />
@@ -112,10 +106,10 @@
       <file name="/xjz_headline [bzr-dev]" timestamp="1539243647507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" timestamp="1539331011248">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" timestamp="1539333131119">
+        <mark key="a" line="62" column="22" />
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="97" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
         <mark key="[" line="14" column="3" />
@@ -135,11 +129,11 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseService.java" timestamp="1539331269332">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseService.java" timestamp="1539332809215">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineService.java" timestamp="1539251957288">
         <mark key="[" line="30" column="8" />
@@ -220,11 +214,11 @@
       <file name="/a.sql" timestamp="1539328438810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzNewsCourseController.java" timestamp="1539331136184">
-        <mark key="[" line="73" column="53" />
-        <mark key="]" line="73" column="7" />
-        <mark key="." line="73" column="7" />
-        <mark key="^" line="73" column="7" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzNewsCourseController.java" timestamp="1539332760699">
+        <mark key="[" line="87" column="85" />
+        <mark key="]" line="87" column="42" />
+        <mark key="." line="87" column="42" />
+        <mark key="^" line="87" column="42" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1536283848332">
         <mark key="[" line="0" column="0" />
@@ -256,6 +250,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="D:/mywork/myWeb/suiyiTest/src/main/java/thread/forkjoin/CountTask.java" timestamp="1539332379682" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="17" />
@@ -280,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" />
       <jump line="69" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" />
       <jump line="0" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/account/integral/AccountIntegralServiceImpl.java" />
       <jump line="0" column="0" filename="D:/Applications/Scoop/apps/gradle/current/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java" />
@@ -380,6 +374,7 @@
       <jump line="60" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSchoolDynamic.java" />
       <jump line="47" column="12" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
       <jump line="35" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
+      <jump line="34" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -398,7 +393,7 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -416,13 +411,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5Llhqek5ld3NDb3Vyc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
