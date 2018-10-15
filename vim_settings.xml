@@ -29,7 +29,6 @@
         <mark key="." line="76" column="55" />
         <mark key="^" line="76" column="55" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/ShiroConfig.java" timestamp="1539316723692" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="57" />
@@ -42,10 +41,9 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/message/ServerMessageDTO.java" timestamp="1539340635238" />
-      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/Test2Handler.java" timestamp="1539339730128">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/Test2Handler.java" timestamp="1539567594821">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="36" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
@@ -64,20 +62,12 @@
         <mark key="[" line="137" column="11" />
         <mark key="]" line="137" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.11.RELEASE/spring-messaging-4.3.11.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/Header.java" timestamp="1539340002001" />
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1539334517014">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539245852069">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="^" line="89" column="86" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/MessageManager.java" timestamp="1539340436638" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
         <mark key="]" line="46" column="54" />
@@ -105,7 +95,6 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/MessageManager.java" timestamp="1539340339223" />
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539311764123">
         <mark key="[" line="72" column="113" />
         <mark key="]" line="59" column="93" />
@@ -121,15 +110,14 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzNewsCourse.java" timestamp="1539329621794">
         <mark key="[" line="9" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.4.RELEASE/spring-amqp-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/support/converter/AbstractJsonMessageConverter.java" timestamp="1539340072749" />
       <file name="/xjz_headline [bzr-dev]" timestamp="1539243647507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/TestHandler.java" timestamp="1539338729678">
-        <mark key="[" line="20" column="63" />
-        <mark key="]" line="20" column="92" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/TestHandler.java" timestamp="1539567894279">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
         <mark key="[" line="14" column="3" />
@@ -137,7 +125,6 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.11.RELEASE/spring-messaging-4.3.11.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/Payload.java" timestamp="1539338410221" />
       <file name="/bzr_dev_1.5.0.xjz_headline [bzr-dev]" timestamp="1539238026444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,7 +160,6 @@
         <mark key="." line="49" column="28" />
         <mark key="^" line="49" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.11.RELEASE/spring-messaging-4.3.11.RELEASE-sources.jar!/org/springframework/messaging/handler/annotation/MessageMapping.java" timestamp="1539338373600" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/SortSupport.java" timestamp="1539248653550">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="10" />
@@ -252,7 +238,6 @@
         <mark key="." line="87" column="42" />
         <mark key="^" line="87" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.4.RELEASE/spring-amqp-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/support/converter/DefaultClassMapper.java" timestamp="1539339874746" />
       <file name="/HTML File.txt.ft" timestamp="1536283848332">
         <mark key="[" line="0" column="0" />
       </file>
@@ -283,7 +268,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/mywork/myWeb/suiyiTest/src/main/java/thread/forkjoin/CountTask.java" timestamp="1539332379682" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" timestamp="1539567294678">
+        <mark key="'" line="1872" column="17" />
+      </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1539565054178" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539335530219">
         <mark key="[" line="49" column="56" />
       </file>
@@ -311,20 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/account/integral/AccountIntegralServiceImpl.java" />
-      <jump line="0" column="0" filename="D:/Applications/Scoop/apps/gradle/current/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java" />
-      <jump line="212" column="22" filename="D:/Applications/Scoop/apps/gradle/current/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java" />
-      <jump line="272" column="36" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationServiceImpl.java" />
-      <jump line="16" column="10" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java" />
-      <jump line="76" column="8" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java" />
-      <jump line="52" column="7" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java" />
-      <jump line="249" column="38" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1290" column="19" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1292" column="86" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1315" column="49" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1319" column="63" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1321" column="89" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1322" column="45" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
       <jump line="1332" column="19" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
       <jump line="137" column="44" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
       <jump line="656" column="11" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
@@ -411,25 +385,39 @@
       <jump line="35" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
       <jump line="34" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" />
       <jump line="2" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
+      <jump line="1146" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1271" column="57" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1272" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1326" column="72" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1595" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1597" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1751" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1792" column="85" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1811" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1827" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1846" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1851" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1868" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
+      <jump line="1872" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>classMapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>classMapper</text>
+        <text>test2Message</text>
       </register>
       <register name="/" type="4">
-        <text>rabbit</text>
+        <text>queue</text>
       </register>
       <register name="0" type="4">
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBIZWFkZXIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlHcmFwaAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -438,33 +426,31 @@
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLnRhc2sucnBjLmFubm90YXRpb24uTWVzc2FnZUJvZHlIYW5kbGVyOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>public void process(TestMessage testMessage ) {
-		System.out.println(&quot;can you hear me&quot;+testMessage.getName());
-	}</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLnRhc2suaGFuZGxlci5NZXNzYWdlSGFuZGxlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UucnBjLm1lc3NhZ2UudGVzdC5UZXN0TWVzc2FnZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYW1xcC5yYWJiaXQuYW5ub3RhdGlvbi5SYWJiaXRMaXN0ZW5lcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYW1xcC5yYWJiaXQuYW5ub3RhdGlvbi5SYWJiaXRIYW5kbGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltZXNzYWdlLmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>rabbit</last-search>
+      <last-search>queue</last-search>
       <last-offset />
-      <last-pattern>rabbit</last-pattern>
+      <last-pattern>queue</last-pattern>
       <last-replace>1.4.0</last-replace>
       <last-substitute>1.3.0</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry>duiba</entry>
         <entry>删除</entry>
         <entry>specialist_lock</entry>
         <entry>{id}</entry>
@@ -492,6 +477,7 @@
         <entry>set</entry>
         <entry>storeImage</entry>
         <entry>rabbit</entry>
+        <entry>queue</entry>
       </history-search>
       <history-cmd>
         <entry>32,34s/\cdirection/Sentence/g</entry>
