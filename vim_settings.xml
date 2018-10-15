@@ -208,11 +208,14 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539584564799">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="74" column="12" />
-        <mark key="^" line="74" column="12" />
-        <mark key="." line="74" column="12" />
+      <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539585764189">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539586316310">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="26" column="32" />
+        <mark key="^" line="26" column="32" />
+        <mark key="." line="26" column="32" />
       </file>
       <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
         <mark key="[" line="22" column="27" />
@@ -253,7 +256,7 @@
         <mark key="." line="39" column="42" />
         <mark key="^" line="39" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1539328471339">
+      <file name="/dummy.sql" timestamp="1539585767868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -412,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>小记者网站</text>
+        <text>`bzr_dev_1.5.0`</text>
       </register>
       <register name="-" type="4">
-        <text>小记者网站</text>
+        <text>`bzr_dev_1.5.0`</text>
       </register>
       <register name="/" type="4">
         <text>queue</text>
