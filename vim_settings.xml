@@ -74,7 +74,7 @@
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="/course [bzr-dev]" timestamp="1539243644924">
+      <file name="/course [bzr-dev]" timestamp="1539583458612">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/message/test/Test2Message.java" timestamp="1539337949269">
@@ -96,10 +96,7 @@
         <mark key="." line="9" column="15" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/MessageManager.java" timestamp="1539577703436">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="28" column="16" />
-        <mark key="^" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+        <mark key="[" line="3" column="13" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539311764123">
         <mark key="[" line="72" column="113" />
@@ -268,7 +265,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539572096165">
+      <file name="/Dummy.txt" timestamp="1539583487434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -414,11 +411,11 @@
       <jump line="1872" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIre1u9jWtSIrdXNlcjIuZ2V0Q29kZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>小记者网站</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>小记者网站</text>
       </register>
       <register name="/" type="4">
         <text>queue</text>
