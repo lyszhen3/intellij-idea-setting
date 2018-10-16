@@ -312,11 +312,11 @@
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539596829677">
-        <mark key="[" line="89" column="85" />
-        <mark key="]" line="79" column="66" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539652732835">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
         <mark key="^" line="79" column="66" />
-        <mark key="." line="79" column="66" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/IndexApi.java" timestamp="1536306041110">
         <mark key="[" line="58" column="37" />
@@ -447,10 +447,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -459,19 +459,19 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGNvdW50ID0gd29ya0NvbHVtbk1hcHBlci5zZWxlY3RDb3VudChuZXcgRW50aXR5V3JhcHBlcjw+KCkpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQlJbnRlZ2VyIGNvdW50ID0gd29ya0NvbHVtbk1hcHBlci5zZWxlY3RDb3VudChuZXcgRW50aXR5V3JhcHBlcjw+KCkpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQlJbnRlZ2VyIGNvdW50ID0gd29ya0NvbHVtbk1hcHBlci5zZWxlY3RDb3VudChuZXcgRW50aXR5V3JhcHBlcjw+KCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgoJcA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
