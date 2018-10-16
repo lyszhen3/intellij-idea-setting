@@ -56,10 +56,6 @@
         <mark key="^" line="145" column="49" />
         <mark key="." line="145" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.java" timestamp="1539339486097">
-        <mark key="[" line="137" column="11" />
-        <mark key="]" line="137" column="18" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539245852069">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -239,6 +235,9 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="/work_column [bzr-dev]" timestamp="1539651784991">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReturn.java" timestamp="1536291372541">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="57" />
@@ -297,15 +296,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1539651756990" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539573592549">
         <mark key="[" line="51" column="68" />
         <mark key="]" line="53" column="15" />
         <mark key="^" line="53" column="15" />
         <mark key="." line="53" column="15" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/4.0.2/amqp-client-4.0.2-sources.jar!/com/rabbitmq/client/Channel.java" timestamp="1539572063530">
-        <mark key="[" line="785" column="64" />
-        <mark key="]" line="785" column="71" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
         <mark key="[" line="25" column="7" />
@@ -330,10 +326,6 @@
       </file>
       <file name="/fragment.java" timestamp="1539572096134">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/usercenter/AccountController.java" timestamp="1539316550799">
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="34" />
       </file>
     </filemarks>
     <jumps>
