@@ -32,6 +32,9 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpk.java" timestamp="1539589843982">
         <mark key="[" line="9" column="35" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/ShiroConfig.java" timestamp="1539661283794">
+        <mark key="[" line="58" column="97" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="57" />
@@ -122,6 +125,11 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzNewsCourse.java" timestamp="1539329621794">
         <mark key="[" line="9" column="26" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/shiro/BzrRealm.java" timestamp="1539661529257">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="/xjz_headline [bzr-dev]" timestamp="1539243647507">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,14 +144,6 @@
         <mark key="]" line="39" column="6" />
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpl.java" timestamp="1539597537938">
-        <mark key="a" line="72" column="4" />
-        <mark key="'" line="72" column="4" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="114" column="25" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
         <mark key="[" line="14" column="3" />
@@ -202,6 +202,7 @@
       <file name="/bzr_dev_1.5.0.account_integral [bzr-dev]" timestamp="1539324885841">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/course/CourseOrderServiceImpl.java" timestamp="1539661593682" />
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1539588072696">
         <mark key="[" line="67" column="17" />
         <mark key="]" line="67" column="28" />
@@ -332,7 +333,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1539651756990" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539573592549">
         <mark key="[" line="51" column="68" />
         <mark key="]" line="53" column="15" />
@@ -360,11 +360,11 @@
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="23" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/IndexApi.java" timestamp="1536306041110">
-        <mark key="[" line="58" column="37" />
-        <mark key="]" line="58" column="36" />
-        <mark key="^" line="58" column="36" />
-        <mark key="." line="58" column="36" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/IndexApi.java" timestamp="1539661741372">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="130" column="25" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1539572096134">
         <mark key="[" line="0" column="0" />
@@ -486,11 +486,11 @@
       <jump line="520" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IpUtils.getIpAddr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJU2VjdXJpdHlVdGlscy4K</text>
       </register>
       <register name="-" type="4">
-        <text>WebRequest</text>
+        <text>addr</text>
       </register>
       <register name="/" type="4">
         <text>\c\^x</text>
@@ -499,36 +499,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaXAyKTsK</text>
+        <text encoding="base64">CQkJU2VjdXJpdHlVdGlscy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgaXAyID0gcmVxdWVzdC5nZXRIZWFkZXIoIlgtRm9yd2FyZGVkLUZvciIpOwo=</text>
+        <text encoding="base64">CQlzaGlyb1VzZXIuc2V0SXBBZGRyKGlwQWRkcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaXApOwo=</text>
+        <text encoding="base64">CQkvL8no1sNpcAo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTdHJpbmcgaXAgPSByZXF1ZXN0LmdldEhlYWRlcigiWC1SZWFsLUlQIik7Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgaXBBZGRyID0gSXBVdGlscy5nZXRJcEFkZHIoaHR0cFNlcnZsZXRSZXF1ZXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlIdHRwSGVhZGVycwo=</text>
+        <text encoding="base64">CXByaXZhdGUgSHR0cFNlcnZsZXRSZXF1ZXN0IGh0dHBTZXJ2bGV0UmVxdWVzdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aGlzLmh0dHBTZXJ2bGV0UmVxdWVzdCA9IHJlcXVlc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>public void tt(WebRequest request){
-		
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CXByaXZhdGUgSHR0cFNlcnZsZXRSZXF1ZXN0IGh0dHBTZXJ2bGV0UmVxdWVzdDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBieXRlIGdldFB1Ymxpc2goKSB7CiAgICAgICAgcmV0dXJuIHB1Ymxpc2g7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UHVibGlzaChieXRlIHB1Ymxpc2gpIHsKICAgICAgICB0aGlzLnB1Ymxpc2ggPSBwdWJsaXNoOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
