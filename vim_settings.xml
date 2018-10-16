@@ -251,8 +251,8 @@
       <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539585764189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539663326429">
-        <mark key="[" line="36" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539669946759">
+        <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
