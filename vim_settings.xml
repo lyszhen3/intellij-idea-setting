@@ -203,11 +203,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/course/CourseOrderServiceImpl.java" timestamp="1539661593682" />
-      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1539588072696">
+      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1539677904888">
         <mark key="[" line="67" column="17" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="17" />
+        <mark key="^" line="67" column="16" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/FastJsonMessageConverter.java" timestamp="1539340617485">
         <mark key="[" line="55" column="43" />
@@ -251,9 +251,9 @@
       <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539585764189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539669946759">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539677901820">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="40" />
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
       </file>
@@ -487,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`bzr_dev_1.5.0`.</text>
+        <text>specialist_operation_record</text>
       </register>
       <register name="-" type="4">
-        <text>`bzr_dev_1.5.0`.</text>
+        <text>work_column</text>
       </register>
       <register name="/" type="4">
         <text>\c\^x</text>
