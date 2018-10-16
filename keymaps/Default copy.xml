@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateFindToolWindow" />
+  <action id="AutoIndentLines" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
@@ -16,9 +17,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
