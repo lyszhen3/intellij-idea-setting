@@ -295,7 +295,7 @@
         <mark key="[" line="9" column="35" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/ShiroConfig.java" timestamp="1539661283794">
-        <mark key="[" line="58" column="97" />
+        <mark key="[" line="57" column="97" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
@@ -471,7 +471,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539761332296">
+      <file name="/Dummy.txt" timestamp="1539765982524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -602,11 +602,11 @@
       <jump line="41" column="29" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>rabbit修改</text>
       </register>
       <register name="-" type="4">
-        <text>@NotNull</text>
+        <text>rabbit修改</text>
       </register>
       <register name="/" type="4">
         <text>\c\^x</text>
