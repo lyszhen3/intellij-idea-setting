@@ -152,11 +152,10 @@
       <file name="/admin_permission [bzr-dev]" timestamp="1539746201335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkCommentController.java" timestamp="1539756804867">
-        <mark key="[" line="52" column="81" />
-        <mark key="]" line="52" column="36" />
-        <mark key="^" line="52" column="36" />
-        <mark key="." line="52" column="36" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkCommentController.java" timestamp="1539767587522">
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/SortSupport.java" timestamp="1539248653550">
         <mark key="[" line="10" column="4" />
@@ -602,8 +601,8 @@
       <jump line="41" column="29" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rabbit修改</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>rabbit修改</text>
@@ -618,31 +617,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyC24NDQdG9kb77NysfA97qmCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvL1RPRE8gd2FpdCB0byBmaW5pc2gK</text>
+        <text encoding="base64">CQkvLyC24NDQdG9kb77NysfA97qmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
+        <text encoding="base64">CQkvL1RPRE8gd2FpdCB0byBmaW5pc2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
+        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LldvcmtDb21tZW50Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LldvcmtDb21tZW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
