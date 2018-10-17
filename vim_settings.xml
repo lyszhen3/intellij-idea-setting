@@ -38,6 +38,9 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/ShiroConfig.java" timestamp="1539661283794">
         <mark key="[" line="58" column="97" />
       </file>
+      <file name="/a.dummy" timestamp="1539741709568">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="57" />
@@ -153,6 +156,12 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/CourseOrder.java" timestamp="1539742421977">
+        <mark key="[" line="302" column="5" />
+        <mark key="]" line="63" column="26" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="63" column="26" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/specialist/SpecialistController.java" timestamp="1539739185578">
         <mark key="[" line="119" column="0" />
@@ -271,11 +280,15 @@
         <mark key="." line="73" column="10" />
         <mark key="^" line="73" column="10" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/course/OrderApi.java" timestamp="1539742124254" />
       <file name="D:/mywork/first-gradle/first-web/src/main/resources/application.yml" timestamp="1536137306666">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="38" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="/bzr_dev_1.5.0.course [bzr-dev]" timestamp="1539742341436">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/controller/HelloController.java" timestamp="1539237476775">
         <mark key="[" line="34" column="0" />
@@ -354,7 +367,7 @@
         <mark key="." line="39" column="42" />
         <mark key="^" line="39" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1539741582834">
+      <file name="/dummy.sql" timestamp="1539742374675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -377,7 +390,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1539684224220" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539573592549">
         <mark key="[" line="51" column="68" />
         <mark key="]" line="53" column="15" />
@@ -429,13 +441,6 @@
         <mark key="]" line="69" column="101" />
         <mark key="^" line="69" column="101" />
         <mark key="." line="69" column="101" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/SpecialistOperationRecord.java" timestamp="1539684650760">
-        <mark key="'" line="64" column="9" />
-        <mark key="[" line="66" column="12" />
-        <mark key="]" line="64" column="9" />
-        <mark key="." line="64" column="9" />
-        <mark key="^" line="64" column="9" />
       </file>
     </filemarks>
     <jumps>
