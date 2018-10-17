@@ -215,6 +215,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539738058954">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/bzr_dev_1.5.0.organization_comment_image [bzr-dev]" timestamp="1539747300632">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1536283848910">
         <mark key="[" line="0" column="0" />
       </file>
@@ -323,11 +326,14 @@
       <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539585764189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539742614743">
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="70" column="12" />
-        <mark key="." line="70" column="12" />
-        <mark key="^" line="63" column="39" />
+      <file name="/bzr_dev_1.5.0.organization_comment [bzr-dev]" timestamp="1539747087114">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539747803525">
+        <mark key="[" line="81" column="59" />
+        <mark key="]" line="81" column="85" />
+        <mark key="." line="81" column="85" />
+        <mark key="^" line="81" column="85" />
       </file>
       <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
         <mark key="[" line="22" column="27" />
@@ -380,7 +386,7 @@
         <mark key="." line="39" column="42" />
         <mark key="^" line="39" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1539742601604">
+      <file name="/dummy.sql" timestamp="1539747496274">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -556,10 +562,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>`bzr_dev_1.5.0`.</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>`bzr_dev_1.5.0`.</text>
       </register>
       <register name="/" type="4">
         <text>\c\^x</text>
