@@ -5,6 +5,12 @@
       <mark key="N" line="92" column="25" filename="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/course/CourseServiceImpl.java" timestamp="1539743033199">
+        <mark key="[" line="163" column="9" />
+        <mark key="]" line="166" column="53" />
+        <mark key="^" line="166" column="53" />
+        <mark key="." line="166" column="53" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicService.java" timestamp="1539324151314">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="35" column="20" />
@@ -163,6 +169,12 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/CourseSku.java" timestamp="1539742800529">
+        <mark key="[" line="79" column="5" />
+        <mark key="]" line="81" column="26" />
+        <mark key="^" line="81" column="26" />
+        <mark key="." line="81" column="26" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/specialist/SpecialistController.java" timestamp="1539739185578">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="4" />
@@ -280,7 +292,12 @@
         <mark key="." line="73" column="10" />
         <mark key="^" line="73" column="10" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/course/OrderApi.java" timestamp="1539742124254" />
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/course/OrderApi.java" timestamp="1539743821717">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="50" />
+        <mark key="." line="147" column="50" />
+        <mark key="^" line="147" column="50" />
+      </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/resources/application.yml" timestamp="1536137306666">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="38" />
@@ -305,10 +322,10 @@
       <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539585764189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539741572026">
-        <mark key="[" line="67" column="82" />
-        <mark key="]" line="63" column="39" />
-        <mark key="." line="63" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539742614743">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="12" />
+        <mark key="." line="70" column="12" />
         <mark key="^" line="63" column="39" />
       </file>
       <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
@@ -367,7 +384,7 @@
         <mark key="." line="39" column="42" />
         <mark key="^" line="39" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1539742374675">
+      <file name="/dummy.sql" timestamp="1539742601604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -546,11 +563,11 @@
       <jump line="64" column="9" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/SpecialistOperationRecord.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>机构课程管理</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCUNvdXJzZU9yZGVyIGNvdXJzZU9yZGVyID0gbmV3IENvdXJzZU9yZGVyKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>机构课程管理</text>
+        <text>`bzr_dev_1.5.0`.</text>
       </register>
       <register name="/" type="4">
         <text>\c\^x</text>
@@ -558,11 +575,11 @@
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQlMaXN0PE5hbWVWYWx1ZVBhaXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQlsaXN0LmFkZChuZXcgQmFzaWNOYW1lVmFsdWVQYWlyKCJuYW1lIiwgIrGmwu0iKSk7CgkJbGlzdC5hZGQobmV3IEJhc2ljTmFtZVZhbHVlUGFpcigiaWQiLCIxMTExIikpOwoJCVN0cmluZyBzID0gSlNPTi50b0pTT05TdHJpbmcobGlzdCk7CgkJU3lzdGVtLm91dC5wcmludGxuKHMpOwoJCXMuc3Vic3RyaW5nKDIsMyk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCUNvdXJzZU9yZGVyIGNvdXJzZU9yZGVyID0gbmV3IENvdXJzZU9yZGVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">CQljb3Vyc2VPcmRlci5zZXRDb3Vyc2VTa3UoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -571,22 +588,22 @@
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
+        <text encoding="base64">CQlDb3Vyc2VPcmRlciBjb3Vyc2VPcmRlciA9IG5ldyBDb3Vyc2VPcmRlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQlMaXN0PE5hbWVWYWx1ZVBhaXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQlsaXN0LmFkZChuZXcgQmFzaWNOYW1lVmFsdWVQYWlyKCJuYW1lIiwgIrGmwu0iKSk7CgkJbGlzdC5hZGQobmV3IEJhc2ljTmFtZVZhbHVlUGFpcigiaWQiLCIxMTExIikpOwoJCVN0cmluZyBzID0gSlNPTi50b0pTT05TdHJpbmcobGlzdCk7CgkJU3lzdGVtLm91dC5wcmludGxuKHMpOwoJCXMuc3Vic3RyaW5nKDIsMyk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LlNwZWNpYWxpc3RPcGVyYXRpb25SZWNvcmQ7Cg==</text>
+        <text encoding="base64">CQkgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
