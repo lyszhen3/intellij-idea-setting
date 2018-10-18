@@ -462,11 +462,11 @@
       <file name="/bzr_dev_1.5.0.organization_comment [bzr-dev]" timestamp="1539747087114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539825016321">
-        <mark key="[" line="86" column="70" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="87" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1539832755845">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="28" column="78" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="101" column="0" />
       </file>
       <file name="/Dummy.vm" timestamp="1539310081662">
         <mark key="[" line="0" column="0" />
@@ -502,9 +502,9 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539660133532">
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="53" column="36" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539833109479">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="49" column="30" />
         <mark key="." line="54" column="29" />
         <mark key="^" line="54" column="29" />
       </file>
@@ -615,8 +615,8 @@
       <jump line="54" column="27" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>/works/columns</text>
       </register>
       <register name="-" type="4">
         <text>SELECT t1.*,t2.`title`,t3.`nick_name` FROM (SELECT*FROM `work_comment` WHERE `is_delete` =0 ) t1 INNER JOIN `work` t2 ON t1.`work_id` = t2.`id` INNER JOIN `account` t3 ON t1.`account_id` = t3.`id` ORDER BY t1.`created_at` desc LIMIT 0,20</text>
