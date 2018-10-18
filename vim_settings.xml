@@ -393,10 +393,10 @@
       <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1539824615484">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpl.java" timestamp="1539834422551">
-        <mark key="[" line="125" column="15" />
-        <mark key="]" line="125" column="15" />
-        <mark key="." line="125" column="15" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpl.java" timestamp="1539843480637">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="/bzr_dev_1.5.0.xjz_headline [bzr-dev]" timestamp="1539238026444">
         <mark key="[" line="0" column="0" />
@@ -501,10 +501,11 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539842738028">
-        <mark key="[" line="50" column="76" />
-        <mark key="]" line="50" column="76" />
-        <mark key="." line="50" column="76" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539843680867">
+        <mark key="[" line="110" column="31" />
+        <mark key="]" line="110" column="41" />
+        <mark key="." line="101" column="30" />
+        <mark key="^" line="101" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1539825801096">
         <mark key="[" line="0" column="0" />
@@ -614,7 +615,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reporterStatus</text>
+        <text>sub_columns</text>
       </register>
       <register name="-" type="4">
         <text>request</text>
@@ -626,34 +627,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgaXAgPSBJcFV0aWxzLmdldElwQWRkcihyZXF1ZXN0KTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaXApOwo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgaXAgPSBJcFV0aWxzLmdldElwQWRkcihyZXF1ZXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBwYXJhbSBzdGF0dXMgMCDOtMnzussgMc2ouf0ysrvNqLn9CgkgKiBAcGFyYW0gc2VhcmNoVHlwZSAgCgkgKiBAcGFyYW0ga2V5d29yZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
