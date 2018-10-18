@@ -463,7 +463,7 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="101" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkColumn.java" timestamp="1539834595177">
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkColumn.java" timestamp="1539842748957">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="50" column="33" />
       </file>
@@ -501,11 +501,10 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539840369004">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="11" />
-        <mark key="." line="65" column="11" />
-        <mark key="^" line="65" column="11" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539842738028">
+        <mark key="[" line="50" column="76" />
+        <mark key="]" line="50" column="76" />
+        <mark key="." line="50" column="76" />
       </file>
       <file name="/fragment.java" timestamp="1539825801096">
         <mark key="[" line="0" column="0" />
@@ -615,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rabbit修改</text>
+        <text>reporterStatus</text>
       </register>
       <register name="-" type="4">
-        <text>rabbit修改</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>\c\^x</text>
@@ -627,48 +626,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaXApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgaXAgPSBJcFV0aWxzLmdldElwQWRkcihyZXF1ZXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IEBwYXJhbSBzdGF0dXMgMCDOtMnzussgMc2ouf0ysrvNqLn9CgkgKiBAcGFyYW0gc2VhcmNoVHlwZSAgCgkgKiBAcGFyYW0ga2V5d29yZA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IEBwYXJhbSBzdGF0dXMgMCDOtMnzussgMc2ouf0ysrvNqLn9CgkgKiBAcGFyYW0gc2VhcmNoVHlwZSAgCgkgKiBAcGFyYW0ga2V5d29yZA==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvL1RPRE8K</text>
-      </register>
-      <register name="9" type="4">
-        <text>SELECT t1.id,
-       t1.organization_id,
-       t2.name as organization_name,
-       t1.sort,
-       t2.phone,
-       t2.contact,
-       t2.category_name,
-       t2.sub_category_id
-FROM (SELECT * FROM `column_organization` WHERE `column_id` = '5') t1
-       INNER JOIN (SELECT a1.*, a2.name AS category_name
-                   FROM organization a1,
-                        organization_category a2
-                   WHERE a1.category_id = a2.id) t2 ON t1.organization_id = t2.id
-ORDER BY sort ASC
-LIMIT 0,20</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
