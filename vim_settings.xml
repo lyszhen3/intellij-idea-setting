@@ -327,8 +327,10 @@
         <mark key="^" line="89" column="86" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentService.java" timestamp="1539826314657">
-        <mark key="^" line="14" column="18" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentService.java" timestamp="1539828875533">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentMapper.xml" timestamp="1539825791523">
         <mark key="[" line="32" column="30" />
@@ -614,7 +616,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="-" type="4">
         <text>SELECT t1.*,t2.`title`,t3.`nick_name` FROM (SELECT*FROM `work_comment` WHERE `is_delete` =0 ) t1 INNER JOIN `work` t2 ON t1.`work_id` = t2.`id` INNER JOIN `account` t3 ON t1.`account_id` = t3.`id` ORDER BY t1.`created_at` desc LIMIT 0,20</text>
@@ -626,21 +628,24 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CSAqCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IEBwYXJhbSBzdGF0dXMgMCDOtMnzussgMc2ouf0ysrvNqLn9CgkgKiBAcGFyYW0gc2VhcmNoVHlwZSAgCgkgKiBAcGFyYW0ga2V5d29yZA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkvL1RPRE8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SELECT t1.id,
        t1.organization_id,
        t2.name as organization_name,
@@ -657,17 +662,14 @@ FROM (SELECT * FROM `column_organization` WHERE `column_id` = '5') t1
 ORDER BY sort ASC
 LIMIT 0,20</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyC24NDQdG9kb77NysfA97qmCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
