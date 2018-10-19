@@ -69,6 +69,12 @@
       <file name="/bzr_dev_1.5.0.account_integral [bzr-dev]" timestamp="1539324885841">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/MessageExceptionHandler.java" timestamp="1539935561338">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.6.RELEASE/spring-core-5.0.6.RELEASE-sources.jar!/org/springframework/core/ParameterizedTypeReference.java" timestamp="1539929238007">
         <mark key="[" line="46" column="44" />
       </file>
@@ -151,11 +157,10 @@
       <file name="/xjz_headline [bzr-dev]" timestamp="1539243647507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/TestHandler.java" timestamp="1539930543709">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="24" column="18" />
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/testhandler/TestHandler.java" timestamp="1539935898779">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1539848386920">
         <mark key="[" line="0" column="0" />
@@ -231,10 +236,11 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WeChatAppProperties.java" timestamp="1539915123290">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539932538688">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="53" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539936141846">
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="46" />
+        <mark key="." line="62" column="46" />
+        <mark key="^" line="62" column="46" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/bo/ColumnRecommendBO.java" timestamp="1539923486463">
         <mark key="[" line="4" column="7" />
@@ -374,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>RabbitListenerErrorHandler</text>
       </register>
       <register name="-" type="4">
-        <text>queue</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\csnowflow</text>
@@ -386,34 +392,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">QFJhYmJpdExpc3RlbmVyRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBIYW5kbGVyRQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlBZG1pblVzZXIgdXNlcjIyID0gKEFkbWluVXNlcil1c2VyOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bmV3IFBhcmFtZXRlcml6ZWRUeXBlUmVmZXJlbmNlPEFkbWluVXNlcj4oKSB7CiAgICAgICAgfSk7</text>
+        <text encoding="base64">CQlTdHJpbmcgbW0gPSBudWxsOwoJCW1tLnNwbGl0KCIsIik7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldEFja25vd2xlZGdlTW9kZShBY2tub3dsZWRnZU1vZGUuTUFOVUFMKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
