@@ -236,11 +236,10 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WeChatAppProperties.java" timestamp="1539915123290">
         <mark key="[" line="13" column="42" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539936141846">
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="46" />
-        <mark key="." line="62" column="46" />
-        <mark key="^" line="62" column="46" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539937916810">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/bo/ColumnRecommendBO.java" timestamp="1539923486463">
         <mark key="[" line="4" column="7" />
@@ -271,6 +270,9 @@
         <mark key="]" line="17" column="24" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
+      </file>
+      <file name="D:/mywork/spring/spring-amqp-samples/spring-rabbit-global-errorhandler/src/main/java/org/springframework/amqp/samples/errorhandler/Application.java" timestamp="1539937514173">
+        <mark key="[" line="47" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1539916352854">
         <mark key="[" line="0" column="0" />
@@ -379,8 +381,8 @@
       <jump line="268" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RabbitListenerErrorHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWxlZmUuCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -392,34 +394,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWxlZmUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJhYmJpdExpc3RlbmVyRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBIYW5kbGVyRQo=</text>
+        <text encoding="base64">QFJhYmJpdExpc3RlbmVyRQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CUBIYW5kbGVyRQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CQlTdHJpbmcgbW0gPSBudWxsOwoJCW1tLnNwbGl0KCIsIik7</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldEFja25vd2xlZGdlTW9kZShBY2tub3dsZWRnZU1vZGUuTUFOVUFMKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3J5Lgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
