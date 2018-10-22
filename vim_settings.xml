@@ -183,9 +183,9 @@
         <mark key="^" line="16" column="4" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkServiceImpl.java" timestamp="1540173121900">
-        <mark key="[" line="327" column="48" />
-        <mark key="]" line="327" column="48" />
-        <mark key="." line="327" column="48" />
+        <mark key="[" line="331" column="48" />
+        <mark key="]" line="331" column="48" />
+        <mark key="." line="331" column="48" />
       </file>
       <file name="/bzr_dev_1.5.0.work [bzr-dev]" timestamp="1540178630837">
         <mark key="[" line="0" column="0" />
@@ -588,7 +588,7 @@
       <file name="/Dummy.vm" timestamp="1539310081662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540178707740">
+      <file name="/dummy.sql" timestamp="1540189510038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -600,7 +600,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540177717776">
+      <file name="/Dummy.txt" timestamp="1540189488348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -623,6 +623,12 @@
         <mark key="]" line="87" column="22" />
         <mark key="." line="87" column="22" />
         <mark key="^" line="87" column="22" />
+      </file>
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540190042548">
+        <mark key="'" line="337" column="40" />
+        <mark key="[" line="102" column="24" />
+        <mark key="]" line="102" column="47" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
@@ -768,10 +774,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>activity</text>
+        <text>spring-boot-starter-amqp</text>
       </register>
       <register name="-" type="4">
-        <text>columnActivities</text>
+        <text>1.7.2.RELEASE</text>
       </register>
       <register name="/" type="4">
         <text>rabbit</text>
@@ -780,34 +786,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBTkQgdy5jaGVja2VkICZsdDsmZ3Q7IC0xCg==</text>
+        <text encoding="base64">ICAgICAgICA8L3BsdWdpblJlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCW1lc3NhZ2VNYW5hZ2VyLmZpcmUoc21zTWVzc2FnZSwgUXVldWVEZWZpbmUuQlpSX1NQRUNJQUxJU1RfU01TKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEJsYW5rOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luUmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmNlbnRyYWw8L2lkPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly8xMC4yMDAuNzYuMTE6ODA4MS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvPC91cmw+</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBBTkQgdy5jaGVja2VkICZsdDsmZ3Q7IC0xCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">CQkJCW1lc3NhZ2VNYW5hZ2VyLmZpcmUoc21zTWVzc2FnZSwgUXVldWVEZWZpbmUuQlpSX1NQRUNJQUxJU1RfU01TKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JQFRyYW5zYWN0aW9uYWwocm9sbGJhY2tGb3IgPSB7RXhjZXB0aW9uLmNsYXNzLFJ1bnRpbWVFeGNlcHRpb24uY2xhc3N9KQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEJsYW5rOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Ly8JQFRyYW5zYWN0aW9uYWwocm9sbGJhY2tGb3IgPSB7RXhjZXB0aW9uLmNsYXNzLFJ1bnRpbWVFeGNlcHRpb24uY2xhc3N9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
