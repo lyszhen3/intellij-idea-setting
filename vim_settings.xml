@@ -11,10 +11,11 @@
         <mark key="^" line="166" column="53" />
         <mark key="." line="166" column="53" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/OrganizationCommentFavourMessageHander.java" timestamp="1539942903509">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/OrganizationCommentFavourMessageHander.java" timestamp="1540170769572">
+        <mark key="[" line="22" column="96" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/FirstWeb.java" timestamp="1536128272013">
         <mark key="[" line="14" column="30" />
@@ -28,9 +29,9 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/QueueDeclare.java" timestamp="1539942246252">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/QueueDeclare.java" timestamp="1540170728726">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="62" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="27" column="0" />
       </file>
@@ -79,10 +80,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WebConfig.java" timestamp="1539923722830">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WebConfig.java" timestamp="1540169653093">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
@@ -93,19 +94,11 @@
       <file name="/bzr_dev_1.5.0.work_column [bzr-dev]" timestamp="1539834677386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" timestamp="1539940765616">
-        <mark key="[" line="132" column="60" />
-        <mark key="]" line="132" column="79" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/specialist/SpecialistOperationRecordController.java" timestamp="1539685064481">
         <mark key="[" line="40" column="114" />
         <mark key="]" line="42" column="53" />
         <mark key="^" line="42" column="53" />
         <mark key="." line="42" column="53" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.java" timestamp="1539932307707">
-        <mark key="[" line="180" column="16" />
-        <mark key="]" line="180" column="24" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/api/ApiCode.java" timestamp="1539744566171">
         <mark key="[" line="78" column="0" />
@@ -128,19 +121,15 @@
       <file name="/bzr_dev_1.5.0.work_comment [bzr-dev]" timestamp="1539757734489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/RabbitListeners.class" timestamp="1540170885052">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="32" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/CourseOrder.java" timestamp="1539742421977">
         <mark key="[" line="302" column="5" />
         <mark key="]" line="63" column="26" />
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar!/org/springframework/amqp/support/converter/Jackson2JsonMessageConverter.class" timestamp="1539921934545">
-        <mark key="[" line="92" column="50" />
-        <mark key="]" line="92" column="75" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/specialist/SpecialistServiceImpl.java" timestamp="1539940757729">
-        <mark key="[" line="586" column="24" />
-        <mark key="]" line="586" column="53" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzHeadlineMapper.java" timestamp="1539238616170">
         <mark key="[" line="14" column="3" />
@@ -171,10 +160,6 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/shiro/RetryLimitCredentialsMatcher.java" timestamp="1539660302518">
         <mark key="[" line="28" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar!/org/springframework/amqp/support/converter/SmartMessageConverter.class" timestamp="1539920371153">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="37" />
-      </file>
       <file name="/work [bzr-dev]" timestamp="1539823967822">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,10 +171,6 @@
       </file>
       <file name="/admin_permission [bzr-dev]" timestamp="1539746201335">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.6.RELEASE/spring-rabbit-2.0.6.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/ConditionalRejectingErrorHandler.java" timestamp="1539938898044">
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="35" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/SortSupport.java" timestamp="1539248653550">
         <mark key="[" line="10" column="4" />
@@ -242,15 +223,10 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/pom.xml" timestamp="1539943912344">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="55" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.6.RELEASE/spring-webmvc-5.0.6.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class" timestamp="1539916733904">
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="19" column="72" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540170506831">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
         <mark key="[" line="22" column="27" />
@@ -273,11 +249,10 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/ApiApp.java" timestamp="1539944001673">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/ApiApp.java" timestamp="1540169480091">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzNewsCourseController.java" timestamp="1539332760699">
         <mark key="[" line="87" column="85" />
@@ -297,13 +272,8 @@
         <mark key="." line="39" column="42" />
         <mark key="^" line="39" column="42" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/OrganizationApply.java" timestamp="1539923352498">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="51" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitHandler.java" timestamp="1539930480931">
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="51" column="26" />
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/course/CourseReservationSaveMessageHandler.java" timestamp="1540170832684">
+        <mark key="[" line="40" column="3" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" timestamp="1539942581241">
         <mark key="[" line="55" column="0" />
@@ -352,9 +322,10 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpk.java" timestamp="1539589843982">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/ShiroConfig.java" timestamp="1539939999146">
-        <mark key="[" line="116" column="66" />
-        <mark key="]" line="116" column="75" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/InterceptorAdapter.java" timestamp="1540169729868">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
@@ -514,14 +485,6 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="101" column="0" />
       </file>
-      <file name="D:/mywork/chushiwang/src/main/java/org/springframework/samples/mvc/config/DatasourceConfig.java" timestamp="1539915436745">
-        <mark key="[" line="35" column="117" />
-        <mark key="]" line="35" column="135" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/comment/OrganizationCommentImageApi.java" timestamp="1539941120609">
-        <mark key="[" line="60" column="107" />
-        <mark key="]" line="60" column="136" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/QueueDefine.java" timestamp="1539941930672">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="53" column="49" />
@@ -556,13 +519,10 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/specialist/center/workreview/WorkReviewService.java" timestamp="1539849085185">
         <mark key="[" line="18" column="8" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/bo/KeywordRecommendBO.java" timestamp="1539923520163">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="50" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WeChatAppProperties.java" timestamp="1539915123290">
         <mark key="[" line="13" column="42" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1540169207309" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -574,12 +534,11 @@
         <mark key="]" line="4" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1539946792399">
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540170217876">
         <mark key="'" line="96" column="41" />
-        <mark key="[" line="102" column="24" />
-        <mark key="]" line="102" column="47" />
-        <mark key="^" line="279" column="19" />
-        <mark key="." line="279" column="19" />
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="." line="325" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
@@ -599,15 +558,16 @@
         <mark key="." line="101" column="30" />
         <mark key="^" line="101" column="30" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/OrganizationCommentSaveMessageHander.java" timestamp="1540170821646">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/image/OrganizationCommentImageDeleteMessageHander.java" timestamp="1539942837927">
         <mark key="[" line="18" column="63" />
         <mark key="]" line="18" column="93" />
         <mark key="." line="18" column="63" />
         <mark key="^" line="18" column="62" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/specialist/center/login/UserCenterController.java" timestamp="1539940614619">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="96" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1539946328990">
         <mark key="[" line="0" column="0" />
@@ -717,10 +677,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>spring-boot-starter-amqp</text>
+        <text>RabbitListeners</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">aW1wbGVtZW50cyBNZXNzYWdlSGFuZGxlcjxPcmdhbml6YXRpb25Db21tZW50U2F2ZU1lc3NhZ2U+</text>
       </register>
       <register name="/" type="4">
         <text>amqp</text>
@@ -729,34 +689,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmJvb3QuYWRtaW4udXJsPWh0dHA6Ly9sb2NhbGhvc3Q6ODAwMAo=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmRlLmNvZGVjZW50cmljPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1hZG1pbi1zdGFydGVyLXNlcnZlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKE9yZ2FuaXphdGlvbkNvbW1lbnRTYXZlTWVzc2FnZUhhbmRlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKE9yZ2FuaXphdGlvbkNvbW1lbnRGYXZvdXJNZXNzYWdlSGFuZGVyLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4yLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
