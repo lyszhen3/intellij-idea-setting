@@ -285,6 +285,12 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/BaseConfig.java" timestamp="1540267747663">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1540263565046">
         <mark key="[" line="0" column="0" />
       </file>
@@ -392,8 +398,8 @@
       <jump line="54" column="31" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/api/ErrorHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1529700591876</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1529700591876</text>
@@ -405,39 +411,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUFzcGVjdEpBdXRvUHJveHkocHJveHlUYXJnZXRDbGFzcz10cnVlKQpARW5hYmxlV2ViTXZjCg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4oKGludCkoTWF0aC5yYW5kb20oKSoxNSkpOwoJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>SELECT t1.*,t2.`title`,t3.`nick_name`
-FROM (SELECT*FROM `work_comment` WHERE `is_delete` = 0) t1
-       INNER JOIN `work` t2 ON t1.`work_id` = t2.`id`
-       INNER JOIN `account` t3 ON t1.`account_id` = t3.`id`
-ORDER BY t1.`created_at` desc
-LIMIT 0,20</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4oKGludCkoTWF0aC5yYW5kb20oKSoxNSkpOwoJfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
