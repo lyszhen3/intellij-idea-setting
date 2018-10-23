@@ -283,7 +283,7 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540255355665">
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540283352843">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
@@ -624,7 +624,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540279846257">
+      <file name="/Dummy.txt" timestamp="1540284247878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -650,6 +650,12 @@
         <mark key="^" line="87" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.44/fastjson-1.2.44-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" timestamp="1540257490987" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/zbjt/bzr/base/service/course/CourseServiceTest.java" timestamp="1540284121421">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
       <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540280938592">
         <mark key="'" line="355" column="40" />
         <mark key="[" line="278" column="17" />
