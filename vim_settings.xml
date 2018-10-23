@@ -178,6 +178,12 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" timestamp="1540280800648">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="46" column="59" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzSchoolDynamicMapper.java" timestamp="1539310192146">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="16" column="4" />
@@ -339,6 +345,12 @@
         <mark key="]" line="39" column="42" />
         <mark key="." line="39" column="42" />
         <mark key="^" line="39" column="42" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentImageMapper.java" timestamp="1540280845827">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" timestamp="1540177563403">
         <mark key="[" line="233" column="51" />
@@ -535,11 +547,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1539748413028">
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1540280694618">
+        <mark key="[" line="67" column="30" />
+        <mark key="]" line="67" column="35" />
+        <mark key="." line="67" column="35" />
+        <mark key="^" line="67" column="35" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/image/OrganizationCommentImageSaveMessageHander.java" timestamp="1540172828761">
         <mark key="[" line="27" column="23" />
@@ -586,12 +598,12 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1540279557519">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1540280667306">
         <mark key="'" line="120" column="22" />
-        <mark key="[" line="128" column="62" />
-        <mark key="]" line="128" column="62" />
-        <mark key="." line="128" column="62" />
-        <mark key="^" line="128" column="62" />
+        <mark key="[" line="137" column="13" />
+        <mark key="]" line="137" column="12" />
+        <mark key="." line="137" column="12" />
+        <mark key="^" line="137" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/filter/HttpPutFormContentFilter.java" timestamp="1540262572344" />
       <file name="/Dummy.vm" timestamp="1539310081662">
@@ -638,6 +650,12 @@
         <mark key="^" line="87" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.44/fastjson-1.2.44-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" timestamp="1540257490987" />
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540280938592">
+        <mark key="'" line="355" column="40" />
+        <mark key="[" line="278" column="17" />
+        <mark key="]" line="278" column="70" />
+        <mark key="." line="278" column="17" />
+      </file>
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
@@ -668,9 +686,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="/pom.xml" timestamp="1540255036399">
+      <file name="/pom.xml" timestamp="1540280188956">
         <mark key="[" line="257" column="17" />
-        <mark key="]" line="257" column="68" />
+        <mark key="]" line="257" column="47" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/organization/OrganizationCollectionSaveMessageHandler.java" timestamp="1540171606268">
         <mark key="[" line="28" column="0" />
@@ -786,10 +804,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>https://maven.aliyun.com/repository/public/</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>https://maven.aliyun.com/repository/public/</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -801,25 +819,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LldvcmtDb21tZW50SW1hZ2U7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">CQkJImF1dG9Qaz0iICsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZUFzcGVjdEpBdXRvUHJveHkocHJveHlUYXJnZXRDbGFzcz10cnVlKQpARW5hYmxlV2ViTXZjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog19TU9mlkCiAgICAgKi8KCUBUYWJsZUlkKHZhbHVlPSJhdXRvX3BrIiwgdHlwZT0gSWRUeXBlLkFVVE8pCglwcml2YXRlIExvbmcgYXV0b1BrOw==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
