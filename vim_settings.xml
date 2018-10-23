@@ -40,7 +40,7 @@
         <mark key="]" line="10" column="48" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1540172240795">
+      <file name="/a.dummy" timestamp="1540263038319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/bzr_dev_1.4.0.admin_user [bzr-dev]" timestamp="1540260911911">
@@ -69,6 +69,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/config/GlobalErrorHandler.java" timestamp="1540263410462">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/SpecialistOperationRecordMapper.java" timestamp="1539683404079">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="19" column="4" />
@@ -93,10 +98,10 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WebConfig.java" timestamp="1540257443611">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/WebConfig.java" timestamp="1540262108528">
+        <mark key="[" line="68" column="70" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
@@ -104,7 +109,7 @@
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="/bzr_dev_1.5.0.work_column [bzr-dev]" timestamp="1539834677386">
+      <file name="/bzr_dev_1.5.0.work_column [bzr-dev]" timestamp="1540263973678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" timestamp="1540173366854">
@@ -290,15 +295,15 @@
         <mark key="." line="11" column="47" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540255355665">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="62" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="62" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/IntegralTaskMessageHandler.java" timestamp="1540172713444">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="D:/mywork/spring/spring-security/samples/boot/oauth2login/src/main/resources/application.yml" timestamp="1536220029172">
         <mark key="[" line="22" column="27" />
@@ -315,7 +320,7 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="/integral_rule [bzr-dev]" timestamp="1540259837085">
+      <file name="/integral_rule [bzr-dev]" timestamp="1540262017332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/MessageHandler.java" timestamp="1540172796339">
@@ -518,6 +523,12 @@
       <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1539848386920">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpl.java" timestamp="1540264215619">
+        <mark key="[" line="141" column="27" />
+        <mark key="]" line="141" column="34" />
+        <mark key="." line="141" column="34" />
+        <mark key="^" line="141" column="34" />
+      </file>
       <file name="/bzr_dev_1.4.0.account [bzr-dev]" timestamp="1540259870956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -587,6 +598,11 @@
       <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539768676033">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/api/GlobalErrorHandler.java" timestamp="1540263724796">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/bzr_dev_1.5.0.organization_comment [bzr-dev]" timestamp="1539747087114">
         <mark key="[" line="0" column="0" />
       </file>
@@ -607,6 +623,7 @@
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/filter/HttpPutFormContentFilter.java" timestamp="1540262572344" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkColumn.java" timestamp="1540198724813">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -620,7 +637,7 @@
       <file name="/Dummy.vm" timestamp="1539310081662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540260912229">
+      <file name="/dummy.sql" timestamp="1540263974183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -685,17 +702,13 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="/pom.xml" timestamp="1540255036399">
-        <mark key="[" line="257" column="17" />
-        <mark key="]" line="257" column="68" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/organization/OrganizationCollectionSaveMessageHandler.java" timestamp="1540171606268">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="32" column="5" />
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1540256693745">
+      <file name="/fragment.java" timestamp="1540263565046">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -803,11 +816,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update `account` set `integral` = `integral`*3  where `is_delete` = 0;
-update `integral_rule` set `per_time_integral` = `per_time_integral`*2 where `bzr_dev_1.4.0`.integral_rule.`is_delete`=0;</text>
+        <text>100*Math.random()</text>
       </register>
       <register name="-" type="4">
-        <text>required = false</text>
+        <text>100*Math.random()</text>
       </register>
       <register name="/" type="4">
         <text>CustomException</text>
@@ -815,19 +827,19 @@ update `integral_rule` set `per_time_integral` = `per_time_integral`*2 where `bz
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>SELECT t1.*,t2.`title`,t3.`nick_name`
 FROM (SELECT*FROM `work_comment` WHERE `is_delete` = 0) t1
        INNER JOIN `work` t2 ON t1.`work_id` = t2.`id`
        INNER JOIN `account` t3 ON t1.`account_id` = t3.`id`
 ORDER BY t1.`created_at` desc
 LIMIT 0,20</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -836,19 +848,19 @@ LIMIT 0,20</text>
         <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90RW1wdHk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90RW1wdHk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
