@@ -43,6 +43,9 @@
       <file name="/a.dummy" timestamp="1540172240795">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/bzr_dev_1.4.0.admin_user [bzr-dev]" timestamp="1540260911911">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="57" />
@@ -287,10 +290,10 @@
         <mark key="." line="11" column="47" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540255355665">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="62" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="62" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/IntegralTaskMessageHandler.java" timestamp="1540172713444">
         <mark key="[" line="46" column="0" />
@@ -312,7 +315,7 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="/integral_rule [bzr-dev]" timestamp="1540258076401">
+      <file name="/integral_rule [bzr-dev]" timestamp="1540259837085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/MessageHandler.java" timestamp="1540172796339">
@@ -416,9 +419,6 @@
         <mark key="^" line="391" column="44" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/api/ErrorHandler.java" timestamp="1540203494939">
-        <mark key="'" line="52" column="31" />
-      </file>
       <file name="/bzr_dev_1.5.0.specialist [bzr-dev]" timestamp="1539683273233">
         <mark key="[" line="0" column="0" />
       </file>
@@ -518,6 +518,9 @@
       <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1539848386920">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/bzr_dev_1.4.0.account [bzr-dev]" timestamp="1540259870956">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/bzr_dev_1.5.0.xjz_headline [bzr-dev]" timestamp="1539238026444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -572,6 +575,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/test.sql" timestamp="1540260692923">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="120" />
+        <mark key="." line="1" column="75" />
+        <mark key="^" line="1" column="75" />
+      </file>
       <file name="/work_comment [bzr-dev]" timestamp="1539823968004">
         <mark key="[" line="0" column="0" />
       </file>
@@ -611,7 +620,7 @@
       <file name="/Dummy.vm" timestamp="1539310081662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540258446809">
+      <file name="/dummy.sql" timestamp="1540260912229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -645,7 +654,6 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1540254806894" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -653,20 +661,11 @@
         <mark key="^" line="87" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.44/fastjson-1.2.44-sources.jar!/com/alibaba/fastjson/support/spring/FastJsonHttpMessageConverter.java" timestamp="1540257490987" />
-      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540203950763">
-        <mark key="'" line="363" column="40" />
-      </file>
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
-      </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/BaseConfig.java" timestamp="1540202207227">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="12" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539843680867">
         <mark key="[" line="110" column="31" />
@@ -804,7 +803,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>required = false</text>
+        <text>update `account` set `integral` = `integral`*3  where `is_delete` = 0;
+update `integral_rule` set `per_time_integral` = `per_time_integral`*2 where `bzr_dev_1.4.0`.integral_rule.`is_delete`=0;</text>
       </register>
       <register name="-" type="4">
         <text>required = false</text>
@@ -815,8 +815,13 @@
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
+      <register name="1" type="4">
+        <text>SELECT t1.*,t2.`title`,t3.`nick_name`
+FROM (SELECT*FROM `work_comment` WHERE `is_delete` = 0) t1
+       INNER JOIN `work` t2 ON t1.`work_id` = t2.`id`
+       INNER JOIN `account` t3 ON t1.`account_id` = t3.`id`
+ORDER BY t1.`created_at` desc
+LIMIT 0,20</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
@@ -828,16 +833,16 @@
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90RW1wdHk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90RW1wdHk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">QEVuYWJsZVdlYk12Ywo=</text>
