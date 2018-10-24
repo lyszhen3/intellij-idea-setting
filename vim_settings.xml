@@ -486,11 +486,16 @@
         <mark key="^" line="41" column="47" />
         <mark key="." line="41" column="47" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentMapper.xml" timestamp="1540364724452">
-        <mark key="[" line="23" column="78" />
-        <mark key="]" line="23" column="78" />
-        <mark key="." line="23" column="46" />
-        <mark key="^" line="14" column="43" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/util/StorageServiceImpl.java" timestamp="1540365911868">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentMapper.xml" timestamp="1540365444312">
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="/course [bzr-dev]" timestamp="1539583458612">
         <mark key="[" line="0" column="0" />
@@ -516,13 +521,13 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540360635545">
-        <mark key="a" line="72" column="16" />
-        <mark key="'" line="72" column="16" />
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="81" column="48" />
-        <mark key="^" line="81" column="48" />
-        <mark key="." line="81" column="48" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540365984093">
+        <mark key="a" line="78" column="16" />
+        <mark key="'" line="78" column="16" />
+        <mark key="[" line="89" column="15" />
+        <mark key="]" line="89" column="21" />
+        <mark key="^" line="89" column="21" />
+        <mark key="." line="89" column="21" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -623,10 +628,10 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/work/WorkCommentCacheImpl.java" timestamp="1540360464410">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/work/WorkCommentCacheImpl.java" timestamp="1540366151820">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="4" />
+        <mark key="." line="65" column="4" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/time/LocalDateTime.java" timestamp="1540350511833">
         <mark key="[" line="716" column="24" />
@@ -720,9 +725,9 @@
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/work/WorkCommentCache.java" timestamp="1540349042842">
         <mark key="[" line="13" column="35" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/zbjt/bzr/base/service/course/CourseServiceTest.java" timestamp="1540284121421">
         <mark key="[" line="18" column="43" />
@@ -887,10 +892,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>selectPostsForBlog</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>cacheKey</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
@@ -899,13 +904,13 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFN0b3JhZ2VTZXJ2aWNlSW1wbChTdG9yYWdlU2VydmljZUltcGwgc3RvcmFnZVNlcnZpY2VJbXBsKSB7CgkJdGhpcy5zdG9yYWdlU2VydmljZUltcGwgPSBzdG9yYWdlU2VydmljZUltcGw7Cgl9</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -919,14 +924,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFdvcmtDb21tZW50TWFwcGVyKFdvcmtDb21tZW50TWFwcGVyIHdvcmtDb21tZW50TWFwcGVyKSB7CgkJdGhpcy53b3JrQ29tbWVudE1hcHBlciA9IHdvcmtDb21tZW50TWFwcGVyOwoJfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIENhY2hlS2V5IGNhY2hlS2V5ID0gQ2FjaGVLZXkuWlNfQ09NTUVOVF9VTkRFUl9XT1JLOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlc3VsdCBjb2x1bW49IiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
