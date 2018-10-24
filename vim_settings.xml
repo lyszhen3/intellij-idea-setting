@@ -179,11 +179,12 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" timestamp="1540280800648">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="46" column="59" />
-        <mark key="." line="102" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" timestamp="1540343471769">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="51" column="28" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="51" column="28" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzSchoolDynamicMapper.java" timestamp="1539310192146">
         <mark key="[" line="14" column="3" />
@@ -205,6 +206,12 @@
       </file>
       <file name="/work [bzr-dev]" timestamp="1540197850403">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/sys/columnrecommend/RecommendColumnController.java" timestamp="1540342865134">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/rpc/listener/DefaultMessageDispatcher.java" timestamp="1540172746422">
         <mark key="[" line="27" column="3" />
@@ -278,11 +285,13 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" timestamp="1540287036221">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="31" column="13" />
-        <mark key="^" line="31" column="13" />
-        <mark key="." line="31" column="13" />
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" timestamp="1540343102787">
+        <mark key="a" line="68" column="4" />
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540283352843">
         <mark key="[" line="8" column="23" />
@@ -353,11 +362,11 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" timestamp="1540177563403">
-        <mark key="[" line="233" column="51" />
-        <mark key="]" line="233" column="60" />
-        <mark key="^" line="241" column="63" />
-        <mark key="." line="233" column="51" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" timestamp="1540342969795">
+        <mark key="[" line="377" column="47" />
+        <mark key="]" line="378" column="43" />
+        <mark key="^" line="378" column="43" />
+        <mark key="." line="378" column="43" />
       </file>
       <file name="/bzr_dev_1.5.0.admin_role_permission [bzr-dev]" timestamp="1540276697174">
         <mark key="[" line="0" column="0" />
@@ -419,11 +428,10 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentImageServiceImpl.java" timestamp="1540288634608">
-        <mark key="[" line="25" column="95" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="35" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentImageServiceImpl.java" timestamp="1540343775181">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpk.java" timestamp="1539589843982">
         <mark key="[" line="9" column="35" />
@@ -469,10 +477,6 @@
         <mark key="]" line="16" column="69" />
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="69" />
-      </file>
-      <file name="47dbdf7b-61ef-47ff-9787-d97b415120a3/schema/bzr_dev_1.5.0/table/organization_comment.sql" timestamp="1540279410194">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="13" />
       </file>
       <file name="/account [bzr-dev]" timestamp="1539823967076">
         <mark key="[" line="0" column="0" />
@@ -530,6 +534,12 @@
       <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1540276714160">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/RecommendColumnServiceImpl.java" timestamp="1540342903766">
+        <mark key="[" line="58" column="107" />
+        <mark key="]" line="58" column="107" />
+        <mark key="^" line="58" column="107" />
+        <mark key="." line="58" column="107" />
+      </file>
       <file name="/bzr_dev_1.4.0.account [bzr-dev]" timestamp="1540259870956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -584,6 +594,9 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/util/StorageService.java" timestamp="1540288137519">
         <mark key="[" line="19" column="4" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentImageService.java" timestamp="1540343158598">
+        <mark key="[" line="18" column="20" />
+      </file>
       <file name="/bzr_dev_1.5.0.course [bzr-dev]" timestamp="1539742341436">
         <mark key="[" line="0" column="0" />
       </file>
@@ -599,7 +612,7 @@
         <mark key="." line="1" column="75" />
         <mark key="^" line="1" column="75" />
       </file>
-      <file name="/work_comment [bzr-dev]" timestamp="1539823968004">
+      <file name="/work_comment [bzr-dev]" timestamp="1540342318374">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/bzr_dev_1.5.0.account [bzr-dev]" timestamp="1539768676033">
@@ -639,7 +652,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540284247878">
+      <file name="/Dummy.txt" timestamp="1540290220978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -657,6 +670,7 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1540342287579" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -709,10 +723,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="/pom.xml" timestamp="1540280188956">
-        <mark key="[" line="257" column="17" />
-        <mark key="]" line="257" column="47" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/organization/OrganizationCollectionSaveMessageHandler.java" timestamp="1540171606268">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="32" column="5" />
@@ -724,9 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1267" column="69" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1272" column="49" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="1274" column="86" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
       <jump line="8" column="32" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" />
       <jump line="19" column="30" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" />
       <jump line="166" column="8" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
@@ -824,13 +831,16 @@
       <jump line="120" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" />
       <jump line="84" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom" />
       <jump line="60" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" />
+      <jump line="60" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
+      <jump line="40" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
+      <jump line="51" column="28" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>location</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>location</text>
+        <text>store</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -838,38 +848,38 @@
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="4">
-        <text>@Override
-	public void setRootLocation(@Value(&quot;#{storage.work-comment-image-location}&quot;) String rootLocation) {
-		super.setRootLocation(rootLocation);
-	}</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4oKC0xKSUzKTsKCX0=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4lMTApOwo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LldvcmtDb21tZW50SW1hZ2U7Cg==</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsK</text>
+      <register name="5" type="4">
+        <text>@Override
+	public void setRootLocation(@Value(&quot;#{storage.work-comment-image-location}&quot;) String rootLocation) {
+		super.setRootLocation(rootLocation);
+	}</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog19TU9mlkCiAgICAgKi8KCUBUYWJsZUlkKHZhbHVlPSJhdXRvX3BrIiwgdHlwZT0gSWRUeXBlLkFVVE8pCglwcml2YXRlIExvbmcgYXV0b1BrOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LldvcmtDb21tZW50SW1hZ2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJImF1dG9Qaz0iICsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
