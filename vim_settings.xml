@@ -185,10 +185,10 @@
         <mark key="." line="121" column="35" />
         <mark key="^" line="121" column="35" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" timestamp="1540343471769">
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" timestamp="1540367739952">
         <mark key="'" line="51" column="28" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="51" column="28" />
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="32" />
         <mark key="^" line="51" column="28" />
         <mark key="." line="51" column="28" />
       </file>
@@ -292,13 +292,13 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" timestamp="1540348094487">
-        <mark key="a" line="66" column="4" />
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="68" column="5" />
-        <mark key="]" line="64" column="39" />
-        <mark key="." line="64" column="39" />
-        <mark key="^" line="64" column="39" />
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" timestamp="1540368398940">
+        <mark key="a" line="93" column="4" />
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="99" column="9" />
+        <mark key="]" line="103" column="81" />
+        <mark key="." line="103" column="81" />
+        <mark key="^" line="103" column="81" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540283352843">
         <mark key="[" line="8" column="23" />
@@ -397,11 +397,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" timestamp="1540348513568">
-        <mark key="'" line="46" column="29" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="46" column="29" />
-        <mark key="^" line="46" column="29" />
-        <mark key="." line="46" column="29" />
+        <mark key="'" line="47" column="29" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="47" column="29" />
+        <mark key="^" line="47" column="29" />
+        <mark key="." line="47" column="29" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540347027725">
         <mark key="[" line="14" column="3" />
@@ -480,11 +480,11 @@
         <mark key="[" line="182" column="135" />
         <mark key="]" line="182" column="165" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentService.java" timestamp="1540360507890">
-        <mark key="[" line="38" column="97" />
-        <mark key="]" line="41" column="47" />
-        <mark key="^" line="41" column="47" />
-        <mark key="." line="41" column="47" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentService.java" timestamp="1540367181186">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="42" column="47" />
+        <mark key="^" line="42" column="47" />
+        <mark key="." line="42" column="47" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/util/StorageServiceImpl.java" timestamp="1540365911868">
         <mark key="[" line="26" column="3" />
@@ -521,13 +521,12 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540365984093">
-        <mark key="a" line="78" column="16" />
-        <mark key="'" line="78" column="16" />
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="89" column="21" />
-        <mark key="^" line="89" column="21" />
-        <mark key="." line="89" column="21" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540367862549">
+        <mark key="a" line="91" column="16" />
+        <mark key="'" line="91" column="16" />
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -676,6 +675,13 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1540346465310">
+        <mark key="'" line="120" column="22" />
+        <mark key="[" line="152" column="2" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/SpecialistAdminUserRelateMapper.xml" timestamp="1540364876390">
         <mark key="'" line="14" column="19" />
         <mark key="[" line="14" column="19" />
@@ -699,7 +705,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540290220978">
+      <file name="/Dummy.txt" timestamp="1540367149683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -784,13 +790,11 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1540279846248">
+      <file name="/fragment.java" timestamp="1540367149699">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" />
-      <jump line="38" column="36" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" />
       <jump line="60" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSchoolDynamic.java" />
       <jump line="47" column="12" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
       <jump line="35" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
@@ -889,13 +893,15 @@
       <jump line="46" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
       <jump line="55" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
       <jump line="64" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="82" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
+      <jump line="41" column="13" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8JCXdvcmtDb21tZW50LnNldElkKFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>int r</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
@@ -904,34 +910,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCXdvcmtDb21tZW50LnNldElkKFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFN0b3JhZ2VTZXJ2aWNlSW1wbChTdG9yYWdlU2VydmljZUltcGwgc3RvcmFnZVNlcnZpY2VJbXBsKSB7CgkJdGhpcy5zdG9yYWdlU2VydmljZUltcGwgPSBzdG9yYWdlU2VydmljZUltcGw7Cgl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpZiAociA+IDApIHsK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZihjbykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb21tZW50cy4K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFdvcmtDb21tZW50TWFwcGVyKFdvcmtDb21tZW50TWFwcGVyIHdvcmtDb21tZW50TWFwcGVyKSB7CgkJdGhpcy53b3JrQ29tbWVudE1hcHBlciA9IHdvcmtDb21tZW50TWFwcGVyOwoJfQ==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc3VsdCBjb2x1bW49IiIK</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFN0b3JhZ2VTZXJ2aWNlSW1wbChTdG9yYWdlU2VydmljZUltcGwgc3RvcmFnZVNlcnZpY2VJbXBsKSB7CgkJdGhpcy5zdG9yYWdlU2VydmljZUltcGwgPSBzdG9yYWdlU2VydmljZUltcGw7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
