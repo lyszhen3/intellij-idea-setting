@@ -436,6 +436,11 @@
       <file name="/bzr_dev_1.5.0.specialist_operation_record [bzr-dev]" timestamp="1539737884341">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" timestamp="1540365162834">
+        <mark key="'" line="64" column="63" />
+        <mark key="[" line="37" column="57" />
+        <mark key="]" line="37" column="74" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountStudentSaveMessageHander.java" timestamp="1540172627786">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="21" column="45" />
@@ -481,11 +486,11 @@
         <mark key="^" line="41" column="47" />
         <mark key="." line="41" column="47" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentMapper.xml" timestamp="1540364132095">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="60" column="83" />
-        <mark key="." line="60" column="83" />
-        <mark key="^" line="60" column="83" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentMapper.xml" timestamp="1540364724452">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="23" column="78" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="14" column="43" />
       </file>
       <file name="/course [bzr-dev]" timestamp="1539583458612">
         <mark key="[" line="0" column="0" />
@@ -666,12 +671,10 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1540346465310">
-        <mark key="'" line="120" column="22" />
-        <mark key="[" line="152" column="2" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="152" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/SpecialistAdminUserRelateMapper.xml" timestamp="1540364876390">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="46" />
       </file>
       <file name="/Dummy.vm" timestamp="1539310081662">
         <mark key="[" line="0" column="0" />
@@ -781,12 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="30" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/service/OrganizationApiSearchServiceImpl.java" />
-      <jump line="166" column="8" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
-      <jump line="41" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
-      <jump line="48" column="32" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" />
-      <jump line="177" column="4" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
-      <jump line="64" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
       <jump line="56" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" />
       <jump line="38" column="36" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" />
       <jump line="60" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSchoolDynamic.java" />
@@ -881,16 +878,22 @@
       <jump line="40" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
       <jump line="51" column="28" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentImage.java" />
       <jump line="46" column="29" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
+      <jump line="14" column="19" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/SpecialistAdminUserRelateMapper.xml" />
+      <jump line="36" column="29" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="37" column="57" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="46" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="55" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="64" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>selectPostsForBlog</text>
       </register>
       <register name="-" type="4">
         <text>cacheKey</text>
       </register>
       <register name="/" type="4">
-        <text>LocalDatetime</text>
+        <text>selectPostsForBlog</text>
       </register>
       <register name="0" type="4">
         <text>int</text>
@@ -930,9 +933,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LocalDatetime</last-search>
+      <last-search>selectPostsForBlog</last-search>
       <last-offset />
-      <last-pattern>LocalDatetime</last-pattern>
+      <last-pattern>selectPostsForBlog</last-pattern>
       <last-replace>1.4.0</last-replace>
       <last-substitute>1.3.0</last-substitute>
       <last-dir>1</last-dir>
@@ -940,9 +943,6 @@
     </search>
     <history>
       <history-search>
-        <entry>storeImage</entry>
-        <entry>queue</entry>
-        <entry>\creal</entry>
         <entry>c\x</entry>
         <entry>\cx</entry>
         <entry>\c\^x</entry>
@@ -960,6 +960,9 @@
         <entry>CustomException</entry>
         <entry>comment</entry>
         <entry>LocalDatetime</entry>
+        <entry>specialistWithDetailIntroMap</entry>
+        <entry>selectAuthorWithInlineParams</entry>
+        <entry>selectPostsForBlog</entry>
       </history-search>
       <history-cmd>
         <entry>32,34s/\cdirection/Sentence/g</entry>
