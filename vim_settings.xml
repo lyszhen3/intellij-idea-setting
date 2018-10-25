@@ -68,6 +68,12 @@
       <file name="/bzr_dev_1.5.0.column_activity [bzr-dev]" timestamp="1540177574903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkCommentFavour.java" timestamp="1540433689811">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="46" column="14" />
+        <mark key="^" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/center/OrganizationCenterServiceImpl.java" timestamp="1536110887112">
         <mark key="[" line="144" column="64" />
         <mark key="]" line="145" column="49" />
@@ -511,13 +517,13 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540432385209">
-        <mark key="a" line="91" column="16" />
-        <mark key="'" line="91" column="16" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="107" column="38" />
-        <mark key="." line="107" column="38" />
-        <mark key="^" line="107" column="38" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540433733092">
+        <mark key="a" line="98" column="16" />
+        <mark key="'" line="119" column="4" />
+        <mark key="[" line="119" column="71" />
+        <mark key="]" line="121" column="4" />
+        <mark key="." line="121" column="4" />
+        <mark key="^" line="121" column="4" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -765,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
       <jump line="35" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" />
       <jump line="34" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" />
       <jump line="2" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
@@ -865,13 +870,14 @@
       <jump line="82" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
       <jump line="41" column="13" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
       <jump line="63" column="29" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
+      <jump line="110" column="4" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rabbit修改</text>
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>rabbit修改</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
@@ -880,10 +886,10 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -892,22 +898,22 @@
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCXdvcmtDb21tZW50LnNldElkKFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Ly8JCXdvcmtDb21tZW50LnNldElkKFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAociA+IDApIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZihjbykK</text>
+        <text encoding="base64">CQlpZiAociA+IDApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb21tZW50cy4K</text>
+        <text encoding="base64">CQlpZihjbykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQljb21tZW50cy4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
