@@ -83,7 +83,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540288357738">
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540431335829">
         <mark key="[" line="144" column="2" />
         <mark key="]" line="144" column="28" />
         <mark key="^" line="144" column="1" />
@@ -210,11 +210,11 @@
       <file name="/work [bzr-dev]" timestamp="1540197850403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/sys/columnrecommend/RecommendColumnController.java" timestamp="1540346913977">
-        <mark key="[" line="58" column="62" />
-        <mark key="]" line="58" column="78" />
-        <mark key="^" line="58" column="78" />
-        <mark key="." line="58" column="78" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/sys/columnrecommend/RecommendColumnController.java" timestamp="1540431168403">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="24" />
+        <mark key="^" line="68" column="24" />
+        <mark key="." line="68" column="24" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/rpc/listener/DefaultMessageDispatcher.java" timestamp="1540172746422">
         <mark key="[" line="27" column="3" />
@@ -686,7 +686,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540367149683">
+      <file name="/Dummy.txt" timestamp="1540431195426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -867,11 +867,11 @@
       <jump line="63" column="29" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+      <register name="&quot;" type="4">
+        <text>rabbit修改</text>
       </register>
       <register name="-" type="4">
-        <text>setAbsoluteUrl</text>
+        <text>rabbit修改</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
