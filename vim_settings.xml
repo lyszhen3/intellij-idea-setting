@@ -405,11 +405,11 @@
         <mark key="^" line="63" column="29" />
         <mark key="." line="63" column="29" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540437516157">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="21" column="80" />
-        <mark key="." line="21" column="80" />
-        <mark key="^" line="21" column="80" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540448135105">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkMapper.xml" timestamp="1540264775735">
         <mark key="[" line="90" column="14" />
@@ -489,11 +489,11 @@
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="69" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentFavourServiceImpl.java" timestamp="1540447498948">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="43" column="72" />
-        <mark key="^" line="43" column="72" />
-        <mark key="." line="43" column="72" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentFavourServiceImpl.java" timestamp="1540448159846">
+        <mark key="[" line="55" column="50" />
+        <mark key="]" line="56" column="42" />
+        <mark key="." line="56" column="42" />
+        <mark key="^" line="56" column="42" />
       </file>
       <file name="/account [bzr-dev]" timestamp="1540429737155">
         <mark key="[" line="0" column="0" />
@@ -590,11 +590,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentFavourMapper.xml" timestamp="1540437487086">
-        <mark key="[" line="18" column="111" />
-        <mark key="]" line="18" column="110" />
-        <mark key="." line="18" column="110" />
-        <mark key="^" line="18" column="110" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkCommentFavourMapper.xml" timestamp="1540448144055">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/image/OrganizationCommentImageSaveMessageHander.java" timestamp="1540172828761">
         <mark key="[" line="27" column="23" />
@@ -859,8 +859,8 @@
       <jump line="52" column="13" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlXb3JrQ29tbWVudEZhdm91ciBuZXdGYXZvdXIgPSBuZXcgV29ya0NvbW1lbnRGYXZvdXIoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>get</text>
@@ -872,34 +872,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlXb3JrQ29tbWVudEZhdm91ciBuZXdGYXZvdXIgPSBuZXcgV29ya0NvbW1lbnRGYXZvdXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbmV3RmF2b3VyLnNldElkKG9sZEZhdm91ci5nZXRJZCgpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFdvcmtNYXBwZXIoV29ya01hcHBlciB3b3JrTWFwcGVyKSB7CgkJdGhpcy53b3JrTWFwcGVyID0gd29ya01hcHBlcjsKCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJbmV3RmF2b3VyLnNldElzRGVsZXRlKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJV29ya0NvbW1lbnRGYXZvdXIgbmV3RmF2b3VyID0gbmV3IFdvcmtDb21tZW50RmF2b3VyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldFdvcmtNYXBwZXIoV29ya01hcHBlciB3b3JrTWFwcGVyKSB7CgkJdGhpcy53b3JrTWFwcGVyID0gd29ya01hcHBlcjsKCX0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlXcmFwcGVyPFdvcmtDb21tZW50RmF2b3VyPiBmYXZvdXJXcmFwcGVyID0gbmV3IEVudGl0eVdyYXBwZXI8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmYXZvdXJXcmFwcGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
