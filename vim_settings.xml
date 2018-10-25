@@ -294,13 +294,13 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" timestamp="1540372056300">
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" timestamp="1540435113321">
         <mark key="a" line="95" column="4" />
         <mark key="'" line="47" column="13" />
-        <mark key="[" line="92" column="109" />
-        <mark key="]" line="92" column="109" />
-        <mark key="." line="92" column="109" />
-        <mark key="^" line="92" column="108" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="110" column="45" />
+        <mark key="." line="110" column="45" />
+        <mark key="^" line="110" column="45" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540283352843">
         <mark key="[" line="8" column="23" />
@@ -507,6 +507,12 @@
         <mark key="]" line="16" column="69" />
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="69" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentFavourServiceImpl.java" timestamp="1540435369220">
+        <mark key="[" line="14" column="78" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="/account [bzr-dev]" timestamp="1540429737155">
         <mark key="[" line="0" column="0" />
@@ -874,7 +880,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTdHJpbmcgcyA9IFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cgl9</text>
       </register>
       <register name="-" type="4">
         <text>Integer</text>
@@ -885,14 +891,14 @@
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTdHJpbmcgcyA9IFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cgl9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -901,19 +907,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCXdvcmtDb21tZW50LnNldElkKFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Ly8JCXdvcmtDb21tZW50LnNldElkKFVpZFV0aWxzLmdlbmVyYXRlT2JqZWN0SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAociA+IDApIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZihjbykK</text>
+        <text encoding="base64">CQlpZiAociA+IDApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb21tZW50cy4K</text>
+        <text encoding="base64">CQlpZihjbykK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
