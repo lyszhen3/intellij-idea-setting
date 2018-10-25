@@ -235,11 +235,11 @@
       <file name="/admin_permission [bzr-dev]" timestamp="1539746201335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/pom.xml" timestamp="1540459438063">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="34" column="70" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="34" column="17" />
+      <file name="D:/mywork/spring/bzr-data/pom.xml" timestamp="1540460991055">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="60" />
+        <mark key="^" line="47" column="51" />
+        <mark key="." line="40" column="17" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/SortSupport.java" timestamp="1539248653550">
         <mark key="[" line="10" column="4" />
@@ -360,7 +360,7 @@
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/rpc/listener/ManualAckMessageListener.java" timestamp="1540172756991">
         <mark key="[" line="15" column="3" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1540429650814">
+      <file name="/HTML File.txt.ft" timestamp="1540460619407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/bzr_dev_1.3.0.work [bzr-dev]" timestamp="1539655660412">
@@ -527,14 +527,6 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" timestamp="1540433733092">
-        <mark key="a" line="98" column="16" />
-        <mark key="'" line="119" column="4" />
-        <mark key="[" line="119" column="71" />
-        <mark key="]" line="121" column="4" />
-        <mark key="." line="121" column="4" />
-        <mark key="^" line="121" column="4" />
-      </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
         <mark key="]" line="26" column="95" />
@@ -595,7 +587,7 @@
       <file name="/bzr_dev_1.5.0.organization_comment_image [bzr-dev]" timestamp="1539747300632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1540429651481">
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1540460619728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseService.java" timestamp="1539332809215">
@@ -659,6 +651,9 @@
         <mark key="]" line="1" column="120" />
         <mark key="." line="1" column="75" />
         <mark key="^" line="1" column="75" />
+      </file>
+      <file name="D:/mywork/spring/bzr-data/src/main/resources/application.yml" timestamp="1540460719144">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/work_comment [bzr-dev]" timestamp="1540429748555">
         <mark key="[" line="0" column="0" />
@@ -740,10 +735,10 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540459398666">
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540460970539">
         <mark key="'" line="355" column="40" />
-        <mark key="[" line="268" column="17" />
-        <mark key="]" line="268" column="69" />
+        <mark key="[" line="272" column="17" />
+        <mark key="]" line="272" column="59" />
         <mark key="." line="281" column="30" />
         <mark key="^" line="281" column="30" />
       </file>
@@ -896,10 +891,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>main(args)</text>
+        <text>http://10.200.76.11:8081/nexus/content/groups/public/</text>
       </register>
       <register name="-" type="4">
-        <text>main(args)</text>
+        <text>http://10.200.76.11:8081/nexus/content/groups/public/</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
