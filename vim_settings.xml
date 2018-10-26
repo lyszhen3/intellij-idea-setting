@@ -177,6 +177,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/persister/entity/AbstractEntityPersister.java" timestamp="1540542629066" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="17" />
@@ -361,7 +362,7 @@
         <mark key="[" line="52" column="67" />
         <mark key="]" line="52" column="79" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540540170780">
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540543116404">
         <mark key="[" line="41" column="26" />
         <mark key="]" line="41" column="26" />
         <mark key="." line="41" column="26" />
@@ -439,7 +440,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1540542280797">
+      <file name="/fragment.java" timestamp="1540542736044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/course/CourseServiceImpl.java" timestamp="1539743033199">
@@ -635,6 +636,7 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/action/spi/Executable.java" timestamp="1540543352001" />
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/IntegralTaskMessageHandler.java" timestamp="1540278149603">
         <mark key="[" line="33" column="11" />
         <mark key="]" line="36" column="4" />
@@ -815,7 +817,7 @@
       <file name="/bzr_dev_1.5.0.integral_rule [bzr-dev]" timestamp="1540258443249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/AbstractSaveEventListener.java" timestamp="1540542341251">
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/AbstractSaveEventListener.java" timestamp="1540543383759">
         <mark key="[" line="256" column="16" />
         <mark key="]" line="256" column="25" />
       </file>
