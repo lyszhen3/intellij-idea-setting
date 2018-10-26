@@ -439,7 +439,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1540540208806">
+      <file name="/fragment.java" timestamp="1540542280797">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/course/CourseServiceImpl.java" timestamp="1539743033199">
@@ -815,9 +815,9 @@
       <file name="/bzr_dev_1.5.0.integral_rule [bzr-dev]" timestamp="1540258443249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/AbstractSaveEventListener.java" timestamp="1540540720257">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="38" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/AbstractSaveEventListener.java" timestamp="1540542341251">
+        <mark key="[" line="256" column="16" />
+        <mark key="]" line="256" column="25" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/specialist/center/workreview/WorkReviewService.java" timestamp="1539849085185">
         <mark key="[" line="18" column="8" />
@@ -828,7 +828,7 @@
         <mark key="." line="101" column="30" />
         <mark key="^" line="101" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/internal/SessionImpl.java" timestamp="1540533895811" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/internal/SessionImpl.java" timestamp="1540541827492" />
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/OrganizationCommentSaveMessageHander.java" timestamp="1540171776975">
         <mark key="[" line="31" column="52" />
         <mark key="]" line="31" column="85" />
@@ -946,7 +946,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHJlcG9zaXRvcmllcz4KICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmFsaS1jZW50cmFsPC9pZD4KICAgICAgICAgICAgPHVybD5odHRwczovL21hdmVuLmFsaXl1bi5jb20vcmVwb3NpdG9yeS9wdWJsaWMvPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+CiAgICA8cGx1Z2luUmVwb3NpdG9yaWVzPgogICAgICAgIDxwbHVnaW5SZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+YWxpLWNlbnRyYWw8L2lkPgogICAgICAgICAgICA8dXJsPmh0dHBzOi8vbWF2ZW4uYWxpeXVuLmNvbS9yZXBvc2l0b3J5L3B1YmxpYy88L3VybD4KICAgICAgICA8L3BsdWdpblJlcG9zaXRvcnk+CiAgICA8L3BsdWdpblJlcG9zaXRvcmllcz4=</text>
+        <text>substitute</text>
       </register>
       <register name="-" type="4">
         <text>merge</text>
