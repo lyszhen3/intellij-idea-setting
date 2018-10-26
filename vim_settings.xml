@@ -157,7 +157,7 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
       </file>
-      <file name="/a.sql" timestamp="1540532996235">
+      <file name="/a.sql" timestamp="1540546679119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1540460619407">
@@ -364,11 +364,11 @@
         <mark key="[" line="52" column="67" />
         <mark key="]" line="52" column="79" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540543116404">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="44" column="26" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540546752686">
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1540530583460">
         <mark key="[" line="12" column="36" />
@@ -377,7 +377,7 @@
       <file name="/Dummy.vm" timestamp="1540438515609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540539283481">
+      <file name="/dummy.sql" timestamp="1540546680789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="4" />
@@ -422,8 +422,8 @@
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540539432500">
-        <mark key="[" line="50" column="32" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540546108120">
+        <mark key="[" line="48" column="21" />
         <mark key="]" line="50" column="32" />
         <mark key="." line="50" column="32" />
       </file>
@@ -496,7 +496,7 @@
         <mark key="^" line="46" column="14" />
         <mark key="." line="46" column="14" />
       </file>
-      <file name="/bzr.test [demo@localhost]" timestamp="1540539266104">
+      <file name="/bzr.test [demo@localhost]" timestamp="1540546675024">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/column_activity [bzr-dev]" timestamp="1540197849743">
@@ -799,11 +799,11 @@
       <file name="/bzr_dev_1.5.0.organization_comment [bzr-dev]" timestamp="1540350078104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/Test.java" timestamp="1540539447265">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="51" column="17" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="51" column="17" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/Test.java" timestamp="1540546793249">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="61" />
+        <mark key="^" line="33" column="61" />
+        <mark key="." line="33" column="61" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/TestService.java" timestamp="1540520497579">
         <mark key="[" line="9" column="30" />
@@ -951,10 +951,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>substitute</text>
+        <text>nullable = false,length = 50</text>
       </register>
       <register name="-" type="4">
-        <text>merge</text>
+        <text>nullable = false,length = 50</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
