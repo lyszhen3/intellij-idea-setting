@@ -723,6 +723,9 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540537934703">
+        <mark key="^" line="18" column="55" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1540530583460">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="45" />
@@ -933,8 +936,8 @@
       <jump line="84" column="28" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NullMeans</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuc2F2ZShlbnRpdHkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>NullMeans</text>
@@ -946,40 +949,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0ZXN0UmVwb3NpdG9yeS4K</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuc2F2ZShlbnRpdHkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
+        <text encoding="base64">CQl0ZXN0UmVwb3NpdG9yeS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBJZAo=</text>
+        <text encoding="base64">CUBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBDbwo=</text>
+        <text encoding="base64">CUBJZAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CUBDbwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CUBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8pCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CXB1YmxpYyBsb25nIGdldElkKCkgewoJCXJldHVybiBpZDsKCX0KCglwdWJsaWMgdm9pZCBzZXRJZChsb25nIGlkKSB7CgkJdGhpcy5pZCA9IGlkOwoJfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJpZCIpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>spring:
-  jpa:
-    properties:
-      hibernate:
-        hbm2ddl:
-          auto: update
-    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
