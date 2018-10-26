@@ -602,9 +602,9 @@
       <file name="/admin_permission [bzr-dev]" timestamp="1539746201335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/pom.xml" timestamp="1540460991055">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="60" />
+      <file name="D:/mywork/spring/bzr-data/pom.xml" timestamp="1540541549758">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="42" column="24" />
         <mark key="^" line="47" column="51" />
         <mark key="." line="40" column="17" />
       </file>
@@ -685,7 +685,7 @@
         <mark key="^" line="130" column="25" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/DefaultPersistEventListener.java" timestamp="1540540786630" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/DefaultPersistEventListener.java" timestamp="1540541267773" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicService.java" timestamp="1539324151314">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="35" column="20" />
@@ -946,7 +946,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DETACHED</text>
+        <text encoding="base64">PHJlcG9zaXRvcmllcz4KICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmFsaS1jZW50cmFsPC9pZD4KICAgICAgICAgICAgPHVybD5odHRwczovL21hdmVuLmFsaXl1bi5jb20vcmVwb3NpdG9yeS9wdWJsaWMvPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+CiAgICA8cGx1Z2luUmVwb3NpdG9yaWVzPgogICAgICAgIDxwbHVnaW5SZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+YWxpLWNlbnRyYWw8L2lkPgogICAgICAgICAgICA8dXJsPmh0dHBzOi8vbWF2ZW4uYWxpeXVuLmNvbS9yZXBvc2l0b3J5L3B1YmxpYy88L3VybD4KICAgICAgICA8L3BsdWdpblJlcG9zaXRvcnk+CiAgICA8L3BsdWdpblJlcG9zaXRvcmllcz4=</text>
       </register>
       <register name="-" type="4">
         <text>merge</text>
