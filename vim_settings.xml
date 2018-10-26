@@ -76,7 +76,7 @@
         <mark key="^" line="46" column="14" />
         <mark key="." line="46" column="14" />
       </file>
-      <file name="/bzr.test [demo@localhost]" timestamp="1540533080201">
+      <file name="/bzr.test [demo@localhost]" timestamp="1540539266104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/center/OrganizationCenterServiceImpl.java" timestamp="1536110887112">
@@ -600,11 +600,11 @@
       <file name="/bzr_dev_1.5.0.organization_comment_image [bzr-dev]" timestamp="1539747300632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/config/KblRepositoryConfig.java" timestamp="1540534103967">
-        <mark key="[" line="52" column="45" />
-        <mark key="]" line="52" column="45" />
-        <mark key="." line="52" column="45" />
-        <mark key="^" line="52" column="48" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/config/KblRepositoryConfig.java" timestamp="1540539229737">
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+        <mark key="^" line="30" column="56" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1540460619728">
         <mark key="[" line="0" column="0" />
@@ -703,11 +703,11 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/Test.java" timestamp="1540535232100">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="22" column="13" />
-        <mark key="." line="22" column="13" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/Test.java" timestamp="1540539447265">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaProperties.java" timestamp="1540526630608">
         <mark key="[" line="217" column="28" />
@@ -723,8 +723,10 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540537934703">
-        <mark key="^" line="18" column="55" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540539350526">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1540530583460">
         <mark key="[" line="12" column="36" />
@@ -733,7 +735,7 @@
       <file name="/Dummy.vm" timestamp="1540438515609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540533081433">
+      <file name="/dummy.sql" timestamp="1540539283481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="4" />
@@ -790,10 +792,10 @@
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540536109253">
-        <mark key="[" line="49" column="40" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540539432500">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="50" column="32" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
@@ -936,11 +938,11 @@
       <jump line="84" column="28" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuc2F2ZShlbnRpdHkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getAutoPk</text>
       </register>
       <register name="-" type="4">
-        <text>NullMeans</text>
+        <text>getAutoPk</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
@@ -948,35 +950,35 @@
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuc2F2ZShlbnRpdHkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CXB1YmxpYyBsb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9Qayhsb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0ZXN0UmVwb3NpdG9yeS4K</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuc2F2ZShlbnRpdHkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
+        <text encoding="base64">vPLK6db41/fIqLnp1/fV38v509CjrMjOus7Qzsq9tcTXqtTYtrzH68Gqz7XX99Xfu/G1w8rayKiyoteiw/ez9rSmoaMK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBJZAo=</text>
+        <text encoding="base64">ge3UtKO6vPLK6Qo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBDbwo=</text>
+        <text encoding="base64">wbS906O6aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC80OTMxZmJjNTJlYTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8pCg==</text>
+        <text encoding="base64">1/fV36O6eWl6aGl3YXppCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CXB1YmxpYyBsb25nIGdldElkKCkgewoJCXJldHVybiBpZDsKCX0KCglwdWJsaWMgdm9pZCBzZXRJZChsb25nIGlkKSB7CgkJdGhpcy5pZCA9IGlkOwoJfQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJVCB0YXJnZXQgPSAoVCkgYnlJZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlPcHRpb25hbDxUPiBvcHRpb25hbFQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJpZCIpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
