@@ -651,11 +651,11 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentImageService.java" timestamp="1540343158598">
         <mark key="[" line="18" column="20" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/repository/TestRepository.java" timestamp="1540534727857">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="52" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/repository/TestRepository.java" timestamp="1540536326538">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="/bzr_dev_1.5.0.course [bzr-dev]" timestamp="1539742341436">
         <mark key="[" line="0" column="0" />
@@ -787,8 +787,8 @@
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540533733063">
-        <mark key="[" line="50" column="0" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540536109253">
+        <mark key="[" line="49" column="40" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
@@ -934,10 +934,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DynamicInsert</text>
+        <text>NullMeans</text>
       </register>
       <register name="-" type="4">
-        <text>CrudRepository</text>
+        <text>NullMeans</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
