@@ -110,10 +110,6 @@
         <mark key="^" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.8.RELEASE/spring-data-jpa-2.0.8.RELEASE-sources.jar!/org/springframework/data/jpa/repository/config/EnableJpaRepositories.java" timestamp="1540516240642">
-        <mark key="[" line="128" column="46" />
-        <mark key="]" line="128" column="65" />
-      </file>
       <file name="/bzr_dev_1.5.0.work_column [bzr-dev]" timestamp="1540263973678">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,10 +161,6 @@
         <mark key="^" line="63" column="26" />
         <mark key="." line="63" column="26" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/time/chrono/ChronoLocalDateTime.java" timestamp="1540522885233">
-        <mark key="[" line="435" column="12" />
-        <mark key="]" line="435" column="19" />
-      </file>
       <file name="/bzr_dev_1.5.0.admin_user [bzr-dev]" timestamp="1540264839460">
         <mark key="[" line="0" column="0" />
       </file>
@@ -177,10 +169,6 @@
         <mark key="]" line="103" column="123" />
         <mark key="." line="103" column="123" />
         <mark key="^" line="103" column="123" />
-      </file>
-      <file name="D:/mywork/spring/spring-boot/spring-boot-samples/spring-boot-sample-data-jpa/src/main/java/sample/data/jpa/domain/City.java" timestamp="1540523717602">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="49" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/specialist/SpecialistServiceImpl.java" timestamp="1540173339620">
         <mark key="[" line="24" column="56" />
@@ -318,14 +306,6 @@
         <mark key="]" line="11" column="47" />
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
-      </file>
-      <file name="D:/companywork/bzr-server/lib/install.sh" timestamp="1540550319897">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="137" />
-      </file>
-      <file name="D:/mywork/chushiwang/src/main/java/org/springframework/samples/mvc/jpa/entity/User.java" timestamp="1540523803325">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="55" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540784157681">
         <mark key="[" line="15" column="0" />
@@ -471,19 +451,11 @@
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpk.java" timestamp="1539589843982">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/time/ZoneId.java" timestamp="1540522781332">
-        <mark key="[" line="235" column="24" />
-        <mark key="]" line="235" column="36" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
         <mark key="]" line="390" column="0" />
         <mark key="^" line="391" column="44" />
         <mark key="." line="390" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/scheduling/annotation/Scheduled.java" timestamp="1540517873658">
-        <mark key="[" line="59" column="38" />
-        <mark key="]" line="59" column="54" />
       </file>
       <file name="/bzr_dev_1.5.0.specialist [bzr-dev]" timestamp="1539683273233">
         <mark key="[" line="0" column="0" />
@@ -494,11 +466,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="34" column="45" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1539245852069">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="89" column="86" />
-        <mark key="." line="88" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1540796807910">
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="49" column="18" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="18" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentService.java" timestamp="1540367181186">
         <mark key="[" line="34" column="23" />
@@ -668,10 +640,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/Column.java" timestamp="1540523986549">
-        <mark key="[" line="89" column="11" />
-        <mark key="]" line="89" column="26" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/test.sql" timestamp="1540260692923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="120" />
@@ -718,14 +686,6 @@
         <mark key="^" line="40" column="28" />
         <mark key="." line="40" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaProperties.java" timestamp="1540526630608">
-        <mark key="[" line="217" column="28" />
-        <mark key="]" line="217" column="49" />
-      </file>
-      <file name="D:/mywork/chushiwang/src/main/java/org/springframework/samples/mvc/config/DatasourceConfig.java" timestamp="1540527393278">
-        <mark key="[" line="52" column="67" />
-        <mark key="]" line="52" column="79" />
-      </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540549910137">
         <mark key="[" line="84" column="16" />
         <mark key="]" line="42" column="40" />
@@ -740,10 +700,6 @@
       </file>
       <file name="/bzr_dev_1.5.0.recommend_column [bzr-dev]" timestamp="1540794783580">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1540530583460">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="45" />
       </file>
       <file name="/Dummy.vm" timestamp="1540438515609">
         <mark key="[" line="0" column="0" />
@@ -762,10 +718,6 @@
       </file>
       <file name="/bzr_dev_1.5.0.integral_rule [bzr-dev]" timestamp="1540258443249">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/event/internal/AbstractSaveEventListener.java" timestamp="1540544079408">
-        <mark key="[" line="256" column="16" />
-        <mark key="]" line="256" column="25" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/Organization.java" timestamp="1536111714733">
         <mark key="[" line="94" column="3" />
