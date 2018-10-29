@@ -374,7 +374,7 @@
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
       </file>
-      <file name="/a.sql" timestamp="1540550480575">
+      <file name="/a.sql" timestamp="1540792845913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzNewsCourseController.java" timestamp="1539332760699">
@@ -599,8 +599,8 @@
       <file name="/bzr_dev_1.4.0.account [bzr-dev]" timestamp="1540259870956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540371548676">
-        <mark key="[" line="0" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540792737116">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/bzr_dev_1.5.0.organization_comment_image [bzr-dev]" timestamp="1539747300632">
         <mark key="[" line="0" column="0" />
@@ -737,7 +737,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/bzr_dev_1.5.0.recommend_column [bzr-dev]" timestamp="1540783857495">
+      <file name="/bzr_dev_1.5.0.recommend_column [bzr-dev]" timestamp="1540792625308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1540530583460">
@@ -747,7 +747,7 @@
       <file name="/Dummy.vm" timestamp="1540438515609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540792572412">
+      <file name="/dummy.sql" timestamp="1540792845944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="4" />
