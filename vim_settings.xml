@@ -332,11 +332,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="55" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540283352843">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="62" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/AdminApp.java" timestamp="1540784157681">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/IntegralTaskMessageHandler.java" timestamp="1540278149603">
         <mark key="[" line="33" column="11" />
@@ -349,6 +349,9 @@
         <mark key="]" line="22" column="67" />
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="26" />
+      </file>
+      <file name="/bzr_dev_1.5.0.organization_temp [bzr-dev]" timestamp="1540784107901">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/work_column [bzr-dev]" timestamp="1539835640413">
         <mark key="[" line="0" column="0" />
@@ -734,6 +737,9 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="/bzr_dev_1.5.0.recommend_column [bzr-dev]" timestamp="1540783857495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/GenerationType.java" timestamp="1540530583460">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="45" />
@@ -741,7 +747,7 @@
       <file name="/Dummy.vm" timestamp="1540438515609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540550484318">
+      <file name="/dummy.sql" timestamp="1540784291320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="4" />
