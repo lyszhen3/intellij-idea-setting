@@ -533,11 +533,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzOutsideLinkController.java" timestamp="1540869839034">
-        <mark key="[" line="92" column="87" />
-        <mark key="]" line="92" column="18" />
-        <mark key="." line="92" column="18" />
-        <mark key="^" line="92" column="18" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzOutsideLinkController.java" timestamp="1540873002140">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="96" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1540867305763">
         <mark key="[" line="67" column="33" />
@@ -814,8 +814,8 @@
       <jump line="63" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzOutsideLinkServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xjzBannerMapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>xjzBannerMapper</text>
@@ -827,34 +827,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihYanopCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5Llhqek91dHNpZGVMaW5rOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJIiwgc29ydD0iICsgc29ydCArCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXB1YmxpYyBJbnRlZ2VyIGdldFNvcnQoKSB7CgkJcmV0dXJuIHNvcnQ7Cgl9CgoJcHVibGljIHZvaWQgc2V0U29ydChJbnRlZ2VyIHNvcnQpIHsKCQl0aGlzLnNvcnQgPSBzb3J0OwoJfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihYanopCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5Llhqek91dHNpZGVMaW5rOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJIiwgc29ydD0iICsgc29ydCArCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
