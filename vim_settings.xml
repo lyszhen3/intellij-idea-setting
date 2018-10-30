@@ -83,11 +83,11 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540887958780">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="6" />
-        <mark key="^" line="146" column="46" />
-        <mark key="." line="146" column="46" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540892191941">
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="132" column="7" />
+        <mark key="^" line="132" column="7" />
+        <mark key="." line="132" column="7" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
@@ -409,9 +409,9 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="34" column="45" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1540863442083">
-        <mark key="[" line="86" column="39" />
-        <mark key="]" line="88" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzSlideshowController.java" timestamp="1540892223830">
+        <mark key="[" line="86" column="19" />
+        <mark key="]" line="86" column="39" />
         <mark key="^" line="89" column="86" />
         <mark key="." line="88" column="0" />
       </file>
@@ -594,11 +594,6 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/Test.java" timestamp="1540882677234">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceWrapper.java" timestamp="1540890503549" />
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540549910137">
         <mark key="[" line="84" column="16" />
@@ -654,7 +649,9 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540888808182" />
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540891892011">
+        <mark key="'" line="81" column="41" />
+      </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/DataTransitionApplication.java" timestamp="1540882837586">
         <mark key="[" line="58" column="45" />
         <mark key="]" line="58" column="45" />
@@ -698,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
       <jump line="117" column="80" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
       <jump line="119" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
       <jump line="122" column="74" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
@@ -798,16 +794,17 @@
       <jump line="33" column="23" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzOutsideLink.java" />
       <jump line="58" column="21" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzOutsideLinkServiceImpl.java" />
       <jump line="63" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzOutsideLinkServiceImpl.java" />
+      <jump line="81" column="41" filename="D:/companywork/bzr-server/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Conditional</text>
+        <text>xjz/slideshows/images</text>
       </register>
       <register name="-" type="4">
         <text>store</text>
       </register>
       <register name="/" type="4">
-        <text>selectPostsForBlog</text>
+        <text>aop</text>
       </register>
       <register name="0" type="4">
         <text>int</text>
@@ -851,9 +848,9 @@
       </register>
     </registers>
     <search>
-      <last-search>selectPostsForBlog</last-search>
+      <last-search>aop</last-search>
       <last-offset />
-      <last-pattern>selectPostsForBlog</last-pattern>
+      <last-pattern>aop</last-pattern>
       <last-replace>1.4.0</last-replace>
       <last-substitute>selectPostsForBlog</last-substitute>
       <last-dir>1</last-dir>
@@ -861,7 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http-client</entry>
         <entry>apache</entry>
         <entry>\capache</entry>
         <entry>\cwechatApp</entry>
@@ -881,6 +877,7 @@
         <entry>'8'</entry>
         <entry>recommend_column</entry>
         <entry>recommend</entry>
+        <entry>aop</entry>
       </history-search>
       <history-cmd>
         <entry>17,20s/Button/List</entry>
