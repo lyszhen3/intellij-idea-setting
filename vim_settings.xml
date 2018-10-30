@@ -95,11 +95,11 @@
       <file name="/work_comment_image [bzr-dev]" timestamp="1540429748711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540431335829">
-        <mark key="[" line="144" column="2" />
-        <mark key="]" line="144" column="28" />
-        <mark key="^" line="144" column="1" />
-        <mark key="." line="144" column="1" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540864237850">
+        <mark key="[" line="146" column="2" />
+        <mark key="]" line="146" column="26" />
+        <mark key="^" line="146" column="46" />
+        <mark key="." line="146" column="46" />
       </file>
       <file name="D:/mywork/myWeb/demo_web/src/main/java/com/lin/testaop/aops/TestAspect.java" timestamp="1540719618338">
         <mark key="[" line="27" column="27" />
@@ -162,11 +162,12 @@
         <mark key="^" line="59" column="93" />
         <mark key="." line="59" column="93" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzBannerController.java" timestamp="1540863543930">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="103" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzBannerController.java" timestamp="1540864731783">
+        <mark key="'" line="34" column="13" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="103" column="18" />
+        <mark key="^" line="103" column="18" />
+        <mark key="." line="103" column="18" />
       </file>
       <file name="/bzr_dev_1.5.0.work_comment [bzr-dev]" timestamp="1540370166641">
         <mark key="[" line="0" column="0" />
@@ -457,12 +458,12 @@
         <mark key="^" line="69" column="101" />
         <mark key="." line="69" column="101" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBannerImage.java" timestamp="1540863596983">
-        <mark key="'" line="20" column="13" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBannerImage.java" timestamp="1540863649620">
+        <mark key="'" line="50" column="28" />
         <mark key="[" line="49" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="51" column="0" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
       </file>
       <file name="/bzr_dev_1.5.0.specialist_operation_record [bzr-dev]" timestamp="1539737884341">
         <mark key="[" line="0" column="0" />
@@ -479,10 +480,11 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1540805639497">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1540864316556">
+        <mark key="[" line="147" column="12" />
+        <mark key="]" line="148" column="48" />
+        <mark key="." line="68" column="35" />
+        <mark key="^" line="68" column="35" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpk.java" timestamp="1539589843982">
         <mark key="[" line="9" column="35" />
@@ -634,13 +636,13 @@
       <file name="/bzr_test.admin_user [bzr-test]" timestamp="1540265169635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" timestamp="1540863591882">
-        <mark key="a" line="64" column="4" />
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="105" column="11" />
-        <mark key="." line="105" column="11" />
-        <mark key="^" line="105" column="11" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" timestamp="1540865122373">
+        <mark key="a" line="137" column="43" />
+        <mark key="'" line="138" column="48" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="69" column="55" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineService.java" timestamp="1539251957288">
         <mark key="[" line="30" column="8" />
@@ -696,12 +698,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBanner.java" timestamp="1540802484071">
-        <mark key="'" line="34" column="35" />
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="39" column="55" />
-        <mark key="." line="39" column="55" />
-        <mark key="^" line="39" column="55" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBanner.java" timestamp="1540864966012">
+        <mark key="'" line="44" column="27" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/test.sql" timestamp="1540260692923">
         <mark key="[" line="0" column="0" />
@@ -866,14 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1597" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1751" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1792" column="85" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1811" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1827" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1846" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1851" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
-      <jump line="1868" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
       <jump line="1872" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.2.RELEASE/spring-rabbit-1.7.2.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" />
       <jump line="66" column="10" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkColumn.java" />
       <jump line="35" column="42" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkColumn.java" />
@@ -963,16 +957,24 @@
       <jump line="84" column="28" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
       <jump line="85" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkServiceImpl.java" />
       <jump line="34" column="35" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBanner.java" />
-      <jump line="54" column="20" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
       <jump line="83" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
       <jump line="20" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBannerImage.java" />
+      <jump line="50" column="28" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBannerImage.java" />
+      <jump line="105" column="25" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
+      <jump line="117" column="30" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
+      <jump line="38" column="92" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
+      <jump line="34" column="13" filename="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzBannerController.java" />
+      <jump line="131" column="43" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
+      <jump line="54" column="13" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
+      <jump line="138" column="48" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzBannerServiceImpl.java" />
+      <jump line="44" column="27" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzBanner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>xjzHeadlineMapper</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
@@ -987,31 +989,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LlhqekJhbm5lckltYWdlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IEN1c3RvbUV4Y2VwdGlvbihBcGlDb2RlLklOVkFMSURfUEFSQU1FVEVSLCAiIikK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog19TU9mlkCiAgICAgKi8KCUBUYWJsZUlkKHZhbHVlPSJhdXRvX3BrIiwgdHlwZT0gSWRUeXBlLkFVVE8pCglwcml2YXRlIExvbmcgYXV0b1BrOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LlhqekJhbm5lckltYWdlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>vs XjzBannerService</text>
       </register>
     </registers>
     <search>
@@ -1047,7 +1049,6 @@
         <entry>recommend</entry>
       </history-search>
       <history-cmd>
-        <entry>32,34s/\cdirection/Sentence/g</entry>
         <entry>17,20s/Button/TextBox</entry>
         <entry>17,20s/Button/List</entry>
         <entry>24,24s/Button/List</entry>
@@ -1067,6 +1068,7 @@
         <entry>%s/1.3.0/1.4.0/gc</entry>
         <entry>set ruler</entry>
         <entry>wq</entry>
+        <entry>vs XjzBannerService</entry>
       </history-cmd>
       <history-expr />
       <history-input />
