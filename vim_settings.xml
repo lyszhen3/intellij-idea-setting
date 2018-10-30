@@ -256,6 +256,10 @@
         <mark key="^" line="68" column="24" />
         <mark key="." line="68" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/context/annotation/Conditional.java" timestamp="1540889668673">
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="28" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/rpc/listener/DefaultMessageDispatcher.java" timestamp="1540172746422">
         <mark key="[" line="27" column="3" />
       </file>
@@ -524,6 +528,10 @@
         <mark key="]" line="42" column="47" />
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/context/annotation/Condition.java" timestamp="1540889662592">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="25" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/TestServiceImpl.java" timestamp="1540521832945">
         <mark key="[" line="31" column="0" />
@@ -827,6 +835,7 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
+      <file name="D:/companywork/bzr-server/pom.xml" timestamp="1540888808182" />
       <file name="D:/mywork/first-gradle/first-web/src/test/java/Test.java" timestamp="1536305902205">
         <mark key="[" line="7" column="19" />
       </file>
@@ -839,11 +848,10 @@
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/CommentController.java" timestamp="1539749301133">
         <mark key="[" line="13" column="31" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/BaseConfig.java" timestamp="1540887786301">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="21" column="47" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/BaseConfig.java" timestamp="1540888655367">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539843680867">
         <mark key="[" line="110" column="31" />
@@ -979,8 +987,8 @@
       <jump line="63" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzOutsideLinkServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Conditional</text>
       </register>
       <register name="-" type="4">
         <text>store</text>
@@ -995,34 +1003,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text>//@Import({SmsProperties.class, SnowFlakeProperties.class, WeChatAppProperties.class, WxAppletMessageProperties.class,
+//		MeiziConfig.class,DuibaConfig.class})</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>entity.TestUserFavorite</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CXsKCQlTeXN0ZW0ub3V0LnByaW50bG4oYXBwU2VjcmV0KTsKCX0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>@PostConstruct
 	public void init(){
 		System.out.println(appSecret);
 	}</text>
       </register>
-      <register name="s" type="4">
-        <text>entity.TestUserFavorite</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CXByaXZhdGUgRW52aXJvbm1lbnQgZW52OwoKCUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldEVudihFbnZpcm9ubWVudCBlbnYpIHsKCQl0aGlzLmVudiA9IGVudjsKCX0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
