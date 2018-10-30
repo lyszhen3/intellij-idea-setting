@@ -125,6 +125,7 @@
       <file name="/bzr_dev_1.5.0.work_column [bzr-dev]" timestamp="1540263973678">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/env/PropertyResolver.java" timestamp="1540884654979" />
       <file name="/bzr_test.organization_admin_user_relate [bzr-test]" timestamp="1540265314379">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,9 +185,9 @@
         <mark key="^" line="76" column="27" />
         <mark key="." line="76" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/jdbc/DataSourceBuilder.java" timestamp="1540881718762">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="35" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/jdbc/DataSourceBuilder.java" timestamp="1540886400957">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="46" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/CourseOrder.java" timestamp="1539742421977">
         <mark key="[" line="302" column="5" />
@@ -748,11 +749,11 @@
         <mark key="." line="1" column="75" />
         <mark key="^" line="1" column="75" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/resources/application.yml" timestamp="1540881917884">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
+      <file name="D:/mywork/spring/bzr-data/src/main/resources/application.yml" timestamp="1540885574702">
+        <mark key="[" line="8" column="124" />
+        <mark key="]" line="8" column="120" />
+        <mark key="." line="8" column="120" />
+        <mark key="^" line="8" column="120" />
       </file>
       <file name="/work_comment [bzr-dev]" timestamp="1540429748555">
         <mark key="[" line="0" column="0" />
@@ -805,17 +806,17 @@
       <file name="/Dummy.vm" timestamp="1540438515609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540882439988">
+      <file name="/dummy.sql" timestamp="1540884426504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/config/DataSourceConfig.java" timestamp="1540883085101">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="21" column="8" />
-        <mark key="^" line="21" column="8" />
+      <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/config/DataSourceConfig.java" timestamp="1540886428478">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="/bzr_dev_1.5.0.integral_rule [bzr-dev]" timestamp="1540258443249">
         <mark key="[" line="0" column="0" />
@@ -901,7 +902,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1540720740241">
+      <file name="/fragment.java" timestamp="1540884321124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
         <mark key="^" line="0" column="18" />
@@ -1012,10 +1013,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DataSourceBuilder.create().build(</text>
+        <text>com.zaxxer.hikari.HikariDataSource</text>
       </register>
       <register name="-" type="4">
-        <text>findById</text>
+        <text>UTC</text>
       </register>
       <register name="/" type="4">
         <text>selectPostsForBlog</text>
@@ -1024,35 +1025,34 @@
         <text>int</text>
       </register>
       <register name="1" type="4">
-        <text>@Override
-	Test save( Test test);</text>
+        <text encoding="base64">CXByaXZhdGUgRW52aXJvbm1lbnQgZW52OwoKCUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldEVudihFbnZpcm9ubWVudCBlbnYpIHsKCQl0aGlzLmVudiA9IGVudjsKCX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBQcmltYXJ5Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBQcmltYXJ5Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JQFByaW1hcnkK</text>
+        <text encoding="base64">Ly8JCXJldHVybiBEYXRhU291cmNlQnVpbGRlci5jcmVhdGUoKS5idWlsZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtibDoK</text>
+        <text encoding="base64">Ly8JQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJzcHJpbmcuZGF0YXNvdXJjZS54anoiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8JCXJldHVybiBEYXRhU291cmNlQnVpbGRlci5jcmVhdGUoKS5idWlsZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlEYXRlIGRhdGUgPSBuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">Ly8JCXJldHVybiBEYXRhU291cmNlQnVpbGRlci5jcmVhdGUoKS5idWlsZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
