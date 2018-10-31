@@ -101,7 +101,6 @@
         <mark key="^" line="45" column="18" />
         <mark key="." line="45" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/env/PropertyResolver.java" timestamp="1540884654979" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" timestamp="1540173366854">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="59" />
@@ -136,11 +135,11 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="64" column="60" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1539311764123">
-        <mark key="[" line="72" column="113" />
-        <mark key="]" line="59" column="93" />
-        <mark key="^" line="59" column="93" />
-        <mark key="." line="59" column="93" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzHeadlineController.java" timestamp="1540947504248">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="52" column="10" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkApi.java" timestamp="1540177163568">
         <mark key="[" line="75" column="31" />
@@ -437,7 +436,6 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.9/druid-1.1.9-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" timestamp="1540890938373" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1540869486202">
         <mark key="[" line="22" column="68" />
         <mark key="]" line="23" column="79" />
@@ -594,7 +592,6 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid-spring-boot-starter/1.1.9/druid-spring-boot-starter-1.1.9-sources.jar!/com/alibaba/druid/spring/boot/autoconfigure/DruidDataSourceWrapper.java" timestamp="1540890503549" />
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540549910137">
         <mark key="[" line="84" column="16" />
         <mark key="]" line="42" column="40" />
@@ -637,6 +634,7 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1540946679861" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -797,8 +795,8 @@
       <jump line="81" column="41" filename="D:/companywork/bzr-server/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xjz/slideshows/images</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>store</text>
@@ -812,33 +810,33 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>//@Import({SmsProperties.class, SnowFlakeProperties.class, WeChatAppProperties.class, WxAppletMessageProperties.class,
 //		MeiziConfig.class,DuibaConfig.class})</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CXsKCQlTeXN0ZW0ub3V0LnByaW50bG4oYXBwU2VjcmV0KTsKCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CXsKCQlTeXN0ZW0ub3V0LnByaW50bG4oYXBwU2VjcmV0KTsKCX0=</text>
+      </register>
+      <register name="6" type="4">
         <text>@PostConstruct
 	public void init(){
 		System.out.println(appSecret);
 	}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
