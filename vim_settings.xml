@@ -153,10 +153,6 @@
         <mark key="^" line="76" column="27" />
         <mark key="." line="76" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/jdbc/DataSourceBuilder.java" timestamp="1540886400957">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="46" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/CourseOrder.java" timestamp="1539742421977">
         <mark key="[" line="302" column="5" />
         <mark key="]" line="63" column="26" />
@@ -211,15 +207,16 @@
         <mark key="^" line="68" column="24" />
         <mark key="." line="68" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/context/annotation/Conditional.java" timestamp="1540889668673">
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="28" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshowImage.java" timestamp="1539243406237">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="49" column="28" />
         <mark key="." line="49" column="28" />
         <mark key="^" line="49" column="28" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/search/elasticsearch/EsClient.java" timestamp="1540967455753">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/SortSupport.java" timestamp="1539248653550">
         <mark key="[" line="10" column="4" />
@@ -281,6 +278,10 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/annotation/Repeatable.java" timestamp="1540967123886">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="32" column="48" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/IntegralTaskMessageHandler.java" timestamp="1540278149603">
         <mark key="[" line="33" column="11" />
         <mark key="]" line="36" column="4" />
@@ -311,6 +312,11 @@
         <mark key="]" line="87" column="42" />
         <mark key="." line="87" column="42" />
         <mark key="^" line="87" column="42" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/DuibaConfig.java" timestamp="1540888163210">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzNewsCourse.java" timestamp="1539330687157">
         <mark key="[" line="39" column="44" />
@@ -422,10 +428,6 @@
         <mark key="]" line="42" column="47" />
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE-sources.jar!/org/springframework/context/annotation/Condition.java" timestamp="1540889662592">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="25" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/TestServiceImpl.java" timestamp="1540521832945">
         <mark key="[" line="31" column="0" />
@@ -544,10 +546,6 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1540887527340">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="46" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountMessageHander.java" timestamp="1540172485012">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="44" column="5" />
@@ -656,6 +654,11 @@
         <mark key="]" line="58" column="45" />
         <mark key="^" line="57" column="34" />
         <mark key="." line="58" column="45" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/BaseConfig.java" timestamp="1540967552433">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1539843680867">
         <mark key="[" line="110" column="31" />
@@ -791,8 +794,8 @@
       <jump line="75" column="20" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dto/WorkDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rabbit修改</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oInpianQuYnpyLmJhc2UiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>rabbit修改</text>
@@ -804,38 +807,35 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oInpianQuYnpyLmJhc2UiKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>//@Import({SmsProperties.class, SnowFlakeProperties.class, WeChatAppProperties.class, WxAppletMessageProperties.class,
-//		MeiziConfig.class,DuibaConfig.class})</text>
+      <register name="3" type="2">
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oInpianQuYnpyLmJhc2UiKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CXsKCQlTeXN0ZW0ub3V0LnByaW50bG4oYXBwU2VjcmV0KTsKCX0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@PostConstruct
-	public void init(){
-		System.out.println(appSecret);
-	}</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
+      <register name="7" type="4">
+        <text>//@Import({SmsProperties.class, SnowFlakeProperties.class, WeChatAppProperties.class, WxAppletMessageProperties.class,
+//		MeiziConfig.class,DuibaConfig.class})</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CXsKCQlTeXN0ZW0ub3V0LnByaW50bG4oYXBwU2VjcmV0KTsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
