@@ -92,11 +92,11 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540969037397">
-        <mark key="[" line="125" column="20" />
-        <mark key="]" line="134" column="7" />
-        <mark key="^" line="134" column="7" />
-        <mark key="." line="134" column="7" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1540978893644">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="132" column="7" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
@@ -812,8 +812,8 @@
       <jump line="87" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzOutsideLinkServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rabbit修改</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQo=</text>
       </register>
       <register name="-" type="4">
         <text>rabbit修改</text>
@@ -824,36 +824,35 @@
       <register name="0" type="4">
         <text>int</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CS8qKgoJICogCgkgKiBAcGFyYW0gaWQKCSAqIEByZXR1cm4KCSAqLw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSAqIAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oInpianQuYnpyLmJhc2UiKQo=</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">QENvbXBvbmVudFNjYW4oInpianQuYnpyLmJhc2UiKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oInpianQuYnpyLmJhc2UiKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//@Import({SmsProperties.class, SnowFlakeProperties.class, WeChatAppProperties.class, WxAppletMessageProperties.class,
-//		MeiziConfig.class,DuibaConfig.class})</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
