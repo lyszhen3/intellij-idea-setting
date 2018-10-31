@@ -648,7 +648,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540952033379">
+      <file name="/Dummy.txt" timestamp="1540978045851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -813,10 +813,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>rabbit修改</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>rabbit修改</text>
       </register>
       <register name="/" type="4">
         <text>xjz_banner_image</text>
