@@ -11,6 +11,12 @@
         <mark key="^" line="166" column="53" />
         <mark key="." line="166" column="53" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzHeadline.java" timestamp="1540948428666">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="29" column="31" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/OrganizationCommentFavourMessageHander.java" timestamp="1540170769572">
         <mark key="[" line="22" column="96" />
         <mark key="]" line="23" column="18" />
@@ -107,7 +113,7 @@
         <mark key="." line="22" column="59" />
         <mark key="^" line="22" column="59" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1540861735595">
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzHeadlineServiceImpl.java" timestamp="1540948299655">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="108" column="8" />
       </file>
@@ -502,6 +508,9 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="56" />
       </file>
+      <file name="/bzr_dev_1.5.0.xjz_headline [bzr-dev]" timestamp="1540948170548">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseService.java" timestamp="1539332809215">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="18" />
@@ -604,7 +613,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1540884426504">
+      <file name="/dummy.sql" timestamp="1540948435318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="4" />
@@ -795,11 +804,11 @@
       <jump line="81" column="41" filename="D:/companywork/bzr-server/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>AUTO</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text>AUTO</text>
       </register>
       <register name="/" type="4">
         <text>aop</text>
