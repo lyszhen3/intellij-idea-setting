@@ -199,6 +199,9 @@
         <mark key="." line="24" column="67" />
         <mark key="^" line="24" column="67" />
       </file>
+      <file name="/bzr_test.sign_up_url [bzr-test]" timestamp="1541057369422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xjz/XjzBannerImageMapper.java" timestamp="1540806744220">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="16" column="4" />
@@ -312,6 +315,9 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
+      </file>
+      <file name="/bzr_dev_1.5.0.sign_up_url [bzr-dev]" timestamp="1541057194498">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/IntegralTaskMessageHandler.java" timestamp="1540278149603">
         <mark key="[" line="33" column="11" />
@@ -711,7 +717,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1541054649205">
+      <file name="/dummy.sql" timestamp="1541057371425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
