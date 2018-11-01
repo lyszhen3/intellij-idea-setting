@@ -112,10 +112,10 @@
         <mark key="." line="45" column="18" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/producer/KafkaProducerConfig.java" timestamp="1541037299234">
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="55" column="44" />
-        <mark key="." line="55" column="44" />
-        <mark key="^" line="55" column="44" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="44" />
+        <mark key="." line="53" column="44" />
+        <mark key="^" line="53" column="44" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" timestamp="1540173366854">
         <mark key="[" line="22" column="48" />
@@ -415,10 +415,10 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/config/AppConfig.java" timestamp="1541037544264">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-        <mark key="^" line="19" column="51" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="51" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkService.java" timestamp="1539653589653">
         <mark key="[" line="68" column="107" />
@@ -693,7 +693,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540978045851">
+      <file name="/Dummy.txt" timestamp="1541040089114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -705,7 +705,6 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1541033480667" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -713,10 +712,10 @@
         <mark key="^" line="87" column="22" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/consumer/KafkaConsumerConfig.java" timestamp="1541037395743">
-        <mark key="[" line="35" column="90" />
-        <mark key="]" line="35" column="113" />
-        <mark key="." line="35" column="113" />
-        <mark key="^" line="35" column="113" />
+        <mark key="[" line="34" column="90" />
+        <mark key="]" line="34" column="113" />
+        <mark key="." line="34" column="113" />
+        <mark key="^" line="34" column="113" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/zbjt/bzr/base/service/course/CourseServiceTest.java" timestamp="1540284121421">
         <mark key="[" line="18" column="43" />
@@ -753,7 +752,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1540884321124">
+      <file name="/fragment.java" timestamp="1541039086700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
         <mark key="^" line="0" column="18" />
@@ -864,7 +863,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>group</text>
+        <text>Broker</text>
       </register>
       <register name="-" type="4">
         <text>group</text>
