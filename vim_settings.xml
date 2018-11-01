@@ -62,10 +62,6 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.0.3.RELEASE/spring-kafka-2.0.3.RELEASE-sources.jar!/org/springframework/kafka/annotation/KafkaListener.java" timestamp="1541042320919">
-        <mark key="[" line="136" column="33" />
-        <mark key="]" line="136" column="41" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/SpecialistOperationRecordMapper.java" timestamp="1539683404079">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="19" column="4" />
@@ -175,9 +171,9 @@
         <mark key="^" line="59" column="63" />
         <mark key="." line="59" column="63" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkApi.java" timestamp="1540177163568">
-        <mark key="[" line="75" column="31" />
-        <mark key="]" line="76" column="27" />
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkApi.java" timestamp="1541060359780">
+        <mark key="[" line="111" column="28" />
+        <mark key="]" line="111" column="38" />
         <mark key="^" line="76" column="27" />
         <mark key="." line="76" column="27" />
       </file>
@@ -234,6 +230,12 @@
       </file>
       <file name="/bzr_dev_1.5.0.work [bzr-dev]" timestamp="1541054332943">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkServiceImpl.java" timestamp="1541060632659">
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="." line="374" column="0" />
+        <mark key="^" line="374" column="36" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/consumer/Listener.java" timestamp="1541048223866">
         <mark key="[" line="21" column="5" />
@@ -388,11 +390,11 @@
         <mark key="^" line="378" column="43" />
         <mark key="." line="378" column="43" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/specialist/center/workreview/WorkReviewController.java" timestamp="1541059897812">
-        <mark key="[" line="131" column="89" />
-        <mark key="]" line="131" column="64" />
-        <mark key="^" line="131" column="64" />
-        <mark key="." line="131" column="64" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/specialist/center/workreview/WorkReviewController.java" timestamp="1541060672275">
+        <mark key="[" line="135" column="11" />
+        <mark key="]" line="136" column="39" />
+        <mark key="^" line="136" column="39" />
+        <mark key="." line="136" column="39" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
         <mark key="[" line="25" column="7" />
@@ -447,8 +449,8 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkService.java" timestamp="1539653589653">
-        <mark key="[" line="68" column="107" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkService.java" timestamp="1541060526434">
+        <mark key="[" line="106" column="10" />
         <mark key="]" line="69" column="101" />
         <mark key="^" line="69" column="101" />
         <mark key="." line="69" column="101" />
@@ -718,7 +720,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1541057371425">
+      <file name="/dummy.sql" timestamp="1541060274109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -900,11 +902,11 @@
       <jump line="76" column="26" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/Work.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`bzr_dev_1.5.0`.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>`bzr_dev_1.5.0`.</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>10.100.64.13</text>
@@ -913,34 +915,34 @@
         <text>int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldEthZmthUHJvZHVjZXJDb25maWcoS2Fma2FQcm9kdWNlckNvbmZpZyBrYWZrYVByb2R1Y2VyQ29uZmlnKSB7CgkJdGhpcy5rYWZrYVByb2R1Y2VyQ29uZmlnID0ga2Fma2FQcm9kdWNlckNvbmZpZzsKCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgS2Fma2FQcm9kdWNlckNvbmZpZyBrYWZrYVByb2R1Y2VyQ29uZmlnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSBLYWZrYVByb2R1Y2VyQ29uZmlnIGthZmthUHJvZHVjZXJDb25maWc7CgoJQEF1dG93aXJlZAoJcHVibGljIHZvaWQgc2V0S2Fma2FUZW1wbGF0ZShLYWZrYVRlbXBsYXRlPFN0cmluZywgU3RyaW5nPiBrYWZrYVRlbXBsYXRlKSB7CgkJdGhpcy5rYWZrYVRlbXBsYXRlID0ga2Fma2FUZW1wbGF0ZTsKCX0=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIHNldEthZmthUHJvZHVjZXJDb25maWcoS2Fma2FQcm9kdWNlckNvbmZpZyBrYWZrYVByb2R1Y2VyQ29uZmlnKSB7CgkJdGhpcy5rYWZrYVByb2R1Y2VyQ29uZmlnID0ga2Fma2FQcm9kdWNlckNvbmZpZzsKCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgS2Fma2FQcm9kdWNlckNvbmZpZyBrYWZrYVByb2R1Y2VyQ29uZmlnOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHJpdmF0ZSBLYWZrYVByb2R1Y2VyQ29uZmlnIGthZmthUHJvZHVjZXJDb25maWc7CgoJQEF1dG93aXJlZAoJcHVibGljIHZvaWQgc2V0S2Fma2FUZW1wbGF0ZShLYWZrYVRlbXBsYXRlPFN0cmluZywgU3RyaW5nPiBrYWZrYVRlbXBsYXRlKSB7CgkJdGhpcy5rYWZrYVRlbXBsYXRlID0ga2Fma2FUZW1wbGF0ZTsKCX0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0R3JvdXBJZCgpIHsKICAgICAgICByZXR1cm4gZ3JvdXBJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRHcm91cElkKFN0cmluZyBncm91cElkKSB7CiAgICAgICAgdGhpcy5ncm91cElkID0gZ3JvdXBJZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEJvb3RzdHJhcFNlcnZlcnMoKSB7CiAgICAgICAgcmV0dXJuIGJvb3RzdHJhcFNlcnZlcnM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Qm9vdHN0cmFwU2VydmVycyhTdHJpbmcgYm9vdHN0cmFwU2VydmVycykgewogICAgICAgIHRoaXMuYm9vdHN0cmFwU2VydmVycyA9IGJvb3RzdHJhcFNlcnZlcnM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRBdXRvQ29tbWl0SW50ZXJ2YWxNcygpIHsKICAgICAgICByZXR1cm4gYXV0b0NvbW1pdEludGVydmFsTXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QXV0b0NvbW1pdEludGVydmFsTXMoU3RyaW5nIGF1dG9Db21taXRJbnRlcnZhbE1zKSB7CiAgICAgICAgdGhpcy5hdXRvQ29tbWl0SW50ZXJ2YWxNcyA9IGF1dG9Db21taXRJbnRlcnZhbE1zOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2Vzc2lvblRpbWVvdXRNcygpIHsKICAgICAgICByZXR1cm4gc2Vzc2lvblRpbWVvdXRNczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTZXNzaW9uVGltZW91dE1zKFN0cmluZyBzZXNzaW9uVGltZW91dE1zKSB7CiAgICAgICAgdGhpcy5zZXNzaW9uVGltZW91dE1zID0gc2Vzc2lvblRpbWVvdXRNczsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJrYWZrYSIpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0R3JvdXBJZCgpIHsKICAgICAgICByZXR1cm4gZ3JvdXBJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRHcm91cElkKFN0cmluZyBncm91cElkKSB7CiAgICAgICAgdGhpcy5ncm91cElkID0gZ3JvdXBJZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEJvb3RzdHJhcFNlcnZlcnMoKSB7CiAgICAgICAgcmV0dXJuIGJvb3RzdHJhcFNlcnZlcnM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Qm9vdHN0cmFwU2VydmVycyhTdHJpbmcgYm9vdHN0cmFwU2VydmVycykgewogICAgICAgIHRoaXMuYm9vdHN0cmFwU2VydmVycyA9IGJvb3RzdHJhcFNlcnZlcnM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRBdXRvQ29tbWl0SW50ZXJ2YWxNcygpIHsKICAgICAgICByZXR1cm4gYXV0b0NvbW1pdEludGVydmFsTXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QXV0b0NvbW1pdEludGVydmFsTXMoU3RyaW5nIGF1dG9Db21taXRJbnRlcnZhbE1zKSB7CiAgICAgICAgdGhpcy5hdXRvQ29tbWl0SW50ZXJ2YWxNcyA9IGF1dG9Db21taXRJbnRlcnZhbE1zOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2Vzc2lvblRpbWVvdXRNcygpIHsKICAgICAgICByZXR1cm4gc2Vzc2lvblRpbWVvdXRNczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTZXNzaW9uVGltZW91dE1zKFN0cmluZyBzZXNzaW9uVGltZW91dE1zKSB7CiAgICAgICAgdGhpcy5zZXNzaW9uVGltZW91dE1zID0gc2Vzc2lvblRpbWVvdXRNczsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
