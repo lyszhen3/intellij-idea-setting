@@ -344,6 +344,11 @@
         <mark key="." line="58" column="58" />
         <mark key="^" line="58" column="58" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/consumer/EsConsumer.java" timestamp="1541040951970">
+        <mark key="[" line="64" column="63" />
+        <mark key="]" line="64" column="92" />
+        <mark key="." line="64" column="63" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzNewsCourse.java" timestamp="1540975334667">
         <mark key="[" line="132" column="11" />
         <mark key="]" line="132" column="11" />
@@ -396,11 +401,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkMapper.xml" timestamp="1540951969450">
-        <mark key="[" line="47" column="59" />
-        <mark key="]" line="48" column="49" />
-        <mark key="^" line="48" column="49" />
-        <mark key="." line="48" column="49" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkMapper.xml" timestamp="1541041156676">
+        <mark key="[" line="48" column="53" />
+        <mark key="]" line="49" column="54" />
+        <mark key="^" line="49" column="54" />
+        <mark key="." line="49" column="54" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/IndexApi.java" timestamp="1539661741372">
         <mark key="[" line="130" column="0" />
@@ -586,10 +591,6 @@
         <mark key="]" line="55" column="18" />
         <mark key="." line="55" column="18" />
         <mark key="^" line="55" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.7.RELEASE/spring-beans-5.0.7.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Qualifier.java" timestamp="1541033883571">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="26" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1540867305763">
         <mark key="[" line="67" column="33" />
