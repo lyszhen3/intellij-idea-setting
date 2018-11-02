@@ -150,6 +150,7 @@
         <mark key="^" line="78" column="34" />
         <mark key="." line="78" column="34" />
       </file>
+      <file name="D:/mywork/myWeb/design_model/src/main/resources/面向对象设计原则/Liskov Substitution Principle.puml" timestamp="1541139330122" />
       <file name="D:/mywork/myWeb/suiyiTest/src/main/java/leetcode/algorithm/AlorithmTest.java" timestamp="1536115123080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="9" column="15" />
@@ -755,6 +756,10 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
+      <file name="D:/mywork/myWeb/design_model/src/main/resources/设计模式在线阅读地址" timestamp="1541139574424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/Organization.java" timestamp="1536111714733">
         <mark key="[" line="94" column="3" />
         <mark key="]" line="104" column="33" />
@@ -927,7 +932,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICgnNjAzJywnNjAzJywnzfjVvtChvMfV37XIvLa53MDtJywnL3hqelNpdGVYanpSYW5rJywnJywwLCc2JywxLDAsMCwnJywnJywnJyksCiAgICAgICAoJzYwNCcsJzYwNCcsJ8341b7Qxc+iJywnL3hqelNpdGVJbmZvJywgJycsIDAsICc2JywxLCAwLCAwLCAnJywgJycsICcnKSwKICAgICAgICgnNjA1JywnNjA1JywnzfjVvsLWsqXNvLncwO0nLCcveGp6U2l0ZVNsaWRlU2hvdycsJycsMCwnNicsMSwwLDAsJycsJycsJycpLAogICAgICAgKCc2MDYnLCc2MDYnLCfN+NW+zbfM9bncwO0nLCcveGp6U2l0ZUhlYWRsaW5lJywnJywwLCc2JywxLDAsMCwnJywnJywnJyksCiAgICAgICAoJzYwNycsJzYwNycsJ8341b7Qo9Swtq/MrLncwO0nLCcveGp6U2l0ZVNjaG9vbER5bmFtaWMnLCcnLDAsJzYnLDEsMCwwLCcnLCcnLCcnKSwKICAgICAgICgnNjA4JywnNjA4JywnzfjVvtCj0MLOxb/OudzA7ScsJy94anpTaXRlTmV3c0NvdXJzZScsJycsMCwnNicsMSwwLDAsJycsJycsJycpLAogICAgICAgKCc2MDknLCc2MDknLCfN+NW+YmFubmVyudzA7ScsJy94anpTaXRlQmFubmVyJywnJywwLCc2JywxLDAsMCwnJywnJywnJyksCiAgICAgICAoJzYxMCcsJzYxMCcsJ8341b7N4sG0udzA7ScsJy94anpTaXRlTmV3c0NvdXJzZScsJycsMCwnNicsMSwwLDAsJycsJycsJycpLAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9nb2YucXVhbmtlLm5hbWUK</text>
       </register>
       <register name="-" type="4">
         <text>`bzr_dev_1.5.0`</text>
