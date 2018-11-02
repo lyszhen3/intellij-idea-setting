@@ -95,7 +95,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1541045265462">
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" timestamp="1541128262992">
         <mark key="'" line="332" column="0" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -231,7 +231,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/bzr_dev_1.5.0.work [bzr-dev]" timestamp="1541122710036">
+      <file name="/bzr_dev_1.5.0.work [bzr-dev]" timestamp="1541127366523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkServiceImpl.java" timestamp="1541060632659">
@@ -251,6 +251,9 @@
         <mark key="]" line="68" column="24" />
         <mark key="^" line="68" column="24" />
         <mark key="." line="68" column="24" />
+      </file>
+      <file name="/work [bzr-dev]" timestamp="1541127292505">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshowImage.java" timestamp="1539243406237">
         <mark key="[" line="91" column="0" />
@@ -731,7 +734,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1541124294315">
+      <file name="/dummy.sql" timestamp="1541127367277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
