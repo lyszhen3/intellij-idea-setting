@@ -715,11 +715,11 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1541123356344">
-        <mark key="[" line="5" column="83" />
-        <mark key="]" line="5" column="78" />
-        <mark key="." line="5" column="78" />
-        <mark key="^" line="5" column="78" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1541133730360">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="327" column="75" />
+        <mark key="." line="321" column="44" />
+        <mark key="^" line="321" column="44" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/pom.xml" timestamp="1541045041016">
         <mark key="[" line="57" column="24" />
@@ -927,7 +927,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICgnNjAzJywnNjAzJywnzfjVvtChvMfV37XIvLa53MDtJywnL3hqelNpdGVYanpSYW5rJywnJywwLCc2JywxLDAsMCwnJywnJywnJyksCiAgICAgICAoJzYwNCcsJzYwNCcsJ8341b7Qxc+iJywnL3hqelNpdGVJbmZvJywgJycsIDAsICc2JywxLCAwLCAwLCAnJywgJycsICcnKSwKICAgICAgICgnNjA1JywnNjA1JywnzfjVvsLWsqXNvLncwO0nLCcveGp6U2l0ZVNsaWRlU2hvdycsJycsMCwnNicsMSwwLDAsJycsJycsJycpLAogICAgICAgKCc2MDYnLCc2MDYnLCfN+NW+zbfM9bncwO0nLCcveGp6U2l0ZUhlYWRsaW5lJywnJywwLCc2JywxLDAsMCwnJywnJywnJyksCiAgICAgICAoJzYwNycsJzYwNycsJ8341b7Qo9Swtq/MrLncwO0nLCcveGp6U2l0ZVNjaG9vbER5bmFtaWMnLCcnLDAsJzYnLDEsMCwwLCcnLCcnLCcnKSwKICAgICAgICgnNjA4JywnNjA4JywnzfjVvtCj0MLOxb/OudzA7ScsJy94anpTaXRlTmV3c0NvdXJzZScsJycsMCwnNicsMSwwLDAsJycsJycsJycpLAogICAgICAgKCc2MDknLCc2MDknLCfN+NW+YmFubmVyudzA7ScsJy94anpTaXRlQmFubmVyJywnJywwLCc2JywxLDAsMCwnJywnJywnJyksCiAgICAgICAoJzYxMCcsJzYxMCcsJ8341b7N4sG0udzA7ScsJy94anpTaXRlTmV3c0NvdXJzZScsJycsMCwnNicsMSwwLDAsJycsJycsJycpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>`bzr_dev_1.5.0`</text>
