@@ -739,11 +739,11 @@
       <file name="/bzr_dev_1.5.0.account_student [bzr-dev]" timestamp="1541129250401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkColumnMapper.xml" timestamp="1541401200633">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="27" column="4" />
-        <mark key="^" line="27" column="4" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkColumnMapper.xml" timestamp="1541403904602">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+        <mark key="^" line="28" column="65" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540549910137">
         <mark key="[" line="84" column="16" />
