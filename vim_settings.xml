@@ -739,11 +739,11 @@
       <file name="/bzr_dev_1.5.0.account_student [bzr-dev]" timestamp="1541129250401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkColumnMapper.xml" timestamp="1541403904602">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="65" />
-        <mark key="." line="28" column="65" />
-        <mark key="^" line="28" column="65" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkColumnMapper.xml" timestamp="1541404832517">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540549910137">
         <mark key="[" line="84" column="16" />
@@ -945,7 +945,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blog-derby-schema</text>
+        <text>collection</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXV0b19wayBBUyBhdXRvUGssIA==</text>
