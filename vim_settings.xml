@@ -47,6 +47,10 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/test/java/zbjt/bzr/base/service/work/WorkServiceTests.java" timestamp="1541405567756">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="15" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="57" />
@@ -89,9 +93,9 @@
         <mark key="^" line="145" column="49" />
         <mark key="." line="145" column="49" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkColumnMapper.java" timestamp="1541401255153">
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="22" column="47" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkColumnMapper.java" timestamp="1541405454100">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="32" />
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="47" />
       </file>
@@ -112,6 +116,11 @@
         <mark key="]" line="53" column="44" />
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/zbjt/bzr/base/service/work/WorkColumnServiceTests.java" timestamp="1541405774148">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/organization/OrganizationApplyServiceImpl.java" timestamp="1540173366854">
         <mark key="[" line="22" column="48" />
@@ -462,6 +471,11 @@
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
+      <file name="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" timestamp="1541405225882">
+        <mark key="'" line="64" column="63" />
+        <mark key="[" line="37" column="57" />
+        <mark key="]" line="37" column="74" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountStudentSaveMessageHander.java" timestamp="1540172627786">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="21" column="45" />
@@ -546,6 +560,10 @@
         <mark key="]" line="23" column="79" />
         <mark key="^" line="23" column="79" />
         <mark key="." line="23" column="79" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/test/java/zbjt/bzr/base/service/organization/OrganizationServiceTest.java" timestamp="1541405430854">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="42" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/reporter/ReporterApplicationSaveMessageHander.java" timestamp="1540172049104">
         <mark key="[" line="22" column="0" />
@@ -739,11 +757,11 @@
       <file name="/bzr_dev_1.5.0.account_student [bzr-dev]" timestamp="1541129250401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkColumnMapper.xml" timestamp="1541404832517">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkColumnMapper.xml" timestamp="1541405331168">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="38" column="79" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/SimpleJpaRepositoryImpl.java" timestamp="1540549910137">
         <mark key="[" line="84" column="16" />
@@ -842,9 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="56" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
-      <jump line="289" column="26" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
-      <jump line="292" column="57" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
       <jump line="503" column="57" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
       <jump line="505" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
       <jump line="506" column="67" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" />
@@ -900,9 +915,6 @@
       <jump line="14" column="19" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/SpecialistAdminUserRelateMapper.xml" />
       <jump line="36" column="29" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
       <jump line="37" column="57" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
-      <jump line="46" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
-      <jump line="55" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
-      <jump line="64" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
       <jump line="82" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
       <jump line="41" column="13" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
       <jump line="63" column="29" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/WorkComment.java" />
@@ -942,28 +954,34 @@
       <jump line="124" column="6" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dto/WorkDTO.java" />
       <jump line="87" column="15" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/Work.java" />
       <jump line="32" column="26" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkColumnServiceImpl.java" />
+      <jump line="73" column="54" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="77" column="80" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="38" column="15" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="46" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="55" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
+      <jump line="64" column="63" filename="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>collection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W1dvcmtDb2x1bW57LCBpZD0xNzczNDEzNDY1MzQ4LCBuYW1lPbLiytTAuMS/LCBzdXBlcklkPTAsIGVuZFRpbWU9bnVsbCwgcmVwb3J0ZXJTdGF0dXM9MSwgY3JlYXRlZEF0PTIwMTgtMTAtMThUMTE6NTI6MTQsIHVwZGF0ZWRBdD0yMDE4LTEwLTE4VDExOjUyOjE0LCBpc0RlbGV0ZT0wfSwgV29ya0NvbHVtbnssIGlkPTE3OTc0MzMzODcwNzYsIG5hbWU9QUFBQSwgc3VwZXJJZD0wLCBlbmRUaW1lPW51bGwsIHJlcG9ydGVyU3RhdHVzPTAsIGNyZWF0ZWRBdD0yMDE4LTEwLTIyVDIwOjA3OjI2LCB1cGRhdGVkQXQ9MjAxOC0xMC0yMlQyMDowNzoyNSwgaXNEZWxldGU9MH0sIFdvcmtDb2x1bW57LCBpZD0xNzk3NDU2NTUwMjc2LCBuYW1lPUJCQiwgc3VwZXJJZD0wLCBlbmRUaW1lPW51bGwsIHJlcG9ydGVyU3RhdHVzPTAsIGNyZWF0ZWRBdD0yMDE4LTEwLTIyVDIwOjEzOjI4LCB1cGRhdGVkQXQ9MjAxOC0xMC0yMlQyMDoxMzoyNywgaXNEZWxldGU9MH0sIFdvcmtDb2x1bW57LCBpZD0xNzk3NDU3NzMyODY4LCBuYW1lPURERCwgc3VwZXJJZD0wLCBlbmRUaW1lPW51bGwsIHJlcG9ydGVyU3RhdHVzPTAsIGNyZWF0ZWRBdD0yMDE4LTEwLTIyVDIwOjEzOjQ2LCB1cGRhdGVkQXQ9MjAxOC0xMC0yMlQyMDoxMzo0NiwgaXNEZWxldGU9MH0sIFdvcmtDb2x1bW57LCBpZD0xODAwNTAzMjI0NzcyLCBuYW1lPV9jY2NjYywgc3VwZXJJZD0wLCBlbmRUaW1lPW51bGwsIHJlcG9ydGVyU3RhdHVzPTAsIGNyZWF0ZWRBdD0yMDE4LTEwLTIzVDA5OjI2OjUyLCB1cGRhdGVkQXQ9MjAxOC0xMC0yM1QwOToyNjo1MSwgaXNEZWxldGU9MH1dCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0b19wayBBUyBhdXRvUGssIA==</text>
+        <text>ofType=&quot;zbjt.bzr.base.dto.WorkColumnDTO</text>
       </register>
       <register name="/" type="4">
-        <text>10.100.64.13</text>
+        <text>selectPostsForBlog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQlmb3IgKFdvcmtDb2x1bW5EVE8gd29ya0NvbHVtbkRUTyA6IHdvcmtDb2x1bW5EVE9TKSB7CgkJCXdvcmtDb2x1bW5EVE8uZ2V0U3VicygpCgkJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3b3JrQ29sdW1uTWFwcGVyCg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4od29yayk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -975,25 +993,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlodHRwUmVxdWVzdC5nZXRTZXNzaW9uKCkuc2V0TWF4SW5hY3RpdmVJbnRlcnZhbCgpOwo=</text>
+        <text encoding="base64">CQkgIExFRlQgSk9JTiAoU0VMRUNUKkZST00gYHdvcmtfY29sdW1uYCBXSEVSRSBgaXNfZGVsZXRlYD0wKSB0MiBPTiB0MS5gaWRgID0gdDIuYHN1cGVyX2lkYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIHByaW1hcnk+PC9iZWFuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIHByaW1hcnk9IiI+PC9iZWFuPgo=</text>
+        <text encoding="base64">CQk8L2NvbGxlY3Rpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>vs XjzBannerService</text>
       </register>
     </registers>
     <search>
-      <last-search>10.100.64.13</last-search>
+      <last-search>selectPostsForBlog</last-search>
       <last-offset />
-      <last-pattern>10.100.64.13</last-pattern>
+      <last-pattern>selectPostsForBlog</last-pattern>
       <last-replace>1.4.0</last-replace>
       <last-substitute>selectPostsForBlog</last-substitute>
       <last-dir>1</last-dir>
@@ -1001,7 +1019,6 @@
     </search>
     <history>
       <history-search>
-        <entry>c\wechatApp</entry>
         <entry>wechatapp</entry>
         <entry>\chongkong</entry>
         <entry>\csnowflow</entry>
@@ -1012,7 +1029,6 @@
         <entry>LocalDatetime</entry>
         <entry>specialistWithDetailIntroMap</entry>
         <entry>selectAuthorWithInlineParams</entry>
-        <entry>selectPostsForBlog</entry>
         <entry>8</entry>
         <entry>'8'</entry>
         <entry>recommend_column</entry>
@@ -1021,6 +1037,8 @@
         <entry>publish</entry>
         <entry>xjz_banner_image</entry>
         <entry>10.100.64.13</entry>
+        <entry>blogWithPosts</entry>
+        <entry>selectPostsForBlog</entry>
       </history-search>
       <history-cmd>
         <entry>17,20s/Button/List</entry>
