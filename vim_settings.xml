@@ -168,6 +168,9 @@
         <mark key="." line="9" column="15" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/duiba/DuibaLoginController.java" timestamp="1541556335172" />
+      <file name="/bzr_test.organization_column_recommend [bzr-test]" timestamp="1541559623290">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/XjzBanner.java" timestamp="1540800837313">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="144" column="0" />
@@ -383,6 +386,9 @@
         <mark key="^" line="22" column="26" />
       </file>
       <file name="/work_column [bzr-dev]" timestamp="1541465494045">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/bzr_test.banner_image [bzr-test]" timestamp="1541559595049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReturn.java" timestamp="1536291372541">
@@ -676,6 +682,11 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541559779162">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseService.java" timestamp="1540973605574">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -729,6 +740,9 @@
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
+      </file>
+      <file name="/bzr_test.column_activity [bzr-test]" timestamp="1541559745450">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/com/lin/controller/HelloController.java" timestamp="1539237476775">
         <mark key="[" line="34" column="0" />
@@ -808,7 +822,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1541496715804">
+      <file name="/dummy.sql" timestamp="1541559745788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -839,7 +853,6 @@
         <mark key="^" line="25" column="89" />
       </file>
       <file name="D:/repository2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE-sources.jar!/org/springframework/remoting/support/RemoteInvocation.java" timestamp="1541554690933" />
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1541494373512" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -851,6 +864,9 @@
         <mark key="]" line="34" column="113" />
         <mark key="." line="34" column="113" />
         <mark key="^" line="34" column="113" />
+      </file>
+      <file name="/bzr_test.banner [bzr-test]" timestamp="1541559577481">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/zbjt/bzr/base/service/course/CourseServiceTest.java" timestamp="1540284121421">
         <mark key="[" line="18" column="43" />
@@ -999,10 +1015,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>\u\U*</text>
