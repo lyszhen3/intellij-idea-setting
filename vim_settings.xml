@@ -590,6 +590,12 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/XjzAccountRankMapper.xml" timestamp="1541573886222">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/message/test/Test2Message.java" timestamp="1539921298512">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="23" />
@@ -616,6 +622,12 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountRankService.java" timestamp="1541574799647">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -669,7 +681,7 @@
         <mark key="^" line="103" column="48" />
         <mark key="." line="103" column="48" />
       </file>
-      <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1541065384987">
+      <file name="/bzr_dev_1.5.0.admin_permission [bzr-dev]" timestamp="1541575040289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/config/KblRepositoryConfig.java" timestamp="1540882129949">
@@ -687,8 +699,8 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541559779162">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541575101172">
+        <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -739,6 +751,12 @@
         <mark key="]" line="44" column="5" />
         <mark key="^" line="36" column="3" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzAccountRankController.java" timestamp="1541574791648">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/repository/TestRepository.java" timestamp="1540883019097">
         <mark key="[" line="13" column="17" />
@@ -794,11 +812,11 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1541572311982">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" timestamp="1541575157271">
         <mark key="'" line="11" column="54" />
-        <mark key="[" line="305" column="13" />
-        <mark key="]" line="305" column="12" />
-        <mark key="." line="305" column="12" />
+        <mark key="[" line="338" column="31" />
+        <mark key="]" line="338" column="49" />
+        <mark key="." line="338" column="31" />
         <mark key="^" line="305" column="12" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/pom.xml" timestamp="1541045041016">
@@ -828,11 +846,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/dummy.sql" timestamp="1541570402139">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="0" />
+      <file name="/dummy.sql" timestamp="1541575054159">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/config/DataSourceConfig.java" timestamp="1540886428478">
         <mark key="[" line="21" column="13" />
@@ -870,6 +888,18 @@
         <mark key="]" line="34" column="113" />
         <mark key="." line="34" column="113" />
         <mark key="^" line="34" column="113" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountRankServiceImpl.java" timestamp="1541574839881">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="69" />
+        <mark key="^" line="30" column="69" />
+        <mark key="." line="30" column="69" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/XjzAccountRankMapper.java" timestamp="1541573758915">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="/bzr_test.banner [bzr-test]" timestamp="1541559577481">
         <mark key="[" line="0" column="0" />
@@ -1020,11 +1050,11 @@
       <jump line="11" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
+      <register name="&quot;" type="4">
+        <text>xjzSiteNewsCourse</text>
       </register>
       <register name="-" type="4">
-        <text>xjz_outside_link</text>
+        <text>xjzSiteNewsCourse</text>
       </register>
       <register name="/" type="4">
         <text>\u\U*</text>
@@ -1033,34 +1063,34 @@
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
+        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5tYXBwZXIuQmFzZU1hcHBlcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog19TU9mlkCiAgICAgKi8KCUBUYWJsZUlkKHZhbHVlPSJhdXRvX3BrIiwgdHlwZT0gSWRUeXBlLkFVVE8pCglwcml2YXRlIExvbmcgYXV0b1BrOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHpianQuYnpyLmJhc2UuZW50aXR5LlhqekFjY291bnRSYW5rOwo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBienJfZGV2XzEuNS4wYC5geGp6X2FjY291bnRfcmFua2AgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBhdXRvX3BrYCBCSUdJTlQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn19TU9mlkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgaWRgIFZBUkNIQVIoNTApIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAnyuTI62lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgbmFtZWAgVkFSQ0hBUig1MCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfD+7PGJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgbmVlZF9pbnRlZ3JhbGAgQklHSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICfL+dDou/231icsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYGlzX2RlbGV0ZWAgVElOWUlOVCBOT1QgTlVMTCBERUZBVUxUIDAgQ09NTUVOVCAnMM60yb6z/THJvrP9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgY3JlYXRlZF9hdGAgREFURVRJTUUgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgdXBkYXRlZF9hdGAgREFURVRJTUUgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAgQ09NTUVOVCAnuPzQwsqxvOQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVOSVFVRSBJTkRFWCBgdWtfaWRgIChgaWRgIEFTQyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUFJJTUFSWSBLRVkgKGBhdXRvX3BrYCkpCiAgQ09NTUVOVCA9ICfQobzH1d+1yLy2JzsK</text>
+        <text encoding="base64">CQkJImF1dG9Qaz0iICsgYXV0b1BrICsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB4anpfYWNjb3VudF9yYW5rYCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYGF1dG9fcGtgIEJJR0lOVCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfX1NT2aWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBpZGAgVkFSQ0hBUig1MCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfK5MjraWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBuYW1lYCBWQVJDSEFSKDUwKSBOT1QgTlVMTCBERUZBVUxUICcnIENPTU1FTlQgJ8P7s8YnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBuZWVkX2ludGVncmFsYCBCSUdJTlQgTk9UIE5VTEwgREVGQVVMVCAwIENPTU1FTlQgJ8v50Oi7/bfWJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgaXNfZGVsZXRlYCBUSU5ZSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICcwzrTJvrP9Mcm+s/0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBjcmVhdGVkX2F0YCBEQVRFVElNRSBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGB1cGRhdGVkX2F0YCBEQVRFVElNRSBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICe4/NDCyrG85CcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVU5JUVVFIElOREVYIGB1a19pZGAgKGBpZGAgQVNDKSkKICBDT01NRU5UID0gJ9ChvMfV37XIvLYnOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CXB1YmxpYyBMb25nIGdldEF1dG9QaygpIHsKCQlyZXR1cm4gYXV0b1BrOwoJfQoKCXB1YmxpYyB2b2lkIHNldEF1dG9QayhMb25nIGF1dG9QaykgewoJCXRoaXMuYXV0b1BrID0gYXV0b1BrOwoJfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog19TU9mlkCiAgICAgKi8KCUBUYWJsZUlkKHZhbHVlPSJhdXRvX3BrIiwgdHlwZT0gSWRUeXBlLkFVVE8pCglwcml2YXRlIExvbmcgYXV0b1BrOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBienJfZGV2XzEuNS4wYC5geGp6X2FjY291bnRfcmFua2AgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBhdXRvX3BrYCBCSUdJTlQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn19TU9mlkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgaWRgIFZBUkNIQVIoNTApIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAnyuTI62lkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgbmFtZWAgVkFSQ0hBUig1MCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfD+7PGJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgbmVlZF9pbnRlZ3JhbGAgQklHSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICfL+dDou/231icsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYGlzX2RlbGV0ZWAgVElOWUlOVCBOT1QgTlVMTCBERUZBVUxUIDAgQ09NTUVOVCAnMM60yb6z/THJvrP9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgY3JlYXRlZF9hdGAgREFURVRJTUUgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgdXBkYXRlZF9hdGAgREFURVRJTUUgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAgQ09NTUVOVCAnuPzQwsqxvOQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVOSVFVRSBJTkRFWCBgdWtfaWRgIChgaWRgIEFTQyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUFJJTUFSWSBLRVkgKGBhdXRvX3BrYCkpCiAgQ09NTUVOVCA9ICfQobzH1d+1yLy2JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGB4anpfYWNjb3VudF9yYW5rYCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYGF1dG9fcGtgIEJJR0lOVCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfX1NT2aWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBpZGAgVkFSQ0hBUig1MCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfK5MjraWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBuYW1lYCBWQVJDSEFSKDUwKSBOT1QgTlVMTCBERUZBVUxUICcnIENPTU1FTlQgJ8P7s8YnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBuZWVkX2ludGVncmFsYCBCSUdJTlQgTk9UIE5VTEwgREVGQVVMVCAwIENPTU1FTlQgJ8v50Oi7/bfWJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBgaXNfZGVsZXRlYCBUSU5ZSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICcwzrTJvrP9Mcm+s/0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBjcmVhdGVkX2F0YCBEQVRFVElNRSBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGB1cGRhdGVkX2F0YCBEQVRFVElNRSBOT1QgTlVMTCBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIE9OIFVQREFURSBDVVJSRU5UX1RJTUVTVEFNUCBDT01NRU5UICe4/NDCyrG85CcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVU5JUVVFIElOREVYIGB1a19pZGAgKGBpZGAgQVNDKSkKICBDT01NRU5UID0gJ9ChvMfV37XIvLYnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFByb2ZpbGUoKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>
