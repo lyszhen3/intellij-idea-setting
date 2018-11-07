@@ -56,10 +56,12 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzAccountRank.java" timestamp="1541572878717">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzAccountRank.java" timestamp="1541577305551">
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="39" column="57" />
+        <mark key="]" line="39" column="55" />
+        <mark key="." line="39" column="55" />
+        <mark key="^" line="39" column="55" />
       </file>
       <file name="D:/mywork/first-gradle/build.gradle" timestamp="1536139992988">
         <mark key="[" line="20" column="12" />
@@ -623,11 +625,11 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountRankService.java" timestamp="1541574799647">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="36" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountRankService.java" timestamp="1541577413409">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -752,11 +754,11 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzAccountRankController.java" timestamp="1541576483848">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="36" />
-        <mark key="^" line="41" column="36" />
-        <mark key="." line="41" column="36" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzAccountRankController.java" timestamp="1541577348170">
+        <mark key="[" line="44" column="130" />
+        <mark key="]" line="44" column="87" />
+        <mark key="^" line="44" column="87" />
+        <mark key="." line="44" column="87" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/repository/TestRepository.java" timestamp="1540883019097">
         <mark key="[" line="13" column="17" />
@@ -889,11 +891,11 @@
         <mark key="." line="34" column="113" />
         <mark key="^" line="34" column="113" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountRankServiceImpl.java" timestamp="1541574839881">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="69" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="30" column="69" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountRankServiceImpl.java" timestamp="1541577927826">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="39" column="19" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/XjzAccountRankMapper.java" timestamp="1541573758915">
         <mark key="[" line="14" column="3" />
@@ -948,7 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="29" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="2" column="4" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="16" column="22" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="107" column="25" filename="D:/companywork/bzr-server/pom.xml" />
@@ -1048,6 +1049,7 @@
       <jump line="44" column="10" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzNewsCourse.java" />
       <jump line="45" column="25" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzNewsCourse.java" />
       <jump line="11" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" />
+      <jump line="26" column="6" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzAccountRank.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
