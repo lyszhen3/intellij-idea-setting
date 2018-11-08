@@ -512,11 +512,11 @@
         <mark key="." line="6" column="66" />
         <mark key="^" line="6" column="66" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541662998676">
-        <mark key="[" line="34" column="92" />
-        <mark key="]" line="32" column="61" />
-        <mark key="^" line="32" column="61" />
-        <mark key="." line="32" column="61" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541669474873">
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="88" column="36" />
+        <mark key="^" line="88" column="36" />
+        <mark key="." line="88" column="36" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/organization/OrganizationCollectionSaveMessageHandler.java" timestamp="1540171606268">
         <mark key="[" line="28" column="0" />
@@ -634,6 +634,12 @@
       </file>
       <file name="/bzr_test.organization_column_recommend [bzr-test]" timestamp="1541559623290">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/duiba/DuibaLoginController.java" timestamp="1541668758499">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="41" />
+        <mark key="^" line="44" column="41" />
+        <mark key="." line="44" column="41" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/XjzBanner.java" timestamp="1540800837313">
         <mark key="[" line="19" column="22" />
@@ -803,11 +809,10 @@
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="D:/mywork/myWeb/spring-test/src/test/java/springannotation/aop/DefaultAopTestServiceImpl.java" timestamp="1541667247349">
-        <mark key="[" line="31" column="43" />
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="33" column="33" />
-        <mark key="." line="31" column="43" />
+      <file name="D:/mywork/myWeb/spring-test/src/test/java/springannotation/aop/DefaultAopTestServiceImpl.java" timestamp="1541669166657">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/IndexApi.java" timestamp="1539661741372">
         <mark key="[" line="130" column="0" />
@@ -877,6 +882,12 @@
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/util/RegexExpress.java" timestamp="1541668838674">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1540869486202">
         <mark key="[" line="22" column="68" />
@@ -1102,11 +1113,11 @@
       <jump line="50" column="59" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/WorkMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1111 ff11</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1111 ff11</text>
+        <text>redirect</text>
       </register>
       <register name="/" type="4">
         <text>spring-test</text>
@@ -1114,43 +1125,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>public static void main(String[] args) {
-		String reg = &quot;\\d&quot;;
-		Pattern pattern =Pattern.compile(reg);
-		Matcher matcher = pattern.matcher(&quot;111&quot;);
-		if(matcher.find()){
-			String group = matcher.group();
-			System.out.println(group);
-		}
-	}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlNYXRjaGVyIG1hdGNoZXIgPSBuZXcgTWF0Y2hlcihyZWcpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTdHJpbmcgcmVnID0gIihodHRwc3xodHRwKTovLyguKikiOwoJCVBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZShyZWcpOwoJCU1hdGNoZXIgbWF0Y2hlciA9IHBhdHRlcm4ubWF0Y2hlcigiaHR0cDovLyIpOwoJCWlmKG1hdGNoZXIuZmluZCgpKXsKCQkJU3RyaW5nIGdyb3VwID0gbWF0Y2hlci5ncm91cCgpOwoJCQlTeXN0ZW0ub3V0LnByaW50bG4oZ3JvdXApOwoJCQlTdHJpbmcgZ3JvdXAxID0gbWF0Y2hlci5ncm91cCgyKTsKCQkJU3lzdGVtLm91dC5wcmludGxuKGdyb3VwMS5sZW5ndGgoKSk7CgkJfQoJfQ==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIFN0cmluZyByZWcgPSAiXFxkezJ9W2Etel0iOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3QK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nVXRpbHMuaGFzVGV4dCh1cmxNYXRjaCgiaHR0cHM6Ly8iKVsxXSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlNYXAK</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QEFzcGVjdEoK</text>
+      <register name="8" type="4">
+        <text>public static void main(String[] args) {
+		String[] strings = UrlMatch(&quot;https://&quot;);
+		System.out.println(strings[1]);
+	}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8aWQgY29sdW1uPSJhdXRvX3BrIiBwcm9wZXJ0eT0iYXV0b1BrIiAvPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>
