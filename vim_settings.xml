@@ -445,6 +445,10 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
+      <file name="D:/mywork/mybatis-3/src/test/java/org/apache/ibatis/binding/BoundBlogMapper.java" timestamp="1541640750233">
+        <mark key="[" line="104" column="2" />
+        <mark key="]" line="107" column="3" />
+      </file>
       <file name="D:/mywork/myWeb/spring-test/src/test/java/springannotation/contrust/Bar1.java" timestamp="1541552799440">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="11" column="9" />
@@ -1050,8 +1054,11 @@
       <jump line="26" column="6" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzAccountRank.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>@Select(&quot;SELECT * FROM post ORDER BY id&quot;)
+  @Results({
+      @Result(id = true, property = &quot;id&quot;, column = &quot;id&quot;)
+  })</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U3RyaW5nIA==</text>
