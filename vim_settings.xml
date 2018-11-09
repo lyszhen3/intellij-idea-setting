@@ -271,11 +271,12 @@
       <file name="/xjz_account [bzr-dev]" timestamp="1541724691049">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1541732726142">
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="10" />
-        <mark key="^" line="87" column="10" />
-        <mark key="." line="87" column="10" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" timestamp="1541751482524">
+        <mark key="'" line="55" column="59" />
+        <mark key="[" line="81" column="62" />
+        <mark key="]" line="81" column="25" />
+        <mark key="^" line="81" column="25" />
+        <mark key="." line="81" column="25" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
@@ -493,7 +494,7 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="40" />
       </file>
-      <file name="/dummy.sql" timestamp="1541749137142">
+      <file name="/dummy.sql" timestamp="1541751062181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="6" />
@@ -505,8 +506,8 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541732745540">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1541751491271">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="0" />
@@ -653,6 +654,12 @@
         <mark key="]" line="42" column="53" />
         <mark key="^" line="42" column="53" />
         <mark key="." line="42" column="53" />
+      </file>
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/xjz/XjzSlideshow.java" timestamp="1541751415358">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="29" />
+        <mark key="." line="45" column="29" />
+        <mark key="^" line="45" column="29" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/api/ApiCode.java" timestamp="1539744566171">
         <mark key="[" line="78" column="0" />
@@ -861,13 +868,6 @@
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/XjzAccount.java" timestamp="1541726396375">
-        <mark key="'" line="46" column="27" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountStudentSaveMessageHander.java" timestamp="1540172627786">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="21" column="45" />
@@ -1010,6 +1010,9 @@
         <mark key="." line="29" column="6" />
         <mark key="^" line="29" column="6" />
       </file>
+      <file name="/bzr_dev_1.5.0.xjz_slideshow [bzr-dev]" timestamp="1541751061537">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/consumer/KafkaConsumerConfig.java" timestamp="1541044942064">
         <mark key="[" line="34" column="90" />
         <mark key="]" line="34" column="113" />
@@ -1050,7 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
       <jump line="244" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
       <jump line="325" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
       <jump line="43" column="0" filename="D:/companywork/bzr-server/bzr-base/src/main/resources/config/application.yml" />
@@ -1150,13 +1152,14 @@
       <jump line="233" column="5" filename="D:/Applications/Scoop/apps/gradle/current/wrapper/dists/gradle-4.2-all/35kgqhc6h01n0g1he8zslvs9l/gradle-4.2/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java" />
       <jump line="43" column="36" filename="D:/Applications/Scoop/apps/gradle/current/wrapper/dists/gradle-4.2-all/35kgqhc6h01n0g1he8zslvs9l/gradle-4.2/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java" />
       <jump line="49" column="5" filename="D:/Applications/Scoop/apps/gradle/current/wrapper/dists/gradle-4.2-all/35kgqhc6h01n0g1he8zslvs9l/gradle-4.2/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java" />
+      <jump line="54" column="59" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSlideshowServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testCompile</text>
+        <text>主题不能空</text>
       </register>
       <register name="-" type="4">
-        <text>it修改</text>
+        <text>主题不能空</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
