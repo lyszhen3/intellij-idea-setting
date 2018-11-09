@@ -471,11 +471,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountServiceImpl.java" timestamp="1541662932629">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="22" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountServiceImpl.java" timestamp="1541726659854">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="78" />
+        <mark key="^" line="42" column="78" />
+        <mark key="." line="42" column="78" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/sys/columnrecommend/activity/ColumnActivityServiceImpl.java" timestamp="1540342969795">
         <mark key="[" line="377" column="47" />
@@ -560,12 +560,12 @@
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/XjzAccount.java" timestamp="1541670715688">
-        <mark key="'" line="58" column="8" />
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
-        <mark key="^" line="60" column="25" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/XjzAccount.java" timestamp="1541726396375">
+        <mark key="'" line="46" column="27" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="28" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountStudentSaveMessageHander.java" timestamp="1540172627786">
         <mark key="[" line="21" column="45" />
@@ -789,11 +789,11 @@
         <mark key="." line="31" column="4" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzAccountController.java" timestamp="1541671468616">
-        <mark key="[" line="40" column="130" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="49" />
+      <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzAccountController.java" timestamp="1541726066740">
+        <mark key="[" line="44" column="82" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="45" column="43" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/image/OrganizationCommentImageSaveMessageHander.java" timestamp="1540172828761">
         <mark key="[" line="27" column="23" />
@@ -930,11 +930,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountService.java" timestamp="1541662798056">
-        <mark key="[" line="26" column="112" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountService.java" timestamp="1541726088550">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="29" column="6" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/IndexApi.java" timestamp="1541062625315">
         <mark key="[" line="25" column="78" />
@@ -999,11 +999,11 @@
         <mark key="." line="31" column="52" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541670793311">
-        <mark key="[" line="94" column="16" />
-        <mark key="]" line="94" column="86" />
-        <mark key="^" line="94" column="86" />
-        <mark key="." line="94" column="86" />
+      <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541726511096">
+        <mark key="[" line="96" column="16" />
+        <mark key="]" line="78" column="19" />
+        <mark key="^" line="78" column="19" />
+        <mark key="." line="78" column="19" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/comment/image/OrganizationCommentImageDeleteMessageHander.java" timestamp="1540172850602">
         <mark key="[" line="21" column="0" />
@@ -1025,7 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="25" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="144" column="25" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="190" column="25" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="202" column="25" filename="D:/companywork/bzr-server/pom.xml" />
@@ -1125,6 +1124,7 @@
       <jump line="50" column="35" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="67" column="36" filename="D:/companywork/bzr-server/pom.xml" />
       <jump line="77" column="24" filename="D:/companywork/bzr-server/pom.xml" />
+      <jump line="46" column="27" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/domain/XjzAccount.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
