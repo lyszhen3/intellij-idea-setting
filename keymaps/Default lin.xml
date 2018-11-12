@@ -8,9 +8,7 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
-  <action id="ImplementMethods">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
-  </action>
+  <action id="ImplementMethods" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt k" />
