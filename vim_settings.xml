@@ -484,8 +484,12 @@
         <mark key="^" line="76" column="108" />
         <mark key="." line="76" column="108" />
       </file>
-      <file name="D:/workspace/self/myWeb/demo_web/src/main/java/com/test.java" timestamp="1542421129679">
+      <file name="D:/workspace/self/myWeb/demo_web/src/main/java/com/test.java" timestamp="1544323451562">
         <mark key="'" line="13" column="0" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-dbsync/pom.xml" timestamp="1541045041016">
         <mark key="[" line="57" column="24" />
@@ -1053,6 +1057,7 @@
       <file name="/bzr_test.banner [bzr-test]" timestamp="1541559577481">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java" timestamp="1544323353671" />
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/work/WorkColumnController.java" timestamp="1541408699474">
         <mark key="[" line="117" column="13" />
         <mark key="]" line="116" column="21" />
@@ -1086,7 +1091,7 @@
       <jump line="54" column="31" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/core/api/ErrorHandler.java" />
       <jump line="85" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" />
       <jump line="120" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/47dbdf7b-61ef-47ff-9787-d97b415120a3/1-5-0.sql" />
-      <jump line="84" column="53" filename="$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom" />
+      <jump line="84" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom" />
       <jump line="60" column="16" filename="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentServiceImpl.java" />
       <jump line="60" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
       <jump line="40" column="4" filename="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkCommentApi.java" />
@@ -1175,11 +1180,11 @@
       <jump line="13" column="0" filename="D:/workspace/self/myWeb/demo_web/src/main/java/com/test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGhyZWFkIHRocmVhZCA9IG5ldyBUaHJlYWQoKCkgLT4gewoJCQlTeXN0ZW0ub3V0LnByaW50bG4oIndvIik7CgkJfSk7CgkJdGhyZWFkLnJ1bigpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>主题不能空</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>\vtest_2\@!.*</text>
@@ -1187,35 +1192,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlFbnRpdHlXcmFwcGVyPE9iamVjdD4gb2JqZWN0RW50aXR5V3JhcHBlciA9IG5ldyBFbnRpdHlXcmFwcGVyPD4oKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">VGhyZWFkIHRocmVhZCA9IG5ldyBUaHJlYWQoKCkgLT4gewoJCQlTeXN0ZW0ub3V0LnByaW50bG4oIndvIik7CgkJfSk7CgkJdGhyZWFkLnJ1bigpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlvYmplY3RFbnRpdHlXcmFwcGVyLgo=</text>
+        <text encoding="base64">CQl0aHJlYWQuc3RvcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aHJlYWQucnVuKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcms6c3ByaW5nLXRlc3Q6NS4wLjkuUkVMRUFTRScK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJTGlzdDxTdHJpbmc+IHVwZGF0ZUlkcyA9IHVwZGF0ZXMuc3RyZWFtKCkubWFwKFhqek5ld3NDb3Vyc2U6OmdldElkKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQlFbnRpdHlXcmFwcGVyPE9iamVjdD4gb2JqZWN0RW50aXR5V3JhcHBlciA9IG5ldyBFbnRpdHlXcmFwcGVyPD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlvYmplY3RFbnRpdHlXcmFwcGVyLgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXhqelNjaG9vbER5bmFtaWNNYXBwZXIudXBkYXRlQnlJZCh4anpTY2hvb2xEeW5hbWljKTsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcms6c3ByaW5nLXRlc3Q6NS4wLjkuUkVMRUFTRScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJTGlzdDxTdHJpbmc+IHVwZGF0ZUlkcyA9IHVwZGF0ZXMuc3RyZWFtKCkubWFwKFhqek5ld3NDb3Vyc2U6OmdldElkKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>h vim</text>
