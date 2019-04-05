@@ -131,6 +131,7 @@
         <mark key="^" line="26" column="77" />
         <mark key="." line="26" column="77" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/build/classes/java/main/synaxuncrateenchase/TestCrate.class" timestamp="1554477831494" />
       <file name="D:/companywork/bzr-server/bzr-dbsync/src/main/java/zbjt/bzr/dbsync/producer/CanalConfig.java" timestamp="1541036030540">
         <mark key="[" line="79" column="5" />
         <mark key="]" line="77" column="30" />
@@ -708,11 +709,10 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/synaxuncrateenchase/TestCrate.java" timestamp="1554450222366">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/synaxuncrateenchase/TestCrate.java" timestamp="1554478614104">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/course/ReservationApi.java" timestamp="1540171334495">
         <mark key="[" line="103" column="135" />
@@ -1187,10 +1187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhLmludFZhbHVlKCkrYi5pbnRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">CQloZWxsbygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>a == (i1 + i2)</text>
       </register>
       <register name="/" type="4">
         <text>\vtest_2\@!.*</text>
@@ -1199,34 +1199,34 @@
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhLmludFZhbHVlKCkrYi5pbnRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">CQloZWxsbygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhLmludFZhbHVlKCkK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGExID0gSW50ZWdlci52YWx1ZU9mKDEpOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgaSA9ICJ3b87StcQiOwo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oZSA9PSAzMjEpOwo=</text>
+        <text encoding="base64">CQloZWxsbygpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">VGhyZWFkIHRocmVhZCA9IG5ldyBUaHJlYWQoKCkgLT4gewoJCQlTeXN0ZW0ub3V0LnByaW50bG4oIndvIik7CgkJfSk7CgkJdGhyZWFkLnJ1bigpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlJbnRlZ2VyIGkyID0gMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aHJlYWQuc3RvcCgpOwo=</text>
+        <text encoding="base64">CQlJbnRlZ2VyIGkxID0gMjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aHJlYWQucnVuKCk7Cg==</text>
+        <text encoding="base64">CQlhLmludFZhbHVlKCkrYi5pbnRWYWx1ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlhLmludFZhbHVlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlFbnRpdHlXcmFwcGVyPE9iamVjdD4gb2JqZWN0RW50aXR5V3JhcHBlciA9IG5ldyBFbnRpdHlXcmFwcGVyPD4oKTsK</text>
+        <text encoding="base64">CQlJbnRlZ2VyIGExID0gSW50ZWdlci52YWx1ZU9mKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>h vim</text>
