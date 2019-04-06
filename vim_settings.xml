@@ -709,10 +709,11 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/synaxuncrateenchase/TestCrate.java" timestamp="1554519318928">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/synaxuncrateenchase/TestCrate.java" timestamp="1554521834051">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/course/ReservationApi.java" timestamp="1540171334495">
         <mark key="[" line="103" column="135" />
@@ -1197,14 +1198,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQloZWxsbygpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CXN0YXRpYyB7CgkJaiA9IDMyMTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oaik7Cgl9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgaSA9ICJ3b87StcQiOwo=</text>
+        <text encoding="base64">CQlJbnRlZ2VyIGEgPSBuZXcgSW50ZWdlcigtMzI3NjkpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
@@ -1213,19 +1214,19 @@
         <text encoding="base64">CQloZWxsbygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGkyID0gMzsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGkxID0gMjsK</text>
+        <text encoding="base64">CQlTdHJpbmcgaSA9ICJ3b87StcQiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhLmludFZhbHVlKCkrYi5pbnRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">CQloZWxsbygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhLmludFZhbHVlKCkK</text>
+        <text encoding="base64">CQlJbnRlZ2VyIGkyID0gMzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlJbnRlZ2VyIGExID0gSW50ZWdlci52YWx1ZU9mKDEpOwo=</text>
+        <text encoding="base64">CQlJbnRlZ2VyIGkxID0gMjsK</text>
       </register>
       <register name=":" type="4">
         <text>h vim</text>
