@@ -528,10 +528,10 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554436643972">
+      <file name="/Dummy.txt" timestamp="1554523068630">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/IndexApi.java" timestamp="1541984113242">
@@ -709,11 +709,11 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/synaxuncrateenchase/TestCrate.java" timestamp="1554521834051">
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/synaxuncrateenchase/TestCrate.java" timestamp="1554523054714">
         <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/organization/course/ReservationApi.java" timestamp="1540171334495">
         <mark key="[" line="103" column="135" />
@@ -1187,10 +1187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>算法</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>算法</text>
       </register>
       <register name="/" type="4">
         <text>\vtest_2\@!.*</text>
