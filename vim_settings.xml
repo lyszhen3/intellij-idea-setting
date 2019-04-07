@@ -257,7 +257,6 @@
         <mark key="^" line="30" column="30" />
         <mark key="." line="30" column="30" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/io/BufferToText.java" timestamp="1554560518074" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540448135105">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="14" />
@@ -540,6 +539,7 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1554596517823" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -1023,6 +1023,7 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/InputStream.java" timestamp="1554597494123" />
       <file name="/bzr_test.column_activity [bzr-test]" timestamp="1541559745450">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1374,6 +1375,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
