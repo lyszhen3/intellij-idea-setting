@@ -533,7 +533,7 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541751491271">
+      <file name="/Dummy.txt" timestamp="1555764119811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -582,11 +582,11 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1555756870994">
+      <file name="/fragment.java" timestamp="1555767209160">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="72" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/course/CourseServiceImpl.java" timestamp="1539743033199">
         <mark key="[" line="163" column="9" />
@@ -978,8 +978,11 @@
         <mark key="^" line="181" column="77" />
         <mark key="." line="181" column="77" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555758478198">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555767042721">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" timestamp="1541732443853">
         <mark key="[" line="81" column="48" />
@@ -1002,6 +1005,7 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1541743329617">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/logging/Logger.java" timestamp="1555767154387" />
       <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/io/FormattedMemoryInput.java" timestamp="1554618084220">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="18" column="7" />
@@ -1200,10 +1204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>Logger.getLogger(&quot;wo&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>Logger.getLogger(&quot;wo&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
@@ -1211,36 +1215,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>import shen.C1;
-import shen.OC1;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9IGNhdGNoIChUaHJvd2FibGUgdGhyb3dhYmxlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCUNsYXNzPEMxLklDMT4gaWMxQ2xhc3MgPSBDMS5JQzEuY2xhc3M7CgkgICAJbmV3IE9DMSgpOwoKCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFRlc3RKYXZhYzsK</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly8JCQlTeXN0ZW0ub3V0LnByaW50bG4oZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFRlc3R0ZXN0Owo=</text>
+        <text encoding="base64">Ly8JCQlMb2dnZXIuZ2V0TG9nZ2VyKCJhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlUZXN0U2VuZEVtYWlsQ2xhc3MK</text>
+        <text encoding="base64">CQl9IGNhdGNoIChUaHJvd2FibGUgZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>
