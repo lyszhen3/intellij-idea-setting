@@ -242,6 +242,12 @@
         <mark key="^" line="30" column="30" />
         <mark key="." line="30" column="30" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/shen/InnerClassTest.java" timestamp="1555758024522">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="8" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540448135105">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="14" />
@@ -275,6 +281,11 @@
         <mark key="]" line="390" column="0" />
         <mark key="^" line="391" column="44" />
         <mark key="." line="390" column="0" />
+      </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/InnerClassTest.java" timestamp="1555757626303">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/TestServiceImpl.java" timestamp="1540521832945">
         <mark key="[" line="31" column="0" />
@@ -511,7 +522,6 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1541983520523" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -548,7 +558,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1541665742496">
+      <file name="/fragment.java" timestamp="1555756870994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
         <mark key="^" line="0" column="18" />
@@ -939,8 +949,11 @@
         <mark key="^" line="181" column="77" />
         <mark key="." line="181" column="77" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555753287770">
-        <mark key="[" line="10" column="97" />
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555757984588">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" timestamp="1541732443853">
         <mark key="[" line="81" column="48" />
@@ -1161,10 +1174,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIERhdGFJbnB1dFN0cmVhbSBpbiAgPSBuZXcgRGF0YUlucHV0U3RyZWFtKAogICAgICAgICAgICAgICAgICAgIG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShCdWZmZXJlZElucHV0RmlsZS5yZWFkKHBhdGgpLmdldEJ5dGVzKENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSkpKTsKICAgICAgICAgICAgd2hpbGUgKGluLmF2YWlsYWJsZSgpIT0wKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGluLnJlYWRCeXRlKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0=</text>
+        <text>TestJavac</text>
       </register>
       <register name="-" type="4">
-        <text>Buffer</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
@@ -1172,35 +1185,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIERhdGFJbnB1dFN0cmVhbSBpbiAgPSBuZXcgRGF0YUlucHV0U3RyZWFtKAogICAgICAgICAgICAgICAgICAgIG5ldyBCeXRlQXJyYXlJbnB1dFN0cmVhbShCdWZmZXJlZElucHV0RmlsZS5yZWFkKHBhdGgpLmdldEJ5dGVzKENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSkpKTsKICAgICAgICAgICAgd2hpbGUgKGluLmF2YWlsYWJsZSgpIT0wKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGluLnJlYWRCeXRlKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9ICJEOlxcd29ya3NwYWNlXFxzZWxmXFxteVdlYlxcc3VpeWlUZXN0XFxzcmNcXG1haW5cXGphdmFcXGlvXFxGb3JtYXR0ZWRNZW1vcnlJbnB1dC5qYXZhIjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoKGNoYXIpIGluLnJlYWRCeXRlKCkpOwo=</text>
+        <text encoding="base64">CQlDLmMoKTsK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlFbnRpdHlXcmFwcGVyPE9iamVjdD4gb2JqZWN0RW50aXR5V3JhcHBlciA9IG5ldyBFbnRpdHlXcmFwcGVyPD4oKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlvYmplY3RFbnRpdHlXcmFwcGVyLgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcms6c3ByaW5nLXRlc3Q6NS4wLjkuUkVMRUFTRScK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJTGlzdDxTdHJpbmc+IHVwZGF0ZUlkcyA9IHVwZGF0ZXMuc3RyZWFtKCkubWFwKFhqek5ld3NDb3Vyc2U6OmdldElkKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>
