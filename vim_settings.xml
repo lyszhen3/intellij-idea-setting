@@ -14,6 +14,11 @@
       <file name="/bzr_dev_1.5.0.xjz_news_course [bzr-dev]" timestamp="1540973842660">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/rmi/CCCTTT.java" timestamp="1555759353150">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/mywork/first-gradle/first-web/src/main/java/FirstWeb.java" timestamp="1536128272013">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="51" />
@@ -64,6 +69,15 @@
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/rmi/Fjd.java" timestamp="1555759155756">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestSendEmailClass.java" timestamp="1555758708799">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="30" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-api/src/main/java/zbjt/bzr/api/controller/work/WorkApi.java" timestamp="1541060359780">
         <mark key="[" line="111" column="28" />
@@ -161,6 +175,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/shen/khk.java" timestamp="1555759145924">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/rpc/message/test/TestMessage.java" timestamp="1539921303481">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="11" column="47" />
@@ -209,6 +228,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="69" column="24" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/shen/C1.java" timestamp="1555759363940">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1541743329287">
         <mark key="[" line="0" column="0" />
       </file>
@@ -242,11 +266,10 @@
         <mark key="^" line="30" column="30" />
         <mark key="." line="30" column="30" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/shen/InnerClassTest.java" timestamp="1555758024522">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="8" />
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/shen/InnerClassTest.java" timestamp="1555758964773">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540448135105">
         <mark key="[" line="23" column="13" />
@@ -522,6 +545,7 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1555758325721" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -762,6 +786,11 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestThread.java" timestamp="1555758822329">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/BzrTest.java" timestamp="1540530820656">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="55" />
@@ -949,11 +978,8 @@
         <mark key="^" line="181" column="77" />
         <mark key="." line="181" column="77" />
       </file>
-      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555757984588">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="30" column="13" />
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555758478198">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzNewsCourseServiceImpl.java" timestamp="1541732443853">
         <mark key="[" line="81" column="48" />
@@ -1174,7 +1200,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TestJavac</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -1185,35 +1211,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>import shen.C1;
+import shen.OC1;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlDLmMoKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCUNsYXNzPEMxLklDMT4gaWMxQ2xhc3MgPSBDMS5JQzEuY2xhc3M7CgkgICAJbmV3IE9DMSgpOwoKCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+        <text encoding="base64">aW1wb3J0IFRlc3RKYXZhYzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+        <text encoding="base64">aW1wb3J0IFRlc3R0ZXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5DOwo=</text>
+        <text encoding="base64">CQlUZXN0U2VuZEVtYWlsQ2xhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>
