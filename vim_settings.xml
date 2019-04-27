@@ -538,6 +538,12 @@
         <mark key="^" line="81" column="25" />
         <mark key="." line="81" column="25" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/spi/SpiImpl2.java" timestamp="1556374451879">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
         <mark key="]" line="390" column="0" />
@@ -686,6 +692,12 @@
         <mark key="^" line="181" column="77" />
         <mark key="." line="181" column="77" />
       </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/spi/SpiTest.java" timestamp="1556375281901">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="48" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="14" column="48" />
+      </file>
       <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/TestJavac.java" timestamp="1555769210935">
         <mark key="'" line="8" column="23" />
         <mark key="[" line="8" column="0" />
@@ -752,11 +764,18 @@
         <mark key="^" line="18" column="6" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ServiceLoader.java" timestamp="1556375023195" />
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzOutsideLinkController.java" timestamp="1540976088211">
         <mark key="[" line="50" column="5" />
         <mark key="]" line="55" column="18" />
         <mark key="." line="55" column="18" />
         <mark key="^" line="55" column="18" />
+      </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/resources/META-INF/services/spi.SpiHello" timestamp="1556374514931">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/test/java/BzrGenerator.java" timestamp="1541657951103">
         <mark key="[" line="67" column="28" />
@@ -787,6 +806,12 @@
         <mark key="]" line="27" column="26" />
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
+      </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/spi/SpiHello.java" timestamp="1556374420733">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzAccountRankController.java" timestamp="1541639052283">
         <mark key="[" line="72" column="8" />
@@ -909,7 +934,6 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1555758325721" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -957,6 +981,12 @@
         <mark key="]" line="31" column="85" />
         <mark key="." line="31" column="52" />
         <mark key="^" line="30" column="31" />
+      </file>
+      <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/spi/SpiImpl1.java" timestamp="1556374465112">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541726511096">
         <mark key="[" line="96" column="16" />
@@ -1087,10 +1117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>incubator-dubbo</text>
+        <text encoding="base64">bmV3IFNlcnZpY2VMb2FkZXI8Pigp</text>
       </register>
       <register name="-" type="4">
-        <text>removeLen</text>
+        <text encoding="base64">bmV3IFNlcnZpY2VMb2FkZXI8Pigp</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
