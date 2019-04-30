@@ -41,7 +41,6 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="D:/Applications/Scoop/apps/gradle/current/caches/modules-2/files-2.1/com.alibaba/dubbo/2.6.5/531f456bb94c2775d517ea40dc5812b25d0c6d09/dubbo-2.6.5-sources.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.java" timestamp="1556377886130" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralReduce.java" timestamp="1536291464667">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="57" />
@@ -525,7 +524,6 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java" timestamp="1556377874867" />
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/organization/OrganizationController.java" timestamp="1536204831309">
         <mark key="[" line="391" column="57" />
         <mark key="]" line="390" column="0" />
@@ -573,6 +571,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
+      </file>
+      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-plugin/pom.xml" timestamp="1556639379261">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="27" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/FooServiceSecondImpl.java" timestamp="1541034028217">
         <mark key="[" line="12" column="13" />
@@ -724,7 +726,6 @@
         <mark key="^" line="18" column="6" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ServiceLoader.java" timestamp="1556375023195" />
       <file name="D:/companywork/bzr-server/bzr-admin/src/main/java/zbjt/bzr/admin/controller/xjz/XjzOutsideLinkController.java" timestamp="1540976088211">
         <mark key="[" line="50" column="5" />
         <mark key="]" line="55" column="18" />
@@ -815,7 +816,6 @@
         <mark key="." line="8" column="120" />
         <mark key="^" line="8" column="120" />
       </file>
-      <file name="D:/workspace/self/myWeb/design_model/src/main/resources/行为型模式/策略模式/策略模式.puml" timestamp="1556371094030" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/work/WorkCommentFavourService.java" timestamp="1540455930289">
         <mark key="[" line="23" column="33" />
         <mark key="]" line="9" column="28" />
@@ -903,6 +903,7 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1556632085187" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -975,7 +976,6 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java" timestamp="1556377264789" />
       <file name="/fragment.java" timestamp="1555769328792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1093,7 +1093,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bumblebee</text>
+        <text>dubbo-plugin</text>
       </register>
       <register name="-" type="4">
         <text>bumblebee</text>
