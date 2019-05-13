@@ -454,11 +454,11 @@
         <mark key="^" line="134" column="39" />
         <mark key="." line="134" column="39" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/RaceCarMaker.java" timestamp="1557757074515">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="14" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/RaceCarMaker.java" timestamp="1557757828170">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
         <mark key="[" line="25" column="7" />
@@ -489,6 +489,12 @@
         <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
+      </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/Car.java" timestamp="1557757821079">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkCommentFavourMapper.java" timestamp="1540448135105">
         <mark key="[" line="23" column="13" />
@@ -1119,10 +1125,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIENhciBtYWtlQ2FyKFVSTCB1cmwpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+        <text>, ...</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VVJMIA==</text>
+        <text>, ...</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
