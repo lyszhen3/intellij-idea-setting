@@ -95,6 +95,7 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="47" />
       </file>
+      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/adaptive/impl/HasAdaptiveExt_ManualAdaptive.java" timestamp="1557761091560" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
         <mark key="]" line="46" column="54" />
@@ -513,6 +514,7 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
+      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/ExtensionLoader_Adaptive_Test.java" timestamp="1557761425564" />
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/FooService.java" timestamp="1541033780948">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
