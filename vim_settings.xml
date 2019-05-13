@@ -83,6 +83,12 @@
         <mark key="^" line="145" column="49" />
         <mark key="." line="145" column="49" />
       </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/CarMaker.java" timestamp="1557757016107">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkColumnMapper.java" timestamp="1541405454100">
         <mark key="[" line="20" column="17" />
         <mark key="]" line="20" column="32" />
@@ -377,8 +383,10 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/build.gradle" timestamp="1556376279741">
-        <mark key="[" line="14" column="62" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/build.gradle" timestamp="1557756085749">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzSchoolDynamicServiceImpl.java" timestamp="1541732211696">
         <mark key="[" line="77" column="16" />
@@ -446,6 +454,12 @@
         <mark key="^" line="134" column="39" />
         <mark key="." line="134" column="39" />
       </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/RaceCarMaker.java" timestamp="1557757074515">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="17" />
@@ -511,6 +525,10 @@
         <mark key="]" line="35" column="20" />
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
+      </file>
+      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/pom.xml" timestamp="1556642281797">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="27" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountStudentSaveMessageHander.java" timestamp="1540172627786">
         <mark key="[" line="21" column="45" />
@@ -605,6 +623,12 @@
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
         <mark key="^" line="33" column="35" />
+      </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/AdaptiveWheelMaker.java" timestamp="1557756982667">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+        <mark key="." line="30" column="35" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1540869486202">
         <mark key="[" line="22" column="68" />
@@ -891,7 +915,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-demo/dubbo-demo-api/dubbo-demo-api-provider/src/main/java/org/apache/dubbo/demo/provider/Application.java" timestamp="1556642232901" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/xjz/XjzAccountService.java" timestamp="1541726088550">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="29" column="6" />
@@ -959,6 +982,11 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
+      <file name="D:/workspace/self/myWeb/dubbo/dubbo_demo/demo_default/build.gradle" timestamp="1557756468591">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541726511096">
         <mark key="[" line="96" column="16" />
         <mark key="]" line="78" column="19" />
@@ -983,11 +1011,8 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/spitest/TestClient.java" timestamp="1556377046568">
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="66" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/spitest/TestClient.java" timestamp="1557756614144">
         <mark key="^" line="17" column="66" />
-        <mark key="." line="17" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -1094,10 +1119,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dubbo-plugin</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIENhciBtYWtlQ2FyKFVSTCB1cmwpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>bumblebee</text>
+        <text encoding="base64">VVJMIA==</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
@@ -1105,35 +1130,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QFNwaQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIENhciBtYWtlQ2FyKFVSTCB1cmwpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTDsK</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKGludCBpID0gMDsgaSA8IHMubGVuZ3RoKCk7IGkrKykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnQobnVtc1tqXSsiLCIpOwo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS5uZXQuVVJMOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnQobnVtc1tqXSsiLCIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpbnQgcmVtb3ZlTGVuID0gbnVtcy5sZW5ndGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaiA9IGkgKyAxOyBqIDwgbnVtcy5sZW5ndGg7IGorKykgewoJCQkJaWYgKG51bXNbal0gIT0gbnVtc1tpXSkgewoJCQkJCQoJCQkJCVN5c3RlbS5vdXQucHJpbnRsbihudW1zW2ldKTsKCQkJCX1lbHNlewoJCQkJCXJlbW92ZUxlbi0tOwoJCQkJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi5leHRlbnNpb24uRXh0ZW5zaW9uTG9hZGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQludW1zW2pdID0gbnVtc1tqICsgMV07Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi5leHRlbnNpb24uRXh0ZW5zaW9uTG9hZGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>
