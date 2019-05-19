@@ -53,6 +53,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/resources/META-INF/dubbo/com.lin.test.adaptive.WheelMaker" timestamp="1557762520804">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/specialist/SpecialistOperationRecordService.java" timestamp="1539683115659">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="48" />
@@ -83,11 +89,8 @@
         <mark key="^" line="145" column="49" />
         <mark key="." line="145" column="49" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/CarMaker.java" timestamp="1557757016107">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="25" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/CarMaker.java" timestamp="1557763075463">
         <mark key="^" line="12" column="3" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/WorkColumnMapper.java" timestamp="1541405454100">
         <mark key="[" line="20" column="17" />
@@ -95,7 +98,6 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="22" column="47" />
       </file>
-      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/adaptive/impl/HasAdaptiveExt_ManualAdaptive.java" timestamp="1557761091560" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/cache/BaseCache.java" timestamp="1536307950469">
         <mark key="[" line="46" column="63" />
         <mark key="]" line="46" column="54" />
@@ -304,11 +306,11 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/resources/META-INF/dubbo/com.lin.test.spitest.SpiHello" timestamp="1556377021744">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/resources/META-INF/dubbo/com.lin.test.spitest.SpiHello" timestamp="1557762454715">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/entity/BzrTest.java" timestamp="1540530820656">
         <mark key="[" line="16" column="0" />
@@ -466,10 +468,7 @@
         <mark key="^" line="134" column="39" />
         <mark key="." line="134" column="39" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/RaceCarMaker.java" timestamp="1557757828170">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/RaceCarMaker.java" timestamp="1557763150059">
         <mark key="^" line="22" column="27" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/service/moudles/integralorder/accountintegral/IntegralAdd.java" timestamp="1536291473721">
@@ -514,7 +513,10 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/ExtensionLoader_Adaptive_Test.java" timestamp="1557761425564" />
+      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/ExtensionLoader_Adaptive_Test.java" timestamp="1557762089964">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="64" />
+      </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/FooService.java" timestamp="1541033780948">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -545,10 +547,6 @@
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
-      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-common/pom.xml" timestamp="1556642281797">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="27" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/usercenter/AccountStudentSaveMessageHander.java" timestamp="1540172627786">
         <mark key="[" line="21" column="45" />
         <mark key="]" line="21" column="45" />
@@ -572,6 +570,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="15" />
+      </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/resources/META-INF/dubbo/internal/com.lin.test.adaptive.WheelMaker" timestamp="1557763304362">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dto/WorkColumnDTO.java" timestamp="1541400242122">
         <mark key="[" line="15" column="34" />
@@ -609,10 +613,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="D:/workspace/opensource/incubator-dubbo/dubbo-plugin/pom.xml" timestamp="1556639379261">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="27" />
-      </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/service/FooServiceSecondImpl.java" timestamp="1541034028217">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="32" />
@@ -643,11 +643,11 @@
         <mark key="." line="33" column="35" />
         <mark key="^" line="33" column="35" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/AdaptiveWheelMaker.java" timestamp="1557759539281">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="2" column="7" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/AdaptiveWheelMaker.java" timestamp="1557763268097">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="12" column="53" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/constance/RedisLockPrefix.java" timestamp="1540869486202">
         <mark key="[" line="22" column="68" />
@@ -660,6 +660,12 @@
         <mark key="]" line="17" column="24" />
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo/src/main/resources/mapper/TestMapper.xml" timestamp="1558251692399">
+        <mark key="[" line="44" column="57" />
+        <mark key="]" line="44" column="57" />
+        <mark key="." line="44" column="57" />
+        <mark key="^" line="44" column="57" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/reporter/ReporterApplicationSaveMessageHander.java" timestamp="1540172049104">
         <mark key="[" line="22" column="0" />
@@ -678,6 +684,11 @@
         <mark key="]" line="43" column="61" />
         <mark key="^" line="43" column="21" />
         <mark key="." line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo/src/main/resources/application.yml" timestamp="1558251718092">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="D:/mywork/first-gradle/first-web/build.gradle" timestamp="1536495771038">
         <mark key="[" line="26" column="94" />
@@ -763,10 +774,11 @@
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="21" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/WheelMaker.java" timestamp="1557759552654">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="7" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/WheelMaker.java" timestamp="1557763295455">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/io/FormattedMemoryInput.java" timestamp="1554618084220">
         <mark key="[" line="18" column="7" />
@@ -833,6 +845,12 @@
         <mark key="]" line="44" column="5" />
         <mark key="^" line="36" column="3" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/Newdfd.java" timestamp="1557763133434">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="32" />
       </file>
       <file name="D:/mywork/spring/bzr-data/src/main/java/zbjt/bzr/data/kbl/repository/TestRepository.java" timestamp="1540883019097">
         <mark key="[" line="13" column="17" />
@@ -930,8 +948,8 @@
         <mark key="^" line="93" column="72" />
         <mark key="." line="93" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556370122558">
-        <mark key="[" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1557763562739">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -948,7 +966,7 @@
         <mark key="." line="25" column="89" />
         <mark key="^" line="25" column="89" />
       </file>
-      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1556632085187" />
+      <file name="D:/mywork/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java" timestamp="1558251614171" />
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/config/RabbitConfig.java" timestamp="1539939344120">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="87" column="22" />
@@ -1003,11 +1021,6 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo/dubbo_demo/demo_default/build.gradle" timestamp="1557756468591">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="D:/companywork/bzr-server/bzr-base/src/main/java/zbjt/bzr/base/dao/mybatis/xml/xjz/XjzAccountMapper.xml" timestamp="1541726511096">
         <mark key="[" line="96" column="16" />
         <mark key="]" line="78" column="19" />
@@ -1020,10 +1033,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/ClientTest.java" timestamp="1557760379148">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/workspace/self/myWeb/dubbo-test/src/main/java/com/lin/test/adaptive/ClientTest.java" timestamp="1557763396879">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="D:/companywork/bzr-server/bzr-task/src/main/java/zbjt/bzr/task/handler/organization/OrganizationCollectionSaveMessageHandler.java" timestamp="1540171606268">
         <mark key="[" line="28" column="0" />
@@ -1147,11 +1161,11 @@
       <jump line="11" column="14" filename="D:/workspace/self/myWeb/suiyiTest/src/main/java/leetcode/algorithm/RemoveDuplicates.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDYXIgYWRhcHRpdmVFeHRlbnNpb24gPSAoQ2FyKSBFeHRlbnNpb25Mb2FkZXIuZ2V0QWRhcHRpdmVFeHRlbnNpb24oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>963963</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PENhcj4=</text>
+        <text>963963</text>
       </register>
       <register name="/" type="4">
         <text>testCompile</text>
@@ -1159,35 +1173,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICgnNjA2JywnNjA2JywnzfjVvtCj1LC2r8ysudzA7ScsJy94anpTaXRlU2Nob29sRHluYW1pYycsJycsMCwnNicsMSwwLDAsJycsJycsJycpCiAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYXIgYWRhcHRpdmVFeHRlbnNpb24gPSAoQ2FyKSBFeHRlbnNpb25Mb2FkZXIuZ2V0QWRhcHRpdmVFeHRlbnNpb24oKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKi8=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmcuYXBhY2hlLmR1YmJvLmNvbW1vbi5leHRlbnNpb24uRXh0ZW5zaW9uTG9hZGVyLmdldEV4dGVuc2lvbkxvYWRlcigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi5VUkw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXh0ZW5zaW9uTG9hZGVyLmdldAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="s" type="4">
         <text>entity.TestUserFavorite</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZSAnZHViYm8tdGVzdCcK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi5leHRlbnNpb24uU1BJOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNQSQo=</text>
+        <text encoding="base64">ICAgICAgICBDYXIgYWRhcHRpdmVFeHRlbnNpb24gPSAoQ2FyKSBFeHRlbnNpb25Mb2FkZXIuZ2V0QWRhcHRpdmVFeHRlbnNpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi5leHRlbnNpb24uU1BJOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcmcuYXBhY2hlLmR1YmJvLmNvbW1vbi5leHRlbnNpb24uRXh0ZW5zaW9uTG9hZGVyLmdldEV4dGVuc2lvbkxvYWRlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgb3JnLmFwYWNoZS5kdWJiby5jb21tb24uZXh0ZW5zaW9uLmV4dGVuc2lvbi5TUEk7Cg==</text>
+        <text encoding="base64">RXh0ZW5zaW9uTG9hZGVyLmdldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXBhY2hlLmR1YmJvJywgbmFtZTogJ2R1YmJvJywgdmVyc2lvbjogJzIuNy4xJwo=</text>
+        <text encoding="base64">aW5jbHVkZSAnZHViYm8tdGVzdCcK</text>
       </register>
       <register name=":" type="4">
         <text>1,50s/0</text>

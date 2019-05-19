@@ -5,6 +5,7 @@
       <mapping pattern="dubbo" type="PLAIN_TEXT" />
       <mapping ext="zookeepertransporter" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="wheelmaker" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="spihello" type="PLAIN_TEXT" />
     </extensionMap>
