@@ -15,12 +15,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/adp/processor/biz/cyclesend/CycleSendProcessor.java" timestamp="1588168479379" />
       <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/LogisticsTemplateWriteService.java" timestamp="1588160127016">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588164142727">
+      <file name="/Dummy.txt" timestamp="1588168772657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-biz.xml" timestamp="1588166869092">
@@ -42,27 +43,29 @@
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="40" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588164130609">
-        <mark key="[" line="364" column="98" />
-        <mark key="]" line="365" column="79" />
-        <mark key="." line="365" column="78" />
-        <mark key="^" line="365" column="79" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/service/LogisticsTemplateWriteServiceImpl.java" timestamp="1588168589441" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588168705501">
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="28" />
+        <mark key="." line="113" column="12" />
+        <mark key="^" line="113" column="12" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588157757836">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1588154042716">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" timestamp="1588166824600">
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" timestamp="1588167202343">
         <mark key="'" line="777" column="6" />
+        <mark key="[" line="326" column="25" />
+        <mark key="]" line="326" column="39" />
+        <mark key="." line="326" column="47" />
+        <mark key="^" line="326" column="48" />
       </file>
       <file name="/fragment.java" timestamp="1588164178238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588164018665" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588168628404" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1588166691827" />
     </filemarks>
     <jumps>
@@ -72,25 +75,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRQYXVzZUFoZWFkRGF5cyg2MCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.alibaba.delivery.config.logisticBiz</text>
+        <text>cycleSendRuleDTO</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRwYXVzZURheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
       </register>
       <register name="+" type="4">
-        <text>com.alibaba.delivery.config.logisticBiz</text>
+        <text>cycleSendRuleDTO</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>普通配送</text>
       </register>
     </registers>
   </component>
