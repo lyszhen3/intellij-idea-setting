@@ -3,19 +3,43 @@
     <editor />
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuySellerSettingShipTimeAttributeTagger.java" timestamp="1588154701523">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="12" column="97" />
+        <mark key="^" line="12" column="73" />
+        <mark key="." line="12" column="73" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1588154042716">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/IShipTimeAttributeTagger.java" timestamp="1588154682117">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="40" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>IShipTimeAttributeTagger</text>
+      </register>
+      <register name="+" type="4">
+        <text>IShipTimeAttributeTagger</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
