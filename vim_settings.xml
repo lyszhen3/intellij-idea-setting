@@ -15,11 +15,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuySellerSettingShipTimeAttributeTagger.java" timestamp="1588154701523">
-        <mark key="[" line="12" column="73" />
-        <mark key="]" line="12" column="97" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588154814547" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588157757836">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuySellerSettingShipTimeAttributeTagger.java" timestamp="1588154760945">
+        <mark key="[" line="12" column="61" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="73" />
-        <mark key="." line="12" column="73" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1588154042716">
         <mark key="[" line="0" column="0" />
@@ -33,11 +39,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>IShipTimeAttributeTagger</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
       </register>
       <register name="+" type="4">
-        <text>IShipTimeAttributeTagger</text>
+        <text>MallGroupBuyAttributeTagger</text>
       </register>
     </registers>
   </component>
