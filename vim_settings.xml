@@ -20,6 +20,9 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588164142727">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588154814547" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuySellerSettingShipTimeAttributeTagger.java" timestamp="1588154760945">
         <mark key="[" line="12" column="61" />
@@ -31,7 +34,12 @@
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="40" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588163103206" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588164130609">
+        <mark key="[" line="364" column="98" />
+        <mark key="]" line="365" column="79" />
+        <mark key="." line="365" column="78" />
+        <mark key="^" line="365" column="79" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588157757836">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -40,22 +48,28 @@
       <file name="/HTML File.txt.ft" timestamp="1588154042716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588163292107">
+      <file name="/fragment.java" timestamp="1588164178238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588162482767" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588164018665" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
       </register>
       <register name="+" type="4">
