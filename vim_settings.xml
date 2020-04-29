@@ -15,6 +15,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/LogisticsTemplateWriteService.java" timestamp="1588160127016">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588154814547" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588157757836">
         <mark key="[" line="16" column="0" />
@@ -34,6 +39,9 @@
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="40" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/util/CycleRuleUtil.java" timestamp="1588160767711" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588161493983" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588161609220" />
     </filemarks>
     <jumps />
   </component>
@@ -42,14 +50,17 @@
       <register name="1" type="2">
         <text encoding="base64">CQlwYWNrYWdlRE8K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
       </register>
       <register name="+" type="4">
         <text>MallGroupBuyAttributeTagger</text>
+      </register>
+      <register name="-" type="4">
+        <text>L</text>
       </register>
     </registers>
   </component>
