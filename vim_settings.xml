@@ -23,7 +23,15 @@
       <file name="/Dummy.txt" timestamp="1588164142727">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-biz.xml" timestamp="1588166869092">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="33" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588154814547" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/DiamondKey.java" timestamp="1588166996952">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="64" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuySellerSettingShipTimeAttributeTagger.java" timestamp="1588154760945">
         <mark key="[" line="12" column="61" />
         <mark key="]" line="16" column="0" />
@@ -48,20 +56,26 @@
       <file name="/HTML File.txt.ft" timestamp="1588154042716">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" timestamp="1588166824600">
+        <mark key="'" line="777" column="6" />
+      </file>
       <file name="/fragment.java" timestamp="1588164178238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588164018665" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1588166691827" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>com.alibaba.delivery.config.logisticBiz</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
@@ -73,7 +87,7 @@
         <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
       </register>
       <register name="+" type="4">
-        <text>MallGroupBuyAttributeTagger</text>
+        <text>com.alibaba.delivery.config.logisticBiz</text>
       </register>
       <register name="-" type="4">
         <text>L</text>
