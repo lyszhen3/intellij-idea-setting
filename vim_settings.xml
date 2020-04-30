@@ -55,6 +55,12 @@
         <mark key="." line="113" column="12" />
         <mark key="^" line="113" column="12" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1588229393234">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="42" column="26" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="40" column="10" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588222358575" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588157757836">
         <mark key="[" line="16" column="0" />
@@ -68,11 +74,11 @@
         <mark key="." line="326" column="47" />
         <mark key="^" line="326" column="48" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588216806337">
-        <mark key="a" line="308" column="0" />
-        <mark key="[" line="307" column="53" />
-        <mark key="]" line="307" column="68" />
-        <mark key="." line="307" column="53" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588229047704">
+        <mark key="a" line="310" column="0" />
+        <mark key="[" line="305" column="22" />
+        <mark key="]" line="305" column="14" />
+        <mark key="." line="305" column="0" />
         <mark key="^" line="306" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1588164178238">
@@ -100,7 +106,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5rKh5Lyg5YWo5p+lCiAgICAgKiAx5YWl5LuTCiAgICAgKiAw5pyq5YWl5LuTCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBpbldhcmVIb3VzZTsKCiAgICAvKioKICAgICAqIDHmnInljIXmnZAKICAgICAqIDDmsqHljIXmnZAKICAgICAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIGhhUGtnOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBDbnNrdUl0ZW1TZWFyY2hDb25kaXRpb24gY25za3VJdGVtU2VhcmNoQ29uZGl0aW9uID0gbmV3IENuc2t1SXRlbVNlYXJjaENvbmRpdGlvbigpOwo=</text>
@@ -126,8 +132,8 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRQYXVzZUFoZWFkRGF5cyg2MCk7Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>scItemSearchDTO</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5rKh5Lyg5YWo5p+lCiAgICAgKiAx5YWl5LuTCiAgICAgKiAw5pyq5YWl5LuTCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBpbldhcmVIb3VzZTsKCiAgICAvKioKICAgICAqIDHmnInljIXmnZAKICAgICAqIDDmsqHljIXmnZAKICAgICAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIGhhUGtnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>cnskuItemSearchCondition, cnskuQueryOption</text>
