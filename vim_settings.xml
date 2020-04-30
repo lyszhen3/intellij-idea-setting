@@ -29,17 +29,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/dto/search/ScItemSearchDTO.java" timestamp="1588232030410" />
-      <file name="/Dummy.txt" timestamp="1588223450861">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.18/cnsku-facade-2.3.18.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.class" timestamp="1588216194527">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="53" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-biz.xml" timestamp="1588166869092">
-        <mark key="[" line="46" column="14" />
-        <mark key="]" line="46" column="33" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1588230238360">
         <mark key="[" line="38" column="20" />
@@ -47,45 +39,22 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/DiamondKey.java" timestamp="1588166996952">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="64" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588238999713">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588230230583">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="251" column="52" />
-        <mark key="]" line="252" column="58" />
-        <mark key="." line="252" column="57" />
-        <mark key="^" line="252" column="58" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.java" timestamp="1588216783959">
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="69" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/AdpInterfaceSource.java" timestamp="1588235455415">
-        <mark key="[" line="94" column="54" />
-        <mark key="]" line="94" column="70" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/subscriber/SubscriberServiceProcessor.java" timestamp="1588235483240" />
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588224028578">
-        <mark key="[" line="113" column="28" />
-        <mark key="]" line="113" column="28" />
-        <mark key="." line="113" column="12" />
-        <mark key="^" line="113" column="12" />
-      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588238895640" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1588230263628">
         <mark key="[" line="42" column="22" />
         <mark key="]" line="42" column="23" />
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="22" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="34" />
-      </file>
-      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588234717579">
-        <mark key="[" line="1465" column="25" />
-        <mark key="]" line="1458" column="0" />
+      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588237801713">
+        <mark key="[" line="1461" column="0" />
+        <mark key="]" line="1465" column="25" />
         <mark key="^" line="1458" column="0" />
         <mark key="." line="1458" column="0" />
       </file>
@@ -104,14 +73,47 @@
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1588164178238">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588223418410">
         <mark key="[" line="124" column="1" />
         <mark key="]" line="128" column="79" />
         <mark key="." line="128" column="78" />
         <mark key="^" line="128" column="79" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/dto/search/ScItemSearchDTO.java" timestamp="1588232030410" />
+      <file name="/Dummy.txt" timestamp="1588239109466">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/pom.xml" timestamp="1588237815639">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="258" column="16" />
+        <mark key="]" line="258" column="29" />
+        <mark key="." line="258" column="28" />
+        <mark key="^" line="258" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.java" timestamp="1588216783959">
+        <mark key="[" line="81" column="55" />
+        <mark key="]" line="81" column="69" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/AdpInterfaceSource.java" timestamp="1588235455415">
+        <mark key="[" line="94" column="54" />
+        <mark key="]" line="94" column="70" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/subscriber/SubscriberServiceProcessor.java" timestamp="1588235483240" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588224028578">
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="28" />
+        <mark key="." line="113" column="12" />
+        <mark key="^" line="113" column="12" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -130,48 +132,49 @@
       <jump line="201" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
       <jump line="202" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
       <jump line="313" column="0" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="19" column="23" filename="D:/workspace/company/usa-console/usa-console-start/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>subscriberService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="+" type="4">
-        <text>subscriberService</text>
+        <text>/pkg/c2m/</text>
       </register>
       <register name="-" type="4">
-        <text>1.4.18或maven仓库最新正式版</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDbnNrdUl0ZW1TZWFyY2hDb25kaXRpb24gY25za3VJdGVtU2VhcmNoQ29uZGl0aW9uID0gbmV3IENuc2t1SXRlbVNlYXJjaENvbmRpdGlvbigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDbnNrdVF1ZXJ5T3B0aW9uIGNuc2t1UXVlcnlPcHRpb24gPSBuZXcgQ25za3VRdWVyeU9wdGlvbigpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS40LjI1PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY0l0ZW1Qa2dGb3JtIHNjSXRlbVBrZ0Zvcm0K</text>
+        <text encoding="base64">ICAgICAgICBDbnNrdUl0ZW1TZWFyY2hDb25kaXRpb24gY25za3VJdGVtU2VhcmNoQ29uZGl0aW9uID0gbmV3IENuc2t1SXRlbVNlYXJjaENvbmRpdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDbnNrdVNlYXJjaENvbmRpdGlvbiBzZWFyY2hDb25kaXRpb24gPSBuZXcgQ25za3VTZWFyY2hDb25kaXRpb24oKTsKCiAgICAgICAgc2VhcmNoQ29uZGl0aW9uLnNldEdyYXlGbGFnKHF1ZXJ5U2NJdGVtUmVxLmdldFNwQ29kZSgpKTsKCiAgICAgICAgc2VhcmNoQ29uZGl0aW9uLnNldFVzZXJJZChxdWVyeVNjSXRlbVJlcS5nZXRPd25lcklkKCkpOy8v5ZWG5a62SUQKICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0SXRlbUlkKHF1ZXJ5U2NJdGVtUmVxLmdldFNjSXRlbUlkKCkpOy8v6LSn5ZOBSUQKICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0T3V0ZXJJZChxdWVyeVNjSXRlbVJlcS5nZXRTY0l0ZW1Db2RlKCkpOy8v6LSn5ZOB57yW56CBCiAgICAgICAgc2VhcmNoQ29uZGl0aW9uLnNldFRpdGxlKHF1ZXJ5U2NJdGVtUmVxLmdldFNjSXRlbU5hbWUoKSk7Ly/otKflk4HlkI3np7AKICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0UGFnZVNpemUocXVlcnlTY0l0ZW1SZXEuZ2V0UGFnZVNpemUoKSk7Ly/liIbpobXlpKflsI8KICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0Q3VycmVudFBhZ2UocXVlcnlTY0l0ZW1SZXEuZ2V0UGFnZU5vKCkpOy8v5b2T5YmN6aG1CiAgICAgICAgQ25za3VSZXN1bHQ8TGlzdDxDbnNrdURUTz4+IGNuc2t1UmVzdWx0ID0gY25za3VJdGVtUXVlcnlTZXJ2aWNlLnF1ZXJ5QnlDbnNrdUNvbmRpdGlvbihzZWFyY2hDb25kaXRpb24sCiAgICAgICAgICAgICAgICBuZXcgQ25za3VRdWVyeU9wdGlvbigpKTsKCiAgICAgICAgaWYgKG51bGwgPT0gY25za3VSZXN1bHQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5DTlNLVV9FUlJPUik7CiAgICAgICAgfQoKICAgICAgICBpZiAoIWNuc2t1UmVzdWx0LmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgIC8v6LSn5ZOB5bey5Yig6ZmkCiAgICAgICAgICAgIGlmICgiMDAwMTAwMTIiLmVxdWFscyhjbnNrdVJlc3VsdC5nZXRFcnJvckNvZGUoKSkpIHsKICAgICAgICAgICAgICAgIFF1ZXJ5U2NJdGVtUmVzcCBxdWVyeVNjSXRlbVJlc3AgPSBuZXcgUXVlcnlTY0l0ZW1SZXNwKCk7CiAgICAgICAgICAgICAgICBxdWVyeVNjSXRlbVJlc3Auc2V0VG90YWwoMSk7CgogICAgICAgICAgICAgICAgTGlzdDxTY0l0ZW1EVE8+IHNjSXRlbURUT0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgIFNjSXRlbURUTyBzY0l0ZW1EVE8gPSBuZXcgU2NJdGVtRFRPKCk7CiAgICAgICAgICAgICAgICBzY0l0ZW1EVE8uc2V0T3duZXJJZChxdWVyeVNjSXRlbVJlcS5nZXRPd25lcklkKCkpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNjSXRlbUlkKHF1ZXJ5U2NJdGVtUmVxLmdldFNjSXRlbUlkKCkpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNjSXRlbUNvZGUoIuivpei0p+WTgeW3suWIoOmZpO+8gSIpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNjSXRlbU5hbWUoIuivpei0p+WTgeW3suWIoOmZpO+8gSIpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNwQ29kZShxdWVyeVNjSXRlbVJlcS5nZXRTcENvZGUoKSk7CiAgICAgICAgICAgICAgICBzY0l0ZW1EVE9MaXN0LmFkZChzY0l0ZW1EVE8pOwogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXNwLnNldFNjSXRlbURUT0xpc3Qoc2NJdGVtRFRPTGlzdCk7CiAgICAgICAgICAgICAgICByZXR1cm4gcXVlcnlTY0l0ZW1SZXNwOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvL+mBv+Wdke+8muS4gOS4quWVhuWutuayoeaciei0p+WTge+8jOS8mui/lOWbnumUmeivrwogICAgICAgICAgICBpZiAoIjAwMDEwMDA5Ii5lcXVhbHMoY25za3VSZXN1bHQuZ2V0RXJyb3JDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICBRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbmV3IFF1ZXJ5U2NJdGVtUmVzcCgpOwogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXNwLnNldFRvdGFsKDApOwogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXNwLnNldFNjSXRlbURUT0xpc3QoQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5U2NJdGVtUmVzcDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5DTlNLVV9FUlJPUiwKICAgICAgICAgICAgICAgICAgICBjbnNrdVJlc3VsdC5nZXRFcnJvckNvZGUoKSArICIgIiArIGNuc2t1UmVzdWx0LmdldEVycm9yTVNHKCkpOwogICAgICAgIH0KCiAgICAgICAgTGlzdDxDbnNrdURUTz4gY25za3VEVE9MaXN0ID0gY25za3VSZXN1bHQuZ2V0RGF0YSgpOwoKICAgICAgICBpZiAobnVsbCA9PSBjbnNrdURUT0xpc3QpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5DTlNLVV9FUlJPUik7CiAgICAgICAgfQoKICAgICAgICBRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbmV3IFF1ZXJ5U2NJdGVtUmVzcCgpOwoKICAgICAgICAvL+iuoeeul+aAu+aVsAogICAgICAgIEludGVnZXIgdG90YWwgPSBjbnNrdVJlc3VsdC5nZXRUb3RhbE51bSgpOwoKICAgICAgICBxdWVyeVNjSXRlbVJlc3Auc2V0VG90YWwodG90YWwpOwoKICAgICAgICAvL+i9rOaNouaVsOaNrgogICAgICAgIExpc3Q8U2NJdGVtRFRPPiBzY0l0ZW1EVE9MaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChDbnNrdURUTyBjbnNrdURUTyA6IGNuc2t1RFRPTGlzdCkgewogICAgICAgICAgICAvL+mBv+Wdke+8mgogICAgICAgICAgICAvL2lj55qE5pCc57Si5byV5pOO5pyJYnVn77yM5qC55o2ub3duZXJJZOWSjHNjSXRlbUlk5pCc57Si5pe277yM5Lya5p+l5Ye65YW25LuW5ZWG5a6255qE6LSn5ZOBCiAgICAgICAgICAgIC8v5Z2R54i5CiAgICAgICAgICAgIGlmIChudWxsICE9IHF1ZXJ5U2NJdGVtUmVxLmdldE93bmVySWQoKSAmJiAhcXVlcnlTY0l0ZW1SZXEuZ2V0T3duZXJJZCgpLmVxdWFscyhjbnNrdURUTy5nZXRPd25lcklkKCkpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc2NJdGVtRFRPTGlzdC5hZGQobmV3IFNjSXRlbURUTyhjbnNrdURUTykpOwogICAgICAgIH0KICAgICAgICBxdWVyeVNjSXRlbVJlc3Auc2V0U2NJdGVtRFRPTGlzdChzY0l0ZW1EVE9MaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBDbnNrdVF1ZXJ5T3B0aW9uIGNuc2t1UXVlcnlPcHRpb24gPSBuZXcgQ25za3VRdWVyeU9wdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>305,318s/param</text>
