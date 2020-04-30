@@ -15,35 +15,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/adp/processor/biz/cyclesend/CycleSendProcessor.java" timestamp="1588168479379" />
       <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/LogisticsTemplateWriteService.java" timestamp="1588160127016">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588168772657">
+      <file name="/Dummy.txt" timestamp="1588169526058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-biz.xml" timestamp="1588166869092">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="33" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588154814547" />
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/DiamondKey.java" timestamp="1588166996952">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="64" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuySellerSettingShipTimeAttributeTagger.java" timestamp="1588154760945">
-        <mark key="[" line="12" column="61" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="12" column="73" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588213330219">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="241" column="22" />
+        <mark key="]" line="241" column="48" />
+        <mark key="." line="241" column="16" />
+        <mark key="^" line="74" column="19" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/IShipTimeAttributeTagger.java" timestamp="1588154682117">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="40" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/service/LogisticsTemplateWriteServiceImpl.java" timestamp="1588168589441" />
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588168705501">
         <mark key="[" line="113" column="28" />
         <mark key="]" line="113" column="28" />
@@ -65,41 +59,44 @@
       <file name="/fragment.java" timestamp="1588164178238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588168628404" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1588166691827" />
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
+      <jump line="76" column="28" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="74" column="16" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRQYXVzZUFoZWFkRGF5cyg2MCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cycleSendRuleDTO</text>
+        <text>&quot;/&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRwYXVzZURheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRQYXVzZUFoZWFkRGF5cyg2MCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRwYXVzZURheQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
       </register>
       <register name="+" type="4">
-        <text>cycleSendRuleDTO</text>
+        <text>&quot;/pkg/bms/management/scItemList&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>普通配送</text>
+        <text>&quot;/&quot;</text>
       </register>
     </registers>
   </component>
