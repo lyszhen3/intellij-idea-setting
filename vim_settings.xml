@@ -88,6 +88,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588234585075">
+        <mark key="[" line="1463" column="28" />
+        <mark key="]" line="1463" column="42" />
+        <mark key="^" line="1463" column="28" />
+        <mark key="." line="1463" column="27" />
+      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" timestamp="1588167202343">
         <mark key="'" line="777" column="6" />
         <mark key="[" line="326" column="25" />
@@ -95,11 +101,11 @@
         <mark key="." line="326" column="47" />
         <mark key="^" line="326" column="48" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588232646982">
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588233987018">
         <mark key="a" line="318" column="0" />
         <mark key="'" line="316" column="0" />
-        <mark key="[" line="45" column="36" />
-        <mark key="]" line="45" column="31" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="37" />
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="31" />
       </file>
@@ -134,10 +140,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SpWarehouseQueryService</text>
+        <text>authello-client</text>
       </register>
       <register name="+" type="4">
-        <text>SpWarehouseQueryService</text>
+        <text>authello-client</text>
       </register>
       <register name="-" type="4">
         <text>get</text>
