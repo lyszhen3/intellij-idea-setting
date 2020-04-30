@@ -2,6 +2,17 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>param</entry>
+      </history-search>
+      <history-cmd>
+        <entry>305,318/param</entry>
+        <entry>305,318s/param</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -18,6 +29,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/dto/search/ScItemSearchDTO.java" timestamp="1588232030410" />
       <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/LogisticsTemplateWriteService.java" timestamp="1588160127016">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
@@ -67,7 +79,10 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="22" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588222358575" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="34" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588157757836">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -80,12 +95,13 @@
         <mark key="." line="326" column="47" />
         <mark key="^" line="326" column="48" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588229047704">
-        <mark key="a" line="310" column="0" />
-        <mark key="[" line="305" column="22" />
-        <mark key="]" line="305" column="14" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="306" column="16" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588232646982">
+        <mark key="a" line="318" column="0" />
+        <mark key="'" line="316" column="0" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1588164178238">
         <mark key="[" line="0" column="0" />
@@ -104,15 +120,33 @@
       <jump line="307" column="21" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
       <jump line="76" column="100" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="92" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="225" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="265" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="266" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="300" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="309" column="28" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="116" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="201" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="202" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="313" column="0" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="4">
+        <text>SpWarehouseQueryService</text>
+      </register>
+      <register name="+" type="4">
+        <text>SpWarehouseQueryService</text>
+      </register>
+      <register name="-" type="4">
+        <text>get</text>
+      </register>
+      <register name="/" type="4">
+        <text>param</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>get</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -138,17 +172,19 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5rKh5Lyg5YWo5p+lCiAgICAgKiAx5YWl5LuTCiAgICAgKiAw5pyq5YWl5LuTCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBpbldhcmVIb3VzZTsKCiAgICAvKioKICAgICAqIDHmnInljIXmnZAKICAgICAqIDDmsqHljIXmnZAKICAgICAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIGhhUGtnOwo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>get</text>
+      <register name=":" type="4">
+        <text>305,318s/param</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>param</last-search>
+      <last-offset />
+      <last-pattern>param</last-pattern>
+      <last-replace />
+      <last-substitute>param</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
