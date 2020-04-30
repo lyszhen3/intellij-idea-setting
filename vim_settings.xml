@@ -10,6 +10,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -23,6 +26,10 @@
       <file name="/Dummy.txt" timestamp="1588169526058">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.18/cnsku-facade-2.3.18.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.class" timestamp="1588216194527">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="53" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-biz.xml" timestamp="1588166869092">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="33" />
@@ -31,12 +38,12 @@
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="64" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588213330219">
-        <mark key="'" line="74" column="16" />
-        <mark key="[" line="241" column="22" />
-        <mark key="]" line="241" column="48" />
-        <mark key="." line="241" column="16" />
-        <mark key="^" line="74" column="19" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588215834784">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
+        <mark key="^" line="245" column="8" />
       </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588168705501">
         <mark key="[" line="113" column="28" />
@@ -56,47 +63,64 @@
         <mark key="." line="326" column="47" />
         <mark key="^" line="326" column="48" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588216089328">
+        <mark key="a" line="309" column="0" />
+        <mark key="'" line="307" column="21" />
+        <mark key="[" line="308" column="78" />
+        <mark key="]" line="308" column="97" />
+        <mark key="^" line="308" column="97" />
+        <mark key="." line="308" column="96" />
+      </file>
       <file name="/fragment.java" timestamp="1588164178238">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
-      <jump line="76" column="28" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="74" column="16" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="111" column="0" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="307" column="21" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
+      <jump line="76" column="100" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="92" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;/&quot;</text>
+        <text>queryBySearchCondition</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRQYXVzZUFoZWFkRGF5cyg2MCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRwYXVzZURheQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTY0l0ZW1Qa2dGb3JtIHNjSXRlbVBrZ0Zvcm0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBDbnNrdVNlYXJjaENvbmRpdGlvbiBzZWFyY2hDb25kaXRpb24gPSBuZXcgQ25za3VTZWFyY2hDb25kaXRpb24oKTsKCiAgICAgICAgc2VhcmNoQ29uZGl0aW9uLnNldEdyYXlGbGFnKHF1ZXJ5U2NJdGVtUmVxLmdldFNwQ29kZSgpKTsKCiAgICAgICAgc2VhcmNoQ29uZGl0aW9uLnNldFVzZXJJZChxdWVyeVNjSXRlbVJlcS5nZXRPd25lcklkKCkpOy8v5ZWG5a62SUQKICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0SXRlbUlkKHF1ZXJ5U2NJdGVtUmVxLmdldFNjSXRlbUlkKCkpOy8v6LSn5ZOBSUQKICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0T3V0ZXJJZChxdWVyeVNjSXRlbVJlcS5nZXRTY0l0ZW1Db2RlKCkpOy8v6LSn5ZOB57yW56CBCiAgICAgICAgc2VhcmNoQ29uZGl0aW9uLnNldFRpdGxlKHF1ZXJ5U2NJdGVtUmVxLmdldFNjSXRlbU5hbWUoKSk7Ly/otKflk4HlkI3np7AKICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0UGFnZVNpemUocXVlcnlTY0l0ZW1SZXEuZ2V0UGFnZVNpemUoKSk7Ly/liIbpobXlpKflsI8KICAgICAgICBzZWFyY2hDb25kaXRpb24uc2V0Q3VycmVudFBhZ2UocXVlcnlTY0l0ZW1SZXEuZ2V0UGFnZU5vKCkpOy8v5b2T5YmN6aG1CiAgICAgICAgQ25za3VSZXN1bHQ8TGlzdDxDbnNrdURUTz4+IGNuc2t1UmVzdWx0ID0gY25za3VJdGVtUXVlcnlTZXJ2aWNlLnF1ZXJ5QnlDbnNrdUNvbmRpdGlvbihzZWFyY2hDb25kaXRpb24sCiAgICAgICAgICAgICAgICBuZXcgQ25za3VRdWVyeU9wdGlvbigpKTsKCiAgICAgICAgaWYgKG51bGwgPT0gY25za3VSZXN1bHQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5DTlNLVV9FUlJPUik7CiAgICAgICAgfQoKICAgICAgICBpZiAoIWNuc2t1UmVzdWx0LmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgIC8v6LSn5ZOB5bey5Yig6ZmkCiAgICAgICAgICAgIGlmICgiMDAwMTAwMTIiLmVxdWFscyhjbnNrdVJlc3VsdC5nZXRFcnJvckNvZGUoKSkpIHsKICAgICAgICAgICAgICAgIFF1ZXJ5U2NJdGVtUmVzcCBxdWVyeVNjSXRlbVJlc3AgPSBuZXcgUXVlcnlTY0l0ZW1SZXNwKCk7CiAgICAgICAgICAgICAgICBxdWVyeVNjSXRlbVJlc3Auc2V0VG90YWwoMSk7CgogICAgICAgICAgICAgICAgTGlzdDxTY0l0ZW1EVE8+IHNjSXRlbURUT0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgIFNjSXRlbURUTyBzY0l0ZW1EVE8gPSBuZXcgU2NJdGVtRFRPKCk7CiAgICAgICAgICAgICAgICBzY0l0ZW1EVE8uc2V0T3duZXJJZChxdWVyeVNjSXRlbVJlcS5nZXRPd25lcklkKCkpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNjSXRlbUlkKHF1ZXJ5U2NJdGVtUmVxLmdldFNjSXRlbUlkKCkpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNjSXRlbUNvZGUoIuivpei0p+WTgeW3suWIoOmZpO+8gSIpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNjSXRlbU5hbWUoIuivpei0p+WTgeW3suWIoOmZpO+8gSIpOwogICAgICAgICAgICAgICAgc2NJdGVtRFRPLnNldFNwQ29kZShxdWVyeVNjSXRlbVJlcS5nZXRTcENvZGUoKSk7CiAgICAgICAgICAgICAgICBzY0l0ZW1EVE9MaXN0LmFkZChzY0l0ZW1EVE8pOwogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXNwLnNldFNjSXRlbURUT0xpc3Qoc2NJdGVtRFRPTGlzdCk7CiAgICAgICAgICAgICAgICByZXR1cm4gcXVlcnlTY0l0ZW1SZXNwOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvL+mBv+Wdke+8muS4gOS4quWVhuWutuayoeaciei0p+WTge+8jOS8mui/lOWbnumUmeivrwogICAgICAgICAgICBpZiAoIjAwMDEwMDA5Ii5lcXVhbHMoY25za3VSZXN1bHQuZ2V0RXJyb3JDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICBRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbmV3IFF1ZXJ5U2NJdGVtUmVzcCgpOwogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXNwLnNldFRvdGFsKDApOwogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXNwLnNldFNjSXRlbURUT0xpc3QoQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5U2NJdGVtUmVzcDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5DTlNLVV9FUlJPUiwKICAgICAgICAgICAgICAgICAgICBjbnNrdVJlc3VsdC5nZXRFcnJvckNvZGUoKSArICIgIiArIGNuc2t1UmVzdWx0LmdldEVycm9yTVNHKCkpOwogICAgICAgIH0KCiAgICAgICAgTGlzdDxDbnNrdURUTz4gY25za3VEVE9MaXN0ID0gY25za3VSZXN1bHQuZ2V0RGF0YSgpOwoKICAgICAgICBpZiAobnVsbCA9PSBjbnNrdURUT0xpc3QpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5DTlNLVV9FUlJPUik7CiAgICAgICAgfQoKICAgICAgICBRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbmV3IFF1ZXJ5U2NJdGVtUmVzcCgpOwoKICAgICAgICAvL+iuoeeul+aAu+aVsAogICAgICAgIEludGVnZXIgdG90YWwgPSBjbnNrdVJlc3VsdC5nZXRUb3RhbE51bSgpOwoKICAgICAgICBxdWVyeVNjSXRlbVJlc3Auc2V0VG90YWwodG90YWwpOwoKICAgICAgICAvL+i9rOaNouaVsOaNrgogICAgICAgIExpc3Q8U2NJdGVtRFRPPiBzY0l0ZW1EVE9MaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChDbnNrdURUTyBjbnNrdURUTyA6IGNuc2t1RFRPTGlzdCkgewogICAgICAgICAgICAvL+mBv+Wdke+8mgogICAgICAgICAgICAvL2lj55qE5pCc57Si5byV5pOO5pyJYnVn77yM5qC55o2ub3duZXJJZOWSjHNjSXRlbUlk5pCc57Si5pe277yM5Lya5p+l5Ye65YW25LuW5ZWG5a6255qE6LSn5ZOBCiAgICAgICAgICAgIC8v5Z2R54i5CiAgICAgICAgICAgIGlmIChudWxsICE9IHF1ZXJ5U2NJdGVtUmVxLmdldE93bmVySWQoKSAmJiAhcXVlcnlTY0l0ZW1SZXEuZ2V0T3duZXJJZCgpLmVxdWFscyhjbnNrdURUTy5nZXRPd25lcklkKCkpKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc2NJdGVtRFRPTGlzdC5hZGQobmV3IFNjSXRlbURUTyhjbnNrdURUTykpOwogICAgICAgIH0KICAgICAgICBxdWVyeVNjSXRlbVJlc3Auc2V0U2NJdGVtRFRPTGlzdChzY0l0ZW1EVE9MaXN0KTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwYWNrYWdlRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRQYXVzZUFoZWFkRGF5cyg2MCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUlTaGlwVGltZUF0dHJpYnV0ZVRhZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZS5zZXRwYXVzZURheQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN5Y2xlU2VuZE1vZGVsLnNldEN5Y2xlU2VuZERheXMoY3ljbGVTZW5kTW9kZWxEVE8uZ2V0UGVyaW9kKCkpOwo=</text>
       </register>
       <register name="+" type="4">
-        <text>&quot;/pkg/bms/management/scItemList&quot;</text>
+        <text>queryBySearchCondition</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/&quot;</text>
+        <text>queryScItemResp</text>
       </register>
     </registers>
   </component>
