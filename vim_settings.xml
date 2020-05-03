@@ -39,11 +39,11 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588238999713">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588477705314">
         <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="39" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="2" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588238895640" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1588230263628">
