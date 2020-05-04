@@ -29,10 +29,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.18/cnsku-facade-2.3.18.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.class" timestamp="1588216194527">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="53" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588582771228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,8 +38,8 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588582757686">
-        <mark key="[" line="21" column="45" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588589437772">
+        <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="45" />
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="45" />
@@ -87,6 +83,7 @@
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/common/permission/RbacManager.java" timestamp="1588589418941" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
         <mark key="[" line="72" column="12" />
         <mark key="]" line="72" column="34" />
@@ -134,13 +131,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="+" type="4">
         <text>scmrbac-hsf-consumer</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
