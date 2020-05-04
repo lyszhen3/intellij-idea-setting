@@ -54,6 +54,7 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25.jar!/scmrbac-hsf-consumer.xml" timestamp="1588575029602" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
         <mark key="'" line="92" column="0" />
         <mark key="[" line="258" column="16" />
@@ -96,13 +97,6 @@
         <mark key="^" line="1458" column="0" />
         <mark key="." line="1458" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" timestamp="1588167202343">
-        <mark key="'" line="777" column="6" />
-        <mark key="[" line="326" column="25" />
-        <mark key="]" line="326" column="39" />
-        <mark key="." line="326" column="47" />
-        <mark key="^" line="326" column="48" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588233987018">
         <mark key="a" line="318" column="0" />
         <mark key="'" line="316" column="0" />
@@ -139,11 +133,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>scmrbac-hsf-consumer</text>
       </register>
       <register name="+" type="4">
-        <text>/pkg/c2m/</text>
+        <text>scmrbac-hsf-consumer</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
