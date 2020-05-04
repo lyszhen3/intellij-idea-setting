@@ -33,6 +33,9 @@
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="53" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588239109466">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1588230238360">
         <mark key="[" line="38" column="20" />
         <mark key="]" line="38" column="23" />
@@ -45,12 +48,47 @@
         <mark key="." line="12" column="2" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588238895640" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/pom.xml" timestamp="1588237815639">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="258" column="16" />
+        <mark key="]" line="258" column="29" />
+        <mark key="." line="258" column="28" />
+        <mark key="^" line="258" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.java" timestamp="1588216783959">
+        <mark key="[" line="81" column="55" />
+        <mark key="]" line="81" column="69" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/AdpInterfaceSource.java" timestamp="1588235455415">
+        <mark key="[" line="94" column="54" />
+        <mark key="]" line="94" column="70" />
+      </file>
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588224028578">
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="28" />
+        <mark key="." line="113" column="12" />
+        <mark key="^" line="113" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/diagnostics/analyzer/BeanNotOfRequiredTypeFailureAnalyzer.java" timestamp="1588574882928" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1588230263628">
         <mark key="[" line="42" column="22" />
         <mark key="]" line="42" column="23" />
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/context/ClientRuntimeConfig.java" timestamp="1588574935773">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="46" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="34" />
       </file>
       <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588237801713">
         <mark key="[" line="1461" column="0" />
@@ -78,42 +116,6 @@
         <mark key="]" line="128" column="79" />
         <mark key="." line="128" column="78" />
         <mark key="^" line="128" column="79" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/dto/search/ScItemSearchDTO.java" timestamp="1588232030410" />
-      <file name="/Dummy.txt" timestamp="1588239109466">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/pom.xml" timestamp="1588237815639">
-        <mark key="'" line="19" column="23" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="258" column="16" />
-        <mark key="]" line="258" column="29" />
-        <mark key="." line="258" column="28" />
-        <mark key="^" line="258" column="29" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.java" timestamp="1588216783959">
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="69" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/AdpInterfaceSource.java" timestamp="1588235455415">
-        <mark key="[" line="94" column="54" />
-        <mark key="]" line="94" column="70" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/subscriber/SubscriberServiceProcessor.java" timestamp="1588235483240" />
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588224028578">
-        <mark key="[" line="113" column="28" />
-        <mark key="]" line="113" column="28" />
-        <mark key="." line="113" column="12" />
-        <mark key="^" line="113" column="12" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="34" />
       </file>
     </filemarks>
     <jumps>
