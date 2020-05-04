@@ -79,7 +79,7 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/context/ClientRuntimeConfig.java" timestamp="1588574935773">
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/context/ClientRuntimeConfig.java" timestamp="1588592444409">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="46" />
       </file>
