@@ -33,7 +33,7 @@
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588239109466">
+      <file name="/Dummy.txt" timestamp="1588582771228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1588230238360">
@@ -42,11 +42,11 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588477705314">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="3" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588582757686">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="45" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/pom.xml" timestamp="1588237815639">
         <mark key="'" line="19" column="23" />
@@ -134,13 +134,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>scmrbac-hsf-consumer</text>
+        <text>true</text>
       </register>
       <register name="+" type="4">
         <text>scmrbac-hsf-consumer</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
