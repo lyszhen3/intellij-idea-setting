@@ -29,32 +29,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588643292428">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1588230238360">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="23" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588589437772">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="45" />
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/pom.xml" timestamp="1588237815639">
-        <mark key="'" line="19" column="23" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588643289355">
         <mark key="[" line="7" column="173" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/diagnostics/analyzer/BeanNotOfRequiredTypeFailureAnalyzer.java" timestamp="1588574882928" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/context/ClientRuntimeConfig.java" timestamp="1588592444409">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="46" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588667461876">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588237801713">
+        <mark key="[" line="1461" column="0" />
+        <mark key="]" line="1465" column="25" />
+        <mark key="^" line="1458" column="0" />
+        <mark key="." line="1458" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/ShipTimeAttributeTaggerHolder.java" timestamp="1588667213039">
+        <mark key="[" line="19" column="112" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588643292428">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588667457235">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="37" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/pom.xml" timestamp="1588237815639">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25.jar!/scmrbac-hsf-consumer.xml" timestamp="1588575029602" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
@@ -64,56 +81,11 @@
         <mark key="." line="258" column="28" />
         <mark key="^" line="258" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cnsku/cnsku-facade/2.3.48/cnsku-facade-2.3.48-sources.jar!/com/cainiao/cnsku/facade/api/query/CnskuItemQueryService.java" timestamp="1588216783959">
-        <mark key="[" line="81" column="55" />
-        <mark key="]" line="81" column="69" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/AdpInterfaceSource.java" timestamp="1588235455415">
         <mark key="[" line="94" column="54" />
         <mark key="]" line="94" column="70" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/utils/CycleTemplateUtils.java" timestamp="1588224028578">
-        <mark key="[" line="113" column="28" />
-        <mark key="]" line="113" column="28" />
-        <mark key="." line="113" column="12" />
-        <mark key="^" line="113" column="12" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/diagnostics/analyzer/BeanNotOfRequiredTypeFailureAnalyzer.java" timestamp="1588574882928" />
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1588230263628">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="23" />
-        <mark key="^" line="42" column="23" />
-        <mark key="." line="42" column="22" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/context/ClientRuntimeConfig.java" timestamp="1588592444409">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="46" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/common/permission/RbacManager.java" timestamp="1588589418941" />
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/snc/SncService.java" timestamp="1588232755569">
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="34" />
-      </file>
-      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588237801713">
-        <mark key="[" line="1461" column="0" />
-        <mark key="]" line="1465" column="25" />
-        <mark key="^" line="1458" column="0" />
-        <mark key="." line="1458" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1588233987018">
-        <mark key="a" line="318" column="0" />
-        <mark key="'" line="316" column="0" />
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="37" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="31" />
-      </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/cycle/CycleTemplateSave.java" timestamp="1588223418410">
-        <mark key="[" line="124" column="1" />
-        <mark key="]" line="128" column="79" />
-        <mark key="." line="128" column="78" />
-        <mark key="^" line="128" column="79" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
@@ -136,44 +108,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>scmrbac-hsf-consumer</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFpbk9yZGVyQXR0cmlidXRlTWFwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUWVBFID0gIk1hbGxHcm91cEJ1eUF0dHJpYnV0ZVRhZ2dlciI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS40LjI1PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbnNrdUl0ZW1TZWFyY2hDb25kaXRpb24gY25za3VJdGVtU2VhcmNoQ29uZGl0aW9uID0gbmV3IENuc2t1SXRlbVNlYXJjaENvbmRpdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS40LjI1PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDbnNrdVF1ZXJ5T3B0aW9uIGNuc2t1UXVlcnlPcHRpb24gPSBuZXcgQ25za3VRdWVyeU9wdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>305,318s/param</text>
