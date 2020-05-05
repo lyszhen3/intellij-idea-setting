@@ -29,9 +29,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/delivery/CommonEstimateMainOrderDeliveryTimingCalculator.java" timestamp="1588687444192">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="76" column="53" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/delivery/CommonEstimateMainOrderDeliveryTimingCalculator.java" timestamp="1588691055024">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="90" column="20" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588673827236">
         <mark key="[" line="8" column="0" />
@@ -65,7 +65,7 @@
         <mark key="^" line="1458" column="0" />
         <mark key="." line="1464" column="29" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/utils/TradeOrderUtils.java" timestamp="1588687564314">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/utils/TradeOrderUtils.java" timestamp="1588691339765">
         <mark key="[" line="293" column="31" />
         <mark key="]" line="293" column="42" />
       </file>
@@ -79,22 +79,28 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="129" column="13" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-order.xml" timestamp="1588688150146">
-        <mark key="[" line="137" column="133" />
-        <mark key="]" line="137" column="132" />
-        <mark key="^" line="137" column="17" />
-        <mark key="." line="137" column="17" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-order.xml" timestamp="1588691922959">
+        <mark key="[" line="57" column="76" />
+        <mark key="]" line="58" column="75" />
+        <mark key="^" line="58" column="75" />
+        <mark key="." line="58" column="74" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/TaobaoShipTimeAttributeTagger.java" timestamp="1588684810823" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/constant/ShipTypeEnum.java" timestamp="1588668594136">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="17" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/delivery/MallGroupBuyMainOrderDeliveryTimingCalculator.java" timestamp="1588688171018">
-        <mark key="[" line="77" column="80" />
-        <mark key="]" line="15" column="57" />
-        <mark key="^" line="74" column="53" />
-        <mark key="." line="74" column="52" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/delivery/MallGroupBuyMainOrderDeliveryTimingCalculator.java" timestamp="1588691871690">
+        <mark key="[" line="85" column="27" />
+        <mark key="]" line="85" column="52" />
+        <mark key="^" line="85" column="52" />
+        <mark key="." line="85" column="51" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/order/OrderBizType.java" timestamp="1588691839451">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="65" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1588687123645">
         <mark key="[" line="197" column="117" />
@@ -131,43 +137,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>MallGroupBuyMainOrderDeliveryTimingCalculator</text>
+        <text>commonPromiseMainOrderDeliveryTimingCalculator</text>
       </register>
       <register name="+" type="4">
-        <text>MallGroupBuyMainOrderDeliveryTimingCalculator</text>
+        <text>commonPromiseMainOrderDeliveryTimingCalculator</text>
       </register>
       <register name="-" type="4">
-        <text>esTime</text>
+        <text>OrderType</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBlc1RpbWXkuI3og73kuLrnqbrvvIxlc1RpbWXlhbblrp7mnInmu6XnlKjnmoTlnLrmma/vvIzmiYDku6Xlj6rog73miorlt7Lnn6XnmoTlj6/og73lvbHlk43nmoTvvIzlnKjliY3pnaLmjpLpmaTmjokKCQlTdHJpbmcgZXNUaW1lID0gbG9naXN0aWNzT3JkZXIuZ2V0QXR0cmlidXRlKExvZ2lzdGljc09yZGVyRE8uQVRUUklVQlRFX0VYUFJFU1NfRU5TVVJFX1RJTUUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlMb2dpc3RpY3NPcmRlckRPIGxvZ2lzdGljc09yZGVyID0gcGFyYW0uZ2V0TG9naXN0aWNzT3JkZXIoKTsK</text>
+        <text encoding="base64">ICAgIE1BTExfR1JPVVBfQlVZX0RFTElWRVJZKCJtYWxsIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGVsaXZlcnlUaW1pbmcuc2V0RGVsaXZlcnlEYXRlKGRlbGl2ZXJ5VGltZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8g6Z2e5YWc5bqV5YaN5omTCg==</text>
+        <text encoding="base64">CQlpZiAoZGVsaXZlcnlUaW1lICE9IG51bGwpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJc3ViT3JkZXJBdHRyaWJ1dGVNYXAucHV0KFNoaXBUaW1lQ29uc3RhbnQuVE1BTExfUFJPTUlTRV9JREVOVElUWSwKCQkJCQlNb2JpbGVUbWFsbFRpbWluZ0ZvcndhcmRDYWxjdWxhdG9yLlRJTUlOR19QUk9NSVNFX0lEKTsKCQkJc3ViT3JkZXJBdHRyaWJ1dGVNYXAucHV0KFNoaXBUaW1lQ29uc3RhbnQuVE1BTExfUFJPTUlTRV9UWVBFLAoJCQkJCU1vYmlsZVRtYWxsVGltaW5nRm9yd2FyZENhbGN1bGF0b3IuVElNSU5HX1BST01JU0VfVFlQRSk7CgoJCQlTdHJpbmcgZGF0ZVN0cmluZyA9IERhdGVGb3JtYXRVdGlscy5mb3JtYXQoRGF0ZVV0aWxzLmFkZEhvdXJzKG5ldyBEYXRlKCksIHNoaXBUaW1lRFRPLmdldFNoaXBUaW1lSG91cigpKSwKCQkJCQkieXl5eS1NTS1kZCBISDptbTpzcyIpOwoJCQlzdWJPcmRlckF0dHJpYnV0ZU1hcC5wdXQoU2hpcFRpbWVDb25zdGFudC5UTUFMTF9QUk9NSVNFX0RFTElWRVJZX1RJTUUsIGRhdGVTdHJpbmcpOwoJCQlzdWJPcmRlckF0dHJpYnV0ZU1hcC5wdXQoU2hpcFRpbWVDb25zdGFudC5UTUFMTF9QUk9NSVNFX0NPTExFQ1RfVElNRSwgZGF0ZVN0cmluZyk7Cg==</text>
+        <text encoding="base64">CQlEYXRlVGltZSBkZWxpdmVyeVRpbWUgPSBUcmFkZU9yZGVyVXRpbHMuY2FsY3VsYXRlRXN0aW1hdGVUaW1pbmcocGFyYW0pOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>305,318s/param</text>
