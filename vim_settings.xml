@@ -29,7 +29,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588582771228">
+      <file name="/Dummy.txt" timestamp="1588643292428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1588230238360">
@@ -50,10 +50,11 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588643271579">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588643289355">
         <mark key="[" line="7" column="173" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="11" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25.jar!/scmrbac-hsf-consumer.xml" timestamp="1588575029602" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
