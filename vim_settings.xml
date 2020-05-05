@@ -42,10 +42,10 @@
         <mark key="^" line="8" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.9.RELEASE/spring-boot-1.5.9.RELEASE-sources.jar!/org/springframework/boot/diagnostics/analyzer/BeanNotOfRequiredTypeFailureAnalyzer.java" timestamp="1588574882928" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" timestamp="1588675330551">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" timestamp="1588684244928">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="106" column="79" />
-        <mark key="]" line="106" column="76" />
+        <mark key="[" line="106" column="31" />
+        <mark key="]" line="106" column="52" />
         <mark key="^" line="106" column="76" />
         <mark key="." line="106" column="75" />
       </file>
@@ -54,10 +54,10 @@
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="46" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588675245366">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588684247942">
+        <mark key="[" line="102" column="58" />
+        <mark key="]" line="102" column="80" />
+        <mark key="." line="102" column="58" />
       </file>
       <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588673757349">
         <mark key="[" line="1464" column="29" />
@@ -75,14 +75,8 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="129" column="13" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/TaobaoShipTimeAttributeTagger.java" timestamp="1588684810823" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25.jar!/scmrbac-hsf-consumer.xml" timestamp="1588575029602" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1588239063999">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="258" column="16" />
-        <mark key="]" line="258" column="29" />
-        <mark key="." line="258" column="28" />
-        <mark key="^" line="258" column="29" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/constant/ShipTypeEnum.java" timestamp="1588668594136">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="17" />
@@ -116,13 +110,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>estConTime</text>
+        <text>TAG_SUB_EST</text>
       </register>
       <register name="+" type="4">
-        <text>asdpMallGroupBuyTime</text>
+        <text>MALL_GRGUP_BUY_SUB_EST</text>
       </register>
       <register name="-" type="4">
-        <text>estConTime</text>
+        <text>TAG_SUB_EST</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
