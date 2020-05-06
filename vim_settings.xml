@@ -33,9 +33,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588695163875">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuyMainOrderDeliveryTimingCalculator.java" timestamp="1588692264690">
         <mark key="[" line="16" column="58" />
       </file>
@@ -48,12 +45,6 @@
         <mark key="]" line="40" column="9" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588731243689" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-order.xml" timestamp="1588695160436">
-        <mark key="[" line="82" column="49" />
-        <mark key="]" line="82" column="101" />
-        <mark key="." line="82" column="100" />
-        <mark key="^" line="82" column="101" />
-      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1588694389437">
         <mark key="'" line="137" column="10" />
         <mark key="[" line="197" column="46" />
@@ -71,28 +62,19 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="72" column="20" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-service/src/main/java/com/alibaba/delivery/platform/subdomain/service/line/resp/LineContentDTO.java" timestamp="1588735902708">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="43" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuyMainOrderDeliveryTimingRender.java" timestamp="1588692244256">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="37" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/delivery/CommonEstimateMainOrderDeliveryTimingRender.java" timestamp="1588692122592">
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="16" column="96" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/delivery/MallGroupBuyMainOrderDeliveryTimingRender.java" timestamp="1588692128534">
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="10" column="95" />
-        <mark key="^" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/delivery/MallGroupBuyMainOrderDeliveryTimingCalculator.java" timestamp="1588691871690">
-        <mark key="[" line="85" column="27" />
-        <mark key="]" line="85" column="52" />
-        <mark key="^" line="85" column="52" />
-        <mark key="." line="85" column="51" />
-      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1588735697930" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MobileTmallSubOrderShipTimingRender.java" timestamp="1588694028434">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="28" column="79" />
@@ -103,15 +85,25 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/dto/cycle/CycleFrontTemplateDTO.java" timestamp="1588736633060">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="102" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588736668754">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-order.xml" timestamp="1588695160436">
+        <mark key="[" line="82" column="49" />
+        <mark key="]" line="82" column="101" />
+        <mark key="." line="82" column="100" />
+        <mark key="^" line="82" column="101" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-service/src/main/java/com/alibaba/delivery/platform/subdomain/service/line/resp/TimeBrandDTO.java" timestamp="1588736339138" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/order/OrderBizType.java" timestamp="1588695140996">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="48" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="65" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/utils/TradeOrderUtils.java" timestamp="1588691339765">
-        <mark key="[" line="293" column="31" />
-        <mark key="]" line="293" column="42" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1588692418259">
         <mark key="[" line="196" column="80" />
@@ -119,8 +111,11 @@
         <mark key="^" line="197" column="123" />
         <mark key="." line="196" column="80" />
       </file>
-      <file name="/fragment.java" timestamp="1588692173831">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/manager/CycleTemplateManager.java" timestamp="1588736665861">
+        <mark key="[" line="93" column="41" />
+        <mark key="]" line="89" column="77" />
+        <mark key="^" line="89" column="77" />
+        <mark key="." line="89" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -147,15 +142,16 @@
       <jump line="30" column="0" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
       <jump line="137" column="10" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" />
       <jump line="19" column="49" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" />
+      <jump line="16" column="13" filename="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/dto/cycle/CycleFrontTemplateDTO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mallGroupBuyDelivery</text>
+        <text>cycleFrontTemplateDTO</text>
       </register>
       <register name="+" type="4">
-        <text>mallGroupBuyDelivery</text>
+        <text>cycleFrontTemplateDTO</text>
       </register>
       <register name="-" type="4">
         <text>Tail</text>
