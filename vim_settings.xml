@@ -6,11 +6,15 @@
     <history>
       <history-search>
         <entry>param</entry>
+        <entry>\ctbsession</entry>
+        <entry>tbsession</entry>
       </history-search>
       <history-cmd>
         <entry>305,318/param</entry>
         <entry>305,318s/param</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -157,7 +161,7 @@
         <text>Tail</text>
       </register>
       <register name="/" type="4">
-        <text>param</text>
+        <text>tbsession</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
@@ -193,9 +197,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>param</last-search>
+      <last-search>tbsession</last-search>
       <last-offset />
-      <last-pattern>param</last-pattern>
+      <last-pattern>tbsession</last-pattern>
       <last-replace />
       <last-substitute>param</last-substitute>
       <last-dir>1</last-dir>
