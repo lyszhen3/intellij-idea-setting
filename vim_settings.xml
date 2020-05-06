@@ -9,6 +9,7 @@
         <entry>\ctbsession</entry>
         <entry>tbsession</entry>
         <entry>google</entry>
+        <entry>web</entry>
       </history-search>
       <history-cmd>
         <entry>305,318/param</entry>
@@ -38,16 +39,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588737783129" />
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1588752719119" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application.properties" timestamp="1588737621322" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1588752193013" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-service/src/main/java/com/alibaba/delivery/platform/subdomain/service/line/resp/TimeStandDTO.java" timestamp="1588742027070" />
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/LineTairValueTransfer.java" timestamp="1588751665170">
         <mark key="[" line="278" column="173" />
         <mark key="]" line="278" column="62" />
         <mark key="." line="278" column="61" />
         <mark key="^" line="278" column="62" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuyMainOrderShipTimingRender.java" timestamp="1588753995539">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="41" column="32" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="32" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-service/src/main/java/com/alibaba/delivery/platform/subdomain/service/line/resp/LineContentDTO.java" timestamp="1588746087843">
         <mark key="[" line="18" column="0" />
@@ -68,10 +72,33 @@
         <mark key="^" line="92" column="71" />
         <mark key="." line="92" column="70" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/context/ClientRuntimeConfig.java" timestamp="1588737786975" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/strategy/render/carrier/impl/MallGroupBuySellerSettingCarrierRenderStrategy.java" timestamp="1588752691683" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/dataserivce/LineDataServiceRepo.java" timestamp="1588742389881" />
-      <file name="/Dummy.txt" timestamp="1588736668754">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/confirm/attribute/ShipTimeTradeAttributeStrategy.java" timestamp="1588752956618">
+        <mark key="[" line="108" column="89" />
+        <mark key="]" line="107" column="26" />
+        <mark key="^" line="107" column="26" />
+        <mark key="." line="107" column="25" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588753181442">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="18" />
+      </file>
+      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588755433051">
+        <mark key="'" line="1372" column="43" />
+        <mark key="[" line="494" column="24" />
+        <mark key="]" line="495" column="34" />
+        <mark key="^" line="494" column="24" />
+        <mark key="." line="494" column="24" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/strategy/render/carrier/impl/MallGroupBuySellerSettingCarrierRenderStrategy.java" timestamp="1588752767365" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" timestamp="1588753256086">
+        <mark key="'" line="18" column="49" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588755447768">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/service/servicenode/node/NodeLineReq.java" timestamp="1588746130305">
@@ -80,7 +107,7 @@
         <mark key="." line="130" column="46" />
         <mark key="^" line="130" column="47" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25.jar!/scmrbac-hsf-consumer.xml" timestamp="1588737966394" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588753103466" />
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-data-service/src/main/java/com/alibaba/delivery/platform/subdomain/data/service/line/resp/LineContentDO.java" timestamp="1588747666832">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -92,12 +119,7 @@
         <mark key="^" line="36" column="45" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/transformer/LineDomainModelTransformer.java" timestamp="1588745913471">
-        <mark key="[" line="261" column="38" />
-        <mark key="]" line="261" column="45" />
-        <mark key="^" line="261" column="38" />
-        <mark key="." line="261" column="38" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/common/permission/RbacManager.java" timestamp="1588754535570" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1588752609650">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="64" />
@@ -131,48 +153,51 @@
       <jump line="16" column="13" filename="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/dto/cycle/CycleFrontTemplateDTO.java" />
       <jump line="15" column="44" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
       <jump line="9281" column="34" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
+      <jump line="1148" column="31" filename="D:/workspace/company/usa-console/pom.xml" />
+      <jump line="1360" column="43" filename="D:/workspace/company/usa-console/pom.xml" />
+      <jump line="1364" column="43" filename="D:/workspace/company/usa-console/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>MallGroupBuySellerSettingShipTimingForwardCalculator</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5kaWFtb25kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kaWFtb25kLWNsaWVudDwvYXJ0aWZhY3RJZD4K</text>
       </register>
-      <register name="+" type="4">
-        <text>MallGroupBuySellerSettingShipTimingForwardCalculator</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5kaWFtb25kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kaWFtb25kLWNsaWVudDwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>google</text>
+        <text>web</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5kaWFtb25kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kaWFtb25kLWNsaWVudDwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2hpcFRpbWVTdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2hpcFRpbWVTdHI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGZlYXR1cmUgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2hpcFRpbWVTdHI7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYkxvZ2lzdGljc0xpbmVET0xpc3QuU2VydmljZVdhdmVETyBwYlNlcnZpY2VXYXZlRE8gPSBwYlNlcnZpY2VXYXZlLmdldFNlcnZpY2VXYXZlRE8oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2hpcFRpbWVTdHI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZpY2VXYXZlRE8gc2VydmljZVdhdmVETyA9IG5ldyBTZXJ2aWNlV2F2ZURPKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQYkxvZ2lzdGljc0xpbmVET0xpc3QuU2VydmljZVdhdmVETyBwYlNlcnZpY2VXYXZlRE8gPSBwYkxpbmVDb250ZW50RE8uZ2V0U2VydmljZVdhdmVETygpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYlNlcnZpY2VXYXZlRE8uaGFzQ3V0T2ZmVGltZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZVdhdmVETy5zZXRDdXRPZmZUaW1lKG5ldyBEYXRlKHBiU2VydmljZVdhdmVETy5nZXRDdXRPZmZUaW1lKCkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocGJTZXJ2aWNlV2F2ZURPLmdldFRpbWVTdGFuZHNDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VXYXZlRE8uc2V0VGltZVN0YW5kcyhwYlNlcnZpY2VXYXZlRE8uZ2V0VGltZVN0YW5kc0xpc3QoKS5zdHJlYW0oKS5tYXAocyAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWVTdGFuZERPIHRpbWVTdGFuZERPID0gbmV3IFRpbWVTdGFuZERPKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVTdGFuZERPLnNldFRpbWluZ1N0YW5kYXJkKHMuZ2V0VGltaW5nU3RhbmRhcmQoKSk7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocy5nZXRUaW1lQnJhbmRzQ291bnQoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVTdGFuZERPLnNldFRpbWVCcmFuZHMocy5nZXRUaW1lQnJhbmRzTGlzdCgpLnN0cmVhbSgpLm1hcCh0IC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lQnJhbmRETyB0aW1lQnJhbmRETyA9IG5ldyBUaW1lQnJhbmRETygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVCcmFuZERPLnNldEFycml2ZVRpbWluZyh0LmdldEFycml2ZVRpbWluZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lQnJhbmRETy5zZXRCcmFuZENvZGUodC5nZXRCcmFuZENvZGUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZUJyYW5kRE8uc2V0RmV0Y2hUaW1pbmcodC5nZXRGZXRjaFRpbWluZygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAodC5nZXRSZWN1ckxpc3RDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lQnJhbmRETy5zZXRSZWN1ckxpc3QoKFN0cmluZ1tdKSB0LmdldFJlY3VyTGlzdExpc3QoKS5zdHJlYW0oKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpLnRvQXJyYXkoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aW1lQnJhbmRETzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aW1lU3RhbmRETzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGZlYXR1cmUgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lQ29udGVudERPLnNldFNlcnZpY2VXYXZlKHNlcnZpY2VXYXZlRE8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/google/tmall.bbq/gc</text>
@@ -181,9 +206,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>google</last-search>
+      <last-search>web</last-search>
       <last-offset />
-      <last-pattern>google</last-pattern>
+      <last-pattern>web</last-pattern>
       <last-replace>tmall.bbq</last-replace>
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
