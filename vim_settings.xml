@@ -54,6 +54,7 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="32" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/appointment/calculate/AppointmentCalculator.java" timestamp="1588769211785" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" timestamp="1588765280752">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="108" column="65" />
@@ -75,7 +76,6 @@
         <mark key="[" line="25" column="43" />
         <mark key="]" line="25" column="95" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/app/api/util/HSFApiProviderBean.java" timestamp="1588763757001" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1588764567583">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="13" />
@@ -87,7 +87,6 @@
         <mark key="." line="57" column="23" />
         <mark key="^" line="57" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/model/metadata/ServiceMetadata.java" timestamp="1588763712787" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MobileTmallSubOrderShipTimingRender.java" timestamp="1588765049219">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="28" column="79" />
@@ -117,6 +116,10 @@
         <mark key="]" line="13" column="45" />
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/suning/express/rule/SuningExpressRuleServiceImpl.java" timestamp="1588769453025">
+        <mark key="[" line="311" column="29" />
+        <mark key="]" line="311" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/model/ApplicationModel.java" timestamp="1588763773481" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1588767171485">
@@ -168,10 +171,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nodeLineResp</text>
+        <text>isExpressWhenSeller.isToTmallDeliverySub</text>
       </register>
       <register name="+" type="4">
-        <text>nodeLineResp</text>
+        <text>isExpressWhenSeller.isToTmallDeliverySub</text>
       </register>
       <register name="-" type="4">
         <text>mallGroupBuyMainOrderShipTimingRender</text>
