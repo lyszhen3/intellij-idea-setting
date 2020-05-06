@@ -39,14 +39,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1588752719119" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/snowland/snowland-common/1.0.0-20180830/snowland-common-1.0.0-20180830.pom" timestamp="1588756857271" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/LineTairValueTransfer.java" timestamp="1588751665170">
-        <mark key="[" line="278" column="173" />
-        <mark key="]" line="278" column="62" />
-        <mark key="." line="278" column="61" />
-        <mark key="^" line="278" column="62" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuyMainOrderShipTimingRender.java" timestamp="1588753995539">
         <mark key="[" line="45" column="43" />
         <mark key="]" line="41" column="32" />
@@ -80,19 +73,17 @@
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/app/api/util/HSFApiProviderBean.java" timestamp="1588763757001" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.18/authello-client-1.4.18.jar!/scmrbac-hsf-consumer.xml" timestamp="1588763142599" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/common/permission/RbacManager.java" timestamp="1588754535570" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/snowland/snowland-service-facade/1.0.0-20180830/snowland-service-facade-1.0.0-20180830.pom" timestamp="1588756869454" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1588752193013" />
-      <file name="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" timestamp="1588749596695">
-        <mark key="'" line="9281" column="34" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/model/metadata/ServiceMetadata.java" timestamp="1588763712787" />
       <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588762918865">
         <mark key="'" line="1367" column="43" />
         <mark key="[" line="482" column="0" />
         <mark key="]" line="482" column="0" />
         <mark key="." line="482" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/strategy/render/carrier/impl/MallGroupBuySellerSettingCarrierRenderStrategy.java" timestamp="1588752767365" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" timestamp="1588753256086">
         <mark key="'" line="18" column="49" />
         <mark key="[" line="39" column="0" />
@@ -110,12 +101,14 @@
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/model/ApplicationModel.java" timestamp="1588763773481" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1588762765888">
         <mark key="[" line="36" column="58" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/hsf-sdk/2.2.8.2-FASTJSON--2019-09-stable/hsf-sdk-2.2.8.2-FASTJSON--2019-09-stable-sources.jar!/com/taobao/hsf/app/api/util/HSFApiConsumerBean.java" timestamp="1588763521205" />
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
