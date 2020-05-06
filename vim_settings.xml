@@ -53,39 +53,38 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="32" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/confirm/attribute/ShipTimeTradeAttributeStrategy.java" timestamp="1588757499735">
-        <mark key="[" line="108" column="89" />
-        <mark key="]" line="107" column="26" />
-        <mark key="^" line="107" column="26" />
-        <mark key="." line="107" column="25" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" timestamp="1588758683922">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="108" column="60" />
+        <mark key="." line="106" column="19" />
+        <mark key="^" line="106" column="20" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588753181442">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="18" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/confirm/attribute/ShipTimeTradeAttributeStrategy.java" timestamp="1588757988249">
+        <mark key="[" line="110" column="64" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="114" column="18" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/line.proto" timestamp="1588749047430">
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="36" column="12" />
-        <mark key="^" line="36" column="45" />
-        <mark key="." line="36" column="4" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/MallGroupBuyAttributeTagger.java" timestamp="1588758869833">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="24" />
+        <mark key="^" line="51" column="20" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/TaobaoShipTimeAttributeTagger.java" timestamp="1588758434933">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="94" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/timing/ShipTimeDO.java" timestamp="1588757826808">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.25/authello-client-1.4.25-sources.jar!/com/alibaba/scm/rbac/common/permission/RbacManager.java" timestamp="1588754535570" />
       <file name="$MAVEN_REPOSITORY$/com/cainiao/snowland/snowland-service-facade/1.0.0-20180830/snowland-service-facade-1.0.0-20180830.pom" timestamp="1588756869454" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1588752193013" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/node/loader/tair/logisticsNode.proto" timestamp="1588747366878">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="27" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" timestamp="1588749596695">
         <mark key="'" line="9281" column="34" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1588746982097">
-        <mark key="[" line="91" column="34" />
-        <mark key="]" line="92" column="71" />
-        <mark key="^" line="92" column="71" />
-        <mark key="." line="92" column="70" />
       </file>
       <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588756883275">
         <mark key="'" line="1375" column="43" />
@@ -103,11 +102,13 @@
       <file name="/Dummy.txt" timestamp="1588756890862">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588753103466" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-data-service/src/main/java/com/alibaba/delivery/platform/subdomain/data/service/line/resp/LineContentDO.java" timestamp="1588747666832">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/timing/ShipTimeFeatureConstant.java" timestamp="1588758771417">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="35" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/tagger/impl/CommonShipTimeAttributeTagger.java" timestamp="1588758012758">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="41" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1588757438672">
         <mark key="[" line="119" column="0" />
@@ -150,20 +151,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAJLy9UT0RPIExZUyBrZXkg5Zyo5YmNCg==</text>
+      <register name="&quot;" type="4">
+        <text>defaultMain</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
+      <register name="+" type="4">
+        <text>subOrderAttribute</text>
       </register>
       <register name="-" type="4">
-        <text>.equals(key)</text>
+        <text>defaultMain</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAJLy9UT0RPIExZUyBrZXkg5Zyo5YmNCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -172,22 +173,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5kaWFtb25kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kaWFtb25kLWNsaWVudDwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">CQlTaGlwVGltZURUTyBzaGlwVGltZURUTyA9IHBhY2thZ2VETy5nZXREZWxpdmVyeVBhY2thZ2VEVE8oKS5nZXRTaGlwVGltZURUTygpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTaGlwVGltZURUTyBzaGlwVGltZURUTyA9IGRlbGl2ZXJ5Q2FycmllckRPLmdldERlbGl2ZXJ5Q2FycmllckRUTygpLmdldFNoaXBUaW1lRFRPKCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2hpcFRpbWVTdHI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/google/tmall.bbq/gc</text>
