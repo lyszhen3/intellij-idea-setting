@@ -118,11 +118,11 @@
         <mark key="[" line="311" column="29" />
         <mark key="]" line="311" column="68" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1588822265060">
-        <mark key="[" line="121" column="19" />
-        <mark key="]" line="121" column="26" />
-        <mark key="." line="121" column="25" />
-        <mark key="^" line="121" column="26" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1588827630779">
+        <mark key="[" line="118" column="12" />
+        <mark key="]" line="77" column="16" />
+        <mark key="." line="77" column="15" />
+        <mark key="^" line="77" column="16" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/transformer/LineDomainModelTransformer.java" timestamp="1588820610002">
         <mark key="[" line="214" column="57" />
@@ -175,43 +175,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>permissionReadServiceConsumer</text>
+        <text>TimeBrandDTO</text>
       </register>
       <register name="+" type="4">
-        <text>permissionReadServiceConsumer</text>
+        <text>timeBrandDTO</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>TimeBrandDTO</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/pgY3ljobms6LmrKEs6YCJ5oup5b2T5YmN5pe26Ze05LmL5YmN55qE5oiq5Y2V5pe26Ze0LOi/memHjOi/mOimgeagueaNruaIquWNleaXtumXtOaOkuW6jy4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lU3RhbmRzLnN0cmVhbSgpLmZpbHRlcihzdGFuZC0+c3RhbmQuKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgY3V0T2ZmVGltZSA9IHNlcnZpY2VXYXZlRFRPLmdldEN1dE9mZlRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/pgY3ljobms6LmrKEs6YCJ5oup5b2T5YmN5pe26Ze05LmL5YmN55qE5oiq5Y2V5pe26Ze0LOi/memHjOi/mOimgeagueaNruaIquWNleaXtumXtOaOkuW6jy4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgY3V0T2ZmVGltZSA9IHNlcnZpY2VXYXZlRFRPLmdldEN1dE9mZlRpbWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text />
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gTFlTIOi9rG1hcAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text />
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gTFlTIOi9rG1hcAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvL1RPRE8gTFlTIOWKoOS4gOS4qmRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQliaXpPcmRlckRPLmdldEF0dHJpYnV0ZShTSElQX1RJTUVfVEFHKTsK</text>
+        <text encoding="base64">CQkvL1RPRE8gTFlTIOWKoOS4gOS4qmRhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/google/tmall.bbq/gc</text>
