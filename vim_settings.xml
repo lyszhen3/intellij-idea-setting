@@ -99,10 +99,10 @@
         <mark key="[" line="84" column="20" />
         <mark key="]" line="84" column="32" />
       </file>
-      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588821938678">
+      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588823149824">
         <mark key="'" line="489" column="30" />
-        <mark key="[" line="1464" column="20" />
-        <mark key="]" line="1467" column="24" />
+        <mark key="[" line="1463" column="28" />
+        <mark key="]" line="1463" column="42" />
         <mark key="^" line="1467" column="24" />
         <mark key="." line="1467" column="23" />
       </file>
@@ -176,10 +176,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>authello-client</text>
       </register>
       <register name="+" type="4">
-        <text>now</text>
+        <text>authello-client</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
