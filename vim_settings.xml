@@ -85,19 +85,18 @@
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="102" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1588765694453" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" timestamp="1588765499984">
-        <mark key="[" line="56" column="77" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="23" />
-        <mark key="^" line="57" column="24" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-20200507.032427-2.jar!/scmrbac-hsf-consumer.xml" timestamp="1588826262287">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="42" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1588765694453" />
       <file name="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" timestamp="1588820268716">
         <mark key="'" line="251" column="37" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/TaobaoSubOrderShipTimingRender.java" timestamp="1588765388683">
-        <mark key="[" line="84" column="20" />
-        <mark key="]" line="84" column="32" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/Application.java" timestamp="1588826474197">
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588823149824">
         <mark key="'" line="489" column="30" />
@@ -176,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>authello-client</text>
+        <text>permissionReadServiceConsumer</text>
       </register>
       <register name="+" type="4">
-        <text>authello-client</text>
+        <text>permissionReadServiceConsumer</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
