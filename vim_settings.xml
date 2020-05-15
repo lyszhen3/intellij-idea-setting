@@ -42,53 +42,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589526960307">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/authello/AuthelloService.java" timestamp="1589533015471">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="37" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589530094690">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="53" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_production" timestamp="1589533756721">
+        <mark key="[" line="3" column="89" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/config/HsfConfig.java" timestamp="1589533030219">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/sld/module/screen/capacityrule/bi/AppointCapacityQuery.java" timestamp="1589531847214" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589533769044">
+        <mark key="[" line="3" column="89" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589532854111">
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="5" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="5" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/timing/TimingExceptionOrderController.java" timestamp="1589534005304" />
+      <file name="/Dummy.txt" timestamp="1589533799194">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/BaseMoudle.java" timestamp="1589531865113" />
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589530238703">
-        <mark key="[" line="0" column="62" />
-        <mark key="]" line="1" column="87" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589533765127">
+        <mark key="[" line="3" column="89" />
+      </file>
+      <file name="/HsfConfig.java" timestamp="1589532957672">
+        <mark key="[" line="244" column="35" />
+        <mark key="]" line="244" column="58" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589534756033">
+        <mark key="'" line="366" column="72" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="503" column="0" />
+        <mark key="." line="503" column="0" />
       </file>
       <file name="/" timestamp="1589531165801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1589526890363">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-staging.properties" timestamp="1589528001022">
-        <mark key="[" line="122" column="14" />
-        <mark key="]" line="122" column="61" />
-      </file>
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/environment/common/cai/conf/nginx-proxy.conf" timestamp="1589530559733">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="65" column="51" />
-        <mark key="." line="65" column="50" />
-        <mark key="^" line="65" column="51" />
-      </file>
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_production" timestamp="1589530188283">
-        <mark key="[" line="1" column="89" />
-        <mark key="]" line="1" column="87" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/debug/PlanDebugController.java" timestamp="1589533125900" />
       <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/sld/module/screen/capacityrule/bi/LineCapacityQuery.java" timestamp="1589531610397" />
-      <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/sld/module/screen/capacityrule/bi/AppointCapacityQuery.java" timestamp="1589531847214" />
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589530244068">
-        <mark key="[" line="0" column="62" />
-        <mark key="]" line="1" column="87" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_project" timestamp="1589530232902">
-        <mark key="[" line="0" column="62" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_project" timestamp="1589533761064">
+        <mark key="[" line="3" column="89" />
         <mark key="]" line="1" column="87" />
         <mark key="." line="1" column="0" />
       </file>
@@ -126,48 +126,64 @@
       <jump line="52" column="27" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" />
       <jump line="489" column="30" filename="D:/workspace/company/usa-console/pom.xml" />
       <jump line="251" column="37" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
+      <jump line="85" column="21" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="366" column="72" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>TimeBrandDTO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlMaXN0PEV4Y2VwdGlvbk9yZGVyRFRPPiBvcmRlckRUT1MgPSBhbGxSb3dMaXN0LnN0cmVhbSgpLm1hcCh0aGlzOjpyb3dDb252ZXJ0RXhjZXB0aW9uT3JkZXJEVE8pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="+" type="4">
-        <text>timeBrandDTO</text>
+        <text>SessionPayload sessionPayload = null;
+		try {
+			sessionPayload = SessionUtil.getSessionPayload();
+		} catch (Exception e) {
+			//sessionid 没有 或者 不合法会报错
+			e.printStackTrace();
+		}
+
+		QueryScItemReq req = buildQueryScItemReq(scItemPkgForm, sessionPayload);
+		QueryScItemResp queryScItemResp = null;
+		try {
+			queryScItemResp = cnskuService.queryC2MByCondition(req);
+		} catch (BizException e) {
+			//TODO LYS 异常怎么处理
+		}</text>
       </register>
       <register name="-" type="4">
-        <text>TimeBrandDTO</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lU3RhbmRzLnN0cmVhbSgpLmZpbHRlcihzdGFuZC0+c3RhbmQuKCkpCg==</text>
+        <text encoding="base64">CQlMaXN0PEV4Y2VwdGlvbk9yZGVyRFRPPiBvcmRlckRUT1MgPSBhbGxSb3dMaXN0LnN0cmVhbSgpLm1hcCh0aGlzOjpyb3dDb252ZXJ0RXhjZXB0aW9uT3JkZXJEVE8pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/pgY3ljobms6LmrKEs6YCJ5oup5b2T5YmN5pe26Ze05LmL5YmN55qE5oiq5Y2V5pe26Ze0LOi/memHjOi/mOimgeagueaNruaIquWNleaXtumXtOaOkuW6jy4uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGUgY3V0T2ZmVGltZSA9IHNlcnZpY2VXYXZlRFRPLmdldEN1dE9mZlRpbWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbnVsbDsKCQl0cnkgewoJCQlxdWVyeVNjSXRlbVJlc3AgPSBjbnNrdVNlcnZpY2UucXVlcnlDMk1CeUNvbmRpdGlvbihyZXEpOwoJCX0gY2F0Y2ggKEJpekV4Y2VwdGlvbiBlKSB7CgkJCS8vVE9ETyBMWVMg5byC5bi45oCO5LmI5aSE55CGCgkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text />
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gTFlTIOi9rG1hcAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbnVsbDsKCQl0cnkgewoJCQlxdWVyeVNjSXRlbVJlc3AgPSBjbnNrdVNlcnZpY2UucXVlcnlDMk1CeUNvbmRpdGlvbihyZXEpOwoJCX0gY2F0Y2ggKEJpekV4Y2VwdGlvbiBlKSB7CgkJCS8vVE9ETyBMWVMg5byC5bi45oCO5LmI5aSE55CGCgkJfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlMaXN0PFJvdz4gYWxsUm93TGlzdCA9IG5ldyBBcnJheUxpc3Q8PihJbnRlZ2VyLnZhbHVlT2YoU3RyaW5nLnZhbHVlT2YodG90YWxDb3VudCkpKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL1RPRE8gTFlTIOWKoOS4gOS4qmRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/google/tmall.bbq/gc</text>
