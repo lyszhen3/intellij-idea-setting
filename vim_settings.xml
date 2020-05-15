@@ -76,9 +76,9 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589565755564">
-        <mark key="[" line="287" column="69" />
-        <mark key="]" line="287" column="93" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589566734050">
+        <mark key="[" line="227" column="19" />
+        <mark key="]" line="227" column="55" />
         <mark key="." line="287" column="92" />
         <mark key="^" line="287" column="93" />
       </file>
@@ -107,8 +107,11 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1589561298346">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1589566664064">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -156,10 +159,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ifNeedDamageRate.equals(NeedDamageRateEnum.NEED_DAMAGE_RATE.getNeedDamageRateId())</text>
+        <text>pkg/operation/management/recommendPkg</text>
       </register>
       <register name="+" type="4">
-        <text>NeedDamageRateEnum.NEED_DAMAGE_RATE.getNeedDamageRateId()</text>
+        <text>pkg/operation/management/recommendPkg</text>
       </register>
       <register name="-" type="4">
         <text>ifNeedDamageRate.equals(NeedDamageRateEnum.NEED_DAMAGE_RATE.getNeedDamageRateId())</text>
