@@ -42,10 +42,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dockerfile_production" timestamp="1589523086618">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="87" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589526960307">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -55,6 +51,7 @@
         <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="53" />
       </file>
+      <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/BaseMoudle.java" timestamp="1589531865113" />
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589530238703">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="1" column="87" />
@@ -83,6 +80,8 @@
         <mark key="]" line="1" column="87" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/sld/module/screen/capacityrule/bi/LineCapacityQuery.java" timestamp="1589531610397" />
+      <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/sld/module/screen/capacityrule/bi/AppointCapacityQuery.java" timestamp="1589531847214" />
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589530244068">
         <mark key="[" line="0" column="62" />
         <mark key="]" line="1" column="87" />
@@ -92,18 +91,6 @@
         <mark key="[" line="0" column="62" />
         <mark key="]" line="1" column="87" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589526578793">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="62" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1589525863034">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="28" />
       </file>
     </filemarks>
     <jumps>
