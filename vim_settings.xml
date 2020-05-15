@@ -15,6 +15,7 @@
         <entry>305,318/param</entry>
         <entry>305,318s/param</entry>
         <entry>%s/google/tmall.bbq/gc</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -54,28 +55,32 @@
         <mark key="[" line="28" column="79" />
         <mark key="]" line="28" column="87" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/reqresp/QueryScItemReq.java" timestamp="1589563173997">
+        <mark key="'" line="15" column="13" />
+      </file>
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589533765127">
         <mark key="[" line="3" column="89" />
-      </file>
-      <file name="/HsfConfig.java" timestamp="1589532957672">
-        <mark key="[" line="244" column="35" />
-        <mark key="]" line="244" column="58" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/PkgChangeRecordManager.java" timestamp="1589562208928">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/authello/AuthelloService.java" timestamp="1589533015471">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="37" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589563171988">
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="454" column="30" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589562183911" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589546572948">
-        <mark key="[" line="55" column="64" />
-        <mark key="]" line="55" column="93" />
-        <mark key="." line="55" column="64" />
-        <mark key="^" line="47" column="95" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589563229987">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589563262114">
+        <mark key="[" line="383" column="12" />
+        <mark key="]" line="383" column="25" />
+        <mark key="^" line="403" column="0" />
+        <mark key="." line="407" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/config/HsfConfig.java" timestamp="1589533030219">
         <mark key="[" line="9" column="0" />
@@ -145,51 +150,52 @@
       <jump line="356" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="67" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="426" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="15" column="13" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/reqresp/QueryScItemReq.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="+" type="4">
-        <text>hasPkg</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBRdWVyeVNjSXRlbVJlcSBxdWVyeVNjSXRlbVJlcSA9IG5ldyBRdWVyeVNjSXRlbVJlcSgpOwogICAgICAgIGlmIChzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VJbmRleCgpID09IG51bGwpIHsKICAgICAgICAgICAgLy/lhYjnu5nkuKrpu5jorqTlgLwKICAgICAgICAgICAgc2NJdGVtUGtnRm9ybS5zZXRQYWdlSW5kZXgoMCk7CiAgICAgICAgfQogICAgICAgIGlmIChzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VTaXplKCkgPT0gbnVsbCkgewogICAgICAgICAgICAvL+WFiOe7meS4qum7mOiupOWAvAogICAgICAgICAgICBzY0l0ZW1Qa2dGb3JtLnNldFBhZ2VTaXplKDEwMCk7CiAgICAgICAgfQogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldFBhZ2VObyhzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VJbmRleCgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRQYWdlU2l6ZShzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VTaXplKCkpOwogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldEluV2FyZUhvdXNlKHNjSXRlbVBrZ0Zvcm0uZ2V0SW5XYXJlSG91c2UoKSk7CgogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldEhhc1BrZyhzY0l0ZW1Qa2dGb3JtLmdldEhhc1BrZygpKTsKCiAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0U2NJdGVtSWQoc2NJdGVtUGtnRm9ybS5nZXRTY0l0ZW1JZCgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRTY0l0ZW1OYW1lKHNjSXRlbVBrZ0Zvcm0uZ2V0U2NJdGVtTmFtZSgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRTY0l0ZW1Db2RlKHNjSXRlbVBrZ0Zvcm0uZ2V0U2NJdGVtQ29kZSgpKTsKCiAgICAgICAgaWYgKHNlc3Npb25QYXlsb2FkICE9IG51bGwpIHsKCQkJQzJNVXRpbC5zZXRNZXJjaGF0Q29kZUFuZFN1cHBsaWVycyhxdWVyeVNjSXRlbVJlcSwgc2Vzc2lvblBheWxvYWQsIGF1dGhlbGxvU2VydmljZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBxdWVyeVNjSXRlbVJlcTsK</text>
       </register>
       <register name="-" type="4">
-        <text>sonOwnerId</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvL+iOt+WPluWVhuWutmlkKOS4u+i0puWPtykKCQlMb25nIG93bmVySWQgPSBPd25lcklkVXRpbC5nZXRPd25lcklkQXNMb25nKHNlc3Npb24pOwoJCWlmIChudWxsID09IG93bmVySWQpIHsKCQkJdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5TWVNfQlVTWSwgIuiOt+WPluWVhuWutuS/oeaBr+Wksei0pSIpOwoJCX0KCgkJLy/ojrflj5blrZDllYblrrZpZAoJCUxvbmcgc29uT3duZXJJZCA9IE93bmVySWRVdGlsLmdldFNvbk93bmVySWQoc2Vzc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUXVlcnlTY0l0ZW1SZXEgYnVpbGRRdWVyeVNjSXRlbVJlcShTY0l0ZW1Qa2dGb3JtIHNjSXRlbVBrZ0Zvcm0sIFNlc3Npb25QYXlsb2FkIHNlc3Npb25QYXlsb2FkKXsKCiAgICAgICAgUXVlcnlTY0l0ZW1SZXEgcXVlcnlTY0l0ZW1SZXEgPSBuZXcgUXVlcnlTY0l0ZW1SZXEoKTsKICAgICAgICBpZiAoc2NJdGVtUGtnRm9ybS5nZXRQYWdlSW5kZXgoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIC8v5YWI57uZ5Liq6buY6K6k5YC8CiAgICAgICAgICAgIHNjSXRlbVBrZ0Zvcm0uc2V0UGFnZUluZGV4KDApOwogICAgICAgIH0KICAgICAgICBpZiAoc2NJdGVtUGtnRm9ybS5nZXRQYWdlU2l6ZSgpID09IG51bGwpIHsKICAgICAgICAgICAgLy/lhYjnu5nkuKrpu5jorqTlgLwKICAgICAgICAgICAgc2NJdGVtUGtnRm9ybS5zZXRQYWdlU2l6ZSgxMDApOwogICAgICAgIH0KICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRQYWdlTm8oc2NJdGVtUGtnRm9ybS5nZXRQYWdlSW5kZXgoKSk7CiAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0UGFnZVNpemUoc2NJdGVtUGtnRm9ybS5nZXRQYWdlU2l6ZSgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRJbldhcmVIb3VzZShzY0l0ZW1Qa2dGb3JtLmdldEluV2FyZUhvdXNlKCkpOwoKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRIYXNQa2coc2NJdGVtUGtnRm9ybS5nZXRIYXNQa2coKSk7CgogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldFNjSXRlbUlkKHNjSXRlbVBrZ0Zvcm0uZ2V0U2NJdGVtSWQoKSk7CiAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0U2NJdGVtTmFtZShzY0l0ZW1Qa2dGb3JtLmdldFNjSXRlbU5hbWUoKSk7CiAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0U2NJdGVtQ29kZShzY0l0ZW1Qa2dGb3JtLmdldFNjSXRlbUNvZGUoKSk7CgogICAgICAgIGlmIChzZXNzaW9uUGF5bG9hZCAhPSBudWxsKSB7CiAgICAgICAgICAgIEMyTVV0aWwuc2V0TWVyY2hhdENvZGVBbmRTdXBwbGllcnMocXVlcnlTY0l0ZW1SZXEsIHNlc3Npb25QYXlsb2FkLCBhdXRoZWxsb1NlcnZpY2UpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcXVlcnlTY0l0ZW1SZXE7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2Vzc2lvblBheWxvYWQgIT0gbnVsbCkgewogICAgICAgICAgICBTdHJpbmcgbWVyY2hhbnRDb2RlID0gc2Vzc2lvblBheWxvYWQuZ2V0QXR0cmlidXRlKFNlc3Npb25BdHRyaWJ1dGVLZXkuU1VQX01DT0RFKTsKCiAgICAgICAgICAgIGlmIChtZXJjaGFudENvZGUgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0TWVyY2hhbnRDb2RlKG1lcmNoYW50Q29kZSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChzZXNzaW9uUGF5bG9hZC5nZXRBY2NvdW50RFRPKCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgSW50ZWdlciBtZW1iZXJUeXBlID0gc2Vzc2lvblBheWxvYWQuZ2V0QWNjb3VudERUTygpLmdldE1lbWJlclR5cGUoKTsKICAgICAgICAgICAgICAgIGlmIChNZW1iZXJUeXBlLmlzVmVuZG9yKG1lbWJlclR5cGUpKSB7CiAgICAgICAgICAgICAgICAgICAgLy/liJnmmK/kvpvlupTllYYs5bqU6K+l6YCa6L+H5a+55bqU55qE5LqM57qn5L6b5bqU5ZWG5YiX6KGo5p+l6K+iLAogICAgICAgICAgICAgICAgICAgIC8v5LqM57qn5L6b5bqU5ZWG6YeM562b6YCJ5LiLYzJt55qE5L6b5bqU5ZWGCiAgICAgICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0TWVyY2hhbnRDb2RlKCJDMk0iKTsKICAgICAgICAgICAgICAgICAgICBMaXN0PExvbmc+IHN1cHBsaWVySWRzID0gYXV0aGVsbG9TZXJ2aWNlLmZldGNoU3VwcGxpZXJJZHMoc2Vzc2lvblBheWxvYWQpOwogICAgICAgICAgICAgICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldFN1cHBsaWVySWRMaXN0KHN1cHBsaWVySWRzKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy/liJnmmK/lsI/kuoznmbvpmYYsIOacieS4quihjOS4mmNvZGUKICAgICAgICAgICAgICAgICAgICBpZiAoImMybSIuZXF1YWxzSWdub3JlQ2FzZShzZXNzaW9uUGF5bG9hZC5nZXRDdXJyZW50Qml6Q29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAvL+WmguaenOaYr2MybSDlsI/kuowKICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0TWVyY2hhbnRDb2RlKCJDMk0iKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmb3IgKEV4Y2VwdGlvbk9yZGVyRFRPIG9yZGVyRFRPIDogb3JkZXJEVE9TKSB7CgoJCQlTdHJpbmcgc3RyaW5nQnVpbGRlciA9IChvcmRlckRUTy5nZXRNb3JkSWQoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0TW9yZElkKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0RGVsaXZlcnlBZGRyKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldERlbGl2ZXJ5QWRkcigpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFRoZWRhdGUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0VGhlZGF0ZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldElzUHJvbWlzZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRJc1Byb21pc2UoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRUaW1pbmdCaXpUeXBlKCkgPT0gbnVsbCA/ICItIiArICIsIjogb3JkZXJEVE8uZ2V0VGltaW5nQml6VHlwZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFNob3dUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldFNob3dUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0R290VGltZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRHb3RUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRBcnJpdmVUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldEFycml2ZVRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRJZlJlYWNoKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldElmUmVhY2goKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRSZWFzb24oKSA9PSBudWxsID8gIi0iIDogb3JkZXJEVE8uZ2V0UmVhc29uKCkpOwoJCQlwdy5wcmludGxuKHN0cmluZ0J1aWxkZXIpOwoJCX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/google/tmall.bbq/gc</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
