@@ -43,8 +43,8 @@
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589536403749">
-        <mark key="[" line="28" column="79" />
-        <mark key="]" line="28" column="87" />
+        <mark key="[" line="29" column="79" />
+        <mark key="]" line="29" column="87" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/authello/AuthelloService.java" timestamp="1589533015471">
         <mark key="[" line="24" column="16" />
@@ -69,7 +69,7 @@
         <mark key="." line="49" column="5" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/timing/TimingExceptionOrderController.java" timestamp="1589534005304" />
-      <file name="/Dummy.txt" timestamp="1589535530671">
+      <file name="/Dummy.txt" timestamp="1589543964426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/BaseMoudle.java" timestamp="1589531865113" />
@@ -80,14 +80,11 @@
         <mark key="[" line="244" column="35" />
         <mark key="]" line="244" column="58" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589535527589">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589545640148">
         <mark key="[" line="459" column="51" />
         <mark key="]" line="459" column="58" />
         <mark key="." line="459" column="57" />
         <mark key="^" line="459" column="58" />
-      </file>
-      <file name="/" timestamp="1589531165801">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/debug/PlanDebugController.java" timestamp="1589533125900" />
       <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/sld/module/screen/capacityrule/bi/LineCapacityQuery.java" timestamp="1589531610397" />
@@ -95,6 +92,12 @@
         <mark key="[" line="3" column="89" />
         <mark key="]" line="1" column="87" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1589543995823">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -139,13 +142,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/pkg/c2m/</text>
+        <text>m</text>
       </register>
       <register name="+" type="4">
         <text>/pkg/c2m/</text>
       </register>
       <register name="-" type="4">
-        <text>scexport</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
