@@ -42,6 +42,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589550150643">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589536403749">
         <mark key="[" line="28" column="79" />
         <mark key="]" line="28" column="87" />
@@ -86,12 +91,12 @@
         <mark key="[" line="244" column="35" />
         <mark key="]" line="244" column="58" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589548786393">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="421" column="94" />
-        <mark key="]" line="421" column="95" />
-        <mark key="." line="421" column="94" />
-        <mark key="^" line="421" column="95" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589549809446">
+        <mark key="'" line="426" column="0" />
+        <mark key="[" line="422" column="94" />
+        <mark key="]" line="422" column="95" />
+        <mark key="." line="422" column="94" />
+        <mark key="^" line="422" column="95" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/debug/PlanDebugController.java" timestamp="1589533125900" />
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_project" timestamp="1589533761064">
@@ -104,6 +109,9 @@
         <mark key="]" line="16" column="16" />
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="16" />
+      </file>
+      <file name="/fragment.java" timestamp="1589550284804">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -144,6 +152,7 @@
       <jump line="5" column="51" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="356" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="67" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="426" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
