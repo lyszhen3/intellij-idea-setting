@@ -42,96 +42,68 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-data-service/src/main/java/com/alibaba/delivery/platform/subdomain/data/service/line/resp/ServiceWaveDO.java" timestamp="1588819107119">
+      <file name="/Dockerfile_production" timestamp="1589523086618">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="87" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589526960307">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="4" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/LineTairValueTransfer.java" timestamp="1588820428734">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="199" column="78" />
-        <mark key="." line="199" column="77" />
-        <mark key="^" line="199" column="78" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589530094690">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="53" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/appointment/calculate/AppointmentCalculator.java" timestamp="1588769211785" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/line.proto" timestamp="1588820121100">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="14" />
-        <mark key="^" line="42" column="14" />
-        <mark key="." line="42" column="13" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589530238703">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="1" column="87" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/taobao/delivery/biz/diamond/CycleTemplateConfig.java" timestamp="1588765938048">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="40" />
-      </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/taobao/delivery/biz/diamond/CycleTemplateListener.java" timestamp="1588765930577">
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="95" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-service/src/main/java/com/alibaba/delivery/platform/subdomain/service/line/resp/ServiceWaveDTO.java" timestamp="1588819102008">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="23" column="4" />
-        <mark key="." line="23" column="3" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1588822237738">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="102" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-20200507.032427-2.jar!/scmrbac-hsf-consumer.xml" timestamp="1588826262287">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="42" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1588765694453" />
-      <file name="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" timestamp="1588820268716">
-        <mark key="'" line="251" column="37" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/Application.java" timestamp="1588826474197">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1588823149824">
-        <mark key="'" line="489" column="30" />
-        <mark key="[" line="1463" column="28" />
-        <mark key="]" line="1463" column="42" />
-        <mark key="^" line="1467" column="24" />
-        <mark key="." line="1467" column="23" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1588828052258">
+      <file name="/" timestamp="1589531165801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588821956644">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1589526890363">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/CalcMethod.java" timestamp="1588767121734">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="40" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-staging.properties" timestamp="1589528001022">
+        <mark key="[" line="122" column="14" />
+        <mark key="]" line="122" column="61" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/suning/express/rule/SuningExpressRuleServiceImpl.java" timestamp="1588769453025">
-        <mark key="[" line="311" column="29" />
-        <mark key="]" line="311" column="68" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/environment/common/cai/conf/nginx-proxy.conf" timestamp="1589530559733">
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="65" column="51" />
+        <mark key="." line="65" column="50" />
+        <mark key="^" line="65" column="51" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1588827712479">
-        <mark key="[" line="152" column="13" />
-        <mark key="]" line="77" column="16" />
-        <mark key="." line="77" column="15" />
-        <mark key="^" line="77" column="16" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_production" timestamp="1589530188283">
+        <mark key="[" line="1" column="89" />
+        <mark key="]" line="1" column="87" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/transformer/LineDomainModelTransformer.java" timestamp="1588820610002">
-        <mark key="[" line="214" column="57" />
-        <mark key="]" line="215" column="62" />
-        <mark key="^" line="215" column="62" />
-        <mark key="." line="215" column="61" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589530244068">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="1" column="87" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1588765714064">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_project" timestamp="1589530232902">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="1" column="87" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589526578793">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="62" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1589525863034">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="28" />
       </file>
     </filemarks>
     <jumps>
