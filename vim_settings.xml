@@ -42,6 +42,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589536403749">
+        <mark key="[" line="28" column="79" />
+        <mark key="]" line="28" column="87" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/authello/AuthelloService.java" timestamp="1589533015471">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="37" />
@@ -77,7 +81,6 @@
         <mark key="]" line="244" column="58" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589535527589">
-        <mark key="'" line="356" column="30" />
         <mark key="[" line="459" column="51" />
         <mark key="]" line="459" column="58" />
         <mark key="." line="459" column="57" />
@@ -136,10 +139,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>scexport</text>
+        <text>/pkg/c2m/</text>
       </register>
       <register name="+" type="4">
-        <text>management/scItemList</text>
+        <text>/pkg/c2m/</text>
       </register>
       <register name="-" type="4">
         <text>scexport</text>
