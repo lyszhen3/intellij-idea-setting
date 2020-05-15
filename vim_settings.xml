@@ -61,10 +61,16 @@
         <mark key="[" line="244" column="35" />
         <mark key="]" line="244" column="58" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/PkgChangeRecordManager.java" timestamp="1589562208928">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/authello/AuthelloService.java" timestamp="1589533015471">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="37" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589562183911" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589546572948">
         <mark key="[" line="55" column="64" />
         <mark key="]" line="55" column="93" />
@@ -143,8 +149,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>hasPkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
         <text>hasPkg</text>
@@ -156,19 +162,19 @@
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvL+iOt+WPluWVhuWutmlkKOS4u+i0puWPtykKCQlMb25nIG93bmVySWQgPSBPd25lcklkVXRpbC5nZXRPd25lcklkQXNMb25nKHNlc3Npb24pOwoJCWlmIChudWxsID09IG93bmVySWQpIHsKCQkJdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5TWVNfQlVTWSwgIuiOt+WPluWVhuWutuS/oeaBr+Wksei0pSIpOwoJCX0KCgkJLy/ojrflj5blrZDllYblrrZpZAoJCUxvbmcgc29uT3duZXJJZCA9IE93bmVySWRVdGlsLmdldFNvbk93bmVySWQoc2Vzc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvL+iOt+WPluWVhuWutmlkKOS4u+i0puWPtykKCQlMb25nIG93bmVySWQgPSBPd25lcklkVXRpbC5nZXRPd25lcklkQXNMb25nKHNlc3Npb24pOwoJCWlmIChudWxsID09IG93bmVySWQpIHsKCQkJdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihSZXRDb2RlRW51bS5TWVNfQlVTWSwgIuiOt+WPluWVhuWutuS/oeaBr+Wksei0pSIpOwoJCX0KCgkJLy/ojrflj5blrZDllYblrrZpZAoJCUxvbmcgc29uT3duZXJJZCA9IE93bmVySWRVdGlsLmdldFNvbk93bmVySWQoc2Vzc2lvbik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -177,10 +183,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmb3IgKEV4Y2VwdGlvbk9yZGVyRFRPIG9yZGVyRFRPIDogb3JkZXJEVE9TKSB7CgoJCQlTdHJpbmcgc3RyaW5nQnVpbGRlciA9IChvcmRlckRUTy5nZXRNb3JkSWQoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0TW9yZElkKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0RGVsaXZlcnlBZGRyKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldERlbGl2ZXJ5QWRkcigpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFRoZWRhdGUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0VGhlZGF0ZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldElzUHJvbWlzZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRJc1Byb21pc2UoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRUaW1pbmdCaXpUeXBlKCkgPT0gbnVsbCA/ICItIiArICIsIjogb3JkZXJEVE8uZ2V0VGltaW5nQml6VHlwZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFNob3dUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldFNob3dUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0R290VGltZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRHb3RUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRBcnJpdmVUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldEFycml2ZVRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRJZlJlYWNoKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldElmUmVhY2goKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRSZWFzb24oKSA9PSBudWxsID8gIi0iIDogb3JkZXJEVE8uZ2V0UmVhc29uKCkpOwoJCQlwdy5wcmludGxuKHN0cmluZ0J1aWxkZXIpOwoJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlTdHJpbmdCdWlsZGVyIHN0cmluZ0J1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpO2QK</text>
+        <text encoding="base64">CQlmb3IgKEV4Y2VwdGlvbk9yZGVyRFRPIG9yZGVyRFRPIDogb3JkZXJEVE9TKSB7CgoJCQlTdHJpbmcgc3RyaW5nQnVpbGRlciA9IChvcmRlckRUTy5nZXRNb3JkSWQoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0TW9yZElkKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0RGVsaXZlcnlBZGRyKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldERlbGl2ZXJ5QWRkcigpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFRoZWRhdGUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0VGhlZGF0ZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldElzUHJvbWlzZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRJc1Byb21pc2UoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRUaW1pbmdCaXpUeXBlKCkgPT0gbnVsbCA/ICItIiArICIsIjogb3JkZXJEVE8uZ2V0VGltaW5nQml6VHlwZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFNob3dUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldFNob3dUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0R290VGltZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRHb3RUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRBcnJpdmVUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldEFycml2ZVRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRJZlJlYWNoKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldElmUmVhY2goKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRSZWFzb24oKSA9PSBudWxsID8gIi0iIDogb3JkZXJEVE8uZ2V0UmVhc29uKCkpOwoJCQlwdy5wcmludGxuKHN0cmluZ0J1aWxkZXIpOwoJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/google/tmall.bbq/gc</text>
