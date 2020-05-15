@@ -43,7 +43,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589551562359">
+      <file name="/Dummy.txt" timestamp="1589564743243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589560948162">
@@ -72,15 +72,15 @@
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589562183911" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589563229987">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589563262114">
-        <mark key="[" line="383" column="12" />
-        <mark key="]" line="383" column="25" />
-        <mark key="^" line="403" column="0" />
-        <mark key="." line="407" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589564704734">
+        <mark key="[" line="287" column="69" />
+        <mark key="]" line="287" column="93" />
+        <mark key="." line="287" column="92" />
+        <mark key="^" line="287" column="93" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/config/HsfConfig.java" timestamp="1589533030219">
         <mark key="[" line="9" column="0" />
@@ -155,14 +155,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>ifNeedDamageRate.equals(NeedDamageRateEnum.NEED_DAMAGE_RATE.getNeedDamageRateId())</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeVNjSXRlbVJlcSBxdWVyeVNjSXRlbVJlcSA9IG5ldyBRdWVyeVNjSXRlbVJlcSgpOwogICAgICAgIGlmIChzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VJbmRleCgpID09IG51bGwpIHsKICAgICAgICAgICAgLy/lhYjnu5nkuKrpu5jorqTlgLwKICAgICAgICAgICAgc2NJdGVtUGtnRm9ybS5zZXRQYWdlSW5kZXgoMCk7CiAgICAgICAgfQogICAgICAgIGlmIChzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VTaXplKCkgPT0gbnVsbCkgewogICAgICAgICAgICAvL+WFiOe7meS4qum7mOiupOWAvAogICAgICAgICAgICBzY0l0ZW1Qa2dGb3JtLnNldFBhZ2VTaXplKDEwMCk7CiAgICAgICAgfQogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldFBhZ2VObyhzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VJbmRleCgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRQYWdlU2l6ZShzY0l0ZW1Qa2dGb3JtLmdldFBhZ2VTaXplKCkpOwogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldEluV2FyZUhvdXNlKHNjSXRlbVBrZ0Zvcm0uZ2V0SW5XYXJlSG91c2UoKSk7CgogICAgICAgIHF1ZXJ5U2NJdGVtUmVxLnNldEhhc1BrZyhzY0l0ZW1Qa2dGb3JtLmdldEhhc1BrZygpKTsKCiAgICAgICAgcXVlcnlTY0l0ZW1SZXEuc2V0U2NJdGVtSWQoc2NJdGVtUGtnRm9ybS5nZXRTY0l0ZW1JZCgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRTY0l0ZW1OYW1lKHNjSXRlbVBrZ0Zvcm0uZ2V0U2NJdGVtTmFtZSgpKTsKICAgICAgICBxdWVyeVNjSXRlbVJlcS5zZXRTY0l0ZW1Db2RlKHNjSXRlbVBrZ0Zvcm0uZ2V0U2NJdGVtQ29kZSgpKTsKCiAgICAgICAgaWYgKHNlc3Npb25QYXlsb2FkICE9IG51bGwpIHsKCQkJQzJNVXRpbC5zZXRNZXJjaGF0Q29kZUFuZFN1cHBsaWVycyhxdWVyeVNjSXRlbVJlcSwgc2Vzc2lvblBheWxvYWQsIGF1dGhlbGxvU2VydmljZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBxdWVyeVNjSXRlbVJlcTsK</text>
+      <register name="+" type="4">
+        <text>NeedDamageRateEnum.NEED_DAMAGE_RATE.getNeedDamageRateId()</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ifNeedDamageRate.equals(NeedDamageRateEnum.NEED_DAMAGE_RATE.getNeedDamageRateId())</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
