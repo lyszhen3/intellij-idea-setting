@@ -65,7 +65,7 @@
         <mark key="." line="49" column="5" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/timing/TimingExceptionOrderController.java" timestamp="1589534005304" />
-      <file name="/Dummy.txt" timestamp="1589533799194">
+      <file name="/Dummy.txt" timestamp="1589535530671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/BaseMoudle.java" timestamp="1589531865113" />
@@ -76,11 +76,12 @@
         <mark key="[" line="244" column="35" />
         <mark key="]" line="244" column="58" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589534756033">
-        <mark key="'" line="366" column="72" />
-        <mark key="[" line="492" column="0" />
-        <mark key="]" line="503" column="0" />
-        <mark key="." line="503" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589535527589">
+        <mark key="'" line="356" column="30" />
+        <mark key="[" line="459" column="51" />
+        <mark key="]" line="459" column="58" />
+        <mark key="." line="459" column="57" />
+        <mark key="^" line="459" column="58" />
       </file>
       <file name="/" timestamp="1589531165801">
         <mark key="[" line="0" column="0" />
@@ -128,47 +129,35 @@
       <jump line="251" column="37" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
       <jump line="85" column="21" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="366" column="72" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="5" column="51" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="356" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlMaXN0PEV4Y2VwdGlvbk9yZGVyRFRPPiBvcmRlckRUT1MgPSBhbGxSb3dMaXN0LnN0cmVhbSgpLm1hcCh0aGlzOjpyb3dDb252ZXJ0RXhjZXB0aW9uT3JkZXJEVE8pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>scexport</text>
       </register>
       <register name="+" type="4">
-        <text>SessionPayload sessionPayload = null;
-		try {
-			sessionPayload = SessionUtil.getSessionPayload();
-		} catch (Exception e) {
-			//sessionid 没有 或者 不合法会报错
-			e.printStackTrace();
-		}
-
-		QueryScItemReq req = buildQueryScItemReq(scItemPkgForm, sessionPayload);
-		QueryScItemResp queryScItemResp = null;
-		try {
-			queryScItemResp = cnskuService.queryC2MByCondition(req);
-		} catch (BizException e) {
-			//TODO LYS 异常怎么处理
-		}</text>
+        <text>management/scItemList</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>scexport</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlMaXN0PEV4Y2VwdGlvbk9yZGVyRFRPPiBvcmRlckRUT1MgPSBhbGxSb3dMaXN0LnN0cmVhbSgpLm1hcCh0aGlzOjpyb3dDb252ZXJ0RXhjZXB0aW9uT3JkZXJEVE8pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbnVsbDsKCQl0cnkgewoJCQlxdWVyeVNjSXRlbVJlc3AgPSBjbnNrdVNlcnZpY2UucXVlcnlDMk1CeUNvbmRpdGlvbihyZXEpOwoJCX0gY2F0Y2ggKEJpekV4Y2VwdGlvbiBlKSB7CgkJCS8vVE9ETyBMWVMg5byC5bi45oCO5LmI5aSE55CGCgkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -177,13 +166,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbnVsbDsKCQl0cnkgewoJCQlxdWVyeVNjSXRlbVJlc3AgPSBjbnNrdVNlcnZpY2UucXVlcnlDMk1CeUNvbmRpdGlvbihyZXEpOwoJCX0gY2F0Y2ggKEJpekV4Y2VwdGlvbiBlKSB7CgkJCS8vVE9ETyBMWVMg5byC5bi45oCO5LmI5aSE55CGCgkJfQo=</text>
+        <text encoding="base64">CQlmb3IgKEV4Y2VwdGlvbk9yZGVyRFRPIG9yZGVyRFRPIDogb3JkZXJEVE9TKSB7CgoJCQlTdHJpbmcgc3RyaW5nQnVpbGRlciA9IChvcmRlckRUTy5nZXRNb3JkSWQoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0TW9yZElkKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0RGVsaXZlcnlBZGRyKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldERlbGl2ZXJ5QWRkcigpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFRoZWRhdGUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0VGhlZGF0ZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldElzUHJvbWlzZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRJc1Byb21pc2UoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRUaW1pbmdCaXpUeXBlKCkgPT0gbnVsbCA/ICItIiArICIsIjogb3JkZXJEVE8uZ2V0VGltaW5nQml6VHlwZSgpICsgIiwiKSArCgkJCQkJKG9yZGVyRFRPLmdldFNob3dUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldFNob3dUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0R290VGltZSgpID09IG51bGwgPyAiLSIgICsgIiwiOiBvcmRlckRUTy5nZXRHb3RUaW1lKCkgKyAiLCIpICsKCQkJCQkob3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSA9PSBudWxsID8gIi0iICArICIsIjogb3JkZXJEVE8uZ2V0SXNHb3RJbnRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRBcnJpdmVUaW1lKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldEFycml2ZVRpbWUoKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRJZlJlYWNoKCkgPT0gbnVsbCA/ICItIiAgKyAiLCI6IG9yZGVyRFRPLmdldElmUmVhY2goKSArICIsIikgKwoJCQkJCShvcmRlckRUTy5nZXRSZWFzb24oKSA9PSBudWxsID8gIi0iIDogb3JkZXJEVE8uZ2V0UmVhc29uKCkpOwoJCQlwdy5wcmludGxuKHN0cmluZ0J1aWxkZXIpOwoJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMaXN0PFJvdz4gYWxsUm93TGlzdCA9IG5ldyBBcnJheUxpc3Q8PihJbnRlZ2VyLnZhbHVlT2YoU3RyaW5nLnZhbHVlT2YodG90YWxDb3VudCkpKTsK</text>
+        <text encoding="base64">CQkJCQlTdHJpbmdCdWlsZGVyIHN0cmluZ0J1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpO2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/google/tmall.bbq/gc</text>
