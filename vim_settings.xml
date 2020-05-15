@@ -73,14 +73,14 @@
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589533769044">
         <mark key="[" line="3" column="89" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589532854111">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="49" column="5" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="5" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589550530590">
+        <mark key="[" line="323" column="33" />
+        <mark key="]" line="323" column="55" />
+        <mark key="^" line="323" column="55" />
+        <mark key="." line="323" column="54" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/timing/TimingExceptionOrderController.java" timestamp="1589534005304" />
-      <file name="/Dummy.txt" timestamp="1589548798494">
+      <file name="/Dummy.txt" timestamp="1589550558636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/cdc-admin/cdc-admin-web/src/main/java/com/cainiao/cdc/admin/BaseMoudle.java" timestamp="1589531865113" />
@@ -158,13 +158,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>scItemPkgForm</text>
+        <text>setItemIdList</text>
       </register>
       <register name="+" type="4">
         <text>getCooperativeRexMerchantCode</text>
       </register>
       <register name="-" type="4">
-        <text>scItemPkgForm</text>
+        <text>setItemIdList</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
