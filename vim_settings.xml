@@ -43,52 +43,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589611613764">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="51" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589611601492">
-        <mark key="a" line="317" column="8" />
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="405" column="17" />
-        <mark key="]" line="405" column="58" />
-        <mark key="." line="108" column="55" />
-        <mark key="^" line="108" column="56" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1589599253172">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="132" column="5" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589598874727">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="60" />
-        <mark key="." line="21" column="59" />
-        <mark key="^" line="21" column="60" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationCommonController.java" timestamp="1589611510660">
-        <mark key="[" line="92" column="63" />
-        <mark key="]" line="92" column="107" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1589610748114">
-        <mark key="[" line="83" column="19" />
-        <mark key="]" line="83" column="25" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589612991821">
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="50" column="60" />
-        <mark key="^" line="323" column="55" />
-        <mark key="." line="323" column="54" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/OperationPageController.java" timestamp="1589611901741">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="59" />
-        <mark key="^" line="38" column="21" />
-        <mark key="." line="38" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589611911546">
+      <file name="/Dummy.txt" timestamp="1589617182210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/filter/SocFilter.java" timestamp="1589611908431">
@@ -97,27 +52,83 @@
         <mark key="^" line="65" column="77" />
         <mark key="." line="65" column="76" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/PkgWorkOrderManager.java" timestamp="1589598734752" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589611425666">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589611613764">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589618824833">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="49" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589616052753">
+        <mark key="a" line="317" column="8" />
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="405" column="17" />
+        <mark key="]" line="405" column="58" />
+        <mark key="." line="108" column="55" />
+        <mark key="^" line="108" column="56" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589619375108">
         <mark key="'" line="373" column="0" />
-        <mark key="[" line="465" column="17" />
-        <mark key="]" line="465" column="57" />
+        <mark key="[" line="499" column="68" />
+        <mark key="]" line="499" column="68" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589599199630">
         <mark key="'" line="303" column="0" />
-        <mark key="[" line="832" column="60" />
-        <mark key="]" line="827" column="68" />
-        <mark key="." line="827" column="67" />
-        <mark key="^" line="827" column="68" />
+        <mark key="[" line="899" column="60" />
+        <mark key="]" line="894" column="68" />
+        <mark key="." line="894" column="67" />
+        <mark key="^" line="894" column="68" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589611545909">
-        <mark key="[" line="387" column="18" />
-        <mark key="]" line="387" column="59" />
-        <mark key="." line="407" column="87" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1589599253172">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="132" column="5" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationCommonController.java" timestamp="1589616726864">
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="66" column="81" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="/application-staging.properties" timestamp="1589619394377">
+        <mark key="[" line="119" column="14" />
+        <mark key="]" line="119" column="41" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589615342442">
+        <mark key="[" line="417" column="18" />
+        <mark key="]" line="417" column="59" />
+        <mark key="." line="437" column="87" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-base/src/main/java/com/ascp/usa/console/base/pkg/PkgWorkOrderDO.java" timestamp="1589615770564">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="96" column="32" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1589610748114">
+        <mark key="[" line="83" column="19" />
+        <mark key="]" line="83" column="25" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsWorkOrderController.java" timestamp="1589611462069">
         <mark key="[" line="232" column="17" />
         <mark key="]" line="232" column="52" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589612991821">
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="60" />
+        <mark key="^" line="323" column="55" />
+        <mark key="." line="323" column="54" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/OperationPageController.java" timestamp="1589618343285">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="59" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="39" column="22" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1589615702444">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -170,13 +181,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>storageGoodsQueryService</text>
+        <text>https://cbbs.tmall.com/login</text>
       </register>
       <register name="+" type="4">
-        <text>storageGoodsQueryService</text>
+        <text>https://cbbs.tmall.com/login</text>
       </register>
       <register name="-" type="4">
-        <text>/pkg/c2m/common/pkgList</text>
+        <text>operation/worksheetManagement</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
