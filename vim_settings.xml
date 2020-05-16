@@ -43,7 +43,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589597991387">
+      <file name="/Dummy.txt" timestamp="1589599383550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589560948162">
@@ -58,9 +58,6 @@
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/reqresp/QueryScItemReq.java" timestamp="1589563173997">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589533765127">
-        <mark key="[" line="3" column="89" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/RetCodeEnum.java" timestamp="1589597540707">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="64" column="34" />
@@ -73,31 +70,38 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589598204855">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589598889393">
         <mark key="a" line="317" column="8" />
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="404" column="17" />
-        <mark key="]" line="404" column="58" />
-        <mark key="." line="397" column="0" />
-        <mark key="^" line="396" column="4" />
+        <mark key="[" line="108" column="38" />
+        <mark key="]" line="108" column="56" />
+        <mark key="." line="108" column="55" />
+        <mark key="^" line="108" column="56" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/PkgWorkOrderManager.java" timestamp="1589596962987" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589563171988">
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/PkgWorkOrderManager.java" timestamp="1589598734752" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589599143727">
         <mark key="[" line="432" column="0" />
         <mark key="]" line="454" column="30" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589568183218">
+      <file name="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/WorkOrderStatusEnum.java" timestamp="1589598561300" />
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589599199630">
         <mark key="'" line="303" column="0" />
         <mark key="[" line="832" column="60" />
         <mark key="]" line="827" column="68" />
         <mark key="." line="827" column="67" />
         <mark key="^" line="827" column="68" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589597776529">
-        <mark key="[" line="69" column="92" />
-        <mark key="]" line="69" column="91" />
-        <mark key="." line="69" column="90" />
-        <mark key="^" line="69" column="91" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1589599253172">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="132" column="5" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/C2MUtil.java" timestamp="1589598874727">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="21" column="59" />
+        <mark key="^" line="21" column="60" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationCommonController.java" timestamp="1589596474770">
         <mark key="[" line="86" column="68" />
@@ -112,11 +116,6 @@
       </file>
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589533769044">
         <mark key="[" line="3" column="89" />
-      </file>
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_project" timestamp="1589533761064">
-        <mark key="[" line="3" column="89" />
-        <mark key="]" line="1" column="87" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589550530590">
         <mark key="[" line="323" column="33" />
@@ -184,44 +183,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/pkg/c2m/operation/workOrder/workOrderList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNwQ29kZSA9IAo=</text>
       </register>
       <register name="+" type="4">
-        <text>/pkg/c2m/operation/workOrder/workOrderList</text>
+        <text>businessId</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>operationWorkOrderScItemPkgForm.getSpCode()</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNwQ29kZSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gTFlTIOivpeWwj+S6jOW3peWPt+aYr+WQpuWFt+acieWGmeadg+mZkCzphY3nva7miJAgZGlhbW9uZCAK</text>
+        <text encoding="base64">ICAgICAgICAvL+i/meaYr+adoeW9oueggeS5iD8KICAgICAgICB0aGlzLnNjSXRlbUNvZGUgPSBzdG9yYWdlR29vZHNEVE8uZ2V0QmFyY29kZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgeGlhb0VySWQgPSAiIjsKICAgICAgICBCdWNTU09Vc2VyIHVzZXIgPSBTaW1wbGVVc2VyVXRpbC5nZXRCdWNTU09Vc2VyKHJlcXVlc3QpOwogICAgICAgIGlmIChudWxsICE9IHVzZXIpIHsKICAgICAgICAgICAgeGlhb0VySWQgPSB1c2VyLmdldEVtcElkKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvL1RPRE8gTFlTIOivpeWwj+S6jOW3peWPt+aYr+WQpuWFt+acieWGmeadg+mZkCzphY3nva7miJAgZGlhbW9uZCAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S7jnNlc3Npb27kuK3ojrflj5blsI/kuoxpZAogICAgICAgIFNlc3Npb25QYXlsb2FkIHNlc3Npb25QYXlsb2FkID0gU2Vzc2lvblV0aWwuZ2V0U2Vzc2lvblBheWxvYWQoKTsKICAgICAgICBpZiAoc2Vzc2lvblBheWxvYWQgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKFJldENvZGVFbnVtLlNZU19CVVNZKTsKICAgICAgICB9CiAgICAgICAgLy/lt6Xlj7cKICAgICAgICBTdHJpbmcgdHJ1c3RlZExvZ2luSWQgPSBzZXNzaW9uUGF5bG9hZC5nZXRBY2NvdW50RFRPKCkuZ2V0VHJ1c3RlZExvZ2luSWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gTFlTIOivpeWwj+S6jOW3peWPt+aYr+WQpuWFt+acieWGmeadg+mZkCzphY3nva7miJAgZGlhbW9uZCAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
