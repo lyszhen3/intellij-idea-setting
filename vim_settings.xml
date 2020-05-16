@@ -46,6 +46,10 @@
       <file name="/Dummy.txt" timestamp="1589599383550">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589600382973">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589560948162">
         <mark key="[" line="38" column="20" />
         <mark key="]" line="38" column="25" />
@@ -79,7 +83,8 @@
         <mark key="^" line="108" column="56" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/PkgWorkOrderManager.java" timestamp="1589598734752" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589599143727">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589600319696">
+        <mark key="'" line="295" column="21" />
         <mark key="[" line="432" column="0" />
         <mark key="]" line="454" column="30" />
       </file>
@@ -113,9 +118,6 @@
         <mark key="[" line="400" column="0" />
         <mark key="]" line="406" column="88" />
         <mark key="." line="407" column="87" />
-      </file>
-      <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_testing" timestamp="1589533769044">
-        <mark key="[" line="3" column="89" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589550530590">
         <mark key="[" line="323" column="33" />
@@ -179,15 +181,16 @@
       <jump line="303" column="0" filename="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" />
       <jump line="36" column="4" filename="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/RetCodeEnum.java" />
       <jump line="84" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" />
+      <jump line="295" column="21" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNwQ29kZSA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>/pkg/c2m/bms/page/packageManagement</text>
       </register>
       <register name="+" type="4">
-        <text>businessId</text>
+        <text>/pkg/c2m/bms/page/packageManagement</text>
       </register>
       <register name="-" type="4">
         <text>operationWorkOrderScItemPkgForm.getSpCode()</text>
