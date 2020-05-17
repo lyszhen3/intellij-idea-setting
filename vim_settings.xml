@@ -87,12 +87,10 @@
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/radon/domain/DamageRateDTO.java" timestamp="1589685331902">
         <mark key="[" line="25" column="30" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589685748280">
-        <mark key="'" line="289" column="22" />
-        <mark key="[" line="266" column="27" />
-        <mark key="]" line="266" column="27" />
-        <mark key="." line="266" column="26" />
-        <mark key="^" line="266" column="27" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589697607707">
+        <mark key="'" line="572" column="22" />
+        <mark key="." line="549" column="26" />
+        <mark key="^" line="549" column="27" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589634427231">
         <mark key="a" line="355" column="0" />
@@ -167,10 +165,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/pkg/c2m/operation/page/packageManagement</text>
+        <text>pkg/operation/management/recommendPkg</text>
       </register>
       <register name="+" type="4">
-        <text>/pkg/c2m/operation/page/packageManagement</text>
+        <text>pkg/operation/management/recommendPkg</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PExpc3Q8RGFtYWdlUmF0ZURUTz4+</text>
