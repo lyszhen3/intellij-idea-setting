@@ -65,6 +65,10 @@
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589644778681">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/domain/OperationWorkOrderScItemPkgForm.java" timestamp="1589699292656">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="32" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589695449253">
         <mark key="[" line="409" column="17" />
         <mark key="]" line="409" column="58" />
@@ -77,8 +81,9 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="42" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589685132423">
-        <mark key="]" line="3" column="5" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589699450663">
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="89" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-SNAPSHOT-sources.jar!/com/alibaba/scm/rbac/common/RbacConfig.java" timestamp="1589643827888">
         <mark key="[" line="93" column="32" />
@@ -91,10 +96,6 @@
         <mark key="'" line="572" column="22" />
         <mark key="." line="549" column="26" />
         <mark key="^" line="549" column="27" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589634427231">
-        <mark key="a" line="355" column="0" />
-        <mark key="^" line="364" column="47" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/timing/TimingExceptionOrderController.java" timestamp="1589635460227">
         <mark key="[" line="158" column="33" />
@@ -165,10 +166,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pkg/operation/management/recommendPkg</text>
+        <text>/pkg/bms/management/scItemList</text>
       </register>
       <register name="+" type="4">
-        <text>pkg/operation/management/recommendPkg</text>
+        <text>/pkg/bms/management/scItemList</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PExpc3Q8RGFtYWdlUmF0ZURUTz4+</text>
