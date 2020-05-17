@@ -49,12 +49,16 @@
         <mark key="." line="53" column="18" />
         <mark key="^" line="53" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589685778163">
+      <file name="/Dummy.txt" timestamp="1589701723770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-20200507.084408-6-sources.jar!/com/alibaba/scm/rbac/common/RbacConfig.java" timestamp="1589643734333">
         <mark key="[" line="66" column="71" />
         <mark key="]" line="66" column="91" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589700911375">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/diamond/C2MDiamond.java" timestamp="1589648012350">
         <mark key="[" line="37" column="28" />
@@ -81,13 +85,21 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="42" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589699450663">
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="89" column="50" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589700986336">
+        <mark key="[" line="350" column="71" />
+        <mark key="]" line="350" column="82" />
+        <mark key="^" line="350" column="42" />
+        <mark key="." line="350" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-SNAPSHOT-sources.jar!/com/alibaba/scm/rbac/common/RbacConfig.java" timestamp="1589643827888">
         <mark key="[" line="93" column="32" />
         <mark key="]" line="93" column="38" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589701720988">
+        <mark key="[" line="946" column="121" />
+        <mark key="]" line="947" column="70" />
+        <mark key="." line="947" column="69" />
+        <mark key="^" line="947" column="70" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/radon/domain/DamageRateDTO.java" timestamp="1589685331902">
         <mark key="[" line="25" column="30" />
@@ -96,10 +108,6 @@
         <mark key="'" line="572" column="22" />
         <mark key="." line="549" column="26" />
         <mark key="^" line="549" column="27" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/timing/TimingExceptionOrderController.java" timestamp="1589635460227">
-        <mark key="[" line="158" column="33" />
-        <mark key="]" line="158" column="53" />
       </file>
       <file name="/fragment.java" timestamp="1589647853873">
         <mark key="[" line="0" column="0" />
@@ -166,13 +174,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/pkg/bms/management/scItemList</text>
+        <text>scItemDTO.getScItemCode()</text>
       </register>
       <register name="+" type="4">
-        <text>/pkg/bms/management/scItemList</text>
+        <text>merchantCode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PExpc3Q8RGFtYWdlUmF0ZURUTz4+</text>
+        <text>scItemDTO.getScItemCode()</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
