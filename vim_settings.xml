@@ -55,9 +55,9 @@
         <mark key="." line="334" column="108" />
         <mark key="^" line="334" column="109" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-local.properties" timestamp="1589777414607">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="57" column="45" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-local.properties" timestamp="1589779193248">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="33" />
         <mark key="^" line="57" column="45" />
         <mark key="." line="57" column="44" />
       </file>
@@ -179,10 +179,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>csrfToken</text>
+        <text>spring.security.csrf.parameterName</text>
       </register>
       <register name="+" type="4">
-        <text>csrfToken</text>
+        <text>spring.security.csrf.parameterName</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
