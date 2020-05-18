@@ -62,6 +62,7 @@
         <mark key="." line="57" column="44" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/layout/ascp/default.vm" timestamp="1589773791876" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1589784929232" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589784480792">
         <mark key="a" line="355" column="0" />
         <mark key="^" line="364" column="47" />
@@ -91,12 +92,6 @@
         <mark key="." line="437" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-SNAPSHOT-sources.jar!/com/alibaba/ascp/authello/client/AuthelloManager.java" timestamp="1589777495683" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/AbstractController.java" timestamp="1589772770034">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="19" />
-        <mark key="^" line="69" column="20" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-staging.properties" timestamp="1589774541493">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="64" />
