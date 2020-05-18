@@ -75,9 +75,9 @@
         <mark key="^" line="57" column="45" />
         <mark key="." line="57" column="44" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/C2MUtil.java" timestamp="1589802649476">
-        <mark key="[" line="88" column="46" />
-        <mark key="]" line="88" column="85" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/C2MUtil.java" timestamp="1589804554408">
+        <mark key="[" line="99" column="40" />
+        <mark key="]" line="99" column="46" />
         <mark key="^" line="88" column="85" />
         <mark key="." line="88" column="84" />
       </file>
@@ -185,10 +185,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>supplierId</text>
+        <text>COMBINE</text>
       </register>
       <register name="+" type="4">
-        <text>supplierId</text>
+        <text>COMBINE</text>
       </register>
       <register name="-" type="4">
         <text>queryScItemReq.getPkgMaterialCode() != null</text>
