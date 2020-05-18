@@ -3,6 +3,11 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
