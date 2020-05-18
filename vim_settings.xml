@@ -50,12 +50,6 @@
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="51" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589778803893">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="47" />
-        <mark key="^" line="8" column="48" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589799959695">
         <mark key="[" line="43" column="12" />
         <mark key="]" line="43" column="16" />
@@ -68,12 +62,6 @@
         <mark key="]" line="323" column="72" />
         <mark key="." line="334" column="108" />
         <mark key="^" line="334" column="109" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-local.properties" timestamp="1589779193248">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="57" column="45" />
-        <mark key="." line="57" column="44" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/C2MUtil.java" timestamp="1589804554408">
         <mark key="[" line="99" column="40" />
@@ -102,9 +90,9 @@
       <file name="/Dummy.txt" timestamp="1589803051876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/layout/ascm/default.vm" timestamp="1589802143230">
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="36" column="38" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/layout/ascm/default.vm" timestamp="1589807280774">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="37" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589802830924">
         <mark key="[" line="460" column="0" />
@@ -117,6 +105,12 @@
         <mark key="^" line="44" column="11" />
         <mark key="." line="44" column="10" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-staging.properties" timestamp="1589807592625">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="45" />
+        <mark key="." line="51" column="63" />
+        <mark key="^" line="51" column="64" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1589806109572" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589803112834">
         <mark key="'" line="575" column="22" />
@@ -126,6 +120,7 @@
         <mark key="^" line="450" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/nbf/spi/scm-item-manage-view/1.0.15/scm-item-manage-view-1.0.15.jar!/com/alibaba/scm/item/manage/query/StorageGoodsQueryDTO.class" timestamp="1589801441376" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/csrf/DefaultCsrfToken.class" timestamp="1589807380521" />
       <file name="/fragment.java" timestamp="1589802511952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
@@ -191,10 +186,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybWF0KTsKICAgICAgICBEYXRlIGNlaWxpbmcgPSBEYXRlVXRpbHMuY2VpbGluZyhuZXcgRGF0ZSgpLCBDYWxlbmRhci5IT1VSKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2VpbGluZyk7CiAgICAgICAgTG9jYWxEYXRlVGltZSBub3cgPSBMb2NhbERhdGVUaW1lLm5vdygpOwogICAgICAgIExvY2FsRGF0ZVRpbWUgbG9jYWxEYXRlVGltZSA9IG5vdy5wbHVzRGF5cygxKTsKICAgICAgICBsb25nIHVudGlsID0gbm93LnVudGlsKGxvY2FsRGF0ZVRpbWUsIENocm9ub1VuaXQuSE9VUlMpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1bnRpbCk7CiAgICAgICAgTG9jYWxEYXRlIGxvY2FsRGF0ZSA9IExvY2FsRGF0ZS5ub3coKTsKICAgICAgICBMaXN0PERhdGU+IGRhdGVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCA0OyBqKyspIHsKICAgICAgICAgICAgTG9jYWxEYXRlIGxvY2FsRGF0ZTEgPSBsb2NhbERhdGUucGx1c0RheXMoaiArIDEpOwogICAgICAgICAgICBEYXRlIGZyb20gPSBEYXRlLmZyb20obG9jYWxEYXRlMS5hdFN0YXJ0T2ZEYXkoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkpOwogICAgICAgICAgICBkYXRlcy5hZGQoZnJvbSk7CiAgICAgICAgfQoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0ZXMpOwogICAgICAgIERhdGUgZGF0ZSA9IG5ldyBEYXRlKCk7CiAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBkYXRlRm9ybWF0MSA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgU3RyaW5nIGZvcm1hdDEgPSAiMjAyMC0wNC0xMCI7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgRGF0ZSBwYXJzZSA9IGRhdGVGb3JtYXQxLnBhcnNlKGZvcm1hdDEpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0ZXMuY29udGFpbnMocGFyc2UpKTsKICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICBJbnRlZ2VyIGlvID0gbnVsbDsKLy8gICAgICAgIHh4KGlvKTsKCiAgICAgICAgdHR0KCJ6aHUiLCJ6aTEiLCAiemkyIik7CiAgICAgICAgU3RyaW5nIGlpID0gIjExOjQwIjsKICAgICAgICBTdHJpbmcgaWkyID0gIjEyOjQ1IjsKICAgICAgICBTdHJpbmcgaWkzID0gIjA5OjUwIjsKICAgICAgICBTdHJpbmcgaWk0ID0gIjA4OjU5IjsKCiAgICAgICAgTGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBsaXN0LmFkZChpaSk7CiAgICAgICAgbGlzdC5hZGQoaWkyKTsKICAgICAgICBsaXN0LmFkZChpaTMpOwogICAgICAgIGxpc3QuYWRkKGlpNCk7CgogICAgICAgIENvbGxlY3Rpb25zLnNvcnQobGlzdCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpc3QpOwoKICAgICAgIGxvb3BKOiBmb3IgKGludCBqID0gMDsgaiA8IDM7IGorKykgewogICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaiIraik7CiAgICAgICAgICAgIGZvciAoaW50IGsgPSAwOyBrIDwgMjsgaysrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImsiICsgayk7CiAgICAgICAgICAgICAgICBpZiAoayA9PSAxKXsKICAgICAgICAgICAgICAgICAgYnJlYWsgOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text>_scm_token_</text>
       </register>
       <register name="+" type="4">
-        <text>COMBINE</text>
+        <text>_scm_token_</text>
       </register>
       <register name="-" type="4">
         <text>queryScItemReq.getPkgMaterialCode() != null</text>
