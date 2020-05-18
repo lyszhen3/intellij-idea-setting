@@ -43,11 +43,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589797238650">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589778803893">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="8" column="48" />
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="48" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/domain/ScItemPkgForm.java" timestamp="1589799959695">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="16" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1589788342833" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589792604984">
@@ -62,16 +72,23 @@
         <mark key="^" line="57" column="45" />
         <mark key="." line="57" column="44" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/C2MUtil.java" timestamp="1589791304438">
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="80" column="54" />
-        <mark key="^" line="78" column="76" />
-        <mark key="." line="78" column="75" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/C2MUtil.java" timestamp="1589799769640">
+        <mark key="[" line="92" column="15" />
+        <mark key="]" line="92" column="15" />
+        <mark key="^" line="92" column="20" />
+        <mark key="." line="92" column="15" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1589784929232" />
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589784480792">
-        <mark key="a" line="355" column="0" />
-        <mark key="^" line="364" column="47" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1589799815716">
+        <mark key="a" line="358" column="0" />
+        <mark key="[" line="340" column="75" />
+        <mark key="]" line="341" column="64" />
+        <mark key="^" line="341" column="64" />
+        <mark key="." line="341" column="63" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/OperationPageController.java" timestamp="1589797286387">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="59" />
       </file>
       <file name="/Dummy.txt" timestamp="1589784432060">
         <mark key="[" line="0" column="0" />
@@ -80,16 +97,11 @@
         <mark key="[" line="36" column="30" />
         <mark key="]" line="36" column="38" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-production.properties" timestamp="1589774557298">
-        <mark key="[" line="51" column="64" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589784401140">
-        <mark key="[" line="437" column="0" />
-        <mark key="]" line="437" column="0" />
-        <mark key="." line="437" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589799985480">
+        <mark key="[" line="460" column="0" />
+        <mark key="]" line="460" column="67" />
+        <mark key="." line="460" column="66" />
+        <mark key="^" line="460" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/authello/authello-client/1.4.26-SNAPSHOT/authello-client-1.4.26-SNAPSHOT-sources.jar!/com/alibaba/ascp/authello/client/AuthelloManager.java" timestamp="1589777495683" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589784240115">
@@ -98,12 +110,6 @@
         <mark key="]" line="330" column="52" />
         <mark key="." line="549" column="26" />
         <mark key="^" line="549" column="27" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-testing.properties" timestamp="1589774577709">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="64" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1589777912041">
         <mark key="[" line="0" column="0" />
@@ -169,35 +175,35 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uUGF5bG9hZCBzZXNzaW9uUGF5bG9hZCA9IFNlc3Npb25VdGlsLmdldFNlc3Npb25QYXlsb2FkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uUGF5bG9hZCBzZXNzaW9uUGF5bG9hZCA9IFNlc3Npb25VdGlsLmdldFNlc3Npb25QYXlsb2FkKCk7Cg==</text>
+      <register name="+" type="4">
+        <text>supplierId</text>
       </register>
       <register name="-" type="4">
-        <text>bmsPkgManagementScItemList</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN1cHBsaWVySWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQoJCQkuc3VjY2Vzcyh0cnVlKQoJCQkubW9kdWxlKGJtc1BrZ01hbmFnZW1lbnRTY0l0ZW1MaXN0KQoJCQkudG90YWwodG90YWxDb3VudCkKCQkJLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLm1zZygiYXNjcCBzZXNzaW9uIiArIEpTT04udG9KU09OU3RyaW5nKHNlc3Npb25QYXlsb2FkLCBuZXcgU2VyaWFsaXplQ29uZmlnKHRydWUpKSkK</text>
+        <text encoding="base64">CQlyZXR1cm4gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKQoJCQkuc3VjY2Vzcyh0cnVlKQoJCQkubW9kdWxlKGJtc1BrZ01hbmFnZW1lbnRTY0l0ZW1MaXN0KQoJCQkudG90YWwodG90YWxDb3VudCkKCQkJLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLnNlY3VyaXR5LmNzcmYucGFyYW1ldGVyTmFtZT1fc2NtX3Rva2VuXwo=</text>
+        <text encoding="base64">CQkJLm1zZygiYXNjcCBzZXNzaW9uIiArIEpTT04udG9KU09OU3RyaW5nKHNlc3Npb25QYXlsb2FkLCBuZXcgU2VyaWFsaXplQ29uZmlnKHRydWUpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLnNlY3VyaXR5LmNzcmYucGFyYW1ldGVyTmFtZT1fc2NtX3Rva2VuXwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -206,7 +212,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3ByaW5nLnNlY3VyaXR5LmNzcmYudXJsLmV4Y2x1ZGVkPS9zZXJ2aWNlL2NvbnRyb2wvKiosLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
