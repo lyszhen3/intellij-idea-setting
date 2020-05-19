@@ -52,26 +52,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/core/timing/DeliveryTimingDO.java" timestamp="1589857450268">
-        <mark key="]" line="72" column="13" />
-        <mark key="^" line="72" column="13" />
-        <mark key="." line="72" column="12" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/config/AscpAuthelloConfig.java" timestamp="1589808713358">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="47" />
-        <mark key="^" line="8" column="48" />
-      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1589818195336">
         <mark key="[" line="144" column="20" />
         <mark key="]" line="144" column="54" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/params/targets/DeliveryPackageDTO.java" timestamp="1589854244994" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589857299867">
-        <mark key="[" line="110" column="82" />
-      </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/BasePointJudge.java" timestamp="1589858749509" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1589854343441" />
+      <file name="/Dummy.txt" timestamp="1589858971984">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/params/targets/DeliveryPackageGroupDTO.java" timestamp="1589854227925" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/StoreExternalServiceNode.java" timestamp="1589855100386">
         <mark key="[" line="112" column="21" />
@@ -80,18 +70,6 @@
         <mark key="." line="112" column="21" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/limited/LimitedPackageGroup.java" timestamp="1589854217520" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-staging.properties" timestamp="1589807592625">
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="45" />
-        <mark key="." line="51" column="63" />
-        <mark key="^" line="51" column="64" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1589856785607">
-        <mark key="[" line="169" column="12" />
-        <mark key="]" line="171" column="30" />
-        <mark key="." line="171" column="29" />
-        <mark key="^" line="171" column="30" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1589857487788">
         <mark key="[" line="107" column="0" />
       </file>
@@ -100,6 +78,12 @@
         <mark key="]" line="92" column="18" />
         <mark key="^" line="92" column="18" />
         <mark key="." line="92" column="17" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/DistrictJudge.java" timestamp="1589858737064">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="51" column="11" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1589854040195" />
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589818097153">
@@ -168,14 +152,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/moLnmja7miKrljZXml7bpl7TnlJ/miJDkuIDkuKpidXNpbmVzc1RpbWUKICAgICAgICAgICAgLy/nlJ/miJDkuIDkuKrmmI7lpKkw54K555qE5pe26Ze0CiAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgdG9tb3Jyb3dEYXlTdGFydCA9IG5vd0xvY2FsRGF0ZVRpbWUucGx1c0RheXMoMUwpCiAgICAgICAgICAgICAgICAgICAgLndpdGhIb3VyKDApCiAgICAgICAgICAgICAgICAgICAgLndpdGhNaW51dGUoMCkKICAgICAgICAgICAgICAgICAgICAud2l0aFNlY29uZCgwKTsKCiAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUgY3V0T2ZmRGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm9mSW5zdGFudChjdXRPZmZEYXRlLnRvSW5zdGFudCgpLCBab25lSWQuc3lzdGVtRGVmYXVsdCgpKTsKICAgICAgICAgICAgaWYgKGN1dE9mZkRhdGVUaW1lLmlzQmVmb3JlKHRvbW9ycm93RGF5U3RhcnQpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgZW5kVGltZVRleHQgPSAgZmV0Y2hIb3VyTWludXRlKGN1dE9mZkRhdGVUaW1lKTsKICAgICAgICAgICAgICAgIGJ1c2luZXNzVGltZURUTyA9IEJ1c2luZXNzVGltZURUTy5idWlsZGVyKCkuc3RhcnRUaW1lKCIwMDowMCIpLmVuZFRpbWUoZW5kVGltZVRleHQpLmJ1aWxkKCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgZW5kVGltZVRleHQgPSAKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gY2hlY2tOb2RlTGluZShRdWVyeU5vZGVMaW5lUmVzcCBub2RlTGluZVJlc3ApIHsKICAgICAgICBpZiAobm9kZUxpbmVSZXNwID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsobm9kZUxpbmVSZXNwLmdldE5vZGVMaW5lTG9jYWxTdHIoKSkKICAgICAgICAgICAgfHwgbm9kZUxpbmVSZXNwLmdldE5vZGVQcm9wZXJ0aWVzRFRPKCkgPT0gbnVsbAogICAgICAgICAgICB8fCBub2RlTGluZVJlc3AuZ2V0Tm9kZVByb3BlcnRpZXNEVE8oKS5nZXRTdG9yZVByb3BlcnRpZXNEVE8oKSA9PSBudWxsCiAgICAgICAgICAgIHx8IENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KAogICAgICAgICAgICBub2RlTGluZVJlc3AuZ2V0Tm9kZVByb3BlcnRpZXNEVE8oKS5nZXRTdG9yZVByb3BlcnRpZXNEVE8oKS5nZXRCdXNpbmVzc1RpbWVzKCkpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQ==</text>
       </register>
       <register name="+" type="4">
-        <text>endTimeText</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gY2hlY2tOb2RlTGluZShRdWVyeU5vZGVMaW5lUmVzcCBub2RlTGluZVJlc3ApIHsKICAgICAgICBpZiAobm9kZUxpbmVSZXNwID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsobm9kZUxpbmVSZXNwLmdldE5vZGVMaW5lTG9jYWxTdHIoKSkKICAgICAgICAgICAgfHwgbm9kZUxpbmVSZXNwLmdldE5vZGVQcm9wZXJ0aWVzRFRPKCkgPT0gbnVsbAogICAgICAgICAgICB8fCBub2RlTGluZVJlc3AuZ2V0Tm9kZVByb3BlcnRpZXNEVE8oKS5nZXRTdG9yZVByb3BlcnRpZXNEVE8oKSA9PSBudWxsCiAgICAgICAgICAgIHx8IENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KAogICAgICAgICAgICBub2RlTGluZVJlc3AuZ2V0Tm9kZVByb3BlcnRpZXNEVE8oKS5nZXRTdG9yZVByb3BlcnRpZXNEVE8oKS5nZXRCdXNpbmVzc1RpbWVzKCkpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Date date = new Date();</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
