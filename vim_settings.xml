@@ -104,6 +104,9 @@
         <mark key="[" line="41" column="10" />
         <mark key="]" line="41" column="33" />
       </file>
+      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1589889256950">
+        <mark key="'" line="57" column="54" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589882759296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -111,12 +114,6 @@
         <mark key="^" line="0" column="126" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/line/TimeBrandDTO.java" timestamp="1589878916703" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/StoreExternalServiceNode.java" timestamp="1589875003492">
-        <mark key="[" line="112" column="21" />
-        <mark key="]" line="112" column="43" />
-        <mark key="^" line="115" column="133" />
-        <mark key="." line="112" column="21" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1589880786953" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1589881073464">
         <mark key="[" line="107" column="0" />
@@ -185,6 +182,7 @@
       <jump line="474" column="5" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
       <jump line="178" column="36" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
       <jump line="455" column="17" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
+      <jump line="57" column="54" filename="D:/workspace/company/usa-console/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
