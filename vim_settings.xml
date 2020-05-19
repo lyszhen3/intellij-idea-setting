@@ -67,9 +67,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589869557947">
-        <mark key="[" line="120" column="82" />
-        <mark key="]" line="121" column="59" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589870952899">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="115" column="58" />
         <mark key="." line="121" column="58" />
         <mark key="^" line="121" column="59" />
       </file>
@@ -84,8 +84,10 @@
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1589861652781" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/ServiceDisplayProcessor.java" timestamp="1589861620346" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/CommonPointJudge.java" timestamp="1589861844965" />
-      <file name="/Dummy.txt" timestamp="1589867061517">
+      <file name="/Dummy.txt" timestamp="1589869662365">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-production.properties" timestamp="1589863439050">
         <mark key="[" line="51" column="53" />
@@ -179,10 +181,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1bnRpbERheXMgKyAi5aSp5ZCOIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsIGN1dE9mZlRpbWVUZXh0KHRpbWluZ0RPLCBjdXJyZW50UHJvdG9jb2xETy5nZXRQcm90b2NvbElkKCkpCiAgICAgICAgICAgICAgICAgICAgLCBzaG93RGF5Rm9yRG4odGltaW5nRE8uZ2V0U2lnbkRhdGUoKSkK</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJyaXZlRGF0ZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBMb2NhbERhdGVUaW1lIGFycml2ZURhdGVUaW1lID0gTG9jYWxEYXRlVGltZS5vZkluc3RhbnQoYXJyaXZlRGF0ZS50b0luc3RhbnQoKSwgWm9uZUlkLnN5c3RlbURlZmF1bHQoKSk7CiAgICAgICAgaW50IHVudGlsRGF5cyA9IHVudGlsRGF5cyhhcnJpdmVEYXRlVGltZSk7CiAgICAgICAgc3dpdGNoICh1bnRpbERheXMpIHsKICAgICAgICAgICAgY2FzZSAwOiB7CiAgICAgICAgICAgICAgICByZXR1cm4gIuS7iuWkqSI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FzZSAxOiB7CiAgICAgICAgICAgICAgICByZXR1cm4gIuaYjuWkqSI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FzZSAyOiB7CiAgICAgICAgICAgICAgICByZXR1cm4gIuWQjuWkqSI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGVmYXVsdDogewogICAgICAgICAgICAgICAgcmV0dXJuIHVudGlsRGF5cyArICLlpKnlkI4iOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsIGN1dE9mZlRpbWVUZXh0KHRpbWluZ0RPLCBjdXJyZW50UHJvdG9jb2xETy5nZXRQcm90b2NvbElkKCkpCiAgICAgICAgICAgICAgICAgICAgLCBzaG93RGF5Rm9yRG4odGltaW5nRE8uZ2V0U2lnbkRhdGUoKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -191,31 +193,31 @@
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1bnRpbERheXMgKyAi5aSp5ZCOIjsK</text>
+        <text>区模式改回来</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1bnRpbERheXMgKyAi5aSp5ZCOIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyOiB7CiAgICAgICAgICAgICAgICByZXR1cm4gIumalOaXpSI7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyOiB7CiAgICAgICAgICAgICAgICByZXR1cm4gIumalOaXpSI7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXRPZmZUZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY3V0T2ZmVGV4dDsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0RGF0ZS5wbHVzRGF5cygxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXRPZmZUZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gY3V0T2ZmVGV4dDsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgpOwogICAgICAgIENhbGVuZGFyIGxhdGVzdElucyA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0RGF0ZS5wbHVzRGF5cygxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
