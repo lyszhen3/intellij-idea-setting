@@ -86,7 +86,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1589880618174" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1589894253979">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="74" column="24" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/util/AreaUtil.java" timestamp="1589879231331">
         <mark key="[" line="194" column="23" />
         <mark key="]" line="194" column="50" />
@@ -112,11 +117,11 @@
       <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1589889256950">
         <mark key="'" line="57" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589892994844">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1589894325837">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/line/TimeBrandDTO.java" timestamp="1589878916703" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1589890637950">
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1589894315811">
         <mark key="[" line="125" column="16" />
         <mark key="]" line="125" column="32" />
         <mark key="." line="125" column="16" />
@@ -124,7 +129,7 @@
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1589881073464">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdTimingDisplayService.java" timestamp="1589881637234">
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdTimingDisplayService.java" timestamp="1589894350632">
         <mark key="[" line="90" column="35" />
         <mark key="]" line="92" column="18" />
         <mark key="^" line="92" column="18" />
@@ -195,40 +200,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpID09IG51bGwgPyAiLSIgOiBzY0l0ZW1EVE8uZ2V0UGtnTWF0ZXJpYWxDb2RlKCkpICsgIiwiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">CQkJCQkJaWYgKHNjSXRlbURUTy5nZXRQa2dNYXRlcmlhbENvZGUoKSAhPSBudWxsICl7CgkJCQkJCQlQa2dNYXRlcmlhbERUTyBwa2dNYXRlcmlhbERUTyA9IHdoY01hbmFnZXIuZ2V0UGtnTWF0ZXJpYWxCeVBrZ0NvZGUoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpKTsKCQkJCQkJCXN0cmluZ0J1aWxkZXIgKz0gcGtnTWF0ZXJpYWxEVE8gPT0gbnVsbCA/ICItIiA6IHBrZ01hdGVyaWFsRFRPLmdldFBrZ01hdGVyaWFsTmFtZSgpICsgIiwiOwoJCQkJCQl9IGVsc2UgewoJCQkJCQkJc3RyaW5nQnVpbGRlciArPSAiLSwiOwoJCQkJCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzLnB1dChPcmRlckF0dHJpYnV0ZXNDb25zdGFudC5OUl9USU1JTkcsIHRpbWluZ0RPLmdldFRpbWluZygpICsgIiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>pkgMaterialCode</text>
+        <text>TIMING_APPOINTMETHOD</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpID09IG51bGwgPyAiLSIgOiBzY0l0ZW1EVE8uZ2V0UGtnTWF0ZXJpYWxDb2RlKCkpICsgIiwiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpID09IG51bGwgPyAiLSIgOiBzY0l0ZW1EVE8uZ2V0UGtnTWF0ZXJpYWxDb2RlKCkpICsgIiwiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpID09IG51bGwgPyAiLSIgOiBzY0l0ZW1EVE8uZ2V0UGtnTWF0ZXJpYWxDb2RlKCkpICsgIiwiOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCQkoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpID09IG51bGwgPyAiLSIgOiBzY0l0ZW1EVE8uZ2V0UGtnTWF0ZXJpYWxDb2RlKCkpICsgIiwiOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCXNjSXRlbURUTwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCXNjSXRlbURUTwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJUGtnTWF0ZXJpYWxEVE8gcGtnTWF0ZXJpYWxEVE8gPSB3aGNNYW5hZ2VyLmdldFBrZ01hdGVyaWFsQnlQa2dDb2RlKHBrZ01hdGVyaWFsQ29kZSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCXNjSXRlbURUTwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJUGtnTWF0ZXJpYWxEVE8gcGtnTWF0ZXJpYWxEVE8gPSB3aGNNYW5hZ2VyLmdldFBrZ01hdGVyaWFsQnlQa2dDb2RlKHBrZ01hdGVyaWFsQ29kZSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
