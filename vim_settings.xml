@@ -68,10 +68,9 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589866333854">
-        <mark key="[" line="265" column="19" />
-        <mark key="]" line="265" column="19" />
-        <mark key="." line="265" column="19" />
-        <mark key="^" line="146" column="31" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/BasePointJudge.java" timestamp="1589858749509" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/constant/ProtocolEnum.java" timestamp="1589864008373">
@@ -84,7 +83,7 @@
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1589861652781" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/ServiceDisplayProcessor.java" timestamp="1589861620346" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/CommonPointJudge.java" timestamp="1589861844965" />
-      <file name="/Dummy.txt" timestamp="1589863457753">
+      <file name="/Dummy.txt" timestamp="1589867061517">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-production.properties" timestamp="1589863439050">
@@ -112,7 +111,6 @@
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/DistrictJudge.java" timestamp="1589858737064">
         <mark key="[" line="37" column="4" />
-        <mark key="]" line="51" column="11" />
         <mark key="^" line="37" column="4" />
         <mark key="." line="37" column="4" />
       </file>
