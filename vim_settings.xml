@@ -62,37 +62,37 @@
         <mark key="." line="74" column="29" />
         <mark key="^" line="74" column="30" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1589874311776" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-production.properties" timestamp="1589873040710">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="/StoreJsdServicePadder.java" timestamp="1589871461516" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-local.properties" timestamp="1589863449989">
-        <mark key="[" line="53" column="53" />
-        <mark key="]" line="53" column="53" />
-        <mark key="." line="53" column="53" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/merge/ServiceMergeProcessor.java" timestamp="1589874677907" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1589875103329">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="53" />
       </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1589865240351">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/core/protocol/ServiceDefinitionDO.java" timestamp="1589874369139" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/util/AreaUtil.java" timestamp="1589875936081">
+        <mark key="[" line="187" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589873656754">
-        <mark key="[" line="112" column="52" />
-        <mark key="]" line="112" column="87" />
-        <mark key="." line="112" column="86" />
-        <mark key="^" line="112" column="87" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589876382388">
+        <mark key="[" line="233" column="57" />
+        <mark key="]" line="233" column="57" />
+        <mark key="." line="233" column="57" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/constant/ProtocolEnum.java" timestamp="1589873633263">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="20" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/constant/ProtocolEnum.java" timestamp="1589875574608">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="19" />
+        <mark key="^" line="47" column="20" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/LineResourceParse.java" timestamp="1589874197261" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/servicecalc/ExternalServiceProcessor.java" timestamp="1589875149191">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="33" />
+      </file>
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_production" timestamp="1589873158875">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="87" />
@@ -104,11 +104,17 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/CommonPointJudge.java" timestamp="1589874261553" />
-      <file name="/Dummy.txt" timestamp="1589873194928">
+      <file name="/Dummy.txt" timestamp="1589876402635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="89" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/StoreExternalServiceNode.java" timestamp="1589875003492">
+        <mark key="[" line="112" column="21" />
+        <mark key="]" line="112" column="43" />
+        <mark key="^" line="115" column="133" />
+        <mark key="." line="112" column="21" />
       </file>
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_staging" timestamp="1589873173132">
         <mark key="[" line="3" column="0" />
@@ -116,17 +122,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1589874244400" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-staging.properties" timestamp="1589873001766">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="62" />
-        <mark key="." line="51" column="53" />
-        <mark key="^" line="51" column="64" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/application-testing.properties" timestamp="1589863429320">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="53" />
-      </file>
       <file name="D:/workspace/company/usa-console/APP-META/docker-config/Dockerfile_project" timestamp="1589873166789">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="87" />
@@ -195,13 +190,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>off</text>
+        <text>getProtocolId</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">RlJPTSByZWcuZG9ja2VyLmFsaWJhYmEtaW5jLmNvbS9hb25lLWJhc2UvdXNhLWNvbnNvbGVfMjAyMC0wMi1zdGFibGUtYnVjOjIwMjAwMzMxMTgyMzE1Cg==</text>
+      <register name="+" type="4">
+        <text>composeSignText</text>
       </register>
       <register name="-" type="4">
-        <text>off</text>
+        <text>getProtocolId</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
