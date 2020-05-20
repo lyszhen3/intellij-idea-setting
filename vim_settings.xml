@@ -59,9 +59,9 @@
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="33" />
       </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1589964977547">
-        <mark key="[" line="293" column="19" />
-        <mark key="]" line="293" column="40" />
+      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1589965008245">
+        <mark key="[" line="289" column="43" />
+        <mark key="]" line="289" column="49" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-apps/eleme-app/pom.xml" timestamp="1589960339062">
         <mark key="[" line="6" column="21" />
@@ -89,7 +89,7 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589964916436">
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589965073967">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="89" />
       </file>
@@ -209,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pintuanSuccessTail4Buy</text>
+        <text>com.alibaba.delivery.common.diamond.OrderConfig</text>
       </register>
       <register name="+" type="4">
-        <text>pintuanSuccessTail4Buy</text>
+        <text>com.alibaba.delivery.common.diamond.OrderConfig</text>
       </register>
       <register name="-" type="4">
         <text>-dn-SNAPSHOT</text>
