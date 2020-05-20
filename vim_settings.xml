@@ -63,16 +63,6 @@
         <mark key="[" line="289" column="43" />
         <mark key="]" line="289" column="49" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-apps/eleme-app/pom.xml" timestamp="1589960339062">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-apps/store-app/pom.xml" timestamp="1589960354956">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
       <file name="D:/workspace/company/adp2/pom.xml" timestamp="1589960655600">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="18" />
@@ -83,6 +73,13 @@
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589974836549">
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="360" column="17" />
+        <mark key="]" line="360" column="50" />
+        <mark key="." line="85" column="13" />
+        <mark key="^" line="85" column="14" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-apps/www-app/pom.xml" timestamp="1589960377358">
         <mark key="[" line="6" column="21" />
@@ -204,15 +201,16 @@
       <jump line="57" column="54" filename="D:/workspace/company/usa-console/pom.xml" />
       <jump line="79" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" />
       <jump line="130" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" />
+      <jump line="90" column="15" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.alibaba.delivery.common.diamond.OrderConfig</text>
+        <text>/pkg/c2m/bms/management/scItemList</text>
       </register>
       <register name="+" type="4">
-        <text>com.alibaba.delivery.common.diamond.OrderConfig</text>
+        <text>/pkg/c2m/bms/management/scItemList</text>
       </register>
       <register name="-" type="4">
         <text>-dn-SNAPSHOT</text>
