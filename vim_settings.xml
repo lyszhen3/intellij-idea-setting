@@ -81,7 +81,6 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfigListener.java" timestamp="1589959959787" />
       <file name="D:/workspace/company/adp2/adp2-frame/service/pom.xml" timestamp="1589960479947">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
@@ -97,11 +96,11 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589959903377">
-        <mark key="[" line="162" column="98" />
-        <mark key="]" line="251" column="73" />
-        <mark key="." line="251" column="72" />
-        <mark key="^" line="251" column="73" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589961610150">
+        <mark key="[" line="231" column="75" />
+        <mark key="]" line="232" column="74" />
+        <mark key="." line="232" column="73" />
+        <mark key="^" line="232" column="74" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-client/pom.xml" timestamp="1589960396006">
         <mark key="[" line="6" column="21" />
@@ -136,7 +135,7 @@
       <file name="D:/workspace/company/adp2/adp2-common/pom.xml" timestamp="1589960406066">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589960091587">
+      <file name="/Dummy.txt" timestamp="1589961570983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="0" />
@@ -146,6 +145,12 @@
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
+      </file>
+      <file name="/fragment.java" timestamp="1589961433247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -213,10 +218,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-dn-SNAPSHOT</text>
+        <text>DeliveryProtocolDO</text>
       </register>
       <register name="+" type="4">
-        <text>1.1.6-dn-SNAPSHOT</text>
+        <text>DeliveryProtocolDO</text>
       </register>
       <register name="-" type="4">
         <text>-dn-SNAPSHOT</text>
@@ -225,34 +230,34 @@
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text>增加拦截</text>
+        <text encoding="base64">ICAgICAgICBQcm90b2NvbEVudW0gcHJvdG9jb2xFbnVtID0gUHJvdG9jb2xFbnVtLm9mU2VydmljZUNvZGUoc2VydmljZUNvZGUpOwogICAgICAgIGlmIChwcm90b2NvbEVudW0gPT0gUHJvdG9jb2xFbnVtLkRBTk5JQU9fREFZKSB7CiAgICAgICAgICAgIHJldHVybiBzaG93RGF5Rm9yRG4oYXJyaXZlRGF0ZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdXBwbGllcnMgPT0gbnVsbCB8fCAhc3VwcGxpZXJzLmNvbnRhaW5zKHNjSXRlbURUTy5nZXRTdXBwbGllcklkKCkpKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>if (
-				Integer memberType = sessionPayload.getAccountDTO().getMemberType();
-		if (MemberType.isVendor(memberType)) {
-)</text>
+      <register name="5" type="2">
+        <text>增加拦截</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdXBwbGllcnMgPT0gbnVsbCB8fCAhc3VwcGxpZXJzLmNvbnRhaW5zKHNjSXRlbURUTy5nZXRTdXBwbGllcklkKCkpKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2NJdGVtRFRPLmdldFBrZ01hdGVyaWFsQ29kZSgpID09IG51bGwgPyAiLSIgOiBzY0l0ZW1EVE8uZ2V0UGtnTWF0ZXJpYWxDb2RlKCkpICsgIiwiOwo=</text>
+      <register name="9" type="4">
+        <text>if (
+				Integer memberType = sessionPayload.getAccountDTO().getMemberType();
+		if (MemberType.isVendor(memberType)) {
+)</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
