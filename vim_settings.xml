@@ -59,11 +59,9 @@
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="33" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-adapter/pom.xml" timestamp="1589960285794">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="22" />
+      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1589964977547">
+        <mark key="[" line="293" column="19" />
+        <mark key="]" line="293" column="40" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-apps/eleme-app/pom.xml" timestamp="1589960339062">
         <mark key="[" line="6" column="21" />
@@ -91,6 +89,14 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589964916436">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="89" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1589964858623">
+        <mark key="[" line="149" column="17" />
+        <mark key="]" line="149" column="39" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-frame/common/pom.xml" timestamp="1589960418989">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
@@ -112,22 +118,7 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-api/pom.xml" timestamp="1589960313204">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-all/pom.xml" timestamp="1589960299351">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-frame/core/pom.xml" timestamp="1589960431174">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-apps/app-test/pom.xml" timestamp="1589960326340">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
@@ -135,9 +126,9 @@
       <file name="D:/workspace/company/adp2/adp2-common/pom.xml" timestamp="1589960406066">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589961570983">
+      <file name="/Dummy.txt" timestamp="1589962685696">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
@@ -218,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DeliveryProtocolDO</text>
+        <text>pintuanSuccessTail4Buy</text>
       </register>
       <register name="+" type="4">
-        <text>DeliveryProtocolDO</text>
+        <text>pintuanSuccessTail4Buy</text>
       </register>
       <register name="-" type="4">
         <text>-dn-SNAPSHOT</text>
@@ -230,34 +221,34 @@
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>Merge commit 'c327efacd405e905bab28a1b8d05f2917055edfb' into releases/20200520150816527_r_release_73152_adp2-code
+
+# Conflicts:
+#	adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcm90b2NvbEVudW0gcHJvdG9jb2xFbnVtID0gUHJvdG9jb2xFbnVtLm9mU2VydmljZUNvZGUoc2VydmljZUNvZGUpOwogICAgICAgIGlmIChwcm90b2NvbEVudW0gPT0gUHJvdG9jb2xFbnVtLkRBTk5JQU9fREFZKSB7CiAgICAgICAgICAgIHJldHVybiBzaG93RGF5Rm9yRG4oYXJyaXZlRGF0ZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm90b2NvbEVudW0gcHJvdG9jb2xFbnVtID0gUHJvdG9jb2xFbnVtLm9mU2VydmljZUNvZGUoc2VydmljZUNvZGUpOwogICAgICAgIGlmIChwcm90b2NvbEVudW0gPT0gUHJvdG9jb2xFbnVtLkRBTk5JQU9fREFZKSB7CiAgICAgICAgICAgIHJldHVybiBzaG93RGF5Rm9yRG4oYXJyaXZlRGF0ZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>增加拦截</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>增加拦截</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdXBwbGllcnMgPT0gbnVsbCB8fCAhc3VwcGxpZXJzLmNvbnRhaW5zKHNjSXRlbURUTy5nZXRTdXBwbGllcklkKCkpKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (
-				Integer memberType = sessionPayload.getAccountDTO().getMemberType();
-		if (MemberType.isVendor(memberType)) {
-)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdXBwbGllcnMgPT0gbnVsbCB8fCAhc3VwcGxpZXJzLmNvbnRhaW5zKHNjSXRlbURUTy5nZXRTdXBwbGllcklkKCkpKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
