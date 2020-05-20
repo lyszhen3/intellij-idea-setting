@@ -67,9 +67,9 @@
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1589895693784">
         <mark key="'" line="130" column="30" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589895679702">
-        <mark key="[" line="445" column="40" />
-        <mark key="]" line="445" column="40" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589945397284">
+        <mark key="[" line="361" column="17" />
+        <mark key="]" line="361" column="50" />
         <mark key="." line="445" column="39" />
         <mark key="^" line="445" column="40" />
       </file>
@@ -188,10 +188,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>无法识别的包装方案</text>
+        <text>/pkg/c2m/bms/management/scItemList</text>
       </register>
       <register name="+" type="4">
-        <text>无法识别的包装方案</text>
+        <text>/pkg/c2m/bms/management/scItemList</text>
       </register>
       <register name="-" type="4">
         <text>P</text>
