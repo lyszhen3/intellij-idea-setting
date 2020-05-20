@@ -55,73 +55,97 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/authello/AuthelloService.java" timestamp="1589952203882">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="32" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/pom.xml" timestamp="1589960631030">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="33" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/C2MUtil.java" timestamp="1589951548526">
-        <mark key="[" line="82" column="23" />
-        <mark key="]" line="82" column="31" />
-        <mark key="^" line="82" column="31" />
-        <mark key="." line="82" column="30" />
+      <file name="D:/workspace/company/adp2/adp2-adapter/pom.xml" timestamp="1589960285794">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="22" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/domain/ScItemDTO.java" timestamp="1589957936493" />
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1589951888887">
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="22" />
+      <file name="D:/workspace/company/adp2/adp2-apps/eleme-app/pom.xml" timestamp="1589960339062">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/workspace/company/usa-console/pom.xml" timestamp="1589955682407">
-        <mark key="'" line="57" column="54" />
-        <mark key="[" line="1474" column="28" />
-        <mark key="]" line="1474" column="47" />
-        <mark key="." line="1475" column="31" />
+      <file name="D:/workspace/company/adp2/adp2-apps/store-app/pom.xml" timestamp="1589960354956">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/tmall/TmallPromiseDebugController.java" timestamp="1589956630888">
-        <mark key="[" line="84" column="17" />
-        <mark key="]" line="84" column="36" />
+      <file name="D:/workspace/company/adp2/pom.xml" timestamp="1589960655600">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589958317705">
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfigListener.java" timestamp="1589959959787" />
+      <file name="D:/workspace/company/adp2/adp2-frame/service/pom.xml" timestamp="1589960479947">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-apps/www-app/pom.xml" timestamp="1589960377358">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-frame/common/pom.xml" timestamp="1589960418989">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589959903377">
+        <mark key="[" line="162" column="98" />
+        <mark key="]" line="251" column="73" />
+        <mark key="." line="251" column="72" />
+        <mark key="^" line="251" column="73" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-client/pom.xml" timestamp="1589960396006">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-frame/sdk/pom.xml" timestamp="1589960461809">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-api/pom.xml" timestamp="1589960313204">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-all/pom.xml" timestamp="1589960299351">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-frame/core/pom.xml" timestamp="1589960431174">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-apps/app-test/pom.xml" timestamp="1589960326340">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/pom.xml" timestamp="1589960406066">
+        <mark key="[" line="6" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589960091587">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/RetCodeEnum.java" timestamp="1589953807715">
-        <mark key="[" line="66" column="58" />
-        <mark key="]" line="68" column="35" />
-        <mark key="^" line="68" column="35" />
-        <mark key="." line="68" column="34" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/diamond/C2MDiamondListener.java" timestamp="1589957871884">
-        <mark key="[" line="21" column="88" />
-        <mark key="]" line="21" column="104" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589955827977">
-        <mark key="[" line="294" column="132" />
-        <mark key="]" line="86" column="48" />
-        <mark key="." line="85" column="13" />
-        <mark key="^" line="85" column="14" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589958315739">
-        <mark key="[" line="387" column="41" />
-        <mark key="]" line="387" column="107" />
-        <mark key="." line="387" column="106" />
-        <mark key="^" line="387" column="107" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/WhcManager.java" timestamp="1589953644027">
-        <mark key="[" line="172" column="58" />
-        <mark key="]" line="172" column="66" />
-        <mark key="^" line="172" column="117" />
-        <mark key="." line="172" column="116" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/filter/UserScopeFilter.java" timestamp="1589949312108" />
-      <file name="/ScItemPkgManager.java" timestamp="1589955811064">
-        <mark key="[" line="311" column="16" />
-        <mark key="]" line="311" column="27" />
-      </file>
-      <file name="/fragment.java" timestamp="1589952298244">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/workspace/company/adp2/adp2-apps/supermarket-app/pom.xml" timestamp="1589960364410">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -189,13 +213,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>scItemDTO.getWhcBrandCode() :scItemDTO.getScItemCode()</text>
+        <text>-dn-SNAPSHOT</text>
       </register>
       <register name="+" type="4">
-        <text>USA_CONSOLE_GROUP</text>
+        <text>1.1.6-dn-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>scItemDTO.getWhcBrandCode() :scItemDTO.getScItemCode()</text>
+        <text>-dn-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
