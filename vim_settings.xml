@@ -82,6 +82,10 @@
         <mark key="]" line="1474" column="47" />
         <mark key="." line="1475" column="31" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/tmall/TmallPromiseDebugController.java" timestamp="1589956630888">
+        <mark key="[" line="84" column="17" />
+        <mark key="]" line="84" column="36" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589955308465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,27 +97,21 @@
         <mark key="^" line="68" column="35" />
         <mark key="." line="68" column="34" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/diamond/C2MDiamondListener.java" timestamp="1589956756012">
+        <mark key="[" line="21" column="88" />
+        <mark key="]" line="21" column="104" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589955827977">
         <mark key="[" line="294" column="132" />
         <mark key="]" line="86" column="48" />
         <mark key="." line="85" column="13" />
         <mark key="^" line="85" column="14" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/filter/DomainFilter.java" timestamp="1589947848840">
-        <mark key="[" line="27" column="60" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1589955865297">
         <mark key="[" line="356" column="0" />
         <mark key="]" line="356" column="0" />
         <mark key="." line="356" column="0" />
         <mark key="^" line="355" column="8" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1589947180808">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="468" column="17" />
-        <mark key="]" line="468" column="63" />
-        <mark key="." line="507" column="47" />
-        <mark key="^" line="507" column="48" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/WhcManager.java" timestamp="1589953644027">
         <mark key="[" line="172" column="58" />
@@ -195,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>updateC2MPkg</text>
+        <text>USA_CONSOLE_GROUP</text>
       </register>
       <register name="+" type="4">
-        <text>updateC2MPkg</text>
+        <text>USA_CONSOLE_GROUP</text>
       </register>
       <register name="-" type="4">
         <text>-SNAPSHOT</text>
