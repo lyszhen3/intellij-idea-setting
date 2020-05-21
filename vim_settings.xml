@@ -55,25 +55,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589962685696">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589974903081">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1590061703954" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/node/LineDTO.java" timestamp="1590060826791" />
+      <file name="/Dummy.txt" timestamp="1590061617279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/pom.xml" timestamp="1589960631030">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="33" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/node/NodeLineParamUtil.java" timestamp="1590061981214">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589974903081">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="51" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1589964858623">
-        <mark key="[" line="149" column="17" />
-        <mark key="]" line="149" column="39" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/MeijiaBigGoodsArbitrator.java" timestamp="1590026672616" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589974836549">
         <mark key="'" line="90" column="15" />
         <mark key="[" line="360" column="17" />
@@ -81,60 +79,13 @@
         <mark key="." line="85" column="13" />
         <mark key="^" line="85" column="14" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-frame/common/pom.xml" timestamp="1589960418989">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1589961636655">
-        <mark key="[" line="231" column="75" />
-        <mark key="]" line="232" column="74" />
-        <mark key="." line="232" column="73" />
-        <mark key="^" line="232" column="74" />
-      </file>
-      <file name="D:/workspace/company/adp2/pom.xml" timestamp="1589960655600">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="18" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-client/pom.xml" timestamp="1589960396006">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-frame/sdk/pom.xml" timestamp="1589960461809">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-apps/www-app/pom.xml" timestamp="1589960377358">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-frame/core/pom.xml" timestamp="1589960431174">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-frame/service/pom.xml" timestamp="1589960479947">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/node/EntryNodeLineProcess.java" timestamp="1590061744996" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-platform-service/1.1.6/adp2-platform-service-1.1.6-sources.jar!/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1590062113547" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-common/1.1.6/adp2-common-1.1.6.jar!/com/alibaba/delivery/platform/common/util/NodeLineUtils.class" timestamp="1590062013586" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/node/transform/LogisticsNodeTransform.java" timestamp="1590062202356" />
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589965073967">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="89" />
-      </file>
-      <file name="/fragment.java" timestamp="1589961433247">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-common/pom.xml" timestamp="1589960406066">
-        <mark key="[" line="6" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -202,11 +153,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/pkg/c2m/bms/page/packageManagement</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="+" type="4">
-        <text>/pkg/c2m/bms/page/packageManagement</text>
+        <text>logisticsNodeLineReq.getLineDTO().getServiceWaveDTOs()</text>
       </register>
       <register name="-" type="4">
         <text>-dn-SNAPSHOT</text>
@@ -215,34 +166,34 @@
         <text>google</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNlcnZpY2VXYXZlRFRPcyhsb2dpc3RpY3NOb2RlTGluZVJlcS5nZXRMaW5lRFRPKCkuZ2V0U2VydmljZVdhdmVEVE9zKCkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNlcnZpY2VXYXZlRFRPcyhsb2dpc3RpY3NOb2RlTGluZVJlcS5nZXRMaW5lRFRPKCkuZ2V0U2VydmljZVdhdmVEVE9zKCkpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text>Merge commit 'c327efacd405e905bab28a1b8d05f2917055edfb' into releases/20200520150816527_r_release_73152_adp2-code
 
 # Conflicts:
 #	adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm90b2NvbEVudW0gcHJvdG9jb2xFbnVtID0gUHJvdG9jb2xFbnVtLm9mU2VydmljZUNvZGUoc2VydmljZUNvZGUpOwogICAgICAgIGlmIChwcm90b2NvbEVudW0gPT0gUHJvdG9jb2xFbnVtLkRBTk5JQU9fREFZKSB7CiAgICAgICAgICAgIHJldHVybiBzaG93RGF5Rm9yRG4oYXJyaXZlRGF0ZSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text>增加拦截</text>
+        <text encoding="base64">ICAgICAgICBQcm90b2NvbEVudW0gcHJvdG9jb2xFbnVtID0gUHJvdG9jb2xFbnVtLm9mU2VydmljZUNvZGUoc2VydmljZUNvZGUpOwogICAgICAgIGlmIChwcm90b2NvbEVudW0gPT0gUHJvdG9jb2xFbnVtLkRBTk5JQU9fREFZKSB7CiAgICAgICAgICAgIHJldHVybiBzaG93RGF5Rm9yRG4oYXJyaXZlRGF0ZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdXBwbGllcnMgPT0gbnVsbCB8fCAhc3VwcGxpZXJzLmNvbnRhaW5zKHNjSXRlbURUTy5nZXRTdXBwbGllcklkKCkpKXsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>增加拦截</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
