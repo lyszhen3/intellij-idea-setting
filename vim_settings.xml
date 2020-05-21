@@ -55,7 +55,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590076809887">
+      <file name="/Dummy.txt" timestamp="1590078743820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -76,19 +76,16 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589974836549">
-        <mark key="'" line="90" column="15" />
-        <mark key="[" line="360" column="17" />
-        <mark key="]" line="360" column="50" />
-        <mark key="." line="85" column="13" />
-        <mark key="^" line="85" column="14" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1590078735883">
+        <mark key="[" line="183" column="21" />
+        <mark key="]" line="303" column="0" />
+        <mark key="." line="303" column="0" />
+        <mark key="^" line="303" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfigListener.java" timestamp="1590076640731">
-        <mark key="'" line="22" column="19" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="383" column="79" />
-        <mark key="^" line="383" column="79" />
-        <mark key="." line="383" column="78" />
+        <mark key="]" line="3" column="79" />
+        <mark key="^" line="3" column="79" />
+        <mark key="." line="3" column="78" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1590077725415">
         <mark key="[" line="48" column="0" />
@@ -162,7 +159,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8g5YiG5Y+R77yM5q2k5aSE5bCGZ3JvdXBET+i/m+ihjOS6hua3seaLt+i0nQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZjhjNTVkZGQzOWE0YmM3N2U1ZTc3MmRlY2YzOTQzMTA3Y2ZiMjlkCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQkJLy8g5YiG5Y+R77yM5q2k5aSE5bCGZ3JvdXBET+i/m+ihjOS6hua3seaLt+i0nQo=</text>
@@ -174,31 +171,31 @@
         <text>google</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog77+977+917DQrc2s77+977+977+977+977+9yrHvv73vv73vv73vv73Qoe+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vQogICAgICovCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZjhjNTVkZGQzOWE0YmM3N2U1ZTc3MmRlY2YzOTQzMTA3Y2ZiMjlkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog77+977+917DQrc2s77+91r7vv73vv73vv73Kse+/ve+/ve+/veu1se+/ve+/vcqx77+977+977+977+90KHvv73vv73vv70KICAgICAqLwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog77+977+917DQrc2s1KTvv73vv73vv73EsO+/vQogICAgICovCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog77+977+917DQrc2s77+977+977+91rvvv73vv73EsO+/vQogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRznvv73EsO+/vQogICAgICovCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZjhjNTVkZGQzOWE0YmM3N2U1ZTc3MmRlY2YzOTQzMTA3Y2ZiMjlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRznKsdCnCiAgICAgKi8K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogY2Nv0KPvv73vv70yNGjvv73vv73vv73vv73vv73vv73vv73vv73vv73vv70KICAgICAqLwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog77+9x7fvv73vv73vv73vv73vv73vv73vv73Ev++/ve+/ve+/ve+/ve+/ve+/vWNvb9Cj77+977+9CiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog77+9zLzvv73vv73vv73vv73vv73OqiAyNGgg77+92rfvv73vv73vv73vv73vv73Kse+/ve+/ve+/ve+/vdKq77+977+977+90Lbvv73Su++/ve+/ve+/ve+/vca377+9x7fvv73vv73vv73vv70gQ0NPIO+/ve+/ve+/ve+/vcq377+977+977+977+977+90qrvv73zo6y477+977+977+977+9x7fvv73vv73Qse+/ve+/ve+/ve+/ve+/vdC277+9CiAgICAgKi8K</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZjhjNTVkZGQzOWE0YmM3N2U1ZTc3MmRlY2YzOTQzMTA3Y2ZiMjlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
