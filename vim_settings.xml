@@ -55,17 +55,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589974903081">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="51" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1590061703954" />
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/node/LineDTO.java" timestamp="1590060826791" />
       <file name="/Dummy.txt" timestamp="1590061617279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589974903081">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/node/NodeLineParamUtil.java" timestamp="1590061981214">
         <mark key="[" line="101" column="0" />
@@ -79,13 +77,8 @@
         <mark key="." line="85" column="13" />
         <mark key="^" line="85" column="14" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/node/EntryNodeLineProcess.java" timestamp="1590061744996" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-platform-service/1.1.6/adp2-platform-service-1.1.6-sources.jar!/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1590065947656" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-common/1.1.6/adp2-common-1.1.6.jar!/com/alibaba/delivery/platform/common/util/NodeLineUtils.class" timestamp="1590062013586" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/node/transform/LogisticsNodeTransform.java" timestamp="1590062202356" />
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589965073967">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="89" />
+      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfigListener.java" timestamp="1590072856083">
+        <mark key="'" line="22" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -149,6 +142,7 @@
       <jump line="79" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" />
       <jump line="130" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" />
       <jump line="90" column="15" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
+      <jump line="22" column="19" filename="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfigListener.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
