@@ -90,6 +90,10 @@
         <mark key="^" line="383" column="79" />
         <mark key="." line="383" column="78" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1590077725415">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
@@ -157,11 +161,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>g9Text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy8g5YiG5Y+R77yM5q2k5aSE5bCGZ3JvdXBET+i/m+ihjOS6hua3seaLt+i0nQo=</text>
       </register>
-      <register name="+" type="4">
-        <text>g9Text</text>
+      <register name="+" type="2">
+        <text encoding="base64">CQkJLy8g5YiG5Y+R77yM5q2k5aSE5bCGZ3JvdXBET+i/m+ihjOS6hua3seaLt+i0nQo=</text>
       </register>
       <register name="-" type="4">
         <text>����ƴ����,�ɹ���Ԥ��</text>
