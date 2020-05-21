@@ -55,44 +55,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589962685696">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-service/pom.xml" timestamp="1589960631030">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="33" />
       </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1589965008245">
-        <mark key="[" line="289" column="43" />
-        <mark key="]" line="289" column="49" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1589974903081">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
       </file>
-      <file name="D:/workspace/company/adp2/pom.xml" timestamp="1589960655600">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="18" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1589964858623">
+        <mark key="[" line="149" column="17" />
+        <mark key="]" line="149" column="39" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-frame/service/pom.xml" timestamp="1589960479947">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/MeijiaBigGoodsArbitrator.java" timestamp="1590026672616" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1589974836549">
         <mark key="'" line="90" column="15" />
         <mark key="[" line="360" column="17" />
         <mark key="]" line="360" column="50" />
         <mark key="." line="85" column="13" />
         <mark key="^" line="85" column="14" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-apps/www-app/pom.xml" timestamp="1589960377358">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589965073967">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="89" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1589964858623">
-        <mark key="[" line="149" column="17" />
-        <mark key="]" line="149" column="39" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-frame/common/pom.xml" timestamp="1589960418989">
         <mark key="[" line="6" column="21" />
@@ -105,6 +92,12 @@
         <mark key="." line="232" column="73" />
         <mark key="^" line="232" column="74" />
       </file>
+      <file name="D:/workspace/company/adp2/pom.xml" timestamp="1589960655600">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="18" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-client/pom.xml" timestamp="1589960396006">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
@@ -115,30 +108,33 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-apps/www-app/pom.xml" timestamp="1589960377358">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-frame/core/pom.xml" timestamp="1589960431174">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/pom.xml" timestamp="1589960406066">
-        <mark key="[" line="6" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589962685696">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-apps/supermarket-app/pom.xml" timestamp="1589960364410">
+      <file name="D:/workspace/company/adp2/adp2-frame/service/pom.xml" timestamp="1589960479947">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1589965073967">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="89" />
       </file>
       <file name="/fragment.java" timestamp="1589961433247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/pom.xml" timestamp="1589960406066">
+        <mark key="[" line="6" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -207,10 +203,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/pkg/c2m/bms/management/scItemList</text>
+        <text>/pkg/c2m/bms/page/packageManagement</text>
       </register>
       <register name="+" type="4">
-        <text>/pkg/c2m/bms/management/scItemList</text>
+        <text>/pkg/c2m/bms/page/packageManagement</text>
       </register>
       <register name="-" type="4">
         <text>-dn-SNAPSHOT</text>
