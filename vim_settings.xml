@@ -93,11 +93,15 @@
         <mark key="^" line="202" column="53" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/timing/filter/PriorityServiceFilter.java" timestamp="1590116987684" />
-      <file name="/Dummy.txt" timestamp="1590078743820">
+      <file name="/Dummy.txt" timestamp="1590119229674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-timing/src/main/java/com/alibaba/delivery/timing/service/impl/StoreCpCapacityInfoServiceImpl.java" timestamp="1590120295373">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="25" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" timestamp="1590115306426">
         <mark key="'" line="57" column="12" />
@@ -183,10 +187,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>StoreCpCapacityInfoDao</text>
       </register>
       <register name="+" type="4">
-        <text>dnExpressOpenSpCodes</text>
+        <text>StoreCpCapacityInfoDao</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
