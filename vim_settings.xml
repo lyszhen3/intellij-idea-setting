@@ -94,6 +94,10 @@
         <mark key="^" line="202" column="53" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/timing/filter/PriorityServiceFilter.java" timestamp="1590116987684" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/LogisticsLineType.java" timestamp="1590134368471">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="10" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590119229674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -113,7 +117,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="58" column="9" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-platform-service/1.1.6/adp2-platform-service-1.1.6-sources.jar!/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1590134185992" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-platform-service/1.1.6/adp2-platform-service-1.1.6-sources.jar!/com/alibaba/delivery/platform/service/servicenode/node/BaseNodeLineServiceNode.java" timestamp="1590134351852" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/DnExpressArbitrator.java" timestamp="1590116310510">
         <mark key="[" line="41" column="98" />
         <mark key="]" line="25" column="84" />
@@ -197,10 +201,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>logistics_cp_line</text>
+        <text>UNKNOWN</text>
       </register>
       <register name="+" type="4">
-        <text>logistics_cp_line</text>
+        <text>UNKNOWN</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
