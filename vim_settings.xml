@@ -68,23 +68,16 @@
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/cdc/biz/decision/consign/ConsignDecisionServiceImpl.java" timestamp="1590114882974">
         <mark key="'" line="91" column="13" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1590078735883">
-        <mark key="[" line="183" column="21" />
-        <mark key="]" line="303" column="0" />
-        <mark key="." line="303" column="0" />
-        <mark key="^" line="303" column="0" />
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/OfpOrderWriteServiceImpl.java" timestamp="1590136887405">
+        <mark key="[" line="97" column="53" />
+        <mark key="]" line="97" column="70" />
       </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfigListener.java" timestamp="1590076640731">
-        <mark key="]" line="3" column="79" />
-        <mark key="^" line="3" column="79" />
-        <mark key="." line="3" column="78" />
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderSellerProcessUnitServiceImpl.java" timestamp="1590136773195">
+        <mark key="[" line="224" column="4" />
+        <mark key="]" line="224" column="23" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/timing/filter/PriorityServiceFilterV2.java" timestamp="1590116453859">
         <mark key="'" line="38" column="13" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1590077725415">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="34" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/LogisticsNodeLineService.java" timestamp="1590133941356" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" timestamp="1590115600092">
@@ -201,10 +194,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>UNKNOWN</text>
+        <text>removeDelayConsign</text>
       </register>
       <register name="+" type="4">
-        <text>UNKNOWN</text>
+        <text>removeDelayConsign</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
