@@ -65,7 +65,7 @@
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="51" />
       </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1590077200386">
+      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1590113437135">
         <mark key="[" line="268" column="19" />
         <mark key="]" line="268" column="24" />
         <mark key="." line="295" column="36" />
@@ -75,6 +75,9 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1590113767720">
+        <mark key="'" line="150" column="39" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1590078735883">
         <mark key="[" line="183" column="21" />
@@ -154,6 +157,7 @@
       <jump line="130" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" />
       <jump line="90" column="15" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="22" column="19" filename="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfigListener.java" />
+      <jump line="150" column="39" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
