@@ -58,25 +58,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1590390448551">
-        <mark key="[" line="215" column="19" />
-        <mark key="]" line="215" column="36" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/AggregationSpliter.java" timestamp="1590383114420" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/StoreCodeSplit.java" timestamp="1590379966235">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/MultiLevelSplit.java" timestamp="1590384680435" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ParamsAdpModelAdapter.java" timestamp="1590378114349" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1590378278007" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" timestamp="1590390317906">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="130" column="20" />
-        <mark key="]" line="130" column="45" />
-        <mark key="." line="163" column="0" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/AdpTradeServiceImpl.java" timestamp="1590378225766">
         <mark key="[" line="38" column="45" />
         <mark key="]" line="38" column="63" />
@@ -85,26 +66,43 @@
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="84" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590395999491">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590392626960">
         <mark key="[" line="79" column="114" />
         <mark key="]" line="79" column="119" />
         <mark key="." line="70" column="27" />
         <mark key="^" line="70" column="28" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/MultiLevelUtil.java" timestamp="1590384718297" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1590390448551">
+        <mark key="[" line="215" column="19" />
+        <mark key="]" line="215" column="36" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/StoreCodeSplit.java" timestamp="1590379966235">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" timestamp="1590390007325">
         <mark key="'" line="57" column="12" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="79" column="9" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/WdkPromiseSplit.java" timestamp="1590383492624" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/CarrierSpliter.java" timestamp="1590383464394" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/industry/IndustrySpecificAbility.java" timestamp="1590377226008" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/META-INF/autoconf/adp-service.xml" timestamp="1590377549403">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="28" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/MenDianCodeSplit.java" timestamp="1590379735523" />
+      <file name="D:/workspace/company/adp/pom.xml" timestamp="1590395769805">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="22" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" timestamp="1590390317906">
+        <mark key="'" line="68" column="20" />
+        <mark key="[" line="130" column="20" />
+        <mark key="]" line="130" column="45" />
+        <mark key="." line="163" column="0" />
+      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1590390485559">
         <mark key="'" line="207" column="84" />
         <mark key="[" line="27" column="43" />
@@ -190,10 +188,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>spCode</text>
+        <text>1.4.10-FRONT</text>
       </register>
       <register name="+" type="4">
-        <text>spCode</text>
+        <text>1.4.10-FRONT</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
