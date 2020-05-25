@@ -75,6 +75,10 @@
         <mark key="." line="70" column="27" />
         <mark key="^" line="70" column="28" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1590408367417">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="32" />
+      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1590390448551">
         <mark key="[" line="215" column="19" />
         <mark key="]" line="215" column="36" />
@@ -188,10 +192,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1.4.10-FRONT</text>
+        <text>region-retail-app</text>
       </register>
       <register name="+" type="4">
-        <text>1.4.10-FRONT</text>
+        <text>region-retail-app</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
