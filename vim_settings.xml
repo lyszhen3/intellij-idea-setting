@@ -85,9 +85,9 @@
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="84" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590389970117">
-        <mark key="[" line="80" column="73" />
-        <mark key="]" line="80" column="85" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590392626960">
+        <mark key="[" line="79" column="114" />
+        <mark key="]" line="79" column="119" />
         <mark key="." line="70" column="27" />
         <mark key="^" line="70" column="28" />
       </file>
@@ -190,10 +190,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.alibaba.delivery.common.diamond.OrderConfig</text>
+        <text>spCode</text>
       </register>
       <register name="+" type="4">
-        <text>com.alibaba.delivery.common.diamond.OrderConfig</text>
+        <text>spCode</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
