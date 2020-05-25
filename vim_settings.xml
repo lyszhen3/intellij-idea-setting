@@ -58,20 +58,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/AggregationSpliter.java" timestamp="1590379636457" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/StoreCodeSplit.java" timestamp="1590379966235">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ParamsAdpModelAdapter.java" timestamp="1590378114349" />
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider-legacy.xml" timestamp="1590371568565">
-        <mark key="[" line="90" column="14" />
-        <mark key="]" line="90" column="15" />
-        <mark key="^" line="90" column="80" />
-        <mark key="." line="90" column="15" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1590378278007" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" timestamp="1590371514112">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590372290258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -87,10 +81,6 @@
         <mark key="]" line="79" column="85" />
         <mark key="." line="70" column="27" />
         <mark key="^" line="70" column="28" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/errcode/code/SfExpressErrorDesc.java" timestamp="1590371697032">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="23" column="5" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" timestamp="1590371935633">
         <mark key="'" line="57" column="12" />
@@ -109,6 +99,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/MenDianCodeSplit.java" timestamp="1590379735523" />
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
@@ -185,13 +176,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>splitDeliveryOrders</text>
+        <text>p</text>
       </register>
       <register name="+" type="4">
         <text>splitDeliveryOrders</text>
       </register>
       <register name="-" type="4">
-        <text>顺丰</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>新配</text>
