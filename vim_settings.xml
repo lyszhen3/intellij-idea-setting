@@ -58,22 +58,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/SdpItemUtils.java" timestamp="1590338775147">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="75" column="15" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ParamsAdpModelAdapter.java" timestamp="1590378114349" />
-      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/timing/filter/PriorityServiceFilterV2.java" timestamp="1590371381064">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="135" column="16" />
-        <mark key="]" line="135" column="31" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider-legacy.xml" timestamp="1590371568565">
         <mark key="[" line="90" column="14" />
         <mark key="]" line="90" column="15" />
         <mark key="^" line="90" column="80" />
         <mark key="." line="90" column="15" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1590378278007" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" timestamp="1590371514112">
         <mark key="'" line="68" column="20" />
         <mark key="[" line="163" column="0" />
@@ -86,7 +78,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/AdpTradeServiceImpl.java" timestamp="1590378145887">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/AdpTradeServiceImpl.java" timestamp="1590378225766">
         <mark key="[" line="38" column="45" />
         <mark key="]" line="38" column="63" />
       </file>
@@ -105,6 +97,8 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="79" column="9" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/WdkPromiseSplit.java" timestamp="1590379520585" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/split/inner/CarrierSpliter.java" timestamp="1590378819885" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/industry/IndustrySpecificAbility.java" timestamp="1590377226008" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/META-INF/autoconf/adp-service.xml" timestamp="1590377549403">
         <mark key="[" line="15" column="14" />
