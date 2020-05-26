@@ -63,13 +63,6 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/Period.java" timestamp="1590474431179">
-        <mark key="'" line="58" column="24" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="24" />
-        <mark key="^" line="58" column="25" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590477736531">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -99,19 +92,23 @@
         <mark key="^" line="74" column="4" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" timestamp="1590474993346">
-        <mark key="a" line="220" column="47" />
-        <mark key="'" line="79" column="24" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="6" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" timestamp="1590478591264">
+        <mark key="a" line="222" column="47" />
+        <mark key="'" line="81" column="24" />
+        <mark key="[" line="61" column="135" />
+        <mark key="]" line="61" column="135" />
+        <mark key="." line="61" column="134" />
+        <mark key="^" line="61" column="135" />
       </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/main/java/com/lin/springjmxsamples/domain/TestList2Bean.java" timestamp="1590476848505">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="7" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/display/padder/StoreJsdServicePadder.java" timestamp="1590477999581">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="134" />
       </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1590476738489">
         <mark key="[" line="46" column="0" />
@@ -246,41 +243,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
+      <register name="&quot;" type="4">
+        <text>.DISTRIBUTION_TIMING</text>
       </register>
-      <register name="+" type="2">
-        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
+      <register name="+" type="4">
+        <text>currentProtocolDO</text>
       </register>
       <register name="-" type="4">
-        <text>XIN_PEI_MENG_FIRST_SERVICE_CODE</text>
+        <text>.DISTRIBUTION_TIMING</text>
       </register>
       <register name="/" type="4">
         <text>新配</text>
       </register>
       <register name="1" type="2">
-        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CQkJCQkvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QE9yZGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHQ9IHRydWUK</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QE9yZGVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHQ9IHRydWUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
