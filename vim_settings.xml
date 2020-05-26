@@ -70,11 +70,10 @@
         <mark key="." line="58" column="24" />
         <mark key="^" line="58" column="25" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590475618023">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="160" column="84" />
-        <mark key="." line="70" column="27" />
-        <mark key="^" line="70" column="28" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590477736531">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/util/AreaUtil.java" timestamp="1590474581197">
         <mark key="[" line="188" column="0" />
@@ -123,6 +122,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="83" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590477811098">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/main/java/com/lin/springjmxsamples/SpringJmxSamplesApplication.java" timestamp="1590477046307">
         <mark key="[" line="71" column="42" />
         <mark key="]" line="72" column="32" />
@@ -154,12 +159,6 @@
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1590474470137">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="54" />
-      </file>
-      <file name="/fragment.java" timestamp="1590474382615">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -247,35 +246,35 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>testListBeans</text>
+      <register name="&quot;" type="2">
+        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
       </register>
-      <register name="+" type="4">
-        <text>testListBeans</text>
+      <register name="+" type="2">
+        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
       </register>
       <register name="-" type="4">
-        <text>beans</text>
+        <text>XIN_PEI_MENG_FIRST_SERVICE_CODE</text>
       </register>
       <register name="/" type="4">
         <text>新配</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text>新配盟仲裁不仲裁包含顺丰配的,顺丰配的让顺丰配仲裁逻辑做</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QE9yZGVyKCkK</text>
+        <text encoding="base64">CQkJCQkvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHQ9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QE9yZGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHQ9IHRydWUK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -284,7 +283,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBMWVMgZGVmYXVsdCDlhYjlhpnmrbvkuIDkuKrmlofmoYgKICAgICAgICAgICAgICAgIHJldHVybiAiMDE6MDEiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
