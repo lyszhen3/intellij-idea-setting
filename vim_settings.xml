@@ -59,32 +59,34 @@
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1590459866549" />
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1590390448551">
-        <mark key="[" line="215" column="19" />
-        <mark key="]" line="215" column="36" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1590460956509">
+        <mark key="'" line="26" column="0" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ResourceManager.java" timestamp="1590461798521">
+        <mark key="[" line="135" column="125" />
+        <mark key="]" line="136" column="31" />
+        <mark key="." line="136" column="30" />
+        <mark key="^" line="136" column="31" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1590459851134" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreJsdTimingUtil.java" timestamp="1590459950739">
-        <mark key="[" line="117" column="51" />
-        <mark key="]" line="42" column="24" />
-        <mark key="^" line="42" column="24" />
-        <mark key="." line="42" column="23" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/ServiceWaveDTO.java" timestamp="1590460691177">
+        <mark key="[" line="15" column="27" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" timestamp="1590390317906">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="130" column="20" />
-        <mark key="]" line="130" column="45" />
-        <mark key="." line="163" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreJsdTimingUtil.java" timestamp="1590461179144">
+        <mark key="[" line="147" column="34" />
+        <mark key="]" line="84" column="27" />
+        <mark key="^" line="84" column="27" />
+        <mark key="." line="84" column="26" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/LineContentDO.java" timestamp="1590461378440">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="43" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/TimingDisplayService.java" timestamp="1590459839130" />
       <file name="/Dummy.txt" timestamp="1590395999491">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590392626960">
-        <mark key="[" line="79" column="114" />
-        <mark key="]" line="79" column="119" />
-        <mark key="." line="70" column="27" />
-        <mark key="^" line="70" column="28" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/constant/CalcMethodConstant.java" timestamp="1590459684419">
         <mark key="[" line="11" column="68" />
@@ -98,17 +100,18 @@
         <mark key="[" line="114" column="0" />
         <mark key="]" line="185" column="29" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/ServiceWaveDO.java" timestamp="1590460994072">
+        <mark key="[" line="25" column="28" />
+      </file>
       <file name="D:/workspace/company/adp/pom.xml" timestamp="1590395769805">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="22" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/NodeLineDO.java" timestamp="1590459887522">
-        <mark key="[" line="127" column="48" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1590390485559">
-        <mark key="'" line="207" column="84" />
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="89" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/NodeLineDO.java" timestamp="1590460782080">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="132" column="46" />
+        <mark key="^" line="132" column="46" />
+        <mark key="." line="132" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -182,30 +185,31 @@
       <jump line="68" column="20" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/ConsignResultArbitratorConfig.java" />
       <jump line="149" column="0" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" />
       <jump line="207" column="84" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" />
+      <jump line="26" column="0" filename="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1.4.10-FRONT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZUxpbmVETy5zZXRTZXJ2aWNlV2F2ZURPcyhsaW5lRE8uZ2UpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>1.4.10-FRONT</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>DO</text>
       </register>
       <register name="/" type="4">
         <text>新配</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZUxpbmVETy5zZXRTZXJ2aWNlV2F2ZURPcyhsaW5lRE8uZ2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAocHJvZHVjdFNlcnZpY2UgIT0gbnVsbCkgewoJCQlJdGVtR3JvdXAgaXRlbUdyb3VwID0gcHJvZHVjdFNlcnZpY2UuZ2V0SXRlbUdyb3VwKCk7CgkJCVN0cmluZyBzcENvZGUgPSBwcm9kdWN0U2VydmljZS5nZXRTcENvZGUoKTsKCQkJaWYgKGl0ZW1Hcm91cCAhPSBudWxsKSB7CgkJCQlMaXN0PFNjSXRlbVRPPiBzY0l0ZW1zID0gKExpc3Q8U2NJdGVtVE8+KSBpdGVtR3JvdXAuZ2V0SXRlbUxpc3QoKTsKCQkJCWJvb2xlYW4gaGFzWHBtSXRlbSA9IGhhc1hwbUl0ZW0oc2NJdGVtcywgY29udGV4dCk7CgkJCQlib29sZWFuIGhhc1RtYWxsVE9JdGVtID0gaGFzVG1hbGxUT0l0ZW0oc2NJdGVtcywgY29udGV4dCk7CgkJCQkvL+WmguaenOaciVRP5qCHIOaIluiAhSjlpoLmnpzmnInmlrDphY3nm5/llYblk4Em6K6i6LSt5LqG5paw6YWN55uf6YWN55qE6K+dKe+8jOeci+eci+i/lOWbnueahOe7k+aenOS4iuacieayoeacieaWsOmFjeebn+eahOacjeWKoQoJCQkJaWYgKGhhc1RtYWxsVE9JdGVtIHx8IChoYXNYcG1JdGVtICYmIHN1YnNjcmliZWRYcG0oc3BDb2RlLCBjb250ZXh0KSkpIHsKCQkJCQlib29sZWFuIGhhc1hwbVNlcnZpY2UgPSBBcmJpdHJhdG9yVXRpbHMuaGFzQWRkb25TZXJ2aWNlKHByb2R1Y3RTZXJ2aWNlLAoJCQkJCQkJRnVsZmlsU2VydmljZUNvZGVDb25zdC5YSU5fUEVJX01FTkdfRklSU1RfU0VSVklDRV9DT0RFKTsKCQkJCQlTdHJpbmcgc3RvcmVDb2RlID0gQXJiaXRyYXRvclV0aWxzLmdldFN0b3JlQ29kZShwcm9kdWN0U2VydmljZSk7CgkJCQkJbG9uZyB0b0FyZWFJZCA9IHByb2R1Y3RTZXJ2aWNlLmdldFRvQXJlYUlkKCk7CgkJCQkJLy8g6I635Y+W5LiK57+75Yiw5biC5LiA57qn55qE5Zyw5Z2A77yM55So5p2l57uf6K6hCgkJCQkJTGlzdDxMb25nPiB0b0FyZWFJZHMgPSBhZGRyZXNzU2VydmljZS5nZXRQYXJlbnREaXZpc2lvblRvTGV2ZWwodG9BcmVhSWQsCgkJCQkJCQlEaXZpc2lvbkNvbnN0YW50LkRJVklTSU9OX0xFVkVMX0NJVFkpOwoJCQkJCWlmICghaGFzWHBtU2VydmljZSkgewoJCQkJCQkvLyDlpoLmnpzmnInmlrDphY3nm5/moIfvvIzkvYbmmK/msqHmnInmlrDphY3nm5/phY3vvIzpnIDopoFjaGVja+S4gOS4i+acieayoeacieaWsOmFjeebn+eahOe6v+i3r++8jOi/memHjOimgeS4iue/u+WIsOW4guS4gOe6pwoJCQkJCQlMaXN0PExpbmVUZW1wbGF0ZT4gbGluZXMgPSB0ZW1wbGF0ZVNlcnZpY2UKCQkJCQkJCQkucXVlcnlMaW5lVGVtcGxhdGVzKERpc3BsYXlTZXJ2aWNlTmFtZXMuWElOX1BFSV9NRU5HX0ZJUlNULmdldE5hbWUoKSwgc3BDb2RlLCBzdG9yZUNvZGUsCgkJCQkJCQkJCQlTdHJpbmcudmFsdWVPZih0b0FyZWFJZCksIERpdmlzaW9uQ29uc3RhbnQuRElWSVNJT05fTEVWRUxfQ0lUWSk7CgkJCQkJCWlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShsaW5lcykpIHsKCQkJCQkJCXN0YXRYcG1FeHByZXNzKCJjb25zaWduLnhwbS5leHByZXNzIiwgTWFwSGVscGVyCgkJCQkJCQkJCS5vZigiZXhwcmVzc2VkIiwgIk4iLCAic3BDb2RlIiwgc3BDb2RlLCAiZnJvbSIsIHN0b3JlQ29kZSksIHRvQXJlYUlkcyk7CgkJCQkJCQlCcmVzc29uLmxvZ0luZm8oU3RyaW5nLmZvcm1hdCgibm9feHBtX2V4cHJlc3Msc3BDb2RlPSVzLHN0b3JlQ29kZT0lcyIsIHNwQ29kZSwgc3RvcmVDb2RlKSk7CgkJCQkJCQkvLyDlpoLmnpzkuZ/mnInnur/ot6/vvIzkvYbmmK/mnKrooajovr7vvIzmiJHku6zorqTkuLrmnInpo47pmakKCQkJCQkJCWlmIChDb25zaWduUmVzdWx0QXJiaXRyYXRvckNvbmZpZy5nZXRJbnN0YW5jZSgpLmlzT3BlbkJsb2NrWHBtRXhwcmVzc0NvbnNpZ24oKSkgewoJCQkJCQkJCXRocm93IG5ldyBYcG1FeHByZXNzQXJiaXRyYXRvckV4Y2VwdGlvbihYcG1FeHByZXNzRXJyb3JEZXNjLmRlc2MoIuWtmOWcqOaWsOmFjeebn+mFjeWVhuWTge+8jOS4lOWtmOWcqOaWsOmFjeebn+mFjeWinuWAvOacjeWKoee6v+i3r++8jOacquiDveWGs+etluWHuuaWsOmFjeebn+mFjeacjeWKoSIpKTsKCQkJCQkJCX0KCQkJCQkJfQoJCQkJCX0gZWxzZSB7CgkJCQkJCS8vIOe7n+iuoeWvueWklueahOihqOi+vumAj+WHuuasoeaVsAoJCQkJCQlzdGF0WHBtRXhwcmVzcygiY29uc2lnbi54cG0uZXhwcmVzcyIsCgkJCQkJCQkJTWFwSGVscGVyLm9mKCJleHByZXNzZWQiLCAiWSIsICJzcENvZGUiLCBzcENvZGUsICJmcm9tIiwgc3RvcmVDb2RlKSwKCQkJCQkJCQl0b0FyZWFJZHMpOwoJCQkJCQkvLyDku6XliY3msqHmnInvvIznjrDlnKjmnInnmoTlnLrmma8KCQkJCQkJU3RyaW5nIHRhZ3MgPSBjb250ZXh0LmdldFNlcnZpY2VUYWdzKCk7CgkJCQkJCWlmICghdGFncy5jb250YWlucyhGdWxmaWxTZXJ2aWNlQ29kZUNvbnN0LlhJTl9QRUlfTUVOR19GSVJTVF9TRVJWSUNFX0NPREUpKSB7CgkJCQkJCQlCcmVzc29uLm5ld01ldHJpYygiY29uc2lnbi5hZGRvbi5zZXJ2aWNlLmJhY2siLCBNYXBIZWxwZXIub2YoInR5cGUiLCAieHBtLmV4cHJlc3MiKSkuaW5jcmVhc2UoKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfQoJCX0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAocHJvZHVjdFNlcnZpY2UgIT0gbnVsbCkgewoJCQlJdGVtR3JvdXAgaXRlbUdyb3VwID0gcHJvZHVjdFNlcnZpY2UuZ2V0SXRlbUdyb3VwKCk7CgkJCVN0cmluZyBzcENvZGUgPSBwcm9kdWN0U2VydmljZS5nZXRTcENvZGUoKTsKCQkJaWYgKGl0ZW1Hcm91cCAhPSBudWxsKSB7CgkJCQlMaXN0PFNjSXRlbVRPPiBzY0l0ZW1zID0gKExpc3Q8U2NJdGVtVE8+KSBpdGVtR3JvdXAuZ2V0SXRlbUxpc3QoKTsKCQkJCWJvb2xlYW4gaGFzWHBtSXRlbSA9IGhhc1hwbUl0ZW0oc2NJdGVtcywgY29udGV4dCk7CgkJCQlib29sZWFuIGhhc1RtYWxsVE9JdGVtID0gaGFzVG1hbGxUT0l0ZW0oc2NJdGVtcywgY29udGV4dCk7CgkJCQkvL+WmguaenOaciVRP5qCHIOaIluiAhSjlpoLmnpzmnInmlrDphY3nm5/llYblk4Em6K6i6LSt5LqG5paw6YWN55uf6YWN55qE6K+dKe+8jOeci+eci+i/lOWbnueahOe7k+aenOS4iuacieayoeacieaWsOmFjeebn+eahOacjeWKoQoJCQkJaWYgKGhhc1RtYWxsVE9JdGVtIHx8IChoYXNYcG1JdGVtICYmIHN1YnNjcmliZWRYcG0oc3BDb2RlLCBjb250ZXh0KSkpIHsKCQkJCQlib29sZWFuIGhhc1hwbVNlcnZpY2UgPSBBcmJpdHJhdG9yVXRpbHMuaGFzQWRkb25TZXJ2aWNlKHByb2R1Y3RTZXJ2aWNlLAoJCQkJCQkJRnVsZmlsU2VydmljZUNvZGVDb25zdC5YSU5fUEVJX01FTkdfRklSU1RfU0VSVklDRV9DT0RFKTsKCQkJCQlTdHJpbmcgc3RvcmVDb2RlID0gQXJiaXRyYXRvclV0aWxzLmdldFN0b3JlQ29kZShwcm9kdWN0U2VydmljZSk7CgkJCQkJbG9uZyB0b0FyZWFJZCA9IHByb2R1Y3RTZXJ2aWNlLmdldFRvQXJlYUlkKCk7CgkJCQkJLy8g6I635Y+W5LiK57+75Yiw5biC5LiA57qn55qE5Zyw5Z2A77yM55So5p2l57uf6K6hCgkJCQkJTGlzdDxMb25nPiB0b0FyZWFJZHMgPSBhZGRyZXNzU2VydmljZS5nZXRQYXJlbnREaXZpc2lvblRvTGV2ZWwodG9BcmVhSWQsCgkJCQkJCQlEaXZpc2lvbkNvbnN0YW50LkRJVklTSU9OX0xFVkVMX0NJVFkpOwoJCQkJCWlmICghaGFzWHBtU2VydmljZSkgewoJCQkJCQkvLyDlpoLmnpzmnInmlrDphY3nm5/moIfvvIzkvYbmmK/msqHmnInmlrDphY3nm5/phY3vvIzpnIDopoFjaGVja+S4gOS4i+acieayoeacieaWsOmFjeebn+eahOe6v+i3r++8jOi/memHjOimgeS4iue/u+WIsOW4guS4gOe6pwoJCQkJCQlMaXN0PExpbmVUZW1wbGF0ZT4gbGluZXMgPSB0ZW1wbGF0ZVNlcnZpY2UKCQkJCQkJCQkucXVlcnlMaW5lVGVtcGxhdGVzKERpc3BsYXlTZXJ2aWNlTmFtZXMuWElOX1BFSV9NRU5HX0ZJUlNULmdldE5hbWUoKSwgc3BDb2RlLCBzdG9yZUNvZGUsCgkJCQkJCQkJCQlTdHJpbmcudmFsdWVPZih0b0FyZWFJZCksIERpdmlzaW9uQ29uc3RhbnQuRElWSVNJT05fTEVWRUxfQ0lUWSk7CgkJCQkJCWlmIChDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShsaW5lcykpIHsKCQkJCQkJCXN0YXRYcG1FeHByZXNzKCJjb25zaWduLnhwbS5leHByZXNzIiwgTWFwSGVscGVyCgkJCQkJCQkJCS5vZigiZXhwcmVzc2VkIiwgIk4iLCAic3BDb2RlIiwgc3BDb2RlLCAiZnJvbSIsIHN0b3JlQ29kZSksIHRvQXJlYUlkcyk7CgkJCQkJCQlCcmVzc29uLmxvZ0luZm8oU3RyaW5nLmZvcm1hdCgibm9feHBtX2V4cHJlc3Msc3BDb2RlPSVzLHN0b3JlQ29kZT0lcyIsIHNwQ29kZSwgc3RvcmVDb2RlKSk7CgkJCQkJCQkvLyDlpoLmnpzkuZ/mnInnur/ot6/vvIzkvYbmmK/mnKrooajovr7vvIzmiJHku6zorqTkuLrmnInpo47pmakKCQkJCQkJCWlmIChDb25zaWduUmVzdWx0QXJiaXRyYXRvckNvbmZpZy5nZXRJbnN0YW5jZSgpLmlzT3BlbkJsb2NrWHBtRXhwcmVzc0NvbnNpZ24oKSkgewoJCQkJCQkJCXRocm93IG5ldyBYcG1FeHByZXNzQXJiaXRyYXRvckV4Y2VwdGlvbihYcG1FeHByZXNzRXJyb3JEZXNjLmRlc2MoIuWtmOWcqOaWsOmFjeebn+mFjeWVhuWTge+8jOS4lOWtmOWcqOaWsOmFjeebn+mFjeWinuWAvOacjeWKoee6v+i3r++8jOacquiDveWGs+etluWHuuaWsOmFjeebn+mFjeacjeWKoSIpKTsKCQkJCQkJCX0KCQkJCQkJfQoJCQkJCX0gZWxzZSB7CgkJCQkJCS8vIOe7n+iuoeWvueWklueahOihqOi+vumAj+WHuuasoeaVsAoJCQkJCQlzdGF0WHBtRXhwcmVzcygiY29uc2lnbi54cG0uZXhwcmVzcyIsCgkJCQkJCQkJTWFwSGVscGVyLm9mKCJleHByZXNzZWQiLCAiWSIsICJzcENvZGUiLCBzcENvZGUsICJmcm9tIiwgc3RvcmVDb2RlKSwKCQkJCQkJCQl0b0FyZWFJZHMpOwoJCQkJCQkvLyDku6XliY3msqHmnInvvIznjrDlnKjmnInnmoTlnLrmma8KCQkJCQkJU3RyaW5nIHRhZ3MgPSBjb250ZXh0LmdldFNlcnZpY2VUYWdzKCk7CgkJCQkJCWlmICghdGFncy5jb250YWlucyhGdWxmaWxTZXJ2aWNlQ29kZUNvbnN0LlhJTl9QRUlfTUVOR19GSVJTVF9TRVJWSUNFX0NPREUpKSB7CgkJCQkJCQlCcmVzc29uLm5ld01ldHJpYygiY29uc2lnbi5hZGRvbi5zZXJ2aWNlLmJhY2siLCBNYXBIZWxwZXIub2YoInR5cGUiLCAieHBtLmV4cHJlc3MiKSkuaW5jcmVhc2UoKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfQoJCX0=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -214,16 +218,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLnNkcC5wbGF0Zm9ybS5hZGFwdGVyLmNvbnNpZ24uZXJyY29kZS5jb2RlLlNmRXhwcmVzc0Vycm9yRGVzYzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLnNkcC5wbGF0Zm9ybS5hZGFwdGVyLmNvbnNpZ24uZXJyY29kZS5jb2RlLlNmRXhwcmVzc0Vycm9yRGVzYzsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
