@@ -67,19 +67,40 @@
         <mark key="." line="155" column="12" />
         <mark key="^" line="155" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590580433993">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/pom.xml" timestamp="1590578487061">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/pom.xml" timestamp="1590578676406" />
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1590578083735">
+        <mark key="'" line="44" column="26" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1590566727358">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="46" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="158" column="1" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/mock/ServiceCapacityClientWrapperMock.java" timestamp="1590566806856">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="85" />
         <mark key="^" line="15" column="85" />
         <mark key="." line="15" column="84" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsServiceSubscriberRepo.java" timestamp="1590581108237" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1590580617981">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="74" />
+        <mark key="^" line="37" column="73" />
+        <mark key="." line="26" column="12" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1590580139637" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/RegionRetailLogisticsServiceSolutionCalculatorTest.java" timestamp="1590579876441">
         <mark key="[" line="66" column="43" />
         <mark key="]" line="63" column="31" />
@@ -96,6 +117,10 @@
         <mark key="^" line="40" column="9" />
         <mark key="." line="40" column="8" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ConfirmManager.java" timestamp="1590562022368">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="62" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/BizApplication.java" timestamp="1590570917031">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="12" column="1" />
@@ -109,28 +134,6 @@
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590580433993">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1590578083735">
-        <mark key="'" line="44" column="26" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1590566727358">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="46" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="1" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1590580617981">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="74" />
-        <mark key="^" line="37" column="73" />
-        <mark key="." line="26" column="12" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1590580139637" />
       <file name="/fragment.java" timestamp="1590580434011">
         <mark key="[" line="0" column="0" />
       </file>
