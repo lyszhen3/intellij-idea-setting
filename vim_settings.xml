@@ -88,10 +88,6 @@
         <mark key="[" line="63" column="13" />
         <mark key="]" line="63" column="24" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/constant/StoreServiceConstants.java" timestamp="1590498230622">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="57" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/TimingDisplayService.java" timestamp="1590498641761">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -104,6 +100,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" timestamp="1590554145525" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/BizTypeConstants.java" timestamp="1590550959301">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="16" />
