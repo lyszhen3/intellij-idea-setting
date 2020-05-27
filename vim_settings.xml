@@ -84,17 +84,12 @@
         <mark key="^" line="72" column="126" />
         <mark key="." line="72" column="125" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/common/constants/FulfilServiceCodeConst.java" timestamp="1590554293929" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ConfirmManager.java" timestamp="1590550942328">
         <mark key="[" line="63" column="13" />
         <mark key="]" line="63" column="24" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/TimingDisplayService.java" timestamp="1590498641761">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590551865851">
+      <file name="/Dummy.txt" timestamp="1590556105291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -138,9 +133,10 @@
         <mark key="." line="103" column="129" />
         <mark key="^" line="103" column="130" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1590498904764">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="143" column="5" />
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1590556101262">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="45" />
+        <mark key="." line="65" column="26" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/BizActivityTypeConstants.java" timestamp="1590550963759">
         <mark key="]" line="6" column="24" />
@@ -248,13 +244,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bizActivity</text>
+        <text>1.2.50</text>
       </register>
       <register name="+" type="4">
         <text>bizActivity</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>1.2.50</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
