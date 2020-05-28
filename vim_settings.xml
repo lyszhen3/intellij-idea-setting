@@ -66,7 +66,7 @@
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="32" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/sdp-ecom-solver.xml" timestamp="1590657955608" />
+      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/sdp-ecom-solver.xml" timestamp="1590658358866" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1590653085333">
         <mark key="[" line="390" column="34" />
         <mark key="]" line="390" column="35" />
@@ -77,16 +77,17 @@
         <mark key="[" line="323" column="0" />
         <mark key="]" line="325" column="13" />
       </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/SolverConfig.java" timestamp="1590658222438">
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="52" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsWorkOrderController.java" timestamp="1590653001029" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590654424913">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1590651462854">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="51" />
-      </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/plugin/PluginManager.java" timestamp="1590658540067" />
       <file name="D:/workspace/company/sdp/murch.core/src/main/resources/murch.properties" timestamp="1590657149002" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1590652355743" />
       <file name="/Dummy.txt" timestamp="1590653339017">
@@ -95,7 +96,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/Murch.java" timestamp="1590657251617">
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/Murch.java" timestamp="1590658578804">
         <mark key="[" line="58" column="48" />
         <mark key="]" line="58" column="63" />
       </file>
@@ -199,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sdp-ecom-solver</text>
+        <text>murch.properties</text>
       </register>
       <register name="+" type="4">
-        <text>sdp-ecom-solver</text>
+        <text>murch.properties</text>
       </register>
       <register name="-" type="4">
         <text>queryScItemResp==null? null :</text>
