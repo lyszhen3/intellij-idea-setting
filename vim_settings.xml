@@ -66,6 +66,12 @@
       </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/settings/SettingsCreator.java" timestamp="1590657006281" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/EcomSolverClient.java" timestamp="1590657823725" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1590664024554">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="11" column="49" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/SolverTypeEnum.java" timestamp="1590657879964">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="32" />
@@ -98,7 +104,7 @@
       </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/resources/murch.properties" timestamp="1590657149002" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1590652355743" />
-      <file name="/Dummy.txt" timestamp="1590653339017">
+      <file name="/Dummy.txt" timestamp="1590664031381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -208,8 +214,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>murch-plugin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQa2dNYXRlcmlhbERUTyBtb2NrUGtnTWF0ZXJpYWxEVE8gPSBuZXcgUGtnTWF0ZXJpYWxEVE8oKTsKICAgICAgICBtb2NrUGtnTWF0ZXJpYWxEVE8uc2V0UGtnTWF0ZXJpYWxDb2RlKCJjYyIpOwogICAgICAgIG1vY2tQa2dNYXRlcmlhbERUTy5zZXRQa2dNYXRlcmlhbE5hbWUoIm1vY2vmtYvor5UiKTsKICAgICAgICAvLzEg5Luj6KGo5YGc55SoCiAgICAgICAgbW9ja1BrZ01hdGVyaWFsRFRPLnNldFN0YXR1cygxKTsKICAgICAgICBtb2NrUGtnTWF0ZXJpYWxEVE8uc2V0UGtnTW9kZUVudW0oUGtnTW9kZUVudW0uUkFXX1BLRyk7CiAgICAgICAgUGtnTWF0ZXJpYWxWTyBtb2NrUGtnTWF0ZXJpYWxWTyA9IG5ldyBQa2dNYXRlcmlhbFZPKG1vY2tQa2dNYXRlcmlhbERUTyk7CgogICAgICAgIHBrZ01hdGVyaWFsVk9MaXN0LmFkZChtb2NrUGtnTWF0ZXJpYWxWTyk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>murch-plugin</text>
@@ -221,30 +227,30 @@
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQa2dNYXRlcmlhbERUTyBtb2NrUGtnTWF0ZXJpYWxEVE8gPSBuZXcgUGtnTWF0ZXJpYWxEVE8oKTsKICAgICAgICBtb2NrUGtnTWF0ZXJpYWxEVE8uc2V0UGtnTWF0ZXJpYWxDb2RlKCJjYyIpOwogICAgICAgIG1vY2tQa2dNYXRlcmlhbERUTy5zZXRQa2dNYXRlcmlhbE5hbWUoIm1vY2vmtYvor5UiKTsKICAgICAgICAvLzEg5Luj6KGo5YGc55SoCiAgICAgICAgbW9ja1BrZ01hdGVyaWFsRFRPLnNldFN0YXR1cygxKTsKICAgICAgICBtb2NrUGtnTWF0ZXJpYWxEVE8uc2V0UGtnTW9kZUVudW0oUGtnTW9kZUVudW0uUkFXX1BLRyk7CiAgICAgICAgUGtnTWF0ZXJpYWxWTyBtb2NrUGtnTWF0ZXJpYWxWTyA9IG5ldyBQa2dNYXRlcmlhbFZPKG1vY2tQa2dNYXRlcmlhbERUTyk7CgogICAgICAgIHBrZ01hdGVyaWFsVk9MaXN0LmFkZChtb2NrUGtnTWF0ZXJpYWxWTyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJSW50ZWdlciB0b3RhbEludGVnZXIgPXF1ZXJ5U2NJdGVtUmVzcD09bnVsbD8gbnVsbCA6IHF1ZXJ5U2NJdGVtUmVzcC5nZXRUb3RhbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJSW50ZWdlciB0b3RhbEludGVnZXIgPXF1ZXJ5U2NJdGVtUmVzcD09bnVsbD8gbnVsbCA6IHF1ZXJ5U2NJdGVtUmVzcC5nZXRUb3RhbCgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS90eCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3R4L3NwcmluZy10eC00LjAueHNkCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>xmlns=&quot;http://www.springframework.org/schema/beans&quot;
        xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
        xsi:schemaLocation=&quot;http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJUmVnaW9uY2FwUXVlcnkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUmVnaW9uY2FwUXVlcnkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
