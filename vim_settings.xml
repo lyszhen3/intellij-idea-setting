@@ -60,46 +60,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/mock/ServiceCapacityClientWrapperMock.java" timestamp="1590637979125">
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="37" />
-        <mark key="." line="55" column="36" />
-        <mark key="^" line="55" column="37" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/vo/pkg/PkgMaterialVO.java" timestamp="1590645932050">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="34" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/RegionRetailLogisticsServiceSolutionCalculatorTest.java" timestamp="1590630108904">
-        <mark key="[" line="72" column="58" />
-        <mark key="]" line="72" column="74" />
-        <mark key="." line="72" column="73" />
-        <mark key="^" line="72" column="74" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1590647230900" />
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1590645992922">
-        <mark key="[" line="111" column="56" />
-        <mark key="]" line="117" column="49" />
-        <mark key="." line="117" column="48" />
-        <mark key="^" line="117" column="49" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/page/BmsPageController.java" timestamp="1590651462854">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="51" />
       </file>
       <file name="D:/workspace/self/myWeb/spring-test/src/test/resources/beanConfig.xml" timestamp="1590649996870">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="16" column="129" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590648339520">
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1590652355743" />
+      <file name="/Dummy.txt" timestamp="1590653090263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1590637966062">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="84" column="96" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="1" />
-      </file>
-      <file name="D:/workspace/company/TmallIncubator/ti-bundles/ti-group/ti-group-core/src/main/java/com/taobao/trade/tmallincubator/group/api/cycle/impl/CycleDeliveryServiceImpl.java" timestamp="1590635809361" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1590648336873">
         <mark key="[" line="37" column="41" />
         <mark key="]" line="37" column="40" />
@@ -118,24 +93,31 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1590653085333">
+        <mark key="[" line="390" column="34" />
+        <mark key="]" line="390" column="35" />
+        <mark key="." line="390" column="34" />
+        <mark key="^" line="390" column="35" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1590647267271" />
-      <file name="$MAVEN_REPOSITORY$/com/taobao/capacity/cap-common/2.0.14/cap-common-2.0.14.jar!/com/taobao/capacity/common/param/cainiao/RegionRetailShopAppointmentServiceCapacityDTO.class" timestamp="1590637576955">
-        <mark key="[" line="13" column="70" />
-        <mark key="]" line="13" column="87" />
-      </file>
-      <file name="/" timestamp="1590646210044">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1590648074840">
         <mark key="[" line="136" column="17" />
         <mark key="]" line="136" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1590585071754">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1590653041619">
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="325" column="13" />
       </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsWorkOrderController.java" timestamp="1590653001029" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" timestamp="1590647935616">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="30" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590651838670">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -235,37 +217,37 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS90eCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3R4L3NwcmluZy10eC00LjAueHNkCg==</text>
+      <register name="&quot;" type="4">
+        <text>queryScItemResp==null? null :</text>
       </register>
       <register name="+" type="4">
-        <text>annotation-config</text>
+        <text>queryScItemResp</text>
       </register>
       <register name="-" type="4">
-        <text>|| &quot;staging&quot;.equals(this.profile)</text>
+        <text>queryScItemResp==null? null :</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJSW50ZWdlciB0b3RhbEludGVnZXIgPXF1ZXJ5U2NJdGVtUmVzcD09bnVsbD8gbnVsbCA6IHF1ZXJ5U2NJdGVtUmVzcC5nZXRUb3RhbCgpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS90eCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3R4L3NwcmluZy10eC00LjAueHNkCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>xmlns=&quot;http://www.springframework.org/schema/beans&quot;
        xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
        xsi:schemaLocation=&quot;http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJUmVnaW9uY2FwUXVlcnkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUmVnaW9uY2FwUXVlcnkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -274,7 +256,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljYXBhY2l0eURUTy5zZXRBcHBvaW50RGF0ZSgpOwoJCWNhcGFjaXR5RFRPLnNldFN0YXJ0TWlucygpOwoJCWNhcGFjaXR5RFRPLnNldEVuZE1pbnMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>317,346s/timingDO/deliveryTimingDO/gc</text>
