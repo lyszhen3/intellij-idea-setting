@@ -60,13 +60,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/definition/PluginDefinition.java" timestamp="1590659089184">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="38" />
+      </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/settings/SettingsCreator.java" timestamp="1590657006281" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/EcomSolverClient.java" timestamp="1590657823725" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/SolverTypeEnum.java" timestamp="1590657879964">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="32" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/sdp-ecom-solver.xml" timestamp="1590658358866" />
+      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/sdp-ecom-solver.xml" timestamp="1590659486352" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1590653085333">
         <mark key="[" line="390" column="34" />
         <mark key="]" line="390" column="35" />
@@ -81,13 +85,17 @@
         <mark key="[" line="67" column="38" />
         <mark key="]" line="67" column="52" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/DefExternalPluginLoader.java" timestamp="1590659164904" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsWorkOrderController.java" timestamp="1590653001029" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590654424913">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/plugin/PluginManager.java" timestamp="1590658540067" />
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/plugin/PluginManager.java" timestamp="1590659523403">
+        <mark key="[" line="118" column="58" />
+        <mark key="]" line="118" column="69" />
+      </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/resources/murch.properties" timestamp="1590657149002" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1590652355743" />
       <file name="/Dummy.txt" timestamp="1590653339017">
@@ -96,10 +104,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/Murch.java" timestamp="1590658578804">
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/Murch.java" timestamp="1590658957087">
         <mark key="[" line="58" column="48" />
         <mark key="]" line="58" column="63" />
       </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/service/provider/setting/NewSettingAwareServiceImpl.java" timestamp="1590658829524" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1590655145824" />
     </filemarks>
     <jumps>
@@ -200,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>murch.properties</text>
+        <text>murch-plugin</text>
       </register>
       <register name="+" type="4">
-        <text>murch.properties</text>
+        <text>murch-plugin</text>
       </register>
       <register name="-" type="4">
         <text>queryScItemResp==null? null :</text>
