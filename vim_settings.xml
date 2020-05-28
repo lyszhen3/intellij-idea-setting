@@ -74,18 +74,18 @@
       <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1590578083735">
         <mark key="'" line="44" column="26" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1590566727358">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="46" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1590636914405">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="84" column="96" />
         <mark key="." line="158" column="0" />
         <mark key="^" line="158" column="1" />
       </file>
       <file name="D:/workspace/company/TmallIncubator/ti-bundles/ti-group/ti-group-core/src/main/java/com/taobao/trade/tmallincubator/group/api/cycle/impl/CycleDeliveryServiceImpl.java" timestamp="1590635809361" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/mock/ServiceCapacityClientWrapperMock.java" timestamp="1590630161884">
-        <mark key="[" line="15" column="87" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="14" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/mock/ServiceCapacityClientWrapperMock.java" timestamp="1590637170503">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="33" column="67" />
+        <mark key="." line="33" column="66" />
+        <mark key="^" line="33" column="67" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1590580617981">
         <mark key="[" line="26" column="12" />
@@ -232,108 +232,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Dn</text>
+        <text>RegionRetailShopAppointmentServiceCapacityDTO</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">CQlsb2dpc3RpY3NTb2x1dGlvbkluc3RhbmNlLnNldEl0ZW1QYWNrYWdlKGNvbnN0cnVjdERuSXRlbVBhY2thZ2UoKSk7Cg==</text>
+      <register name="+" type="4">
+        <text>RegionRetailShopAppointmentServiceCapacityDTO</text>
       </register>
       <register name="-" type="4">
-        <text>Dn</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljYXBhY2l0eURUTy5zZXRBcHBvaW50RGF0ZSgpOwoJCWNhcGFjaXR5RFRPLnNldFN0YXJ0TWlucygpOwoJCWNhcGFjaXR5RFRPLnNldEVuZE1pbnMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlSZWdpb25SZXRhaWxTaG9wQXBwb2ludG1lbnRTZXJ2aWNlQ2FwYWNpdHlEVE8gY2FwYWNpdHlEVE8gPSBuZXcgUmVnaW9uUmV0YWlsU2hvcEFwcG9pbnRtZW50U2VydmljZUNhcGFjaXR5RFRPKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>101121,
-						105601,
-						176514,
-						2049,
-						22145,
-						212866,
-						2178,
-						6146,
-						28802,
-						62082,
-						101762,
-						109570,
-						456450,
-						3974,
-						4614,
-						7046,
-						9478,
-						295170,
-						349570,
-						2059,
-						2443,
-						1803,
-						1675,
-						907,
-						1163,
-						3851,
-						4107,
-						4363,
-						4491,
-						6411,
-						7947,
-						11531,
-						16395,
-						17803,
-						22155,
-						23563,
-						68289,
-						101825,
-						140994,
-						33217,
-						57026,
-						72386,
-						156225,
-						1478,
-						4166,
-						4678,
-						366402,
-						3019,
-						2507,
-						1483,
-						2635,
-						3915,
-						4171,
-						4555,
-						4811,
-						5835,
-						6603,
-						7371,
-						11083,
-						11339,
-						11595,
-						15563,
-						17739,
-						23755</text>
+      <register name="4" type="8">
+        <text>serviceCapacityDTO
+serviceCapacityDTO
+serviceCapacityDTO</text>
       </register>
-      <register name="5" type="4">
-        <text>68289, 101121, 101889, 105601, 140994, 176514, 2049, 22145, 33217, 212866, 249986, 250178,
-                        6146, 28802, 48706, 57026, 109570, 427458, 3974, 4166, 1478, 9478, 4491, 1867, 4555, 4811, 5323, 5451,
-                        7371, 7883, 7947, 11083, 11339, 12427, 19787, 2635, 1547, 2507, 843, 1163, 1227, 1803, 2059</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>317,346s/timingDO/deliveryTimingDO/gc</text>
