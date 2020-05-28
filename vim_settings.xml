@@ -76,17 +76,14 @@
         <mark key="." line="72" column="73" />
         <mark key="^" line="72" column="74" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1590647230900" />
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1590645992922">
         <mark key="[" line="111" column="56" />
         <mark key="]" line="117" column="49" />
         <mark key="." line="117" column="48" />
         <mark key="^" line="117" column="49" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/application.properties" timestamp="1590580431974">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590646004059">
+      <file name="/Dummy.txt" timestamp="1590648339520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -99,13 +96,20 @@
         <mark key="^" line="158" column="1" />
       </file>
       <file name="D:/workspace/company/TmallIncubator/ti-bundles/ti-group/ti-group-core/src/main/java/com/taobao/trade/tmallincubator/group/api/cycle/impl/CycleDeliveryServiceImpl.java" timestamp="1590635809361" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1590580617981">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="74" />
-        <mark key="^" line="37" column="73" />
-        <mark key="." line="26" column="12" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1590648336873">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="39" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/AppointmentDisplayService.java" timestamp="1590637647941" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/AppointmentDisplayService.java" timestamp="1590648302761">
+        <mark key="[" line="376" column="8" />
+        <mark key="]" line="376" column="19" />
+        <mark key="^" line="376" column="19" />
+        <mark key="." line="376" column="18" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1590647980928" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1590647267271" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/capacity/cap-common/2.0.14/cap-common-2.0.14.jar!/com/taobao/capacity/common/param/cainiao/RegionRetailShopAppointmentServiceCapacityDTO.class" timestamp="1590637576955">
         <mark key="[" line="13" column="70" />
         <mark key="]" line="13" column="87" />
@@ -113,20 +117,16 @@
       <file name="/" timestamp="1590646210044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1590647089243">
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1590648074840">
         <mark key="[" line="136" column="17" />
         <mark key="]" line="136" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1590585071754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" timestamp="1590629774960">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" timestamp="1590647935616">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="30" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/biz-staging.properties" timestamp="1590580297313">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -227,13 +227,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setSelectedStatus</text>
+        <text>|| &quot;staging&quot;.equals(this.profile)</text>
       </register>
       <register name="+" type="4">
         <text>setSelectedStatus</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>|| &quot;staging&quot;.equals(this.profile)</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
