@@ -99,7 +99,6 @@
         <mark key="." line="390" column="34" />
         <mark key="^" line="390" column="35" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1590647267271" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1590648074840">
         <mark key="[" line="136" column="17" />
         <mark key="]" line="136" column="33" />
@@ -109,15 +108,12 @@
         <mark key="]" line="325" column="13" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsWorkOrderController.java" timestamp="1590653001029" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" timestamp="1590647935616">
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="30" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590653331282">
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590654424913">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1590655145824" />
     </filemarks>
     <jumps>
       <jump line="777" column="6" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/AdpLogisticBizConfig.java" />
