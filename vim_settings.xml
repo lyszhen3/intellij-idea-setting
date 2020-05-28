@@ -69,7 +69,7 @@
         <mark key="]" line="16" column="129" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1590652355743" />
-      <file name="/Dummy.txt" timestamp="1590653090263">
+      <file name="/Dummy.txt" timestamp="1590653339017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -113,11 +113,10 @@
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="30" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590651838670">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="26" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/c2mPackageManagement.vm" timestamp="1590653331282">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -217,8 +216,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>queryScItemResp==null? null :</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>queryScItemResp</text>
@@ -230,27 +229,27 @@
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJSW50ZWdlciB0b3RhbEludGVnZXIgPXF1ZXJ5U2NJdGVtUmVzcD09bnVsbD8gbnVsbCA6IHF1ZXJ5U2NJdGVtUmVzcC5nZXRUb3RhbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJSW50ZWdlciB0b3RhbEludGVnZXIgPXF1ZXJ5U2NJdGVtUmVzcD09bnVsbD8gbnVsbCA6IHF1ZXJ5U2NJdGVtUmVzcC5nZXRUb3RhbCgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS90eCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3R4L3NwcmluZy10eC00LjAueHNkCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>xmlns=&quot;http://www.springframework.org/schema/beans&quot;
        xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
        xsi:schemaLocation=&quot;http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJUmVnaW9uY2FwUXVlcnkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUmVnaW9uY2FwUXVlcnkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
