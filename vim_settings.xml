@@ -60,10 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1590739817909">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="80" />
-        <mark key="." line="76" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1590742893007">
+        <mark key="[" line="154" column="39" />
+        <mark key="]" line="154" column="89" />
+        <mark key="." line="154" column="88" />
+        <mark key="^" line="154" column="89" />
       </file>
       <file name="/Dummy.txt" timestamp="1590738014276">
         <mark key="[" line="0" column="0" />
@@ -251,8 +252,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIudHJhY2UoImNhbGN1bGF0ZVByb3RvY29sLnN1YlNlcnZpY2VDb2Rlczp7fSIsc3ViU2VydmljZUNvZGVMaXN0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>calculateProtocol</text>
       </register>
       <register name="+" type="4">
         <text>calculateProtocol</text>
