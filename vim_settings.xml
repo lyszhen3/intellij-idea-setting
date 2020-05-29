@@ -66,6 +66,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/bresson/structlog/StructLogUtils.java" timestamp="1590723588235">
+        <mark key="[" line="35" column="62" />
+        <mark key="]" line="35" column="68" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/SolverTypeEnum.java" timestamp="1590721998970">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="32" />
@@ -109,6 +113,10 @@
       <file name="/" timestamp="1590669683115">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/test/resources/logback.xml" timestamp="1590724480455">
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="57" column="68" />
+      </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/plugin/PluginManager.java" timestamp="1590722327117">
         <mark key="[" line="118" column="58" />
         <mark key="]" line="118" column="69" />
@@ -117,11 +125,19 @@
         <mark key="[" line="67" column="38" />
         <mark key="]" line="67" column="52" />
       </file>
+      <file name="D:/workspace/company/nfc/nfc-start/src/main/resources/logback-spring.xml" timestamp="1590724928822">
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="105" column="33" />
+      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsCommonController.java" timestamp="1590664219926">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="49" />
+      </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/bresson/constant/BressonLimitSettings.java" timestamp="1590723559859">
+        <mark key="[" line="28" column="63" />
+        <mark key="]" line="28" column="69" />
       </file>
       <file name="/fragment.java" timestamp="1590671262365">
         <mark key="[" line="0" column="0" />
@@ -228,10 +244,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sdp-ecom-solver.xml</text>
+        <text>PATTERN</text>
       </register>
       <register name="+" type="4">
-        <text>sdp-ecom-solver.xml</text>
+        <text>PATTERN</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
