@@ -60,14 +60,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591064995956">
-        <mark key="a" line="209" column="7" />
-        <mark key="'" line="216" column="47" />
-        <mark key="[" line="168" column="73" />
-        <mark key="]" line="168" column="89" />
-        <mark key="." line="168" column="88" />
-        <mark key="^" line="168" column="89" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1591084961384" />
       <file name="D:/workspace/company/region-retail-app/region-retail-core/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/core/bresson/metrics/producer/MetricProducer.java" timestamp="1591069777071">
         <mark key="[" line="11" column="0" />
@@ -143,6 +135,7 @@
         <mark key="." line="21" column="5" />
         <mark key="^" line="21" column="6" />
       </file>
+      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolFilter.conf" timestamp="1591086164397" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591067279596" />
       <file name="/fragment.java" timestamp="1591069503463">
         <mark key="[" line="0" column="0" />
