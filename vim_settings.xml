@@ -60,30 +60,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-shiptime.xml" timestamp="1591094784606">
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="86" column="42" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1591084961384" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" timestamp="1591094858717" />
       <file name="D:/workspace/company/region-retail-app/region-retail-core/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/core/bresson/metrics/producer/MetricProducer.java" timestamp="1591069777071">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="51" column="9" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" timestamp="1591094386294" />
       <file name="D:/workspace/company/region-retail-app/region-retail-core/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/core/bresson/Bresson.java" timestamp="1591069286255">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/logback.xml" timestamp="1591066216060">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="26" column="27" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreJsdTimingUtil.java" timestamp="1591067081537">
-        <mark key="a" line="55" column="12" />
-        <mark key="[" line="34" column="66" />
-        <mark key="]" line="34" column="83" />
-        <mark key="." line="257" column="35" />
-        <mark key="^" line="257" column="36" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" timestamp="1591091149071">
         <mark key="[" line="47" column="55" />
@@ -98,17 +91,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-client/src/main/java/com/alibaba/delivery/client/service/client/DeliveryCustomerServiceClient.java" timestamp="1591094964028" />
       <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1591070419902">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="220" column="25" />
         <mark key="." line="219" column="30" />
         <mark key="^" line="219" column="31" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591066030981">
-        <mark key="[" line="44" column="143" />
-        <mark key="]" line="44" column="141" />
-        <mark key="." line="44" column="140" />
-        <mark key="^" line="44" column="141" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1591070440366">
         <mark key="[" line="49" column="0" />
@@ -141,7 +129,6 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591067279596" />
       <file name="/fragment.java" timestamp="1591069503463">
         <mark key="[" line="0" column="0" />
       </file>
@@ -251,11 +238,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>关闭的订单不展示</text>
+      <register name="&quot;" type="4">
+        <text>sellerSettingTimingCalService</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjcuMjY8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="+" type="4">
+        <text>sellerSettingTimingCalService</text>
       </register>
       <register name="-" type="4">
         <text>slf4j-log4j12</text>
