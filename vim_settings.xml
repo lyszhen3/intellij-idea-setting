@@ -99,10 +99,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1591069091169">
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1591070419902">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="220" column="25" />
+        <mark key="." line="219" column="30" />
+        <mark key="^" line="219" column="31" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591066030981">
         <mark key="[" line="44" column="143" />
@@ -110,11 +111,11 @@
         <mark key="." line="44" column="140" />
         <mark key="^" line="44" column="141" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1591069822858">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="40" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="27" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1591070440366">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="52" column="27" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591065411595">
         <mark key="[" line="114" column="38" />
@@ -259,44 +260,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eagleeye-core-sdk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>eagleeye-core-sdk</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjcuMjY8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>slf4j-log4j12</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS43LjI2PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLk1hcEhlbHBlcjsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5jb25maWcuQnJlc3NvbkNvbmZpZzsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuaW1wbC5EZWZhdWx0TWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5pbXBsLk1vY2tNZXRyaWM7CmltcG9ydCBjb20udGFvYmFvLmVhZ2xlZXllLkVhZ2xlRXllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MucHJvZHVjZXIuTWV0cmljUHJvZHVjZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLk1hcEhlbHBlcjsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5jb25maWcuQnJlc3NvbkNvbmZpZzsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuaW1wbC5EZWZhdWx0TWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5pbXBsLk1vY2tNZXRyaWM7CmltcG9ydCBjb20udGFvYmFvLmVhZ2xlZXllLkVhZ2xlRXllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MucHJvZHVjZXIuTWV0cmljUHJvZHVjZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>317,346s/timingDO/deliveryTimingDO/gc</text>
