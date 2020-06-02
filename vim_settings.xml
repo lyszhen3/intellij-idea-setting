@@ -92,7 +92,7 @@
         <mark key="." line="47" column="46" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/utils/TradeOrderUtils.java" timestamp="1591089488107" />
-      <file name="/Dummy.txt" timestamp="1591089515227">
+      <file name="/Dummy.txt" timestamp="1591091854908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -135,7 +135,12 @@
         <mark key="." line="21" column="5" />
         <mark key="^" line="21" column="6" />
       </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolFilter.conf" timestamp="1591086164397" />
+      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolFilter.conf" timestamp="1591091693372">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+        <mark key="." line="5" column="65" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591067279596" />
       <file name="/fragment.java" timestamp="1591069503463">
         <mark key="[" line="0" column="0" />
@@ -247,7 +252,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>关闭的订单不展示</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjcuMjY8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -259,31 +264,31 @@
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>关闭的订单不展示</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS43LjI2PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS43LjI2PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLk1hcEhlbHBlcjsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5jb25maWcuQnJlc3NvbkNvbmZpZzsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuaW1wbC5EZWZhdWx0TWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5pbXBsLk1vY2tNZXRyaWM7CmltcG9ydCBjb20udGFvYmFvLmVhZ2xlZXllLkVhZ2xlRXllOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MucHJvZHVjZXIuTWV0cmljUHJvZHVjZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLk1hcEhlbHBlcjsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuTWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5jb25maWcuQnJlc3NvbkNvbmZpZzsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5icmVzc29uLm1ldHJpY3MuaW1wbC5EZWZhdWx0TWV0cmljOwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLmJyZXNzb24ubWV0cmljcy5pbXBsLk1vY2tNZXRyaWM7CmltcG9ydCBjb20udGFvYmFvLmVhZ2xlZXllLkVhZ2xlRXllOwo=</text>
       </register>
       <register name=":" type="4">
         <text>317,346s/timingDO/deliveryTimingDO/gc</text>
