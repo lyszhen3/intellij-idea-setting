@@ -67,7 +67,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="51" column="9" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" timestamp="1591065362364" />
       <file name="D:/workspace/company/region-retail-app/region-retail-core/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/core/bresson/Bresson.java" timestamp="1591069286255">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -86,7 +85,14 @@
         <mark key="." line="257" column="35" />
         <mark key="^" line="257" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591085073411">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" timestamp="1591089448009">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="54" column="24" />
+        <mark key="^" line="54" column="24" />
+        <mark key="." line="54" column="23" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/utils/TradeOrderUtils.java" timestamp="1591089488107" />
+      <file name="/Dummy.txt" timestamp="1591089515227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -109,12 +115,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="52" column="27" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591065411595">
-        <mark key="[" line="114" column="38" />
-        <mark key="]" line="114" column="79" />
-        <mark key="^" line="114" column="79" />
-        <mark key="." line="114" column="78" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/bresson/metrics/manager/AliMetricManager.java" timestamp="1591068835346" />
       <file name="D:/workspace/company/region-retail-app/region-retail-core/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/core/bresson/metrics/impl/DefaultMetric.java" timestamp="1591068717356">
