@@ -68,10 +68,6 @@
         <mark key="." line="168" column="88" />
         <mark key="^" line="168" column="89" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/resources/velocity/templates/pkg/c2m/bucWorksheetManagement.vm" timestamp="1590999092669">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="52" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1591064147487">
         <mark key="a" line="94" column="34" />
         <mark key="'" line="37" column="13" />
@@ -95,7 +91,7 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreJsdTimingUtil.java" timestamp="1591066534914">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreJsdTimingUtil.java" timestamp="1591067081537">
         <mark key="a" line="55" column="12" />
         <mark key="[" line="34" column="66" />
         <mark key="]" line="34" column="83" />
@@ -120,7 +116,7 @@
         <mark key="^" line="58" column="43" />
         <mark key="." line="58" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591065423446">
+      <file name="/Dummy.txt" timestamp="1591067361209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -159,6 +155,7 @@
         <mark key="." line="107" column="107" />
         <mark key="^" line="107" column="108" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591067279596" />
     </filemarks>
     <jumps>
       <jump line="300" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
