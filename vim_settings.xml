@@ -60,7 +60,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/MenDianUtil.java" timestamp="1591170728452" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/MenDianUtil.java" timestamp="1591172484791" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591172820013">
+        <mark key="[" line="172" column="115" />
+        <mark key="]" line="172" column="112" />
+        <mark key="^" line="172" column="112" />
+        <mark key="." line="172" column="111" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ParamsAdpModelAdapter.java" timestamp="1591167635231" />
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnConfirmAdapter.java" timestamp="1591170306333" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmBizCheckUtils.java" timestamp="1591169917215" />
