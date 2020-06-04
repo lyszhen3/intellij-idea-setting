@@ -89,6 +89,15 @@
         <mark key="[" line="28" column="55" />
         <mark key="]" line="28" column="74" />
       </file>
+      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1591243413611">
+        <mark key="[" line="291" column="19" />
+        <mark key="]" line="291" column="43" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1591243349835">
+        <mark key="[" line="1339" column="71" />
+        <mark key="]" line="1339" column="85" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/MockedFeeCalculator.java" timestamp="1591242493625" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591236897487">
         <mark key="[" line="83" column="127" />
         <mark key="]" line="84" column="20" />
@@ -233,10 +242,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DELIVERY_SERVICE_TYPE_INTERNAL_LOGISTICS</text>
+        <text>pintuanSuccessTail4Detail</text>
       </register>
       <register name="+" type="4">
-        <text>DELIVERY_SERVICE_TYPE_INTERNAL_LOGISTICS</text>
+        <text>pintuanSuccessTail4Detail</text>
       </register>
       <register name="-" type="4">
         <text>total</text>
