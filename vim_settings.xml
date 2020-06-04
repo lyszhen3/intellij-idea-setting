@@ -21,6 +21,7 @@
         <entry>%s/google/tmall.bbq/gc</entry>
         <entry>vsp</entry>
         <entry>317,346s/timingDO/deliveryTimingDO/gc</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -60,46 +61,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ParamsAdpModelAdapter.java" timestamp="1591167635231" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmBizCheckUtils.java" timestamp="1591169917215" />
-      <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/merge/valves/CnProtocolValve.java" timestamp="1591155191910" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.20/cdc-client-1.11.20.jar!/com/taobao/adapter/common/mojo/trade/ConfirmErrorConstant.class" timestamp="1591169966612">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="23" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591237227611">
+        <mark key="[" line="177" column="85" />
+        <mark key="]" line="177" column="85" />
+        <mark key="^" line="177" column="85" />
+        <mark key="." line="177" column="84" />
       </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/filter/CnInvokeFilter.java" timestamp="1591168154794" />
-      <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/SdpItemUtils.java" timestamp="1591175123178" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/MenDianUtil.java" timestamp="1591172484791" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591172820013">
-        <mark key="[" line="172" column="115" />
-        <mark key="]" line="172" column="112" />
-        <mark key="^" line="172" column="112" />
-        <mark key="." line="172" column="111" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnConfirmAdapter.java" timestamp="1591170306333" />
       <file name="/Dummy.txt" timestamp="1591165719877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/_ideavimrc" timestamp="1591237765070">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="13" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/ScItemExtUtils.java" timestamp="1591175177623">
         <mark key="[" line="28" column="55" />
         <mark key="]" line="28" column="74" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/cn/CnProtocolsSupportServiceWrapper.java" timestamp="1591166930108" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591186817053">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591236897487">
+        <mark key="[" line="83" column="127" />
+        <mark key="]" line="84" column="20" />
+        <mark key="." line="84" column="19" />
+        <mark key="^" line="84" column="20" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.plugin/src/main/java/com/cainiao/sdp/shared/api/plugin/utils/SdpItemTagsUtils.java" timestamp="1591175292764">
         <mark key="[" line="29" column="58" />
         <mark key="]" line="29" column="62" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591172820013">
+        <mark key="[" line="172" column="115" />
+        <mark key="]" line="172" column="112" />
+        <mark key="^" line="172" column="112" />
+        <mark key="." line="172" column="111" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.20/cdc-client-1.11.20.jar!/com/taobao/adapter/common/mojo/trade/ConfirmErrorConstant.class" timestamp="1591169966612">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="23" />
+      </file>
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591189241977">
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="34" />
+      </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryConfirmService.java" timestamp="1591170443186">
         <mark key="[" line="88" column="22" />
         <mark key="]" line="88" column="41" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1591187574126">
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="69" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1591156117600">
         <mark key="[" line="0" column="0" />
@@ -211,46 +227,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnJlc3Nvbi5uZXdNZXRyaWMoInJlZ2lvblJldGFpbC5pbnZva2UiLCBNYXBIZWxwZXIub2YoInNvdXJjZSIsIHJlcXVlc3QuZ2V0Qml6QWN0aXZpdHkoKSwgInJlc3VsdCIsICJzdWNjZXNzIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="+" type="4">
-        <text>21195</text>
+        <text>105601</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>CollectionUtils.isEmpty(</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnJlc3Nvbi5uZXdNZXRyaWMoInJlZ2lvblJldGFpbC5pbnZva2UiLCBNYXBIZWxwZXIub2YoInNvdXJjZSIsIHJlcXVlc3QuZ2V0Qml6QWN0aXZpdHkoKSwgInJlc3VsdCIsICJzdWNjZXNzIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>拼团订单详情改为绝对</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc011bHRpTGV2ZWwoKXsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnJlc3Nvbi5uZXdNZXRyaWMoInJlZ2lvblJldGFpbC5pbnZva2UiLCBNYXBIZWxwZXIub2YoInNvdXJjZSIsIHJlcXVlc3QuZ2V0Qml6QWN0aXZpdHkoKSwgInJlc3VsdCIsICJzdWNjZXNzIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnJlc3Nvbgo=</text>
+        <text>拼团订单详情改为绝对</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXREYXRhSWQoKSB7CgkJcmV0dXJuICJjb20uYWxpYmFiYS5kZWxpdmVyeS5wbGF0Zm9ybS5jb21tb24uYnJlc3Nvbi5tZXRyaWNzLmNvbmZpZyI7Cgl9CgoJQE92ZXJyaWRlCglwdWJsaWMgU3RyaW5nIGdldEdyb3VwKCkgewoJCXJldHVybiAiREVGQVVMVF9HUk9VUCI7Cgl9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnJlc3Nvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUuYnJlc3Nvbi5tZXRyaWNzLk1ldHJpYzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUuYnJlc3Nvbi5tZXRyaWNzLnByb2R1Y2VyLk1ldHJpY1Byb2R1Y2VyOwo=</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXREYXRhSWQoKSB7CgkJcmV0dXJuICJjb20uYWxpYmFiYS5kZWxpdmVyeS5wbGF0Zm9ybS5jb21tb24uYnJlc3Nvbi5tZXRyaWNzLmNvbmZpZyI7Cgl9CgoJQE92ZXJyaWRlCglwdWJsaWMgU3RyaW5nIGdldEdyb3VwKCkgewoJCXJldHVybiAiREVGQVVMVF9HUk9VUCI7Cgl9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNlcnZpY2UoInJlZ2lvblJldGFpbEJyZXNzb25Db25maWciKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LmFkcDIuZnJhbWUuY29tbW9uLmZ1bmN0aW9uLktleVZhbHVlU2V0dGluZ0xpc3RlbmVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUuYnJlc3Nvbi5tZXRyaWNzLk1ldHJpYzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUuYnJlc3Nvbi5tZXRyaWNzLnByb2R1Y2VyLk1ldHJpY1Byb2R1Y2VyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>317,346s/timingDO/deliveryTimingDO/gc</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>

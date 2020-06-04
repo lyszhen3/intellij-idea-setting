@@ -1,6 +1,8 @@
 <keymap version="1" name="Windows lin" parent="$default">
   <action id="AutoIndentLines" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorPageDown" />
+  <action id="EditorPageUp" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
