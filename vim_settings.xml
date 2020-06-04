@@ -122,6 +122,10 @@
       <file name="/fragment.java" timestamp="1591156117600">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/filter/confirm/ConfirmInternationalEnforceChecker.java" timestamp="1591241845190">
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="87" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="309" column="28" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
@@ -229,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>total</text>
+        <text>DELIVERY_SERVICE_TYPE_INTERNAL_LOGISTICS</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBCcmVzc29uLm5ld01ldHJpYygicmVnaW9uUmV0YWlsLnJlbW90ZS51c2VHYW9EZSIsIE1hcEhlbHBlci5vZigicmVzdWx0IiwgInRvdGFsIikpCiAgICAgICAgICAgICAgICAuaW5jcmVhc2UoKTsK</text>
+      <register name="+" type="4">
+        <text>DELIVERY_SERVICE_TYPE_INTERNAL_LOGISTICS</text>
       </register>
       <register name="-" type="4">
         <text>total</text>
