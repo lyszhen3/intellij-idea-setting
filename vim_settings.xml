@@ -61,35 +61,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591239118486">
-        <mark key="[" line="183" column="99" />
-        <mark key="]" line="183" column="94" />
-        <mark key="." line="183" column="93" />
-        <mark key="^" line="183" column="94" />
-      </file>
-      <file name="$USER_HOME$/_ideavimrc" timestamp="1591237765070">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="13" />
-      </file>
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1591243413611">
         <mark key="[" line="291" column="19" />
         <mark key="]" line="291" column="43" />
       </file>
+      <file name="D:/workspace/resource/arthas/core/src/main/java/com/taobao/arthas/core/shell/system/impl/ProcessImpl.java" timestamp="1591339239205" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1591243349835">
         <mark key="[" line="1339" column="71" />
         <mark key="]" line="1339" column="85" />
-      </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591189241977">
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="60" column="34" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="34" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/filter/confirm/ConfirmInternationalEnforceChecker.java" timestamp="1591241845190">
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="59" column="87" />
       </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/main/java/com/lin/springjmxsamples/controller/FooController.java" timestamp="1591327039751">
         <mark key="[" line="37" column="22" />
@@ -117,13 +96,8 @@
         <mark key="." line="78" column="89" />
         <mark key="^" line="78" column="90" />
       </file>
-      <file name="D:/workspace/resource/arthas/boot/src/main/java/com/taobao/arthas/boot/Bootstrap.java" timestamp="1591337916643" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591236897487">
-        <mark key="[" line="83" column="127" />
-        <mark key="]" line="84" column="20" />
-        <mark key="." line="84" column="19" />
-        <mark key="^" line="84" column="20" />
-      </file>
+      <file name="D:/workspace/resource/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/WatchCommand.java" timestamp="1591339144135" />
+      <file name="D:/workspace/resource/arthas/boot/src/main/java/com/taobao/arthas/boot/Bootstrap.java" timestamp="1591338830250" />
     </filemarks>
     <jumps>
       <jump line="309" column="28" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
