@@ -82,8 +82,11 @@
       <file name="D:/workspace/resource/arthas/boot/src/main/java/com/taobao/arthas/boot/Bootstrap.java" timestamp="1591338830250" />
       <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/thread/concurrentutil/BankWaterService.java" timestamp="1591342280274" />
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryAbilityService.java" timestamp="1591346459179" />
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1591346879248">
-        <mark key="[" line="79" column="0" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1591347451996">
+        <mark key="[" line="176" column="75" />
+        <mark key="]" line="176" column="86" />
+        <mark key="." line="176" column="85" />
+        <mark key="^" line="176" column="86" />
       </file>
       <file name="D:/workspace/company/adp/pom.xml" timestamp="1591343638037">
         <mark key="[" line="19" column="24" />
@@ -198,13 +201,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1.11.21</text>
+        <text>;et.setDivisionCode(areaId)</text>
       </register>
-      <register name="+" type="4">
-        <text>com.lin.springjmxsamples.context</text>
+      <register name="+" type="2">
+        <text encoding="base64">CQkJZm9yIChEZWxpdmVyeVBhY2thZ2VETyBkZWxpdmVyeVBhY2thZ2VETyA6IGRlbGl2ZXJ5UGFja2FnZURPTGlzdCkgewoJCQkJZGVsaXZlcnlQYWNrYWdlRE8uZ2V0QnV5ZXJJbmZvRE8oKS5nZXRCdXllckluZm9EVE8oKS5nZXRCdXllckFkZHJlc3NEVE8oKS5zZXREaXZpc2lvbkNvZGUoYXJlYUlkKTsKCQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.11.21</text>
+        <text>;et.setDivisionCode(areaId)</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
@@ -216,16 +219,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlCcmVzc29uLm5ld01ldHJpYygiIikJCQo=</text>
+        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQlsb25nIGxvY2F0aW9uID0gMDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -234,7 +237,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
