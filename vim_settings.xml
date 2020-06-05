@@ -67,7 +67,7 @@
         <mark key="." line="183" column="93" />
         <mark key="^" line="183" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591274353066">
+      <file name="/Dummy.txt" timestamp="1591325575637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -103,7 +103,6 @@
         <mark key="." line="78" column="89" />
         <mark key="^" line="78" column="90" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/MockedFeeCalculator.java" timestamp="1591242493625" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591236897487">
         <mark key="[" line="83" column="127" />
         <mark key="]" line="84" column="20" />
@@ -114,16 +113,6 @@
         <mark key="[" line="29" column="58" />
         <mark key="]" line="29" column="62" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591172820013">
-        <mark key="[" line="172" column="115" />
-        <mark key="]" line="172" column="112" />
-        <mark key="^" line="172" column="112" />
-        <mark key="." line="172" column="111" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.20/cdc-client-1.11.20.jar!/com/taobao/adapter/common/mojo/trade/ConfirmErrorConstant.class" timestamp="1591169966612">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="23" />
-      </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591189241977">
         <mark key="[" line="61" column="42" />
         <mark key="]" line="60" column="34" />
@@ -133,9 +122,6 @@
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1591187574126">
         <mark key="[" line="69" column="20" />
         <mark key="]" line="69" column="25" />
-      </file>
-      <file name="/fragment.java" timestamp="1591156117600">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/filter/confirm/ConfirmInternationalEnforceChecker.java" timestamp="1591241845190">
         <mark key="[" line="59" column="48" />
