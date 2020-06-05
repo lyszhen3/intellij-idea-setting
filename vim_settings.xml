@@ -67,27 +67,11 @@
         <mark key="." line="183" column="93" />
         <mark key="^" line="183" column="94" />
       </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/main/java/com/lin/springjmxsamples/controller/FooController.java" timestamp="1591327039751">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591325575637">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/_ideavimrc" timestamp="1591237765070">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="7" column="14" />
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="13" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/AbstractCalculator.java" timestamp="1591274294368">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="113" column="28" />
-        <mark key="^" line="119" column="90" />
-        <mark key="." line="119" column="89" />
       </file>
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1591243413611">
         <mark key="[" line="291" column="19" />
@@ -96,6 +80,36 @@
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1591243349835">
         <mark key="[" line="1339" column="71" />
         <mark key="]" line="1339" column="85" />
+      </file>
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591189241977">
+        <mark key="[" line="61" column="42" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="34" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/filter/confirm/ConfirmInternationalEnforceChecker.java" timestamp="1591241845190">
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="87" />
+      </file>
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/main/java/com/lin/springjmxsamples/controller/FooController.java" timestamp="1591327039751">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="25" />
+      </file>
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/main/java/com/lin/springjmxsamples/context/SpringContextUtil.java" timestamp="1591329243318">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591325575637">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/AbstractCalculator.java" timestamp="1591274294368">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="113" column="28" />
+        <mark key="^" line="119" column="90" />
+        <mark key="." line="119" column="89" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591274347428">
         <mark key="[" line="78" column="86" />
@@ -109,23 +123,9 @@
         <mark key="." line="84" column="19" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.plugin/src/main/java/com/cainiao/sdp/shared/api/plugin/utils/SdpItemTagsUtils.java" timestamp="1591175292764">
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="29" column="62" />
-      </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591189241977">
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="60" column="34" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="34" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1591187574126">
         <mark key="[" line="69" column="20" />
         <mark key="]" line="69" column="25" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/filter/confirm/ConfirmInternationalEnforceChecker.java" timestamp="1591241845190">
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="59" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -234,10 +234,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>com.lin.springjmxsamples.context</text>
       </register>
       <register name="+" type="4">
-        <text>test</text>
+        <text>com.lin.springjmxsamples.context</text>
       </register>
       <register name="-" type="4">
         <text>total</text>
