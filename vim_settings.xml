@@ -117,15 +117,12 @@
         <mark key="." line="78" column="89" />
         <mark key="^" line="78" column="90" />
       </file>
+      <file name="D:/workspace/resource/arthas/boot/src/main/java/com/taobao/arthas/boot/Bootstrap.java" timestamp="1591337916643" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591236897487">
         <mark key="[" line="83" column="127" />
         <mark key="]" line="84" column="20" />
         <mark key="." line="84" column="19" />
         <mark key="^" line="84" column="20" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1591187574126">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="25" />
       </file>
     </filemarks>
     <jumps>
