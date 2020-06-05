@@ -107,16 +107,14 @@
           <option name="userName" value="lyszhen3" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/apache/incubator-dubbo.git" />
+          <option name="url" value="http://gitlab.alibaba-inc.com/tmall-trade/adp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workspace\opensource" />
+    <option name="cloneParentDir" value="D:\workspace\company" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
