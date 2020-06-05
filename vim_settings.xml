@@ -81,8 +81,13 @@
       </file>
       <file name="D:/workspace/resource/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/WatchCommand.java" timestamp="1591339144135" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1591348936905" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591350714818">
-        <mark key="[" line="60" column="139" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591351246851">
+        <mark key="a" line="63" column="28" />
+        <mark key="'" line="283" column="27" />
+        <mark key="[" line="60" column="136" />
+        <mark key="]" line="62" column="57" />
+        <mark key="^" line="62" column="57" />
+        <mark key="." line="62" column="56" />
       </file>
       <file name="D:/workspace/self/myWeb/suiyiTest/src/main/java/thread/concurrentutil/BankWaterService.java" timestamp="1591342280274" />
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryAbilityService.java" timestamp="1591346459179" />
@@ -100,10 +105,6 @@
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryDetailService.java" timestamp="1591342717751" />
     </filemarks>
     <jumps>
-      <jump line="309" column="28" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
-      <jump line="116" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
-      <jump line="201" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
-      <jump line="202" column="8" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
       <jump line="313" column="0" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
       <jump line="19" column="23" filename="D:/workspace/company/usa-console/usa-console-start/pom.xml" />
       <jump line="19" column="31" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
@@ -200,42 +201,46 @@
       <jump line="103" column="21" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/EnlargeCityCalculator.java" />
       <jump line="28" column="13" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/EnlargeCityCalculator.java" />
       <jump line="86" column="22" filename="D:/workspace/company/region-retail-app/region-retail-core/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/core/bresson/metrics/manager/AliMetricManager.java" />
+      <jump line="63" column="28" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
+      <jump line="288" column="7" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
+      <jump line="62" column="16" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
+      <jump line="283" column="27" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;et.setDivisionCode(areaId)</text>
+        <text>&quot;storeJsd-fn-3-ap&quot;.equals(service.getServiceCode()) || &quot;storeJsd-fn-10-ap&quot;.equals(service.getServiceCode())</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">CQkJZm9yIChEZWxpdmVyeVBhY2thZ2VETyBkZWxpdmVyeVBhY2thZ2VETyA6IGRlbGl2ZXJ5UGFja2FnZURPTGlzdCkgewoJCQkJZGVsaXZlcnlQYWNrYWdlRE8uZ2V0QnV5ZXJJbmZvRE8oKS5nZXRCdXllckluZm9EVE8oKS5nZXRCdXllckFkZHJlc3NEVE8oKS5zZXREaXZpc2lvbkNvZGUoYXJlYUlkKTsKCQkJfQo=</text>
+      <register name="+" type="4">
+        <text>isAppointService</text>
       </register>
       <register name="-" type="4">
-        <text>;et.setDivisionCode(areaId)</text>
+        <text>&quot;storeJsd-fn-3-ap&quot;.equals(service.getServiceCode()) || &quot;storeJsd-fn-10-ap&quot;.equals(service.getServiceCode())</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb25nIGxvY2F0aW9uID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb25nIGxvY2F0aW9uID0gMDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
