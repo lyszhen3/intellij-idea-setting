@@ -67,7 +67,7 @@
         <mark key="." line="48" column="92" />
         <mark key="^" line="48" column="93" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1591610170677">
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1591613885183">
         <mark key="[" line="50" column="32" />
         <mark key="]" line="50" column="37" />
       </file>
@@ -76,22 +76,11 @@
         <mark key="]" line="38" column="85" />
         <mark key="." line="38" column="65" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/EnlargeCityCalculator.java" timestamp="1591608020534">
-        <mark key="[" line="31" column="65" />
-        <mark key="]" line="31" column="86" />
-        <mark key="." line="31" column="65" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1591608055798">
         <mark key="[" line="39" column="83" />
         <mark key="]" line="39" column="89" />
         <mark key="." line="39" column="88" />
         <mark key="^" line="39" column="89" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/CommonCalculator.java" timestamp="1591608005681">
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="30" column="81" />
-        <mark key="." line="30" column="65" />
-        <mark key="^" line="30" column="89" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreJsdTimingUtil.java" timestamp="1591608077402">
         <mark key="[" line="34" column="83" />
@@ -106,7 +95,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/BatchRegionRetailLogisticsSolutionCalculator.java" timestamp="1591610378563">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/BatchRegionRetailLogisticsSolutionCalculator.java" timestamp="1591613312491">
         <mark key="[" line="104" column="13" />
         <mark key="]" line="105" column="71" />
         <mark key="." line="105" column="70" />
@@ -117,10 +106,8 @@
         <mark key="]" line="64" column="90" />
         <mark key="." line="64" column="65" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/calculator/DistrictCalculator.java" timestamp="1591608012516">
-        <mark key="[" line="32" column="65" />
-        <mark key="]" line="32" column="83" />
-        <mark key="." line="32" column="65" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" timestamp="1591613990582">
+        <mark key="'" line="71" column="12" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1591608066955">
         <mark key="[" line="41" column="111" />
@@ -128,9 +115,11 @@
         <mark key="." line="41" column="116" />
         <mark key="^" line="41" column="117" />
       </file>
+      <file name="/fragment.java" timestamp="1591614057141">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="0" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
       <jump line="19" column="23" filename="D:/workspace/company/usa-console/usa-console-start/pom.xml" />
       <jump line="19" column="31" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
       <jump line="100" column="41" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
@@ -230,6 +219,7 @@
       <jump line="288" column="7" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
       <jump line="62" column="16" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
       <jump line="283" column="27" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
+      <jump line="71" column="12" filename="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
