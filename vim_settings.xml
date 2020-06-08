@@ -61,35 +61,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/biz/NormalTimingProcessor.java" timestamp="1591354415641" />
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnAbilityAdapter.java" timestamp="1591343519109" />
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/AbilityConfirmCommonProcessor.java" timestamp="1591356099403">
-        <mark key="[" line="246" column="88" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryAbilityService.java" timestamp="1591346459179" />
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1591347451996">
-        <mark key="[" line="176" column="75" />
-        <mark key="]" line="176" column="86" />
-        <mark key="." line="176" column="85" />
-        <mark key="^" line="176" column="86" />
-      </file>
-      <file name="D:/workspace/company/adp/pom.xml" timestamp="1591343638037">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="24" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/ability/AbilityProtocolBuilderProcessor.java" timestamp="1591355503229" />
-      <file name="D:/workspace/company/adp/adp-client/src/main/java/com/alibaba/delivery/client/util/AdpStoreUtils.java" timestamp="1591356388287" />
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnBaseAdapter.java" timestamp="1591346244172" />
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnConfirmAdapter.java" timestamp="1591343366012" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-SNAPSHOT.jar!/com/cainiao/cdc/common/response/common/FeeDesc.class" timestamp="1591350549034" />
-      <file name="/Dummy.txt" timestamp="1591356299009">
+      <file name="/Dummy.txt" timestamp="1591583270601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1591348936905" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591583266150">
+        <mark key="[" line="167" column="121" />
+        <mark key="]" line="167" column="125" />
+        <mark key="." line="167" column="124" />
+        <mark key="^" line="167" column="125" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591355072120">
         <mark key="a" line="63" column="28" />
         <mark key="'" line="283" column="27" />
@@ -98,8 +81,18 @@
         <mark key="^" line="70" column="9" />
         <mark key="." line="70" column="8" />
       </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/adp2/resp/Adp2RespAdapter.java" timestamp="1591355746620" />
-      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.1.11-hema-SNAPSHOT/delivery-common-4.1.11-hema-SNAPSHOT.jar!/com/taobao/delivery/common/constant/DeliveryConstant.class" timestamp="1591355991811" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1591347451996">
+        <mark key="[" line="176" column="75" />
+        <mark key="]" line="176" column="86" />
+        <mark key="." line="176" column="85" />
+        <mark key="^" line="176" column="86" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/adp2/resp/Adp2RespAdapter.java" timestamp="1591583931300" />
+      <file name="D:/workspace/company/adp/pom.xml" timestamp="1591343638037">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="313" column="0" filename="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" />
@@ -206,44 +199,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>sdp 出入参修改</text>
+      <register name="&quot;" type="4">
+        <text>total</text>
       </register>
-      <register name="+" type="4">
-        <text>isAppointService</text>
+      <register name="+" type="2">
+        <text encoding="base64">CQlCcmVzc29uLm5ld01ldHJpYygicmVnaW9uUmV0YWlsLnJlbW90ZS5jYXBhY2l0eSIsIE1hcEhlbHBlci5vZigibWV0aG9kIiwgIm9jY3VweVNlcnZpY2VDYXBhY2l0eSIsICJyZXN1bHQiLCAidG90YWwiKSkKCQkJCS5pbmNyZWFzZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;storeJsd-fn-3-ap&quot;.equals(service.getServiceCode()) || &quot;storeJsd-fn-10-ap&quot;.equals(service.getServiceCode())</text>
+        <text>total</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text>sdp 出入参修改</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>sdp 出入参修改</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb25nIGxvY2F0aW9uID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb25nIGxvY2F0aW9uID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
