@@ -61,20 +61,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591608045710">
-        <mark key="[" line="48" column="87" />
-        <mark key="]" line="48" column="93" />
-        <mark key="." line="48" column="92" />
-        <mark key="^" line="48" column="93" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1591613885183">
         <mark key="[" line="50" column="32" />
         <mark key="]" line="50" column="37" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/TimingDisplayService.java" timestamp="1591608033657">
-        <mark key="[" line="38" column="65" />
-        <mark key="]" line="38" column="85" />
-        <mark key="." line="38" column="65" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/ServiceDefinitionDiamondConfig.java" timestamp="1591615909814">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="44" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1591608055798">
         <mark key="[" line="39" column="83" />
@@ -95,7 +88,7 @@
         <mark key="^" line="34" column="89" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/sdp2-sdk-model/2.1.13/sdp2-sdk-model-2.1.13-sources.jar!/com/alibaba/ascp/sdp2/sdk/common/PreferenceCollection.java" timestamp="1591610261769" />
-      <file name="/Dummy.txt" timestamp="1591614859204">
+      <file name="/Dummy.txt" timestamp="1591616201689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -104,12 +97,17 @@
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" timestamp="1591613990582">
         <mark key="'" line="71" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1591614057141">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591616193803">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591616201724">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="23" filename="D:/workspace/company/usa-console/usa-console-start/pom.xml" />
       <jump line="19" column="31" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
       <jump line="100" column="41" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
       <jump line="47" column="6" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
@@ -209,15 +207,16 @@
       <jump line="62" column="16" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
       <jump line="283" column="27" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" />
       <jump line="71" column="12" filename="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" />
+      <jump line="23" column="13" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>re</text>
+        <text>service-definition.properties</text>
       </register>
       <register name="+" type="4">
-        <text>regionRetailLogisticsSolution</text>
+        <text>service-definition.properties</text>
       </register>
       <register name="-" type="4">
         <text>re</text>
@@ -226,31 +225,31 @@
         <text>timingDO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzaWNEZWZpbml0aW9uRE8uc2V0UHJvdG9jb2xJZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text>sdp 出入参修改</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>sdp 出入参修改</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text />
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWFyZWFJZCA9IGl0ZW1TdXBwb3J0RGVsaXZlcnlGZWUuZ2V0U3RvcmVBcmVhSWQoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb25nIGxvY2F0aW9uID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
