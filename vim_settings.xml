@@ -61,17 +61,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591584629662">
+      <file name="/Dummy.txt" timestamp="1591602585212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591583266150">
-        <mark key="[" line="167" column="121" />
-        <mark key="]" line="167" column="125" />
-        <mark key="." line="167" column="124" />
-        <mark key="^" line="167" column="125" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591602582364">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="24" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ItemD2SolutionInstancesResponseConverter.java" timestamp="1591584583858">
         <mark key="[" line="46" column="66" />
@@ -211,10 +211,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getLogisticsInfoStr</text>
+        <text>CapacityService</text>
       </register>
       <register name="+" type="4">
-        <text>JSON.parseObject(regionRetailTimingServiceModel.getLogisticsInfoStr(), UserChooseLogisticsInfo.class)</text>
+        <text>CapacityService</text>
       </register>
       <register name="-" type="4">
         <text>getLogisticsInfoStr</text>
