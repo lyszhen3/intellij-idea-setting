@@ -61,7 +61,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591583270601">
+      <file name="/Dummy.txt" timestamp="1591584629662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -72,6 +72,10 @@
         <mark key="]" line="167" column="125" />
         <mark key="." line="167" column="124" />
         <mark key="^" line="167" column="125" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ItemD2SolutionInstancesResponseConverter.java" timestamp="1591584583858">
+        <mark key="[" line="46" column="66" />
+        <mark key="]" line="46" column="166" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591355072120">
         <mark key="a" line="63" column="28" />
@@ -87,11 +91,18 @@
         <mark key="." line="176" column="85" />
         <mark key="^" line="176" column="86" />
       </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/adp2/resp/Adp2RespAdapter.java" timestamp="1591583931300" />
-      <file name="D:/workspace/company/adp/pom.xml" timestamp="1591343638037">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="24" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/adp2/resp/Adp2RespAdapter.java" timestamp="1591584269287" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/entity/core/protocol/DeliveryProtocolDO.java" timestamp="1591584518937">
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="175" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-common/1.1.5/adp2-common-1.1.5.jar!/com/alibaba/delivery/platform/common/model/core/protocol/DeliveryProtocolDO.class" timestamp="1591584271378" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-SNAPSHOT.jar!/com/cainiao/cdc/common/response/common/FeeDesc.class" timestamp="1591584191619" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/AbilityConfirmCommonProcessor.java" timestamp="1591584604993">
+        <mark key="[" line="256" column="73" />
+        <mark key="]" line="254" column="42" />
+        <mark key="." line="254" column="41" />
+        <mark key="^" line="254" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -200,13 +211,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>total</text>
+        <text>getLogisticsInfoStr</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">CQlCcmVzc29uLm5ld01ldHJpYygicmVnaW9uUmV0YWlsLnJlbW90ZS5jYXBhY2l0eSIsIE1hcEhlbHBlci5vZigibWV0aG9kIiwgIm9jY3VweVNlcnZpY2VDYXBhY2l0eSIsICJyZXN1bHQiLCAidG90YWwiKSkKCQkJCS5pbmNyZWFzZSgpOwo=</text>
+      <register name="+" type="4">
+        <text>JSON.parseObject(regionRetailTimingServiceModel.getLogisticsInfoStr(), UserChooseLogisticsInfo.class)</text>
       </register>
       <register name="-" type="4">
-        <text>total</text>
+        <text>getLogisticsInfoStr</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
