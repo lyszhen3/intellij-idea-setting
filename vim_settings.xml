@@ -65,10 +65,6 @@
         <mark key="[" line="228" column="33" />
         <mark key="]" line="228" column="55" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfig.java" timestamp="1591683512473">
-        <mark key="[" line="157" column="22" />
-        <mark key="]" line="157" column="47" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/PackageFeeCalcProcessor.java" timestamp="1591694246504" />
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/NormalFeeCalc.java" timestamp="1591694715582" />
       <file name="D:/workspace/company/nrscp/nrscp-products/nrscp-product-self/src/main/java/com/tmall/ofp/product/self/conf/SelfState.java" timestamp="1591695803882">
@@ -84,8 +80,15 @@
         <mark key="]" line="10" column="120" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/PostFeeCalculator.java" timestamp="1591694735699" />
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" timestamp="1591696350186">
+        <mark key="[" line="512" column="16" />
+        <mark key="]" line="512" column="33" />
+      </file>
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591696657081">
+        <mark key="[" line="116" column="21" />
+        <mark key="]" line="116" column="35" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateExecutor.java" timestamp="1591694723267" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1591679834666" />
     </filemarks>
     <jumps>
       <jump line="100" column="41" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
@@ -193,10 +196,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>WAIT_TSD_SELF_DISPATCH</text>
+        <text>OrderSourceEnum</text>
       </register>
       <register name="+" type="4">
-        <text>WAIT_TSD_SELF_DISPATCH</text>
+        <text>OrderSourceEnum</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
