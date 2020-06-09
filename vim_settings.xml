@@ -71,9 +71,9 @@
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="25" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderProcessServiceImpl.java" timestamp="1591697808407">
-        <mark key="[" line="559" column="61" />
-        <mark key="]" line="559" column="72" />
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderProcessServiceImpl.java" timestamp="1591698471268">
+        <mark key="[" line="559" column="29" />
+        <mark key="]" line="559" column="37" />
         <mark key="^" line="559" column="72" />
         <mark key="." line="559" column="71" />
       </file>
@@ -202,10 +202,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>OrderSourceEnum</text>
+        <text>SelfState</text>
       </register>
       <register name="+" type="4">
-        <text>OrderSourceEnum</text>
+        <text>SelfState</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
