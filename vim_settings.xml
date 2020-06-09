@@ -73,13 +73,13 @@
         <mark key="[" line="157" column="22" />
         <mark key="]" line="157" column="47" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/ServiceDefinitionDiamondConfig.java" timestamp="1591615909814">
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="98" column="44" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/guarantee/GuaranteePriceDisplayService.java" timestamp="1591673203357">
         <mark key="[" line="62" column="48" />
         <mark key="]" line="62" column="59" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/Adp2MigrateConfig.java" timestamp="1591686111177">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="33" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591685056001">
         <mark key="[" line="60" column="12" />
@@ -228,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Adp2MigrateUtils</text>
+        <text>grayMode</text>
       </register>
       <register name="+" type="4">
-        <text>Adp2MigrateUtils</text>
+        <text>grayMode</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
