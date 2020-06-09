@@ -61,6 +61,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMessageListener.java" timestamp="1591702122621" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1591692868451">
         <mark key="[" line="228" column="33" />
         <mark key="]" line="228" column="55" />
@@ -71,11 +72,11 @@
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="25" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderProcessServiceImpl.java" timestamp="1591698471268">
-        <mark key="[" line="559" column="29" />
-        <mark key="]" line="559" column="37" />
-        <mark key="^" line="559" column="72" />
-        <mark key="." line="559" column="71" />
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderProcessServiceImpl.java" timestamp="1591702268447">
+        <mark key="[" line="559" column="61" />
+        <mark key="]" line="559" column="71" />
+        <mark key="^" line="556" column="62" />
+        <mark key="." line="559" column="61" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/Adp2MigrateConfig.java" timestamp="1591686111177">
         <mark key="[" line="19" column="26" />
@@ -86,6 +87,13 @@
         <mark key="]" line="10" column="120" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/PostFeeCalculator.java" timestamp="1591694735699" />
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/convert/CainiaoMethedConverter.java" timestamp="1591701507223" />
+      <file name="/Dummy.txt" timestamp="1591702280775">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" timestamp="1591696350186">
         <mark key="[" line="512" column="16" />
         <mark key="]" line="512" column="33" />
@@ -202,13 +210,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SelfState</text>
+        <text>.getStep()</text>
       </register>
       <register name="+" type="4">
-        <text>SelfState</text>
+        <text>.getStep()</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.getStep()</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
