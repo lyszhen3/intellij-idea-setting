@@ -73,6 +73,10 @@
         <mark key="[" line="227" column="33" />
         <mark key="]" line="227" column="58" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfig.java" timestamp="1591679779049">
+        <mark key="[" line="105" column="38" />
+        <mark key="]" line="105" column="64" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/ServiceDefinitionDiamondConfig.java" timestamp="1591615909814">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="98" column="44" />
@@ -111,14 +115,14 @@
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" timestamp="1591613990582">
         <mark key="'" line="71" column="12" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1591669351421" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1591679777183" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591616193803">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/AdditionalFeeCalcProcessor.java" timestamp="1591672889354" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/AdditionalFeeCalcProcessor.java" timestamp="1591679230089" />
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1591669059198">
         <mark key="[" line="70" column="16" />
         <mark key="]" line="70" column="21" />
@@ -233,10 +237,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>INSURED_TYPE</text>
+        <text>serviceCodeTimeRangeListMap</text>
       </register>
       <register name="+" type="4">
-        <text>INSURED_TYPE</text>
+        <text>serviceCodeTimeRangeListMap</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
