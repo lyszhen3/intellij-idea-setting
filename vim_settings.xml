@@ -61,13 +61,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMessageListener.java" timestamp="1591702122621" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1591692868451">
-        <mark key="[" line="228" column="33" />
-        <mark key="]" line="228" column="55" />
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderQueryUnitServiceImpl.java" timestamp="1591702980203">
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="34" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/PackageFeeCalcProcessor.java" timestamp="1591694246504" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/NormalFeeCalc.java" timestamp="1591694715582" />
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMessageListener.java" timestamp="1591702122621" />
+      <file name="D:/workspace/company/nrscp/nrscp-dataservice/src/main/java/com/tmall/ofp/dataservice/dao/impl/FulfillPlanDaoImpl.java" timestamp="1591703013763">
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="32" column="65" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/strategy/NormalFeeCalculator.java" timestamp="1591703205675" />
       <file name="D:/workspace/company/nrscp/nrscp-products/nrscp-product-self/src/main/java/com/tmall/ofp/product/self/conf/SelfState.java" timestamp="1591695803882">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="25" />
@@ -78,31 +81,31 @@
         <mark key="^" line="556" column="62" />
         <mark key="." line="559" column="61" />
       </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/Adp2MigrateConfig.java" timestamp="1591686111177">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="33" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/service/servicenode/postfee/sub/BuyerSelectFastOptionPostCalcServiceNode.java" timestamp="1591694582083">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="120" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/PostFeeCalculator.java" timestamp="1591694735699" />
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/convert/CainiaoMethedConverter.java" timestamp="1591701507223" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/strategy/impl/GeneralStrategyHandler.java" timestamp="1591703188847" />
+      <file name="D:/workspace/company/nrscp/nrscp-core/nrscp-core-functions/src/main/java/com/tmall/ofp/core/functions/order/service/impl/OfpBaseUnitQueryServiceImpl.java" timestamp="1591703009902" />
       <file name="/Dummy.txt" timestamp="1591702280775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" timestamp="1591696350186">
-        <mark key="[" line="512" column="16" />
-        <mark key="]" line="512" column="33" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1591703765795">
+        <mark key="[" line="31" column="122" />
+      </file>
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" timestamp="1591702887000">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="31" />
       </file>
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591699354680">
         <mark key="[" line="116" column="21" />
         <mark key="]" line="116" column="35" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateExecutor.java" timestamp="1591694723267" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/afterpppadjust/TemplateInitProcessor.java" timestamp="1591703261321" />
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-service/src/main/java/com/tmall/ofp/pubservice/service/unit/FulfillOrderQueryUnitService.java" timestamp="1591702855175">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="44" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="100" column="41" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
@@ -210,10 +213,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.getStep()</text>
+        <text>getFulfillPlans</text>
       </register>
       <register name="+" type="4">
-        <text>.getStep()</text>
+        <text>getFulfillPlans</text>
       </register>
       <register name="-" type="4">
         <text>.getStep()</text>
