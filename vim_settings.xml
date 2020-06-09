@@ -61,28 +61,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdPostFeeCalcPlanServiceNode.java" timestamp="1591704649895" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1591704895723" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateInitialization.java" timestamp="1591704161768" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/PackageFeeCalcProcessor.java" timestamp="1591704586339" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/NormalFeeCalc.java" timestamp="1591704198541" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/PostFeeCalculator.java" timestamp="1591704078234" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/strategy/impl/GeneralStrategyHandler.java" timestamp="1591704220147" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1591703765795">
+        <mark key="[" line="31" column="122" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateExecutor.java" timestamp="1591704068955" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591704849257">
+        <mark key="a" line="63" column="28" />
+        <mark key="'" line="283" column="27" />
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="288" column="5" />
+        <mark key="^" line="70" column="9" />
+        <mark key="." line="70" column="8" />
+      </file>
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderQueryUnitServiceImpl.java" timestamp="1591702980203">
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="34" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMessageListener.java" timestamp="1591702122621" />
       <file name="D:/workspace/company/nrscp/nrscp-dataservice/src/main/java/com/tmall/ofp/dataservice/dao/impl/FulfillPlanDaoImpl.java" timestamp="1591703013763">
         <mark key="[" line="32" column="51" />
         <mark key="]" line="32" column="65" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/strategy/NormalFeeCalculator.java" timestamp="1591703205675" />
-      <file name="D:/workspace/company/nrscp/nrscp-products/nrscp-product-self/src/main/java/com/tmall/ofp/product/self/conf/SelfState.java" timestamp="1591695803882">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="25" />
-      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/strategy/NormalFeeCalculator.java" timestamp="1591704366015" />
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderProcessServiceImpl.java" timestamp="1591702268447">
         <mark key="[" line="559" column="61" />
         <mark key="]" line="559" column="71" />
         <mark key="^" line="556" column="62" />
         <mark key="." line="559" column="61" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/convert/CainiaoMethedConverter.java" timestamp="1591701507223" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/strategy/impl/GeneralStrategyHandler.java" timestamp="1591703188847" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/LineResourceParse.java" timestamp="1591704868167" />
       <file name="D:/workspace/company/nrscp/nrscp-core/nrscp-core-functions/src/main/java/com/tmall/ofp/core/functions/order/service/impl/OfpBaseUnitQueryServiceImpl.java" timestamp="1591703009902" />
       <file name="/Dummy.txt" timestamp="1591702280775">
         <mark key="[" line="0" column="0" />
@@ -90,18 +103,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1591703765795">
-        <mark key="[" line="31" column="122" />
-      </file>
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" timestamp="1591702887000">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="31" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591699354680">
-        <mark key="[" line="116" column="21" />
-        <mark key="]" line="116" column="35" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/afterpppadjust/TemplateInitProcessor.java" timestamp="1591703261321" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/afterpppadjust/TemplateInitProcessor.java" timestamp="1591703909624" />
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-service/src/main/java/com/tmall/ofp/pubservice/service/unit/FulfillOrderQueryUnitService.java" timestamp="1591702855175">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="44" />
