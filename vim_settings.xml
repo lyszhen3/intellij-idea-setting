@@ -61,10 +61,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/action/user/TemplateSettingAction.java" timestamp="1591672389038">
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="97" column="29" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1591692868451">
         <mark key="[" line="228" column="33" />
         <mark key="]" line="228" column="55" />
@@ -75,9 +71,9 @@
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/PackageFeeCalcProcessor.java" timestamp="1591694246504" />
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/NormalFeeCalc.java" timestamp="1591694715582" />
-      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/guarantee/GuaranteePriceDisplayService.java" timestamp="1591673203357">
-        <mark key="[" line="62" column="48" />
-        <mark key="]" line="62" column="59" />
+      <file name="D:/workspace/company/nrscp/nrscp-products/nrscp-product-self/src/main/java/com/tmall/ofp/product/self/conf/SelfState.java" timestamp="1591695803882">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="25" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/Adp2MigrateConfig.java" timestamp="1591686111177">
         <mark key="[" line="19" column="26" />
@@ -90,7 +86,6 @@
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/PostFeeCalculator.java" timestamp="1591694735699" />
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateExecutor.java" timestamp="1591694723267" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1591679834666" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/AdditionalFeeCalcProcessor.java" timestamp="1591679230089" />
     </filemarks>
     <jumps>
       <jump line="100" column="41" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/constant/ShipTimeConstant.java" />
@@ -198,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.alibaba.delivery.platform.service.servicenode.postfee.sub.BuyerSelectFastOptionPostCalcServiceNode</text>
+        <text>WAIT_TSD_SELF_DISPATCH</text>
       </register>
       <register name="+" type="4">
-        <text>com.alibaba.delivery.platform.service.servicenode.postfee.sub.BuyerSelectFastOptionPostCalcServiceNode</text>
+        <text>WAIT_TSD_SELF_DISPATCH</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
