@@ -73,12 +73,9 @@
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateExecutor.java" timestamp="1591704068955" />
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591704849257">
-        <mark key="a" line="63" column="28" />
-        <mark key="'" line="283" column="27" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="288" column="5" />
-        <mark key="^" line="70" column="9" />
-        <mark key="." line="70" column="8" />
+        <mark key="'" line="294" column="27" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="299" column="5" />
       </file>
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderQueryUnitServiceImpl.java" timestamp="1591702980203">
         <mark key="[" line="47" column="12" />
@@ -89,12 +86,6 @@
         <mark key="]" line="32" column="65" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/strategy/NormalFeeCalculator.java" timestamp="1591704366015" />
-      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderProcessServiceImpl.java" timestamp="1591702268447">
-        <mark key="[" line="559" column="61" />
-        <mark key="]" line="559" column="71" />
-        <mark key="^" line="556" column="62" />
-        <mark key="." line="559" column="61" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/LineResourceParse.java" timestamp="1591704868167" />
       <file name="D:/workspace/company/nrscp/nrscp-core/nrscp-core-functions/src/main/java/com/tmall/ofp/core/functions/order/service/impl/OfpBaseUnitQueryServiceImpl.java" timestamp="1591703009902" />
       <file name="/Dummy.txt" timestamp="1591702280775">
@@ -111,6 +102,9 @@
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-service/src/main/java/com/tmall/ofp/pubservice/service/unit/FulfillOrderQueryUnitService.java" timestamp="1591702855175">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="44" />
+      </file>
+      <file name="/fragment.java" timestamp="1591706057920">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
