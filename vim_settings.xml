@@ -65,9 +65,21 @@
         <mark key="[" line="50" column="32" />
         <mark key="]" line="50" column="37" />
       </file>
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/action/user/TemplateSettingAction.java" timestamp="1591672389038">
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="29" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1591672788648">
+        <mark key="[" line="227" column="33" />
+        <mark key="]" line="227" column="58" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/ServiceDefinitionDiamondConfig.java" timestamp="1591615909814">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="98" column="44" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/guarantee/GuaranteePriceDisplayService.java" timestamp="1591673203357">
+        <mark key="[" line="62" column="48" />
+        <mark key="]" line="62" column="59" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1591667403137">
         <mark key="'" line="54" column="12" />
@@ -82,7 +94,6 @@
         <mark key="^" line="23" column="38" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/sdp2-sdk-model/2.1.13/sdp2-sdk-model-2.1.13-sources.jar!/com/alibaba/ascp/sdp2/sdk/common/PreferenceCollection.java" timestamp="1591610261769" />
       <file name="/Dummy.txt" timestamp="1591667406366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -107,6 +118,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/AdditionalFeeCalcProcessor.java" timestamp="1591672889354" />
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ItemTags.java" timestamp="1591669059198">
         <mark key="[" line="70" column="16" />
         <mark key="]" line="70" column="21" />
@@ -221,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>156225</text>
+        <text>INSURED_TYPE</text>
       </register>
       <register name="+" type="4">
-        <text>156225</text>
+        <text>INSURED_TYPE</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
