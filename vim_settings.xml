@@ -61,10 +61,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1591613885183">
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="37" />
-      </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/action/user/TemplateSettingAction.java" timestamp="1591672389038">
         <mark key="[" line="97" column="16" />
         <mark key="]" line="97" column="29" />
@@ -85,18 +81,16 @@
         <mark key="[" line="62" column="48" />
         <mark key="]" line="62" column="59" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591685056001">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="27" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1591667403137">
         <mark key="'" line="54" column="12" />
         <mark key="[" line="52" column="66" />
         <mark key="]" line="52" column="71" />
         <mark key="." line="52" column="70" />
         <mark key="^" line="52" column="71" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" timestamp="1591614782922">
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1591667406366">
         <mark key="[" line="0" column="0" />
@@ -111,9 +105,6 @@
         <mark key="]" line="288" column="5" />
         <mark key="^" line="70" column="9" />
         <mark key="." line="70" column="8" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" timestamp="1591613990582">
-        <mark key="'" line="71" column="12" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" timestamp="1591679834666" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ProtocolMergeManager.java" timestamp="1591616193803">
@@ -237,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>useStoreBusinessTimeSeller</text>
+        <text>Adp2MigrateUtils</text>
       </register>
       <register name="+" type="4">
-        <text>useStoreBusinessTimeSeller</text>
+        <text>Adp2MigrateUtils</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
