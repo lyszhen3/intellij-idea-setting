@@ -65,12 +65,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591775630968">
-        <mark key="[" line="161" column="70" />
-        <mark key="]" line="157" column="26" />
-        <mark key="." line="157" column="25" />
-        <mark key="^" line="157" column="26" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/NodeRepo.java" timestamp="1591778707321">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="101" column="9" />
@@ -84,12 +78,6 @@
         <mark key="." line="16" column="16" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/model/QueryNodePO.java" timestamp="1591776577487" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-model/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/model/RegionRetailLogisticsSolution.java" timestamp="1591770355532">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="8" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LineRepo.java" timestamp="1591779054656">
         <mark key="'" line="38" column="47" />
         <mark key="[" line="40" column="0" />
@@ -99,30 +87,33 @@
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-data/src/main/java/com/alibaba/delivery/platform/subdomain/data/biz/line/repo/CpLineDataRepoImpl.java" timestamp="1591779478219" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1591777320428" />
-      <file name="D:/workspace/company/adp/adp-client/src/main/java/com/alibaba/delivery/client/service/client/DeliveryCustomerServiceClient.java" timestamp="1591773699489" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/LineService.java" timestamp="1591778672156" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/CpLineRepo.java" timestamp="1591779794677">
-        <mark key="'" line="64" column="57" />
-        <mark key="[" line="112" column="17" />
-        <mark key="]" line="112" column="23" />
-        <mark key="^" line="112" column="17" />
-        <mark key="." line="112" column="17" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/constant/AdpConstant.java" timestamp="1591780019299">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="67" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/NodeLineDO.java" timestamp="1591770457959">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="17" column="8" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/LineService.java" timestamp="1591778672156" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/CpLineRepo.java" timestamp="1591780164573">
+        <mark key="'" line="67" column="57" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="115" column="24" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/SubscriberManager.java" timestamp="1591775740595" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsServiceSubscriberRepo.java" timestamp="1591778578192">
-        <mark key="[" line="205" column="4" />
-        <mark key="]" line="207" column="4" />
+        <mark key="[" line="202" column="4" />
+        <mark key="]" line="204" column="4" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/node/LogisticsNodeDomainServiceImpl.java" timestamp="1591779395519" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/CpLineTairKeyTransfer.java" timestamp="1591779722135">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="49" />
+      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/CpLineTairKeyTransfer.java" timestamp="1591780048685">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591780199230">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/model/QueryCpLinePO.java" timestamp="1591779014354">
         <mark key="[" line="56" column="0" />
@@ -136,6 +127,9 @@
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/util/SplitKeyUtil.java" timestamp="1591779915297">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="44" />
+      </file>
+      <file name="/fragment.java" timestamp="1591780130653">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -243,19 +237,31 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>AdpConstant.STORE_NAMESPACE</text>
+      <register name="&quot;" type="2">
+        <text>容量修改</text>
       </register>
-      <register name="+" type="4">
-        <text>AdpConstant.STORE_NAMESPACE</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJREVOVElUWSA9ICJjcExpbmUiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>IDENTITY</text>
+        <text>&quot;cpLine&quot;</text>
       </register>
       <register name="/" type="4">
         <text>CacheEnum.LINE</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text>容量修改</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBTVE9SRV9OQU1FU1BBQ0U9ImFkcDIucGx1Z2luLnN0b3JlIjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>in
 in
 in
@@ -263,29 +269,17 @@ in
 in
 in</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3BMaW5lTWFwcGVyLnNlbGVjdEJ5Q29uZGl0aW9uKHF1ZXJ5Q3BMaW5lUE8pOwo=</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGJ1aWxkQ2FjaGVLZXkoUXVlcnlDcExpbmVQTyBxdWVyeUNwTGluZVBPKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3BMaW5lTWFwcGVyLnNlbGVjdEJ5Q29uZGl0aW9uKHF1ZXJ5Q3BMaW5lUE8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>50,88s/CacheEnum.LINE/CacheEnum.CP_LINE/gc</text>
