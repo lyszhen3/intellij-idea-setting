@@ -61,43 +61,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/util/Adp2MigrateUtils.java" timestamp="1591708056181">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="28" />
+      <file name="/Dummy.txt" timestamp="1591709585129">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdPostFeeCalcPlanServiceNode.java" timestamp="1591704649895" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1591704895723" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateInitialization.java" timestamp="1591704161768" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/PackageFeeCalcProcessor.java" timestamp="1591704586339" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/NormalFeeCalc.java" timestamp="1591704198541" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/PostFeeCalculator.java" timestamp="1591704078234" />
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/strategy/impl/GeneralStrategyHandler.java" timestamp="1591704220147" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1591708059306">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="28" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="12" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1591709180337">
+        <mark key="[" line="76" column="73" />
+        <mark key="]" line="79" column="25" />
+        <mark key="." line="79" column="24" />
+        <mark key="^" line="79" column="25" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/sub/PostFeeCalculateExecutor.java" timestamp="1591704068955" />
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591754212723">
+        <mark key="[" line="135" column="77" />
+        <mark key="]" line="135" column="76" />
+        <mark key="^" line="135" column="76" />
+        <mark key="." line="135" column="75" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591704849257">
         <mark key="'" line="294" column="27" />
         <mark key="[" line="294" column="0" />
         <mark key="]" line="299" column="5" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderQueryUnitServiceImpl.java" timestamp="1591702980203">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="34" />
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/MetaqMsgConvert2NotifyMsg.java" timestamp="1591754034025" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591708329309">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="102" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-dataservice/src/main/java/com/tmall/ofp/dataservice/dao/impl/FulfillPlanDaoImpl.java" timestamp="1591703013763">
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="65" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/util/Adp2MigrateUtils.java" timestamp="1591708056181">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="28" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1591707795973" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/feecalc/strategy/NormalFeeCalculator.java" timestamp="1591704366015" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591708181978" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/judge/LineResourceParse.java" timestamp="1591704868167" />
-      <file name="D:/workspace/company/nrscp/nrscp-core/nrscp-core-functions/src/main/java/com/tmall/ofp/core/functions/order/service/impl/OfpBaseUnitQueryServiceImpl.java" timestamp="1591703009902" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/afterpppadjust/TemplateInitProcessor.java" timestamp="1591703909624" />
+      <file name="D:/workspace/company/nrscp/nrscp-core/nrscp-core-shared/src/main/java/com/tmall/ofp/core/shared/util/SwitchHolder.java" timestamp="1591754232050">
+        <mark key="[" line="633" column="59" />
+      </file>
       <file name="/fragment.java" timestamp="1591707001908">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,13 +206,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>gray</text>
+        <text>param=&quot; + param + &quot;,</text>
       </register>
-      <register name="+" type="4">
-        <text>Adp2MigrateUtils</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFN3aXRjaEhvbGRlci5vcGVuTmV3Q2Fpbmlhb0xvZykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oIm1ldGFxfGNhaW5pYW98bXNnIGZpbHRlciBieSBoYXMgbm8gZnVsZmlsbFBsYW4sIHBhcmFtPSIgKyBwYXJhbSArICIsIG1zZ0lkPSIgKyBkdG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0TWVzc2FnZUlEKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>gray</text>
+        <text>param=&quot; + param + &quot;,</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
@@ -223,7 +221,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAJTE9HR0VSLnRyYWNlKCJuZWVkQ2FsYyB3aXRoIHN0b3JlQnVzaW5lc3NUaW1lOnt9Iix0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -232,19 +230,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzaWNEZWZpbml0aW9uRE8uc2V0UHJvdG9jb2xJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAJTE9HR0VSLnRyYWNlKCJuZWVkQ2FsYyB3aXRoIHN0b3JlQnVzaW5lc3NUaW1lOnt9Iix0cnVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text>sdp 出入参修改</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzaWNEZWZpbml0aW9uRE8uc2V0UHJvdG9jb2xJZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
