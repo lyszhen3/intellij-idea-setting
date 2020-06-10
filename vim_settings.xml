@@ -61,7 +61,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591709585129">
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderSellerProcessUnitServiceImpl.java" timestamp="1591755297156" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591708329309">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="102" />
+      </file>
+      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/store/OfpStoreQueryServiceImpl.java" timestamp="1591755367479" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/util/Adp2MigrateUtils.java" timestamp="1591708056181">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="28" />
+      </file>
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/cainiao/CainiaoDispatcherService.java" timestamp="1591755233183">
+        <mark key="[" line="215" column="47" />
+        <mark key="]" line="215" column="64" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591754394818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -73,28 +87,20 @@
         <mark key="." line="79" column="24" />
         <mark key="^" line="79" column="25" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591754212723">
-        <mark key="[" line="135" column="77" />
-        <mark key="]" line="135" column="76" />
-        <mark key="^" line="135" column="76" />
-        <mark key="." line="135" column="75" />
+      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591754390772">
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="133" column="21" />
+        <mark key="^" line="133" column="21" />
+        <mark key="." line="133" column="20" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdServiceCalc.java" timestamp="1591704849257">
         <mark key="'" line="294" column="27" />
         <mark key="[" line="294" column="0" />
         <mark key="]" line="299" column="5" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/MetaqMsgConvert2NotifyMsg.java" timestamp="1591754034025" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ProtocolDispatchUtil.java" timestamp="1591708329309">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="102" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/util/Adp2MigrateUtils.java" timestamp="1591708056181">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="28" />
-      </file>
-      <file name="D:/workspace/company/nrscp/nrscp-core/nrscp-core-shared/src/main/java/com/tmall/ofp/core/shared/util/SwitchHolder.java" timestamp="1591754232050">
-        <mark key="[" line="633" column="59" />
+      <file name="D:/workspace/company/nrscp/nrscp-products/nrscp-product-self/src/main/java/com/tmall/ofp/product/self/conf/SelfState.java" timestamp="1591754534500">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1591707001908">
         <mark key="[" line="0" column="0" />
@@ -206,10 +212,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>param=&quot; + param + &quot;,</text>
+        <text>yundianCreateOrder</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFN3aXRjaEhvbGRlci5vcGVuTmV3Q2Fpbmlhb0xvZykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oIm1ldGFxfGNhaW5pYW98bXNnIGZpbHRlciBieSBoYXMgbm8gZnVsZmlsbFBsYW4sIHBhcmFtPSIgKyBwYXJhbSArICIsIG1zZ0lkPSIgKyBkdG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0TWVzc2FnZUlEKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="+" type="4">
+        <text>yundianCreateOrder</text>
       </register>
       <register name="-" type="4">
         <text>param=&quot; + param + &quot;,</text>
