@@ -61,6 +61,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/CacheEnum.java" timestamp="1591758211308" />
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderSellerProcessUnitServiceImpl.java" timestamp="1591755297156" />
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/store/OfpStoreQueryServiceImpl.java" timestamp="1591755367479" />
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/cainiao/CainiaoDispatcherService.java" timestamp="1591755233183">
@@ -72,12 +73,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591754390772">
-        <mark key="[" line="133" column="20" />
-        <mark key="]" line="133" column="21" />
-        <mark key="^" line="133" column="21" />
-        <mark key="." line="133" column="20" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1591756830425">
         <mark key="[" line="39" column="12" />
