@@ -19,9 +19,9 @@
         <entry>305,318/param</entry>
         <entry>305,318s/param</entry>
         <entry>%s/google/tmall.bbq/gc</entry>
-        <entry>vsp</entry>
         <entry>317,346s/timingDO/deliveryTimingDO/gc</entry>
         <entry>wq</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -61,25 +61,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591770436344">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591775630968">
         <mark key="[" line="161" column="70" />
-        <mark key="]" line="161" column="70" />
-        <mark key="." line="161" column="70" />
-        <mark key="^" line="161" column="60" />
+        <mark key="]" line="157" column="26" />
+        <mark key="." line="157" column="25" />
+        <mark key="^" line="157" column="26" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/NodeRepo.java" timestamp="1591776123821">
+        <mark key="[" line="55" column="68" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/CacheEnum.java" timestamp="1591758211308" />
-      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderSellerProcessUnitServiceImpl.java" timestamp="1591755297156" />
       <file name="D:/workspace/company/region-retail-app/region-retail-model/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/model/RegionRetailLogisticsSolution.java" timestamp="1591770355532">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="19" column="9" />
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/store/OfpStoreQueryServiceImpl.java" timestamp="1591755367479" />
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/cainiao/CainiaoDispatcherService.java" timestamp="1591755233183">
-        <mark key="[" line="215" column="47" />
-        <mark key="]" line="215" column="64" />
+      <file name="D:/workspace/company/adp/adp-client/src/main/java/com/alibaba/delivery/client/service/client/DeliveryCustomerServiceClient.java" timestamp="1591773699489" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/NodeLineDO.java" timestamp="1591770457959">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="8" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/SubscriberManager.java" timestamp="1591775740595" />
       <file name="/Dummy.txt" timestamp="1591756857655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -95,12 +100,6 @@
         <mark key="]" line="67" column="21" />
         <mark key="^" line="67" column="21" />
         <mark key="." line="67" column="20" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/NodeLineDO.java" timestamp="1591770457959">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="17" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -248,7 +247,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYmFzaWNEZWZpbml0aW9uRE8uc2V0UHJvdG9jb2xJZCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
