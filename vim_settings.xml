@@ -61,8 +61,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1591770436344">
+        <mark key="[" line="161" column="70" />
+        <mark key="]" line="161" column="70" />
+        <mark key="." line="161" column="70" />
+        <mark key="^" line="161" column="60" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/CacheEnum.java" timestamp="1591758211308" />
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/FulfillOrderSellerProcessUnitServiceImpl.java" timestamp="1591755297156" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-model/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/model/RegionRetailLogisticsSolution.java" timestamp="1591770355532">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="8" />
+      </file>
       <file name="D:/workspace/company/nrscp/nrscp-pubservice/nrscp-pubservice-biz/src/main/java/com/tmall/ofp/pubservice/service/impl/store/OfpStoreQueryServiceImpl.java" timestamp="1591755367479" />
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/cainiao/CainiaoDispatcherService.java" timestamp="1591755233183">
         <mark key="[" line="215" column="47" />
@@ -84,9 +96,11 @@
         <mark key="^" line="67" column="21" />
         <mark key="." line="67" column="20" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-products/nrscp-product-self/src/main/java/com/tmall/ofp/product/self/conf/SelfState.java" timestamp="1591754534500">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="25" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/NodeLineDO.java" timestamp="1591770457959">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -195,13 +209,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>regionRetailCapacityService</text>
+        <text>)</text>
       </register>
       <register name="+" type="4">
-        <text>regionRetailCapacityService</text>
+        <text>LOGGER.trace</text>
       </register>
       <register name="-" type="4">
-        <text>param=&quot; + param + &quot;,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>timingDO</text>
