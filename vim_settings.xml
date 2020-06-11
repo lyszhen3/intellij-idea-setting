@@ -65,24 +65,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/NodeRepo.java" timestamp="1591778707321">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="101" column="9" />
-        <mark key="." line="67" column="50" />
-        <mark key="^" line="67" column="51" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/CacheEnum.java" timestamp="1591779185399">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="16" column="17" />
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="16" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LineRepo.java" timestamp="1591779054656">
-        <mark key="'" line="38" column="47" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="75" column="9" />
-        <mark key="." line="51" column="15" />
-        <mark key="^" line="51" column="16" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/CpLineTairKeyTransfer.java" timestamp="1591780048685">
         <mark key="[" line="10" column="0" />
@@ -98,12 +85,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/model/QueryCpLinePO.java" timestamp="1591779014354">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/adp/AdpProtocolsSupportServiceWrapper.java" timestamp="1591845867339" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/adp/AdpProtocolsSupportServiceWrapper.java" timestamp="1591846532583" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/CpLineRepo.java" timestamp="1591780164573">
         <mark key="'" line="67" column="57" />
         <mark key="[" line="29" column="0" />
