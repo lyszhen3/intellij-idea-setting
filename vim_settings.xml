@@ -208,10 +208,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TRADE_PLATFORM_MESSAGE</text>
+        <text>5000000000001</text>
       </register>
       <register name="+" type="4">
-        <text>TRADE_PLATFORM_MESSAGE</text>
+        <text>5000000000001</text>
       </register>
       <register name="-" type="4">
         <text>&quot;cpLine&quot;</text>
