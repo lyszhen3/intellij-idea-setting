@@ -65,6 +65,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/timing/group/TradeItemGrouper.java" timestamp="1591876708940" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/stage/displayservicecalculate/DisplayServiceStage.java" timestamp="1591876279470" />
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591868350802">
         <mark key="[" line="62" column="31" />
       </file>
@@ -90,12 +92,11 @@
         <mark key="[" line="244" column="32" />
         <mark key="]" line="244" column="53" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/adp/AdpProtocolsSupportServiceWrapper.java" timestamp="1591846532583" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1591868429251">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="168" />
       </file>
-      <file name="/fragment.java" timestamp="1591865012195">
+      <file name="/fragment.java" timestamp="1591876835507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/TmallIncubator/pom.xml" timestamp="1591875260715">
