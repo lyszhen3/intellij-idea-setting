@@ -109,6 +109,10 @@
         <mark key="[" line="157" column="4" />
         <mark key="]" line="157" column="17" />
       </file>
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/AbilityConfirmCommonProcessor.java" timestamp="1591929759594">
+        <mark key="[" line="239" column="17" />
+        <mark key="]" line="239" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="19" column="49" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" />
@@ -216,10 +220,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>spCodeParserProvider</text>
+        <text>transBaseDefinition</text>
       </register>
       <register name="+" type="4">
-        <text>spCodeParserProvider</text>
+        <text>transBaseDefinition</text>
       </register>
       <register name="-" type="4">
         <text>//</text>
