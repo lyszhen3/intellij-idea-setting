@@ -82,14 +82,12 @@
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="33" />
       </file>
-      <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" timestamp="1591861066132">
-        <mark key="'" line="406" column="49" />
-      </file>
       <file name="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/metaq/CainiaoMetaqCenterListener.java" timestamp="1591861766816">
         <mark key="[" line="244" column="32" />
         <mark key="]" line="244" column="53" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/sdp-ecom-solver.xml" timestamp="1591950450654" />
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/Murch.java" timestamp="1591955950265" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1591868429251">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="168" />
@@ -101,6 +99,10 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/plugin/PluginManager.java" timestamp="1591955974871">
+        <mark key="[" line="142" column="92" />
+        <mark key="]" line="142" column="112" />
       </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/scope/SolverScopeUtils.java" timestamp="1591952459066" />
       <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/SolverConfig.java" timestamp="1591952160518" />
@@ -228,10 +230,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>transBaseDefinition</text>
+        <text>sdp-plugin.properties</text>
       </register>
       <register name="+" type="4">
-        <text>transBaseDefinition</text>
+        <text>sdp-plugin.properties</text>
       </register>
       <register name="-" type="4">
         <text>//</text>
