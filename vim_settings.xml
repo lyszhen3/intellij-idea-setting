@@ -77,7 +77,7 @@
         <mark key="." line="79" column="8" />
         <mark key="^" line="79" column="12" />
       </file>
-      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/stage/AbstractStage.java" timestamp="1591950810506" />
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/stage/AbstractStage.java" timestamp="1591952864663" />
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/stage/parsestage.xml" timestamp="1591928573775">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="33" />
@@ -102,6 +102,8 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/scope/SolverScopeUtils.java" timestamp="1591952459066" />
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/SolverConfig.java" timestamp="1591952160518" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/EcomSolverClient.java" timestamp="1591951632248" />
       <file name="/fragment.java" timestamp="1591876835507">
         <mark key="[" line="0" column="0" />
@@ -110,6 +112,7 @@
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="27" />
       </file>
+      <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/solver/DefaultSolver.java" timestamp="1591952982997" />
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/AdpExceptionCode.java" timestamp="1591868574565">
         <mark key="[" line="157" column="4" />
         <mark key="]" line="157" column="17" />
