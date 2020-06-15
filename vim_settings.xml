@@ -65,10 +65,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/stage/parsestage.xml" timestamp="1591928573775">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="33" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/appointment/calculate/AppointmentCalculator.java" timestamp="1592192825220" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/Platform.java" timestamp="1592192511966">
         <mark key="[" line="37" column="51" />
@@ -79,6 +75,9 @@
         <mark key="]" line="243" column="54" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592187808992" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/ConsignSessionConverter.java" timestamp="1592202812219">
+        <mark key="'" line="90" column="13" />
+      </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/AbilityConfirmCommonProcessor.java" timestamp="1591929759594">
         <mark key="[" line="239" column="17" />
         <mark key="]" line="239" column="35" />
@@ -95,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="49" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" />
       <jump line="16" column="13" filename="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/dto/cycle/CycleFrontTemplateDTO.java" />
       <jump line="15" column="44" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
       <jump line="9281" column="34" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
@@ -195,6 +193,7 @@
       <jump line="93" column="0" filename="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/CpLineRepo.java" />
       <jump line="64" column="57" filename="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/CpLineRepo.java" />
       <jump line="406" column="49" filename="D:/workspace/company/nrscp/nrscp-sp/nrscp-sp-cainiao/src/main/java/com/tmall/ofp/sp/service/notify/CainiaoFetchMsgConsumeHandler.java" />
+      <jump line="90" column="13" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/ConsignSessionConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
