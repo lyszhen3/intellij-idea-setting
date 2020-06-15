@@ -71,12 +71,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1591868942711">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="12" />
-        <mark key="." line="79" column="8" />
-        <mark key="^" line="79" column="12" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/stage/parsestage.xml" timestamp="1591928573775">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="33" />
@@ -85,6 +79,7 @@
       <file name="/" timestamp="1591948258029">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1592188676916" />
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591880364166">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
