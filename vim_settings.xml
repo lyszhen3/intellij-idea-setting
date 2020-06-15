@@ -78,10 +78,6 @@
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/ConsignSessionConverter.java" timestamp="1592202812219">
         <mark key="'" line="90" column="13" />
       </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/AbilityConfirmCommonProcessor.java" timestamp="1591929759594">
-        <mark key="[" line="239" column="17" />
-        <mark key="]" line="239" column="35" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592187544348" />
       <file name="/" timestamp="1591948258029">
         <mark key="[" line="0" column="0" />
@@ -91,6 +87,11 @@
       <file name="D:/workspace/company/sdp/murch.core/src/test/java/com/cainiao/murch/core/test/Settings/NewSettingsAwareTest.java" timestamp="1592192458541">
         <mark key="[" line="64" column="25" />
         <mark key="]" line="64" column="33" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.plugin/src/main/java/com/cainiao/sdp/shared/api/plugin/service/ic/IcItemDTO.java" timestamp="1592202862111">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -199,13 +200,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
+        <text>i</text>
       </register>
       <register name="+" type="4">
         <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>CacheEnum.LINE</text>
