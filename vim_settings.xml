@@ -65,6 +65,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/cdc-dump/dump-biz/src/main/java/com/cainiao/cdc/dump/biz/metaq/ScnTemplateChangeConsumer.java" timestamp="1592212867083" />
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/appointment/calculate/AppointmentCalculator.java" timestamp="1592192825220" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/Platform.java" timestamp="1592192511966">
         <mark key="[" line="37" column="51" />
@@ -79,8 +80,9 @@
         <mark key="'" line="90" column="13" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592187544348" />
-      <file name="/" timestamp="1591948258029">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/workspace/company/cdc-dump/dump-web/src/main/webapp/META-INF/bean/dependency/diamond.xml.vm" timestamp="1592212915901">
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="92" />
       </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1592188676916" />
       <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/solution/display/appoint/AppointCapDTO.java" timestamp="1592192194908" />
@@ -200,10 +202,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>com.cainiao.cdc.dump.biz.diamond.ScnTemplateDumpConfig</text>
       </register>
       <register name="+" type="4">
-        <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
+        <text>com.cainiao.cdc.dump.biz.diamond.ScnTemplateDumpConfig</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
