@@ -65,41 +65,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591868957823">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/stage/parsestage.xml" timestamp="1591928573775">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="33" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592187544348" />
-      <file name="/" timestamp="1591948258029">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1592188676916" />
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1591880364166">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/appointment/calculate/AppointmentCalculator.java" timestamp="1592192825220" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/Platform.java" timestamp="1592192511966">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="95" />
       </file>
       <file name="D:/workspace/company/sdp/murch.core/src/main/java/com/cainiao/app/murch/core/plugin/PluginManager.java" timestamp="1591958965184">
         <mark key="[" line="243" column="43" />
         <mark key="]" line="243" column="54" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592187808992" />
-      <file name="/fragment.java" timestamp="1591876835507">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/TmallIncubator/pom.xml" timestamp="1591875260715">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="27" />
-      </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/AbilityConfirmCommonProcessor.java" timestamp="1591929759594">
         <mark key="[" line="239" column="17" />
         <mark key="]" line="239" column="35" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592187544348" />
+      <file name="/" timestamp="1591948258029">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/itemSupport/ItemSupportInfoProcessor.java" timestamp="1592188676916" />
+      <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/solution/display/appoint/AppointCapDTO.java" timestamp="1592192194908" />
+      <file name="D:/workspace/company/sdp/murch.core/src/test/java/com/cainiao/murch/core/test/Settings/NewSettingsAwareTest.java" timestamp="1592192458541">
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -208,10 +200,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>inner-plugin</text>
+        <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
       </register>
       <register name="+" type="4">
-        <text>inner-plugin</text>
+        <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
       </register>
       <register name="-" type="4">
         <text>//</text>
