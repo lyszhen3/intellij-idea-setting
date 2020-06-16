@@ -90,11 +90,11 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592293348960">
-        <mark key="[" line="145" column="12" />
-        <mark key="]" line="145" column="29" />
-        <mark key="." line="150" column="28" />
-        <mark key="^" line="150" column="29" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592293391636">
+        <mark key="[" line="145" column="28" />
+        <mark key="]" line="145" column="31" />
+        <mark key="." line="145" column="30" />
+        <mark key="^" line="145" column="31" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592289257181">
         <mark key="[" line="95" column="24" />
@@ -123,12 +123,12 @@
         <mark key="[" line="92" column="18" />
         <mark key="]" line="92" column="52" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/vo/CycleSendRuleVO.java" timestamp="1592291273036">
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/vo/CycleSendRuleVO.java" timestamp="1592293364027">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="84" column="40" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/java/com/cainiao/sdp/plugin/express/mojo/promisearr/PromiseArrDisplayService.java" timestamp="1592289000329" />
-      <file name="/fragment.java" timestamp="1592291351933">
+      <file name="/fragment.java" timestamp="1592293376862">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -238,13 +238,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CycleSendConfirmVO</text>
+        <text>VO</text>
       </register>
       <register name="+" type="4">
         <text>CycleSendConfirmVO</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>VO</text>
       </register>
       <register name="/" type="4">
         <text>CacheEnum.LINE</text>
