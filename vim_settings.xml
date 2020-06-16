@@ -90,10 +90,10 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592293391636">
-        <mark key="[" line="145" column="28" />
-        <mark key="]" line="145" column="31" />
-        <mark key="." line="145" column="30" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592294999639">
+        <mark key="[" line="180" column="12" />
+        <mark key="]" line="180" column="88" />
+        <mark key="." line="180" column="12" />
         <mark key="^" line="145" column="31" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592289257181">
@@ -104,12 +104,16 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="18" column="32" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendConfirmDTO.java" timestamp="1592294244890">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/CycleSendRuleDTO.java" timestamp="1592291346405">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="123" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/dataobject/DeliveryTemplateVO.class" timestamp="1592279831316" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/CycleDetailService.java" timestamp="1592290572685">
         <mark key="[" line="6" column="37" />
       </file>
@@ -123,12 +127,12 @@
         <mark key="[" line="92" column="18" />
         <mark key="]" line="92" column="52" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/vo/CycleSendRuleVO.java" timestamp="1592293364027">
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/vo/CycleSendRuleVO.java" timestamp="1592294213031">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="84" column="40" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/java/com/cainiao/sdp/plugin/express/mojo/promisearr/PromiseArrDisplayService.java" timestamp="1592289000329" />
-      <file name="/fragment.java" timestamp="1592293376862">
+      <file name="/fragment.java" timestamp="1592294223764">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -238,13 +242,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>VO</text>
+        <text>com.alibaba.delivery.platform.common.constant.CycleFeatureConstant</text>
       </register>
       <register name="+" type="4">
-        <text>CycleSendConfirmVO</text>
+        <text>CycleFeatureConstant</text>
       </register>
       <register name="-" type="4">
-        <text>VO</text>
+        <text>com.alibaba.delivery.platform.common.constant.CycleFeatureConstant</text>
       </register>
       <register name="/" type="4">
         <text>CacheEnum.LINE</text>
