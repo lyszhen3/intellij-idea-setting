@@ -69,6 +69,10 @@
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="48" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/DeliveryConstant.class" timestamp="1592279694283">
+        <mark key="[" line="461" column="32" />
+        <mark key="]" line="461" column="57" />
+      </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/service/AdpTemplateBaseService.java" timestamp="1592277786343" />
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1592274045130" />
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/service/AdpTemplateServiceImpl.java" timestamp="1592279040116" />
@@ -85,6 +89,13 @@
         <mark key="[" line="243" column="43" />
         <mark key="]" line="243" column="54" />
       </file>
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1592279753656">
+        <mark key="[" line="63" column="54" />
+        <mark key="]" line="63" column="52" />
+        <mark key="." line="63" column="51" />
+        <mark key="^" line="63" column="52" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/dataobject/DeliveryTemplateVO.class" timestamp="1592279831316" />
       <file name="D:/workspace/company/sdp/murch.core/src/test/java/com/cainiao/murch/core/test/Settings/NewSettingsAwareTest.java" timestamp="1592192458541">
         <mark key="[" line="64" column="25" />
         <mark key="]" line="64" column="33" />
@@ -203,11 +214,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>DELIVERY_ASSUMER_BASE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
-        <text>DELIVERY_ASSUMER_BASE</text>
+        <text>(int)Math.pow(2.0D, 1.0D);</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -216,32 +227,32 @@
         <text>CacheEnum.LINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHp6ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHp6ID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgKG5lZWRDYWxjUHJvdG9jb2wuZ2V0VXNlckNob29zZUxvZ2lzdGljc0luZm8oKS5nZXRTZXJ2aWNlVHlwZSgpID09IG51bGwpIHsKCQkJCS8vVE9ETyBMWVMg6Zi75aGe5LiL5Y2VCgkJCQl0aHJvdyBuZXcgQWRwU2VydmljZUV4Y2VwdGlvbihBZHBFeGNlcHRpb25Db2RlLkZFRV9DQUxDX0VSUk9SLmdldEtleSgpLCAiY2FsYyBmZWUgZmFpbGVkLCB0c2QgdXNlciBjaG9vc2Ugc2VydmljZVR5cGUgaXMgbnVsbCIpOwoJCQl9IAo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJaWYgKG5lZWRDYWxjUHJvdG9jb2wuZ2V0VXNlckNob29zZUxvZ2lzdGljc0luZm8oKS5nZXRTZXJ2aWNlVHlwZSgpID09IG51bGwpIHsKCQkJCS8vVE9ETyBMWVMg6Zi75aGe5LiL5Y2VCgkJCQl0aHJvdyBuZXcgQWRwU2VydmljZUV4Y2VwdGlvbihBZHBFeGNlcHRpb25Db2RlLkZFRV9DQUxDX0VSUk9SLmdldEtleSgpLCAiY2FsYyBmZWUgZmFpbGVkLCB0c2QgdXNlciBjaG9vc2Ugc2VydmljZVR5cGUgaXMgbnVsbCIpOwoJCQl9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfSAK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJfSAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJaWYgKG5lZWRDYWxjUHJvdG9jb2wuZ2V0VXNlckNob29zZUxvZ2lzdGljc0luZm8oKSAhPSBudWxsICl7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>else {
 			}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vVE9ETyBMWVMg6Zi75aGe5LiL5Y2VCgkJCQl0aHJvdyBuZXcgQWRwU2VydmljZUV4Y2VwdGlvbihBZHBFeGNlcHRpb25Db2RlLkZFRV9DQUxDX0VSUk9SLmdldEtleSgpLCAiY2FsYyBmZWUgZmFpbGVkLCB0c2QgdXNlciBjaG9vc2Ugc2VydmljZVR5cGUgaXMgbnVsbCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50,88s/CacheEnum.LINE/CacheEnum.CP_LINE/gc</text>
