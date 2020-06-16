@@ -65,12 +65,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-SNAPSHOT.jar!/com/taobao/delivery/common/constant/DeliveryConstant.class" timestamp="1592277151501">
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-SNAPSHOT.jar!/com/taobao/delivery/common/constant/DeliveryConstant.class" timestamp="1592278974779">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="48" />
       </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/service/AdpTemplateBaseService.java" timestamp="1592277786343" />
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1592274045130" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/service/AdpTemplateServiceImpl.java" timestamp="1592279040116" />
+      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/service/DeliveryService.class" timestamp="1592279034991" />
       <file name="D:/workspace/company/cdc-dump/dump-web/src/main/webapp/META-INF/bean/dependency/diamond.xml.vm" timestamp="1592212915901">
         <mark key="[" line="50" column="39" />
         <mark key="]" line="50" column="92" />
