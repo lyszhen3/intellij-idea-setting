@@ -72,11 +72,15 @@
         <mark key="^" line="11" column="28" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1592297915775" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/params/template/CycleSendParam.java" timestamp="1592303779697" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendTimeDTO.java" timestamp="1592291377142">
         <mark key="[" line="36" column="51" />
         <mark key="]" line="36" column="54" />
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="53" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/common/ZqsConstant.java" timestamp="1592303830939">
+        <mark key="[" line="6" column="13" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleResult.java" timestamp="1592290097802">
         <mark key="[" line="14" column="0" />
@@ -89,27 +93,23 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider.xml" timestamp="1592289786069" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ErrorCode.java" timestamp="1592290200860">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="46" />
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="46" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ZqsConstant.java" timestamp="1592303783882">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="47" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592294999639">
         <mark key="[" line="180" column="12" />
         <mark key="]" line="180" column="88" />
         <mark key="." line="180" column="12" />
         <mark key="^" line="145" column="31" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/resources/murch-inner-plugin.xml" timestamp="1592289257181">
-        <mark key="[" line="95" column="24" />
-        <mark key="]" line="95" column="44" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/request/cycle/CycleSendRequest.java" timestamp="1592303767063">
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="22" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592290090019">
         <mark key="[" line="7" column="0" />
@@ -149,8 +149,7 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="84" column="40" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/java/com/cainiao/sdp/plugin/express/mojo/promisearr/PromiseArrDisplayService.java" timestamp="1592289000329" />
-      <file name="/fragment.java" timestamp="1592297308065">
+      <file name="/fragment.java" timestamp="1592303822612">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -266,27 +265,30 @@
         <text>ZqsConstant</text>
       </register>
       <register name="-" type="4">
-        <text>Param</text>
+        <text>ZqsConstant</text>
       </register>
       <register name="/" type="4">
         <text>CacheEnum.LINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFTEZfRkVUQ0ggPSAic2VsZkZldGNoIjsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
      * 老接口类型,info, num
      */
     private String source;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>public String getSelectedModelJson() {
         return selectedModelJson;
     }
@@ -391,17 +393,14 @@
         this.receiveMethod = receiveMethod;
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IC02NzAxOTczODA3NzI1MTY2MzAxTDsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CVJlc3VsdDxDeWNsZVNlbmRSdWxlRFRPPiBjeWNsZUNhbGVuZGFyRXhwcmVzcyhMb25nIGJ1eWVySWQsIEN5Y2xlU2VuZFBhcmFtIGN5Y2xlU2VuZFBhcmFtKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50,88s/CacheEnum.LINE/CacheEnum.CP_LINE/gc</text>
