@@ -69,6 +69,7 @@
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="48" />
       </file>
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/service/AdpTemplateBaseService.java" timestamp="1592277786343" />
       <file name="D:/workspace/company/adp/adp-rule/src/main/java/com/alibaba/delivery/rule/diamond/shiptime/AdpShipTimeConfig.java" timestamp="1592274045130" />
       <file name="D:/workspace/company/cdc-dump/dump-web/src/main/webapp/META-INF/bean/dependency/diamond.xml.vm" timestamp="1592212915901">
         <mark key="[" line="50" column="39" />
@@ -201,10 +202,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.cainiao.cdc.dump.biz.diamond.ScnTemplateDumpConfig</text>
+        <text>DELIVERY_ASSUMER_BASE</text>
       </register>
       <register name="+" type="4">
-        <text>com.cainiao.cdc.dump.biz.diamond.ScnTemplateDumpConfig</text>
+        <text>DELIVERY_ASSUMER_BASE</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
