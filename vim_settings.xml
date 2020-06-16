@@ -78,7 +78,6 @@
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="53" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/java/com/cainiao/sdp/plugin/express/mojo/chooseexpress/ChooseExpressDisplayService.java" timestamp="1592288689097" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleResult.java" timestamp="1592290097802">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -135,6 +134,10 @@
         <mark key="]" line="16" column="6" />
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="6" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/OwnStoreSellerSettingShipTimingForwardCalculator.java" timestamp="1592298836388">
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="32" column="46" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendFrequencyDTO.java" timestamp="1592291319105">
         <mark key="[" line="50" column="30" />
@@ -256,11 +259,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1320770</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5ZGo5pyf5YmN56uv5pel5Y6G6KGo6L6+5o6l5Y+jCiAgICAgKiBAcGFyYW0gYnV5ZXJJZCDnlKjmiLdpZAogICAgICogQHBhcmFtIGN5Y2xlU2VuZFBhcmFtIOWPguaVsAogICAgICogQHJldHVybiByZXN1bHQKICAgICAqCiAgICAgKi8KICAgIFJlc3VsdDxDeWNsZVNlbmRSdWxlVk8+IGN5Y2xlQ2FsZW5kYXJFeHByZXNzKExvbmcgYnV5ZXJJZCwgQ3ljbGVTZW5kUGFyYW0gY3ljbGVTZW5kUGFyYW0pOwo=</text>
+      <register name="+" type="4">
+        <text>1320770</text>
       </register>
       <register name="-" type="4">
         <text>Param</text>
