@@ -114,8 +114,15 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="123" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/CycleDetailService.java" timestamp="1592290572685">
-        <mark key="[" line="6" column="37" />
+      <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/ZqsDetailService.java" timestamp="1592296509206">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="94" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/CycleDetailService.java" timestamp="1592296574606">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendFrequencyDTO.java" timestamp="1592291319105">
         <mark key="[" line="50" column="30" />
@@ -242,43 +249,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.alibaba.delivery.platform.common.constant.CycleFeatureConstant</text>
+        <text>Result</text>
       </register>
-      <register name="+" type="4">
-        <text>CycleFeatureConstant</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5ZGo5pyf5YmN56uv5pel5Y6G6KGo6L6+5o6l5Y+jCiAgICAgKiBAcGFyYW0gYnV5ZXJJZCDnlKjmiLdpZAogICAgICogQHBhcmFtIGN5Y2xlU2VuZFBhcmFtIOWPguaVsAogICAgICogQHJldHVybiByZXN1bHQKICAgICAqCiAgICAgKi8KICAgIFJlc3VsdDxDeWNsZVNlbmRSdWxlVk8+IGN5Y2xlQ2FsZW5kYXJFeHByZXNzKExvbmcgYnV5ZXJJZCwgQ3ljbGVTZW5kUGFyYW0gY3ljbGVTZW5kUGFyYW0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.alibaba.delivery.platform.common.constant.CycleFeatureConstant</text>
+        <text>Result</text>
       </register>
       <register name="/" type="4">
         <text>CacheEnum.LINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CVJlc3VsdDxDeWNsZVNlbmRSdWxlRFRPPiBjeWNsZUNhbGVuZGFyRXhwcmVzcyhMb25nIGJ1eWVySWQsIEN5Y2xlU2VuZFBhcmFtIGN5Y2xlU2VuZFBhcmFtKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICog6YCJ5oup55qE6aaW6YCJ5pe26Ze0CgkgKi8KCXByaXZhdGUgTGlzdDxEYXRlPiBmaXJzdFNlbmREYXlzOwoKCS8qKgoJICog6K6h5YiS5Y+v6YWN6YCB5pe26Ze0CgkgKi8KCXByaXZhdGUgTGlzdDxEYXRlPiBkZWxpdmVyeVNlbmREYXlzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qKgoJICog6YCJ5oup55qE6aaW6YCJ5pe26Ze0CgkgKi8KCXByaXZhdGUgTGlzdDxEYXRlPiBmaXJzdFNlbmREYXlzOwoKCS8qKgoJICog6K6h5YiS5Y+v6YWN6YCB5pe26Ze0CgkgKi8KCXByaXZhdGUgTGlzdDxEYXRlPiBkZWxpdmVyeVNlbmREYXlzOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkVycm9yQ29kZXsiICsKICAgICAgICAgICAgICAgICJjb2RlPSciICsgY29kZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgbXNnPSciICsgbXNnICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1zZygpIHsKICAgICAgICByZXR1cm4gbXNnOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">ICAgIAoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkVycm9yQ29kZXsiICsKICAgICAgICAgICAgICAgICJjb2RlPSciICsgY29kZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgbXNnPSciICsgbXNnICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1zZygpIHsKICAgICAgICByZXR1cm4gbXNnOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>50,88s/CacheEnum.LINE/CacheEnum.CP_LINE/gc</text>
