@@ -74,8 +74,17 @@
         <mark key="^" line="63" column="52" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/java/com/cainiao/sdp/plugin/express/mojo/chooseexpress/ChooseExpressDisplayService.java" timestamp="1592288689097" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/ConsignSessionConverter.java" timestamp="1592202812219">
-        <mark key="'" line="90" column="13" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleResult.java" timestamp="1592290097802">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider.xml" timestamp="1592289786069" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ErrorCode.java" timestamp="1592290200860">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-SNAPSHOT.jar!/com/taobao/delivery/common/constant/DeliveryConstant.class" timestamp="1592278974779">
         <mark key="[" line="35" column="28" />
@@ -91,9 +100,9 @@
         <mark key="[" line="95" column="24" />
         <mark key="]" line="95" column="44" />
       </file>
-      <file name="D:/workspace/company/cdc-dump/dump-web/src/main/webapp/META-INF/bean/dependency/diamond.xml.vm" timestamp="1592212915901">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="92" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592290090019">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="18" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/dataobject/DeliveryTemplateVO.class" timestamp="1592279831316" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/resources/sdp/sdp-mojo-rule.xml" timestamp="1592288378988">
@@ -101,10 +110,8 @@
         <mark key="]" line="92" column="52" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-express/src/main/java/com/cainiao/sdp/plugin/express/mojo/promisearr/PromiseArrDisplayService.java" timestamp="1592289000329" />
-      <file name="D:/workspace/company/sdp/sdp_shared.api.plugin/src/main/java/com/cainiao/sdp/shared/api/plugin/service/ic/IcItemDTO.java" timestamp="1592202862111">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
+      <file name="/fragment.java" timestamp="1592290109542">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -212,11 +219,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>stationDisplayService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>stationDisplayService</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5oiQ5YqfCiAgICAgKi8KICAgIHByaXZhdGUgYm9vbGVhbiBpc1N1Y2Nlc3MgPSBmYWxzZTsKICAgIC8qKgogICAgICog5YW35L2T5pyN5Yqh6L+U5Zue57uT5p6cCiAgICAgKi8KICAgIHByaXZhdGUgVCByZXN1bHQ7CiAgICAvKioKICAgICAqIOmUmeivr+eggQogICAgICovCiAgICBwcml2YXRlIEVycm9yQ29kZSBlcnJvckNvZGU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -225,32 +232,31 @@
         <text>CacheEnum.LINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHp6ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIAoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkVycm9yQ29kZXsiICsKICAgICAgICAgICAgICAgICJjb2RlPSciICsgY29kZSArICdcJycgKwogICAgICAgICAgICAgICAgIiwgbXNnPSciICsgbXNnICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1zZygpIHsKICAgICAgICByZXR1cm4gbXNnOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgKG5lZWRDYWxjUHJvdG9jb2wuZ2V0VXNlckNob29zZUxvZ2lzdGljc0luZm8oKS5nZXRTZXJ2aWNlVHlwZSgpID09IG51bGwpIHsKCQkJCS8vVE9ETyBMWVMg6Zi75aGe5LiL5Y2VCgkJCQl0aHJvdyBuZXcgQWRwU2VydmljZUV4Y2VwdGlvbihBZHBFeGNlcHRpb25Db2RlLkZFRV9DQUxDX0VSUk9SLmdldEtleSgpLCAiY2FsYyBmZWUgZmFpbGVkLCB0c2QgdXNlciBjaG9vc2Ugc2VydmljZVR5cGUgaXMgbnVsbCIpOwoJCQl9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKG5lZWRDYWxjUHJvdG9jb2wuZ2V0VXNlckNob29zZUxvZ2lzdGljc0luZm8oKSAhPSBudWxsICl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>else {
-			}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHp6ID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>50,88s/CacheEnum.LINE/CacheEnum.CP_LINE/gc</text>
