@@ -106,9 +106,9 @@
         <mark key="[" line="95" column="24" />
         <mark key="]" line="95" column="44" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/request/cycle/CycleSendRequest.java" timestamp="1592297374491">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/request/cycle/CycleSendRequest.java" timestamp="1592303767063">
+        <mark key="[" line="54" column="12" />
+        <mark key="]" line="54" column="22" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592290090019">
@@ -260,10 +260,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1320770</text>
+        <text>ZqsConstant</text>
       </register>
       <register name="+" type="4">
-        <text>1320770</text>
+        <text>ZqsConstant</text>
       </register>
       <register name="-" type="4">
         <text>Param</text>
