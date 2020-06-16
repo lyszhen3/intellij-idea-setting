@@ -71,6 +71,7 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1592297915775" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendTimeDTO.java" timestamp="1592291377142">
         <mark key="[" line="36" column="51" />
         <mark key="]" line="36" column="54" />
@@ -140,10 +141,6 @@
         <mark key="]" line="50" column="33" />
         <mark key="^" line="50" column="33" />
         <mark key="." line="50" column="32" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/resources/sdp/sdp-mojo-rule.xml" timestamp="1592288378988">
-        <mark key="[" line="92" column="18" />
-        <mark key="]" line="92" column="52" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/vo/CycleSendRuleVO.java" timestamp="1592294213031">
         <mark key="[" line="18" column="0" />
