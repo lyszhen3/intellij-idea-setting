@@ -90,9 +90,9 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592291414612">
-        <mark key="[" line="150" column="25" />
-        <mark key="]" line="150" column="29" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592293348960">
+        <mark key="[" line="145" column="12" />
+        <mark key="]" line="145" column="29" />
         <mark key="." line="150" column="28" />
         <mark key="^" line="150" column="29" />
       </file>
@@ -238,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CycleSendTime</text>
+        <text>CycleSendConfirmVO</text>
       </register>
       <register name="+" type="4">
-        <text>CycleSendTime</text>
+        <text>CycleSendConfirmVO</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
