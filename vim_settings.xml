@@ -65,51 +65,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592294999639">
+        <mark key="[" line="180" column="12" />
+        <mark key="]" line="180" column="88" />
+        <mark key="." line="180" column="12" />
+        <mark key="^" line="145" column="31" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/request/cycle/CycleSendParam.java" timestamp="1592297324796">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/utils/ShipTimeUtils.java" timestamp="1592297915775" />
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/params/template/CycleSendParam.java" timestamp="1592303779697" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/service/AdpTemplateServiceImpl.java" timestamp="1592359766075" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendTimeDTO.java" timestamp="1592291377142">
         <mark key="[" line="36" column="51" />
         <mark key="]" line="36" column="54" />
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="53" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/common/ZqsConstant.java" timestamp="1592303830939">
-        <mark key="[" line="6" column="13" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleResult.java" timestamp="1592290097802">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendModelDTO.java" timestamp="1592291215830">
-        <mark key="[" line="75" column="53" />
-        <mark key="]" line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-        <mark key="." line="31" column="36" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ErrorCode.java" timestamp="1592290200860">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="46" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ZqsConstant.java" timestamp="1592303783882">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="8" column="46" />
-        <mark key="^" line="8" column="47" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592294999639">
-        <mark key="[" line="180" column="12" />
-        <mark key="]" line="180" column="88" />
-        <mark key="." line="180" column="12" />
-        <mark key="^" line="145" column="31" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592290090019">
         <mark key="[" line="7" column="0" />
@@ -120,6 +93,9 @@
         <mark key="]" line="23" column="7" />
         <mark key="." line="23" column="7" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/common/ZqsConstant.java" timestamp="1592303830939">
+        <mark key="[" line="6" column="13" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/CycleSendRuleDTO.java" timestamp="1592291346405">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="16" column="0" />
@@ -128,6 +104,11 @@
       <file name="D:/workspace/company/adp2/adp2-api/src/main/java/com/alibaba/delivery/platform/client/service/ZqsDetailService.java" timestamp="1592296509206">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="20" column="94" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleResult.java" timestamp="1592290097802">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/CycleDetailService.java" timestamp="1592296574606">
         <mark key="[" line="18" column="4" />
@@ -145,12 +126,30 @@
         <mark key="^" line="50" column="33" />
         <mark key="." line="50" column="32" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendModelDTO.java" timestamp="1592291215830">
+        <mark key="[" line="75" column="53" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="36" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/out/template/vo/CycleSendRuleVO.java" timestamp="1592294213031">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="84" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1592303822612">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ErrorCode.java" timestamp="1592290200860">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="46" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/ZqsConstant.java" timestamp="1592303783882">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="47" />
       </file>
     </filemarks>
     <jumps>
