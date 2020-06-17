@@ -90,19 +90,17 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ErrorCode.java" timestamp="1592376186873">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="46" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleRuleUtil.java" timestamp="1592377208055">
         <mark key="[" line="585" column="56" />
         <mark key="]" line="585" column="25" />
         <mark key="^" line="585" column="25" />
         <mark key="." line="585" column="24" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1592380446621" />
+      <file name="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/RetCodeEnum.java" timestamp="1592383442301">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="18" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1592384908277" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592379766548">
         <mark key="'" line="166" column="12" />
         <mark key="[" line="447" column="25" />
@@ -145,16 +143,16 @@
       <file name="/Dummy.txt" timestamp="1592378301135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/constant/Adp2ErrorCode.java" timestamp="1592376274058">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="68" column="90" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsContext.java" timestamp="1592377483195">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/util/CycleRuleUtil.java" timestamp="1592377031268" />
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1592384931127">
+        <mark key="[" line="552" column="51" />
+        <mark key="]" line="552" column="65" />
+      </file>
       <file name="/fragment.java" timestamp="1592377174074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -265,10 +263,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DTO</text>
+        <text>ILLEGAL_REQUEST</text>
       </register>
       <register name="+" type="4">
-        <text>CycleErrorCode</text>
+        <text>ILLEGAL_REQUEST</text>
       </register>
       <register name="-" type="4">
         <text>DTO</text>
