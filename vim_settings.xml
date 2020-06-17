@@ -73,7 +73,7 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="40" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592379841162">
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592383058113">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="56" />
         <mark key="." line="74" column="0" />
@@ -136,17 +136,18 @@
         <mark key="." line="2373" column="29" />
         <mark key="^" line="2373" column="30" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592383209062">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592378301135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/constant/Adp2ErrorCode.java" timestamp="1592376274058">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="68" column="90" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleTemplateType.java" timestamp="1592375700169">
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="6" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsContext.java" timestamp="1592377483195">
         <mark key="[" line="2" column="0" />
@@ -263,8 +264,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvL+WmguaenOWkp+S6juacgOWkp+WAvOWwj+S6juacgOWwj+WAvOaKpemUmSwg6Ziy5q2i5Lqk5piT5YiH5o2i6L+Q6YCB5pa55byP5oql6ZSZLOe7meS4qum7mOiupOWAvAo=</text>
+      <register name="&quot;" type="4">
+        <text>DTO</text>
       </register>
       <register name="+" type="4">
         <text>CycleErrorCode</text>
