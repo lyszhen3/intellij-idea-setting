@@ -67,90 +67,94 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/TmallIncubator/ti-bundles/ti-group/ti-group-core/src/main/java/com/taobao/trade/tmallincubator/group/api/cycle/enums/SellerType.java" timestamp="1592362837708">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="23" column="5" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/error/CycleServiceException.java" timestamp="1592376740512">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="29" column="40" />
       </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1592363113807">
-        <mark key="[" line="66" column="41" />
-        <mark key="]" line="67" column="37" />
-        <mark key="." line="67" column="36" />
-        <mark key="^" line="67" column="37" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592379841162">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="56" />
+        <mark key="." line="74" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleResult.java" timestamp="1592363448762">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="36" column="32" />
-        <mark key="." line="36" column="31" />
-        <mark key="^" line="36" column="32" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsTemplateSelector.java" timestamp="1592376854026">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="4" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592375187935">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="306" column="9" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleSendInfoParam.java" timestamp="1592379738455">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="30" />
       </file>
-      <file name="D:/workspace/company/TmallIncubator/ti-bundles/ti-group/ti-group-core/src/main/java/com/taobao/trade/tmallincubator/group/diamond/cycle/CycleDeliveryConstant.java" timestamp="1592363832612">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="76" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ErrorCode.java" timestamp="1592376186873">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="45" />
+        <mark key="^" line="10" column="46" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendParseDTO.java" timestamp="1592365130361">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleRuleUtil.java" timestamp="1592377208055">
+        <mark key="[" line="585" column="56" />
+        <mark key="]" line="585" column="25" />
+        <mark key="^" line="585" column="25" />
+        <mark key="." line="585" column="24" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleSendInfoParam.java" timestamp="1592365190551">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="48" column="34" />
-        <mark key="." line="94" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1592380446621" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592379766548">
+        <mark key="'" line="166" column="12" />
+        <mark key="[" line="447" column="25" />
+        <mark key="]" line="447" column="25" />
+        <mark key="." line="447" column="24" />
+        <mark key="^" line="447" column="25" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1592374294661">
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="350" column="5" />
-        <mark key="^" line="170" column="29" />
-        <mark key="." line="170" column="28" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleTemplateSelector.java" timestamp="1592376889029">
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="49" column="10" />
+        <mark key="^" line="49" column="11" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/error/AdpServiceException.java" timestamp="1592376493928">
+        <mark key="[" line="5" column="13" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsCalculator.java" timestamp="1592377564920">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="25" column="21" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleErrorCode.java" timestamp="1592376362199">
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="71" column="75" />
+        <mark key="." line="71" column="61" />
+      </file>
+      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1592377683974">
+        <mark key="[" line="2373" column="27" />
+        <mark key="]" line="2373" column="30" />
+        <mark key="." line="2373" column="29" />
+        <mark key="^" line="2373" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592378301135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/constant/Adp2ErrorCode.java" timestamp="1592376274058">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="68" column="90" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleTemplateType.java" timestamp="1592375700169">
         <mark key="]" line="12" column="7" />
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592363434732">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="48" column="22" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsContext.java" timestamp="1592377483195">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="/" timestamp="1592374953087">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleSellerType.java" timestamp="1592362952261">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="17" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/adp2-ic-client.xml" timestamp="1592364523481">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="48" column="11" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/client/ic-client.xml" timestamp="1592364576911">
-        <mark key="[" line="117" column="14" />
-        <mark key="]" line="117" column="37" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="137" column="4" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592375914268">
-        <mark key="'" line="166" column="12" />
-        <mark key="[" line="172" column="47" />
-        <mark key="]" line="172" column="64" />
-        <mark key="." line="165" column="59" />
-        <mark key="^" line="165" column="60" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/trade/tmallincubator/ti-group-core/1.0.2-SNAPSHOT/ti-group-core-1.0.2-SNAPSHOT-sources.jar!/com/taobao/trade/tmallincubator/group/diamond/cycle/CycleDeliveryConstant.java" timestamp="1592363614988">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="42" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/ZqsType.java" timestamp="1592375646225">
-        <mark key="[" line="9" column="19" />
-      </file>
-      <file name="/fragment.java" timestamp="1592375636851">
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/util/CycleRuleUtil.java" timestamp="1592377031268" />
+      <file name="/fragment.java" timestamp="1592377174074">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -259,44 +263,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>zqsProcessorHolder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkvL+WmguaenOWkp+S6juacgOWkp+WAvOWwj+S6juacgOWwj+WAvOaKpemUmSwg6Ziy5q2i5Lqk5piT5YiH5o2i6L+Q6YCB5pa55byP5oql6ZSZLOe7meS4qum7mOiupOWAvAo=</text>
       </register>
       <register name="+" type="4">
-        <text>zqsProcessorHolder</text>
+        <text>CycleErrorCode</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>DTO</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CQkJCQkvL+WmguaenOWkp+S6juacgOWkp+WAvOWwj+S6juacgOWwj+WAvOaKpemUmSwg6Ziy5q2i5Lqk5piT5YiH5o2i6L+Q6YCB5pa55byP5oql6ZSZLOe7meS4qum7mOiupOWAvAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IC0zNzA2Njg4Mzg5MDkwMzYwOTc5TDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBZHBTZXJ2aWNlRXhjZXB0aW9uKG5ldyBFcnJvckNvZGUoIumAieaLqeeahOasoeaVsOWkp+S6juiHquWumuS5ieacgOWwj+WAvOaIluWkp+S6juacgOWkp+WAvCIpKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgSXRlbUNlbnRlclNlcnZpY2UgaXRlbUNlbnRlclNlcnZpY2UgPSBCaXpTZXJ2aWNlTG9jYXRvci5nZXRJdGVtQ2VudGVyU2VydmljZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vIOWFpeWPguS4reeahOmikeeOh++8jOW/hemhu+aYr+aooeadv+S4reeahOafkOS4qumikeeOh++8jOWQpuWImeaYr+mdnuazleaVsOaNrgovLyAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQWRwU2VydmljZUV4Y2VwdGlvbihuZXcgRXJyb3JDb2RlKCJTTEVDVF9GUkVRVUVOQ1lfTk9UX0RFRklORV9JTl9URU1QTEFURSIpLAovLyAgICAgICAgICAgICAgICAgICAgInNlbGVjdCBmcmVxdWVuY3kgbm90IGRlZmluZWQgaW4gdGVtcGxhdGUgZnJlcXVlbmN5IGxpc3QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJQ3ljbGVTZW5kRnJlcXVlbmN5RFRPIGZyZXF1ZW5jeSA9IEpTT04ucGFyc2VPYmplY3QoZnJlcXVlbmN5SnNvbiwgQ3ljbGVTZW5kRnJlcXVlbmN5LmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBZHBTZXJ2aWNlRXhjZXB0aW9uKG5ldyBFcnJvckNvZGUoIlNMRUNUX01PREVMX05PVF9ERUZJTkVfSU5fVEVNUExBVEUiKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAic2VsZWN0IG1vZGVsIG5vdCBkZWZpbmVkIGluIHRlbXBsYXRlIG1vZGVsIGxpc3QiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoc2VsZWN0ZWRNb2RlbC5nZXRNb2RlbFR5cGUoKSA9PSBudWxsKSB7Ci8vLy8gICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFkcFNlcnZpY2VFeGNlcHRpb24oQWRwMkVycm9yQ29kZS5QQVJBTV9JTlZBTElELCAicGFyYW0gaW52YWxpZDogQ3ljbGVTZW5kSW5mb1JlcS5zZWxlY3RlZE1vZGVsLm1vZGVsVHlwZSIpOwovLy8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZm9yIChJbnRlZ2VyIHRlbXAgOiBpdGVtVGFncykgewoJCQkJaWYgKEN5Y2xlRGVsaXZlcnlDb25zdGFudC5MWl9UQUdTID09IHRlbXApIHsKCQkJCQlyZXR1cm4gQ3ljbGVTZWxsZXJUeXBlLkxaLmdldENvZGUoKTsKCQkJCX0gZWxzZSBpZiAoQ3ljbGVEZWxpdmVyeUNvbnN0YW50LkdNX1RBR1MgPT0gdGVtcCkgewoJCQkJCXJldHVybiBDeWNsZVNlbGxlclR5cGUuR00uZ2V0Q29kZSgpOwoJCQkJfQoJCQl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>162,357s/req/param/gc</text>
