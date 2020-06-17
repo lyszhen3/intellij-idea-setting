@@ -73,10 +73,11 @@
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="40" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592383058113">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="56" />
-        <mark key="." line="74" column="0" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592387653136">
+        <mark key="[" line="102" column="27" />
+        <mark key="]" line="102" column="47" />
+        <mark key="." line="102" column="27" />
+        <mark key="^" line="101" column="8" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsTemplateSelector.java" timestamp="1592376854026">
         <mark key="[" line="12" column="4" />
@@ -101,10 +102,16 @@
         <mark key="]" line="21" column="18" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1592384908277" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592379766548">
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleModelConvert.java" timestamp="1592387434317">
+        <mark key="[" line="36" column="78" />
+        <mark key="]" line="37" column="73" />
+        <mark key="." line="37" column="72" />
+        <mark key="^" line="37" column="73" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592386872402">
         <mark key="'" line="166" column="12" />
-        <mark key="[" line="447" column="25" />
-        <mark key="]" line="447" column="25" />
+        <mark key="[" line="442" column="79" />
+        <mark key="]" line="442" column="92" />
         <mark key="." line="447" column="24" />
         <mark key="^" line="447" column="25" />
       </file>
@@ -114,19 +121,11 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="11" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/error/AdpServiceException.java" timestamp="1592376493928">
-        <mark key="[" line="5" column="13" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsCalculator.java" timestamp="1592377564920">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="25" column="21" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/common/cycle/CycleErrorCode.java" timestamp="1592376362199">
-        <mark key="[" line="71" column="61" />
-        <mark key="]" line="71" column="75" />
-        <mark key="." line="71" column="61" />
       </file>
       <file name="D:/workspace/company/sdp/pom.xml" timestamp="1592377683974">
         <mark key="[" line="2373" column="27" />
@@ -134,11 +133,11 @@
         <mark key="." line="2373" column="29" />
         <mark key="^" line="2373" column="30" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592383209062">
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592387250654">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="37" />
+        <mark key="." line="65" column="6" />
+        <mark key="^" line="65" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1592378301135">
         <mark key="[" line="0" column="0" />
@@ -152,6 +151,11 @@
       <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1592384931127">
         <mark key="[" line="552" column="51" />
         <mark key="]" line="552" column="65" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendFrequencyDTO.java" timestamp="1592386734852">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1592377174074">
         <mark key="[" line="0" column="0" />
@@ -263,43 +267,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ILLEGAL_REQUEST</text>
+        <text>supportFrequencys</text>
       </register>
       <register name="+" type="4">
-        <text>ILLEGAL_REQUEST</text>
+        <text>supportFrequencyDTOs</text>
       </register>
       <register name="-" type="4">
-        <text>DTO</text>
+        <text>supportFrequencys</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvL+WmguaenOWkp+S6juacgOWkp+WAvOWwj+S6juacgOWwj+WAvOaKpemUmSwg6Ziy5q2i5Lqk5piT5YiH5o2i6L+Q6YCB5pa55byP5oql6ZSZLOe7meS4qum7mOiupOWAvAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBZHBTZXJ2aWNlRXhjZXB0aW9uKG5ldyBFcnJvckNvZGUoIumAieaLqeeahOasoeaVsOWkp+S6juiHquWumuS5ieacgOWwj+WAvOaIluWkp+S6juacgOWkp+WAvCIpKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vIOWFpeWPguS4reeahOmikeeOh++8jOW/hemhu+aYr+aooeadv+S4reeahOafkOS4qumikeeOh++8jOWQpuWImeaYr+mdnuazleaVsOaNrgovLyAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQWRwU2VydmljZUV4Y2VwdGlvbihuZXcgRXJyb3JDb2RlKCJTTEVDVF9GUkVRVUVOQ1lfTk9UX0RFRklORV9JTl9URU1QTEFURSIpLAovLyAgICAgICAgICAgICAgICAgICAgInNlbGVjdCBmcmVxdWVuY3kgbm90IGRlZmluZWQgaW4gdGVtcGxhdGUgZnJlcXVlbmN5IGxpc3QiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJQ3ljbGVTZW5kRnJlcXVlbmN5RFRPIGZyZXF1ZW5jeSA9IEpTT04ucGFyc2VPYmplY3QoZnJlcXVlbmN5SnNvbiwgQ3ljbGVTZW5kRnJlcXVlbmN5LmNsYXNzKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBZHBTZXJ2aWNlRXhjZXB0aW9uKG5ldyBFcnJvckNvZGUoIlNMRUNUX01PREVMX05PVF9ERUZJTkVfSU5fVEVNUExBVEUiKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAic2VsZWN0IG1vZGVsIG5vdCBkZWZpbmVkIGluIHRlbXBsYXRlIG1vZGVsIGxpc3QiKTsK</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CgkJaWYgKG8gPT0gdGhpcykgewoJCQlyZXR1cm4gdHJ1ZTsKCQl9IGVsc2UgaWYgKCEobyBpbnN0YW5jZW9mIEN5Y2xlU2VuZEZyZXF1ZW5jeURUTykpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0gZWxzZSB7CgkJCUN5Y2xlU2VuZEZyZXF1ZW5jeURUTyBvdGhlciA9IChDeWNsZVNlbmRGcmVxdWVuY3lEVE8pIG87CgkJCWlmIChmcmVxdWVuY3lUeXBlICE9IG51bGwgPyAhZnJlcXVlbmN5VHlwZS5lcXVhbHMob3RoZXIuZnJlcXVlbmN5VHlwZSkgOiBvdGhlci5mcmVxdWVuY3lUeXBlICE9IG51bGwpIHsKCQkJCXJldHVybiBmYWxzZTsKCQkJfQoJCQlpZiAoY3ljbGVEYXlzICE9IG51bGwgPyAhY3ljbGVEYXlzLmVxdWFscyhvdGhlci5jeWNsZURheXMpIDogb3RoZXIuY3ljbGVEYXlzICE9IG51bGwpIHsKCQkJCXJldHVybiBmYWxzZTsKCQkJfQoJCQlpZiAod2Vla0RheSAhPSBudWxsID8gIXdlZWtEYXkuZXF1YWxzKG90aGVyLndlZWtEYXkpIDogb3RoZXIud2Vla0RheSAhPSBudWxsKSB7CgkJCQlyZXR1cm4gZmFsc2U7CgkJCX0KCgkJCXJldHVybiB0cnVlOwoJCX0KCX0KCglAT3ZlcnJpZGUKCXB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CgkJaW50IHJlc3VsdCA9IDE7CgkJcmVzdWx0ID0gcmVzdWx0ICogNTkgKyAodGhpcy5nZXRGcmVxdWVuY3lUeXBlKCkgPT0gbnVsbCA/IDQzIDogdGhpcy5nZXRGcmVxdWVuY3lUeXBlKCkuaGFzaENvZGUoKSk7CgkJcmVzdWx0ID0gcmVzdWx0ICogNTkgKyAodGhpcy5nZXRDeWNsZURheXMoKSA9PSBudWxsID8gNDMgOiB0aGlzLmdldEN5Y2xlRGF5cygpLmhhc2hDb2RlKCkpOwoJCXJlc3VsdCA9IHJlc3VsdCAqIDU5ICsgKHRoaXMuZ2V0V2Vla0RheSgpID09IG51bGwgPyA0MyA6IHRoaXMuZ2V0V2Vla0RheSgpLmhhc2hDb2RlKCkpOwoJCXJldHVybiByZXN1bHQ7Cgl9CgoJcHVibGljIHN0YXRpYyBjbGFzcyBGcmVxdWVuY3lUeXBlIHsKCQkvKioKCQkgKiDpmpRO5aSp6YCBCgkJICovCgkJcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgTl9EQVlTID0gMTsKCgkJLyoqCgkJICog5ZGo5pyr6YCBCgkJICovCgkJcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgV0VFS0VORCA9IDI7CgoJCS8qKgoJCSAqIOW3peS9nOaXpemAgQoJCSAqLwoJCXB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFdPUktEQVlTID0gMzsKCgkJLyoqCgkJICog5q+P5ZGo5Yeg6YCB77yI5Zu65a6a5q+P5ZGo55qE5ZGo5Yeg6YWN6YCB77yJCgkJICovCgkJcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgV0VFS0RBWSA9IDQ7Cgl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoc2VsZWN0ZWRNb2RlbC5nZXRNb2RlbFR5cGUoKSA9PSBudWxsKSB7Ci8vLy8gICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFkcFNlcnZpY2VFeGNlcHRpb24oQWRwMkVycm9yQ29kZS5QQVJBTV9JTlZBTElELCAicGFyYW0gaW52YWxpZDogQ3ljbGVTZW5kSW5mb1JlcS5zZWxlY3RlZE1vZGVsLm1vZGVsVHlwZSIpOwovLy8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJCQkvL+WmguaenOWkp+S6juacgOWkp+WAvOWwj+S6juacgOWwj+WAvOaKpemUmSwg6Ziy5q2i5Lqk5piT5YiH5o2i6L+Q6YCB5pa55byP5oql6ZSZLOe7meS4qum7mOiupOWAvAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBZHBTZXJ2aWNlRXhjZXB0aW9uKG5ldyBFcnJvckNvZGUoIumAieaLqeeahOasoeaVsOWkp+S6juiHquWumuS5ieacgOWwj+WAvOaIluWkp+S6juacgOWkp+WAvCIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>162,357s/req/param/gc</text>
