@@ -77,6 +77,12 @@
         <mark key="[" line="110" column="60" />
         <mark key="]" line="110" column="72" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsTemplateSelector.java" timestamp="1592448126175">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="13" column="4" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/ErrorCode.java" timestamp="1592445296469" />
       <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592445828273">
         <mark key="[" line="299" column="23" />
@@ -89,6 +95,12 @@
         <mark key="^" line="10" column="4" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsProcessorHolder.java" timestamp="1592446462858" />
+      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1592448454755">
+        <mark key="[" line="2378" column="32" />
+        <mark key="]" line="2376" column="32" />
+        <mark key="." line="2376" column="31" />
+        <mark key="^" line="2376" column="32" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1592445807658" />
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592446260836">
         <mark key="[" line="32" column="17" />
@@ -105,10 +117,6 @@
         <mark key="^" line="194" column="65" />
         <mark key="." line="194" column="64" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/RetCodeEnum.java" timestamp="1592383442301">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="18" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleModelConvert.java" timestamp="1592387434317">
         <mark key="[" line="36" column="78" />
         <mark key="]" line="37" column="73" />
@@ -117,16 +125,18 @@
       </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592445243055" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/util/CycleRuleUtil.java" timestamp="1592444720904" />
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1592384931127">
-        <mark key="[" line="552" column="51" />
-        <mark key="]" line="552" column="65" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592446380030">
         <mark key="'" line="166" column="12" />
         <mark key="[" line="208" column="48" />
         <mark key="]" line="208" column="62" />
         <mark key="." line="208" column="61" />
         <mark key="^" line="208" column="62" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleTemplateSelector.java" timestamp="1592448349992">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="49" column="10" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendFrequencyDTO.java" timestamp="1592386734852">
         <mark key="[" line="27" column="0" />
@@ -248,43 +258,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl6cXNDb250ZXh0LnNldChjeWNsZVNlbmRSdWxlVk8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="+" type="4">
-        <text>cycleSendRuleDTO</text>
+        <text>LogisticsTemplateRuleService</text>
       </register>
       <register name="-" type="4">
-        <text>setCycleSendRuleVO</text>
+        <text>ZqsType</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl6cXNDb250ZXh0LnNldChjeWNsZVNlbmRSdWxlVk8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSZWZsZWN0QXNtTWFuYWdlci5jb3B5UHJvcGVydGllcyhjeWNsZVNlbmRSdWxlRFRPLCBjeWNsZVNlbmRSdWxlVk8pOwo=</text>
+        <text encoding="base64">CQl6cXNDb250ZXh0LnNldChjeWNsZVNlbmRSdWxlVk8pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlDeWNsZVNlbmRSdWxlVk8gY3ljbGVTZW5kUnVsZVZPID0gbmV3IEN5Y2xlU2VuZFJ1bGVWTygpOwo=</text>
+        <text encoding="base64">CQlSZWZsZWN0QXNtTWFuYWdlci5jb3B5UHJvcGVydGllcyhjeWNsZVNlbmRSdWxlRFRPLCBjeWNsZVNlbmRSdWxlVk8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5tb2RlbC5vdXQudGVtcGxhdGUuQ3ljbGVTZW5kUnVsZURUTzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQlDeWNsZVNlbmRSdWxlVk8gY3ljbGVTZW5kUnVsZVZPID0gbmV3IEN5Y2xlU2VuZFJ1bGVWTygpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5tb2RlbC5vdXQudGVtcGxhdGUuQ3ljbGVTZW5kUnVsZURUTzsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlDeWNsZVNlbmRSdWxlVk8gY3ljbGVTZW5kUnVsZVZPID0gbmV3IEN5Y2xlU2VuZFJ1bGVWTygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>162,357s/req/param/gc</text>
