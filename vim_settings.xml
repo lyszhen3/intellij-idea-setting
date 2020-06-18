@@ -96,11 +96,6 @@
         <mark key="^" line="21" column="14" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-service/src/main/java/com/alibaba/ascp/sdp2/core/service/biz/impl/SdpTemplateLineServiceImpl.java" timestamp="1592471914619" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1592463678777">
-        <mark key="'" line="361" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="74" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/render/CommonRuleRender.java" timestamp="1592465739910">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -126,6 +121,7 @@
         <mark key="]" line="623" column="0" />
         <mark key="." line="623" column="0" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1592474301063" />
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592467780820">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="26" />
