@@ -67,6 +67,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/render/MultiRuleRender.java" timestamp="1592465775313">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/error/CycleServiceException.java" timestamp="1592452971680">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="11" column="32" />
@@ -79,11 +84,11 @@
         <mark key="^" line="111" column="89" />
         <mark key="." line="111" column="88" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/CommonRuleCalculator.java" timestamp="1592462050592">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="164" column="10" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/CommonRuleCalculator.java" timestamp="1592465640943">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="163" column="10" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592461769402">
         <mark key="[" line="337" column="0" />
@@ -91,23 +96,35 @@
         <mark key="^" line="305" column="20" />
         <mark key="." line="306" column="37" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider.xml" timestamp="1592465167955">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="0" />
+        <mark key="^" line="378" column="35" />
+        <mark key="." line="380" column="0" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleSendInfoParam.java" timestamp="1592452715575">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="29" />
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsProcessorHolder.java" timestamp="1592465809767">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="14" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1592463678777">
         <mark key="'" line="361" column="0" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="74" column="74" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/render/CommonRuleRender.java" timestamp="1592463300882">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/render/CommonRuleRender.java" timestamp="1592465739910">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592452518744">
+      <file name="/Dummy.txt" timestamp="1592465890493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -116,11 +133,11 @@
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="55" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/MultiRuleCalculator.java" timestamp="1592462085478">
-        <mark key="[" line="117" column="97" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="116" column="0" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/MultiRuleCalculator.java" timestamp="1592465712224">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="114" column="0" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleRuleUtil.java" timestamp="1592464156633">
         <mark key="[" line="623" column="0" />
@@ -133,20 +150,28 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="31" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/AdpInterfaceSource.java" timestamp="1592450045992">
-        <mark key="[" line="59" column="57" />
-        <mark key="]" line="59" column="73" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1592465555504">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1592450380393">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592463886006">
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592465463413">
         <mark key="'" line="218" column="30" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="22" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/MultiRuleTemplateSelector.java" timestamp="1592465593906">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/sdp-platform.xml" timestamp="1592465797450">
+        <mark key="[" line="292" column="14" />
+        <mark key="]" line="292" column="17" />
+        <mark key="^" line="292" column="17" />
+        <mark key="." line="292" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1592462278478">
         <mark key="[" line="0" column="0" />
@@ -257,44 +282,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Resource</text>
       </register>
       <register name="+" type="4">
-        <text>UicDeliverAddressReadServiceClient</text>
+        <text>MultiRuleRender</text>
       </register>
       <register name="-" type="4">
-        <text>com.alibaba.delivery.platform.util.CycleRuleUtil.</text>
+        <text>Resource</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgRGF0ZSBnZXRMYXRlckRhdGUoRGF0ZSBhLCBEYXRlIGIpIHsKCQlpZiAoYS5hZnRlcihiKSkgewoJCQlyZXR1cm4gYTsKCQl9CgkJcmV0dXJuIGI7Cgl9Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHN0b3JlQ29kZSA9IHRyYWRlSW52ZW50b3J5RE8uZ2V0U3RvcmVDb2RlKCk7Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8udWljLmNvbW1vbi5zZXJ2aWNlLnVzZXJpbmZvLmNsaWVudC5VaWNEZWxpdmVyQWRkcmVzc1NlcnZpY2VDbGllbnQ7Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0id3JpdGVNb2RlIiB2YWx1ZT0iY2VudGVyIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>162,357s/req/param/gc</text>
