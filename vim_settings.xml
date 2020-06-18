@@ -78,17 +78,15 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/zqs/MultiRuleCalculator.java" timestamp="1592452156818">
-        <mark key="[" line="111" column="16" />
-        <mark key="]" line="111" column="89" />
-        <mark key="^" line="111" column="89" />
-        <mark key="." line="111" column="88" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/CommonRuleCalculator.java" timestamp="1592466708072">
         <mark key="[" line="211" column="48" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
         <mark key="^" line="217" column="0" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity.java" timestamp="1592468134566">
+        <mark key="[" line="37" column="84" />
+        <mark key="]" line="37" column="111" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592461769402">
         <mark key="[" line="337" column="0" />
@@ -101,12 +99,6 @@
         <mark key="]" line="380" column="0" />
         <mark key="^" line="378" column="35" />
         <mark key="." line="380" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleSendInfoParam.java" timestamp="1592452715575">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="29" />
-        <mark key="^" line="52" column="31" />
-        <mark key="." line="52" column="30" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsProcessorHolder.java" timestamp="1592465809767">
         <mark key="[" line="21" column="5" />
@@ -149,6 +141,10 @@
         <mark key="]" line="53" column="31" />
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="31" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592467780820">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="26" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1592465555504">
         <mark key="[" line="21" column="0" />
@@ -283,10 +279,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Resource</text>
+        <text>queryItemD2SolutionInstances</text>
       </register>
       <register name="+" type="4">
-        <text>MultiRuleRender</text>
+        <text>queryItemD2SolutionInstances</text>
       </register>
       <register name="-" type="4">
         <text>Resource</text>
