@@ -83,6 +83,7 @@
         <mark key="[" line="37" column="84" />
         <mark key="]" line="37" column="111" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/ParamsAdpModelAdapter.java" timestamp="1592477135371" />
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider.xml" timestamp="1592465167955">
         <mark key="[" line="380" column="0" />
         <mark key="]" line="380" column="0" />
@@ -95,20 +96,10 @@
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-service/src/main/java/com/alibaba/ascp/sdp2/core/service/biz/impl/SdpTemplateLineServiceImpl.java" timestamp="1592471914619" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/render/CommonRuleRender.java" timestamp="1592465739910">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592465890493">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/common/uic/uic-common/common-uic-common/3.7.5.15-log/common-uic-common-3.7.5.15-log-sources.jar!/com/taobao/uic/common/service/userinfo/client/UicDeliverAddressServiceClient.java" timestamp="1592463739252">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="55" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/MultiRuleCalculator.java" timestamp="1592465712224">
         <mark key="[" line="17" column="0" />
@@ -116,22 +107,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="114" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleRuleUtil.java" timestamp="1592464156633">
-        <mark key="[" line="623" column="0" />
-        <mark key="]" line="623" column="0" />
-        <mark key="." line="623" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1592474549010" />
-      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592467780820">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="26" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.java" timestamp="1592471821477" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1592465555504">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1592477345351" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592465463413">
         <mark key="'" line="218" column="30" />
         <mark key="[" line="59" column="22" />
@@ -149,6 +125,23 @@
         <mark key="]" line="292" column="17" />
         <mark key="^" line="292" column="17" />
         <mark key="." line="292" column="16" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-service/src/main/java/com/alibaba/ascp/sdp2/core/service/biz/impl/SdpTemplateLineServiceImpl.java" timestamp="1592471914619" />
+      <file name="/Dummy.txt" timestamp="1592465890493">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/postfree/checker/OutPostFreeChecker.java" timestamp="1592477306310" />
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592467780820">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="26" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.java" timestamp="1592471821477" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1592465555504">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
