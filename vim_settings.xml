@@ -67,46 +67,57 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/error/CycleServiceException.java" timestamp="1592376740512">
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="39" />
-        <mark key="^" line="29" column="40" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592387250654">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="37" />
+        <mark key="." line="65" column="6" />
+        <mark key="^" line="65" column="7" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592387653136">
-        <mark key="[" line="102" column="27" />
-        <mark key="]" line="102" column="47" />
-        <mark key="." line="102" column="27" />
-        <mark key="^" line="101" column="8" />
+      <file name="/Dummy.txt" timestamp="1592446033154">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsTemplateSelector.java" timestamp="1592376854026">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="4" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleCalculator.java" timestamp="1592446084440">
+        <mark key="[" line="111" column="48" />
+        <mark key="]" line="111" column="63" />
+        <mark key="." line="111" column="62" />
+        <mark key="^" line="111" column="63" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleSendInfoParam.java" timestamp="1592379738455">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="31" />
-        <mark key="^" line="52" column="31" />
-        <mark key="." line="52" column="30" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsCalculator.java" timestamp="1592377564920">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="25" column="21" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleRuleUtil.java" timestamp="1592377208055">
-        <mark key="[" line="585" column="56" />
-        <mark key="]" line="585" column="25" />
-        <mark key="^" line="585" column="25" />
-        <mark key="." line="585" column="24" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleRuleUtil.java" timestamp="1592446024141">
+        <mark key="[" line="132" column="64" />
+        <mark key="]" line="132" column="66" />
+        <mark key="^" line="132" column="66" />
+        <mark key="." line="132" column="65" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-common/src/main/java/com/ascp/usa/console/common/constants/client/RetCodeEnum.java" timestamp="1592383442301">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="18" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1592384908277" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleModelConvert.java" timestamp="1592387434317">
         <mark key="[" line="36" column="78" />
         <mark key="]" line="37" column="73" />
         <mark key="." line="37" column="72" />
         <mark key="^" line="37" column="73" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/zqs/MultiRuleCalculator.java" timestamp="1592444848569">
+        <mark key="[" line="110" column="60" />
+        <mark key="]" line="110" column="72" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/Result.java" timestamp="1592445243055" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/util/CycleRuleUtil.java" timestamp="1592444720904" />
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1592384931127">
+        <mark key="[" line="552" column="51" />
+        <mark key="]" line="552" column="65" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/ErrorCode.java" timestamp="1592445296469" />
+      <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592445828273">
+        <mark key="[" line="299" column="23" />
+        <mark key="]" line="299" column="56" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592386872402">
         <mark key="'" line="166" column="12" />
@@ -115,17 +126,16 @@
         <mark key="." line="447" column="24" />
         <mark key="^" line="447" column="25" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/MultiRuleTemplateSelector.java" timestamp="1592376889029">
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="11" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="11" />
+      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendFrequencyDTO.java" timestamp="1592386734852">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsCalculator.java" timestamp="1592377564920">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="25" column="21" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleSendInfoParam.java" timestamp="1592379738455">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="30" />
       </file>
       <file name="D:/workspace/company/sdp/pom.xml" timestamp="1592377683974">
         <mark key="[" line="2373" column="27" />
@@ -133,33 +143,10 @@
         <mark key="." line="2373" column="29" />
         <mark key="^" line="2373" column="30" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendRuleDTO.java" timestamp="1592387250654">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="37" />
-        <mark key="." line="65" column="6" />
-        <mark key="^" line="65" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592378301135">
+      <file name="/fragment.java" timestamp="1592446033147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/ZqsContext.java" timestamp="1592377483195">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/util/CycleRuleUtil.java" timestamp="1592377031268" />
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1592384931127">
-        <mark key="[" line="552" column="51" />
-        <mark key="]" line="552" column="65" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.service/src/main/java/com/cainiao/sdp/shared/api/service/model/response/cycle/CycleSendFrequencyDTO.java" timestamp="1592386734852">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1592377174074">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1592445807658" />
     </filemarks>
     <jumps>
       <jump line="1364" column="43" filename="D:/workspace/company/usa-console/pom.xml" />
@@ -267,10 +254,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>supportFrequencys</text>
+        <text>calcuCycleSendInfo found exception</text>
       </register>
       <register name="+" type="4">
-        <text>supportFrequencyDTOs</text>
+        <text>calcuCycleSendInfo found exception</text>
       </register>
       <register name="-" type="4">
         <text>supportFrequencys</text>
