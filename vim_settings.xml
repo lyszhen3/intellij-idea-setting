@@ -82,12 +82,6 @@
         <mark key="[" line="37" column="84" />
         <mark key="]" line="37" column="111" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1592461769402">
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="345" column="5" />
-        <mark key="^" line="305" column="20" />
-        <mark key="." line="306" column="37" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider.xml" timestamp="1592465167955">
         <mark key="[" line="380" column="0" />
         <mark key="]" line="380" column="0" />
@@ -100,6 +94,7 @@
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="14" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-service/src/main/java/com/alibaba/ascp/sdp2/core/service/biz/impl/SdpTemplateLineServiceImpl.java" timestamp="1592471914619" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1592463678777">
         <mark key="'" line="361" column="0" />
         <mark key="[" line="73" column="0" />
@@ -130,16 +125,11 @@
         <mark key="]" line="623" column="0" />
         <mark key="." line="623" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/util/CycleModelConvert.java" timestamp="1592461616121">
-        <mark key="[" line="53" column="15" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="53" column="30" />
-        <mark key="^" line="53" column="31" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592467780820">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="26" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.java" timestamp="1592471821477" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1592465555504">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
