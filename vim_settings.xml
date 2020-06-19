@@ -67,11 +67,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1592479955700">
+      <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1592551641212">
         <mark key="[" line="31" column="81" />
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="6" />
         <mark key="^" line="27" column="7" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/FeeCalculatorAbility.java" timestamp="1592552106212">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="12" />
+        <mark key="^" line="70" column="12" />
+        <mark key="." line="70" column="11" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/Platform.java" timestamp="1592481509506">
         <mark key="[" line="37" column="51" />
@@ -88,7 +94,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1592550401604">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1592552043155">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -107,14 +113,10 @@
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="31" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1592550049718" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1592551940720" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfig.java" timestamp="1592546583952" />
-      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592467780820">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="26" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" timestamp="1592535806989" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592550218217" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592551000995" />
     </filemarks>
     <jumps>
       <jump line="251" column="37" filename="D:/workspace/company/adp2/adp2-tair/adp2-tair-share/src/main/java/com/alibaba/delivery/platform/subdomain/biz/line/loader/tair/PbLogisticsLineDOList.java" />
