@@ -83,6 +83,10 @@
         <mark key="." line="111" column="90" />
         <mark key="^" line="111" column="91" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592546555257">
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="56" />
+      </file>
       <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1592479955700">
         <mark key="[" line="31" column="81" />
         <mark key="]" line="27" column="7" />
@@ -123,11 +127,6 @@
         <mark key="]" line="292" column="17" />
         <mark key="^" line="292" column="17" />
         <mark key="." line="292" column="16" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/render/CommonRuleRender.java" timestamp="1592465739910">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -236,10 +235,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
+        <text>externalServiceProcessor</text>
       </register>
       <register name="+" type="4">
-        <text>com.cainiao.sdp.core.diamond.SPDecisionConfig</text>
+        <text>externalServiceProcessor</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
