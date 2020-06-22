@@ -109,6 +109,10 @@
         <mark key="^" line="108" column="108" />
         <mark key="." line="108" column="107" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/pom.xml" timestamp="1592812814305">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="27" />
+      </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryConfirmService.java" timestamp="1592556456819">
         <mark key="[" line="78" column="102" />
         <mark key="]" line="78" column="108" />
@@ -248,10 +252,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-hema-SNAPSHOT</text>
+        <text>sdp.platform</text>
       </register>
       <register name="+" type="4">
-        <text>shipTimeText</text>
+        <text>sdp.platform</text>
       </register>
       <register name="-" type="4">
         <text>-hema-SNAPSHOT</text>
