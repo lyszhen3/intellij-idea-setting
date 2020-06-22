@@ -74,12 +74,6 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/MockedFeeCalculator.java" timestamp="1592556470326">
-        <mark key="[" line="158" column="107" />
-        <mark key="]" line="158" column="113" />
-        <mark key="^" line="158" column="113" />
-        <mark key="." line="158" column="112" />
-      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1592796882381">
         <mark key="[" line="253" column="19" />
         <mark key="]" line="253" column="42" />
@@ -92,7 +86,7 @@
         <mark key="^" line="86" column="104" />
         <mark key="." line="86" column="103" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592814376375">
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592816405225">
         <mark key="[" line="129" column="37" />
         <mark key="]" line="130" column="23" />
         <mark key="^" line="130" column="23" />
@@ -108,6 +102,9 @@
         <mark key="]" line="65" column="97" />
         <mark key="^" line="65" column="97" />
         <mark key="." line="65" column="96" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592816634804">
+        <mark key="[" line="61" column="5" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/pom.xml" timestamp="1592812814305">
         <mark key="[" line="12" column="16" />
