@@ -89,6 +89,10 @@
         <mark key="^" line="158" column="113" />
         <mark key="." line="158" column="112" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" timestamp="1592795249745">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="71" column="76" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-fee-service/src/main/java/com/alibaba/delivery/logistics/fee/IFeeCalculator.java" timestamp="1592554123779">
         <mark key="[" line="11" column="75" />
         <mark key="]" line="11" column="97" />
@@ -131,12 +135,12 @@
         <mark key="^" line="459" column="97" />
         <mark key="." line="459" column="96" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1592794586605">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1592794644195">
         <mark key="'" line="37" column="4" />
-        <mark key="[" line="132" column="45" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="130" column="0" />
+        <mark key="[" line="104" column="90" />
+        <mark key="]" line="104" column="90" />
+        <mark key="." line="104" column="89" />
+        <mark key="^" line="104" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -245,10 +249,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>getMallGroupBuyHeader</text>
       </register>
       <register name="+" type="4">
-        <text>ACTIVITY_START_TIME</text>
+        <text>getMallGroupBuyHeader</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
