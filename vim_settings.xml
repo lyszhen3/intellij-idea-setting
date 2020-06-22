@@ -18,6 +18,7 @@
         <entry>CacheEnum.LINE</entry>
         <entry>req</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry>56</entry>
       </history-search>
       <history-cmd>
         <entry>305,318/param</entry>
@@ -80,19 +81,13 @@
         <mark key="^" line="255" column="10" />
         <mark key="." line="255" column="9" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/PartnerFeeCalculator.java" timestamp="1592556484596">
-        <mark key="[" line="86" column="98" />
-        <mark key="]" line="86" column="104" />
-        <mark key="^" line="86" column="104" />
-        <mark key="." line="86" column="103" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592816405225">
         <mark key="[" line="129" column="37" />
         <mark key="]" line="130" column="23" />
         <mark key="^" line="130" column="23" />
         <mark key="." line="130" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592798378569">
+      <file name="/Dummy.txt" timestamp="1592816999669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -103,14 +98,20 @@
         <mark key="^" line="65" column="97" />
         <mark key="." line="65" column="96" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592816634804">
-        <mark key="[" line="61" column="5" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592817157432">
+        <mark key="[" line="67" column="84" />
+        <mark key="]" line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+        <mark key="." line="68" column="39" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/pom.xml" timestamp="1592812814305">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="27" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CpLineService.java" timestamp="1592814046332" />
+      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1592817315593">
+        <mark key="'" line="7" column="22" />
+      </file>
       <file name="D:/workspace/company/adp/pom.xml" timestamp="1592798373345">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
@@ -139,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="72" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="5" column="51" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="356" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="67" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
@@ -239,21 +239,22 @@
       <jump line="208" column="30" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" />
       <jump line="38" column="4" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" />
       <jump line="40" column="12" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" />
+      <jump line="7" column="22" filename="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sdp.platform</text>
+        <text>templateManager</text>
       </register>
       <register name="+" type="4">
-        <text>sdp.platform</text>
+        <text>templateManager</text>
       </register>
       <register name="-" type="4">
-        <text>-hema-SNAPSHOT</text>
+        <text>templateManager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcml2YXRlXD4=</text>
+        <text>56</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
@@ -289,12 +290,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
+      <last-search>56</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
+      <last-pattern>56</last-pattern>
       <last-replace>param</last-replace>
       <last-substitute>req</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
