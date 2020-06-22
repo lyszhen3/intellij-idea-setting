@@ -68,7 +68,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592792648310">
+      <file name="/Dummy.txt" timestamp="1592797321876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,11 +89,16 @@
         <mark key="^" line="158" column="113" />
         <mark key="." line="158" column="112" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" timestamp="1592796014383">
-        <mark key="[" line="104" column="8" />
-        <mark key="]" line="38" column="11" />
-        <mark key="^" line="38" column="11" />
-        <mark key="." line="38" column="10" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" timestamp="1592797345419">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1592796882381">
+        <mark key="[" line="253" column="19" />
+        <mark key="]" line="253" column="42" />
+        <mark key="^" line="255" column="10" />
+        <mark key="." line="255" column="9" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-fee-service/src/main/java/com/alibaba/delivery/logistics/fee/IFeeCalculator.java" timestamp="1592554123779">
         <mark key="[" line="11" column="75" />
@@ -144,9 +149,15 @@
         <mark key="." line="104" column="89" />
         <mark key="^" line="104" column="90" />
       </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1592796956892">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="224" column="90" />
+        <mark key="]" line="224" column="114" />
+        <mark key="^" line="224" column="90" />
+        <mark key="." line="224" column="90" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="21" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="366" column="72" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="5" column="51" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
       <jump line="356" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
@@ -246,48 +257,49 @@
       <jump line="361" column="0" filename="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" />
       <jump line="208" column="30" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/CycleDetailServiceImpl.java" />
       <jump line="38" column="4" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" />
+      <jump line="40" column="12" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>|| !NumberUtils.isNumber(activityStatus)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="+" type="4">
-        <text>ACTIVITY_STATUS_TAG</text>
+        <text>shipTimeText</text>
       </register>
       <register name="-" type="4">
-        <text>|| !NumberUtils.isNumber(activityStatus)</text>
+        <text>shipDateText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoYWN0aXZpdHlTdGFydFRpbWUgPT0gbnVsbCB8fCBhY3Rpdml0eUVuZFRpbWUgPT0gbnVsbCkgewoJCQlyZXR1cm4gZmEKCQl9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBpbnN0YW5jZSA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICAgICAgaW5zdGFuY2UuCg==</text>
+        <text encoding="base64">CQlTdHJpbmcgc2hpcERhdGVUZXh0ID0gcGFyc2VTaGlwVGltZShzaGlwRGF0ZSk7CgoJCWlmIChTdHJpbmdVdGlscy5pc0JsYW5rKHNoaXBEYXRlVGV4dCkpIHsKCQkJcmV0dXJuIG51bGw7CgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVXRpbHMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RhdHVzID0gZWxlbWVudHMuZ2V0KEFDVElWSVRZX1NUQVRVUyk7CgogICAgICAgIGlmIChTVEFUVVNfRkFJTC5lcXVhbHMoc3RhdHVzKSkgewogICAgICAgICAgICAvL+WMheWQq+aLvOWbouWksei0peaghyzkuI3lsZXnpLrml7bmlYgKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgc2hpcFRpbWVUZXh0ID0gT3JkZXJDb25maWcuZ2V0SW5zdGFuY2UoKS5nZXRNYWxsR3JvdXBCdXlIZWFkZXIoKTsKCQlzaGlwVGltZVRleHQgKz0gT3JkZXJDb25maWcuZ2V0SW5zdGFuY2UoKS5nZXRFc3RpbWF0ZVRpdGxlKCkgKyBzaGlwRGF0ZVRleHQKCQkJCSsgT3JkZXJDb25maWcuZ2V0SW5zdGFuY2UoKS5nZXRNYWxsR3JvdXBCdXlBYnNvbHV0ZVRhaWwoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaWYgKCkK</text>
+        <text encoding="base64">CQlpZiAoYWN0aXZpdHlTdGFydFRpbWUgPT0gbnVsbCB8fCBhY3Rpdml0eUVuZFRpbWUgPT0gbnVsbCkgewoJCQlyZXR1cm4gZmEKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBpbnN0YW5jZSA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICAgICAgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVXRpbHMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RhdHVzID0gZWxlbWVudHMuZ2V0KEFDVElWSVRZX1NUQVRVUyk7CgogICAgICAgIGlmIChTVEFUVVNfRkFJTC5lcXVhbHMoc3RhdHVzKSkgewogICAgICAgICAgICAvL+WMheWQq+aLvOWbouWksei0peaghyzkuI3lsZXnpLrml7bmlYgKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">CQkJaWYgKCkK</text>
       </register>
       <register name=":" type="4">
         <text>162,357s/req/param/gc</text>
