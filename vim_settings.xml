@@ -68,31 +68,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592797321876">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/adp/adp-test/src/test/java/com/alibaba/adp/fee/FeeCalculatorTest.java" timestamp="1592556516748">
         <mark key="[" line="42" column="64" />
         <mark key="]" line="31" column="17" />
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592554994905">
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="54" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/MockedFeeCalculator.java" timestamp="1592556470326">
         <mark key="[" line="158" column="107" />
         <mark key="]" line="158" column="113" />
         <mark key="^" line="158" column="113" />
         <mark key="." line="158" column="112" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/render/impl/shiptime/MallGroupBuySubOrderShipTimingRender.java" timestamp="1592797345419">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1592796882381">
         <mark key="[" line="253" column="19" />
@@ -106,6 +92,27 @@
         <mark key="^" line="11" column="97" />
         <mark key="." line="11" column="96" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/FeeCalculatorAbility.java" timestamp="1592552258604">
+        <mark key="[" line="91" column="83" />
+        <mark key="]" line="118" column="31" />
+        <mark key="^" line="118" column="31" />
+        <mark key="." line="118" column="30" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/PartnerFeeCalculator.java" timestamp="1592556484596">
+        <mark key="[" line="86" column="98" />
+        <mark key="]" line="86" column="104" />
+        <mark key="^" line="86" column="104" />
+        <mark key="." line="86" column="103" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592798378569">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592554994905">
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="54" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/ReplaceTemplateFeeCalculator.java" timestamp="1592556495342">
         <mark key="[" line="65" column="91" />
         <mark key="]" line="65" column="97" />
@@ -118,23 +125,17 @@
         <mark key="^" line="108" column="108" />
         <mark key="." line="108" column="107" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/FeeCalculatorAbility.java" timestamp="1592552258604">
-        <mark key="[" line="91" column="83" />
-        <mark key="]" line="118" column="31" />
-        <mark key="^" line="118" column="31" />
-        <mark key="." line="118" column="30" />
-      </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryConfirmService.java" timestamp="1592556456819">
         <mark key="[" line="78" column="102" />
         <mark key="]" line="78" column="108" />
         <mark key="^" line="78" column="108" />
         <mark key="." line="78" column="107" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/PartnerFeeCalculator.java" timestamp="1592556484596">
-        <mark key="[" line="86" column="98" />
-        <mark key="]" line="86" column="104" />
-        <mark key="^" line="86" column="104" />
-        <mark key="." line="86" column="103" />
+      <file name="D:/workspace/company/adp/pom.xml" timestamp="1592798373345">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592556504561">
         <mark key="[" line="459" column="91" />
@@ -151,10 +152,10 @@
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1592796956892">
         <mark key="'" line="40" column="12" />
-        <mark key="[" line="224" column="90" />
-        <mark key="]" line="224" column="114" />
-        <mark key="^" line="224" column="90" />
-        <mark key="." line="224" column="90" />
+        <mark key="[" line="158" column="90" />
+        <mark key="]" line="158" column="114" />
+        <mark key="^" line="158" column="90" />
+        <mark key="." line="158" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -262,14 +263,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>-hema-SNAPSHOT</text>
       </register>
       <register name="+" type="4">
         <text>shipTimeText</text>
       </register>
       <register name="-" type="4">
-        <text>shipDateText</text>
+        <text>-hema-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
