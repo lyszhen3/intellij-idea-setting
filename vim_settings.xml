@@ -67,12 +67,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/util/FeeBuildUtil.java" timestamp="1592552814514" />
+      <file name="/Dummy.txt" timestamp="1592792648310">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/adp/adp-test/src/test/java/com/alibaba/adp/fee/FeeCalculatorTest.java" timestamp="1592556516748">
         <mark key="[" line="42" column="64" />
         <mark key="]" line="31" column="17" />
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="16" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/MultiRuleCalculator.java" timestamp="1592535877190">
+        <mark key="[" line="109" column="134" />
+        <mark key="]" line="111" column="91" />
+        <mark key="." line="111" column="90" />
+        <mark key="^" line="111" column="91" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592554994905">
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="54" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/MockedFeeCalculator.java" timestamp="1592556470326">
         <mark key="[" line="158" column="107" />
@@ -86,54 +100,6 @@
         <mark key="^" line="11" column="97" />
         <mark key="." line="11" column="96" />
       </file>
-      <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1592551641212">
-        <mark key="[" line="31" column="81" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="6" />
-        <mark key="^" line="27" column="7" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/FeeCalculatorAbility.java" timestamp="1592552258604">
-        <mark key="[" line="91" column="83" />
-        <mark key="]" line="120" column="31" />
-        <mark key="^" line="120" column="31" />
-        <mark key="." line="120" column="30" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-biz/src/main/java/com/alibaba/delivery/platform/subdomain/biz/valuation/calc/promotion/calc/TemplateSellerPayChecker.java" timestamp="1592548931360" />
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/servicecalc/ExternalServiceProcessor.java" timestamp="1592546637585" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/PartnerFeeCalculator.java" timestamp="1592556484596">
-        <mark key="[" line="86" column="98" />
-        <mark key="]" line="86" column="104" />
-        <mark key="^" line="86" column="104" />
-        <mark key="." line="86" column="103" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592556523220">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1592554573341">
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="55" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="87" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/cycle/calculator/MultiRuleCalculator.java" timestamp="1592535877190">
-        <mark key="[" line="109" column="134" />
-        <mark key="]" line="111" column="91" />
-        <mark key="." line="111" column="90" />
-        <mark key="^" line="111" column="91" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592554994905">
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="54" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-fee-service/src/main/java/com/alibaba/delivery/logistics/fee/model/PostFeeResult.java" timestamp="1592552697271" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1592555584659">
-        <mark key="[" line="210" column="20" />
-        <mark key="]" line="214" column="29" />
-        <mark key="^" line="214" column="29" />
-        <mark key="." line="214" column="28" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/ReplaceTemplateFeeCalculator.java" timestamp="1592556495342">
         <mark key="[" line="65" column="91" />
         <mark key="]" line="65" column="97" />
@@ -146,12 +112,23 @@
         <mark key="^" line="108" column="108" />
         <mark key="." line="108" column="107" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfig.java" timestamp="1592546583952" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/FeeCalculatorAbility.java" timestamp="1592552258604">
+        <mark key="[" line="91" column="83" />
+        <mark key="]" line="118" column="31" />
+        <mark key="^" line="118" column="31" />
+        <mark key="." line="118" column="30" />
+      </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryConfirmService.java" timestamp="1592556456819">
         <mark key="[" line="78" column="102" />
         <mark key="]" line="78" column="108" />
         <mark key="^" line="78" column="108" />
         <mark key="." line="78" column="107" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/PartnerFeeCalculator.java" timestamp="1592556484596">
+        <mark key="[" line="86" column="98" />
+        <mark key="]" line="86" column="104" />
+        <mark key="^" line="86" column="104" />
+        <mark key="." line="86" column="103" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592556504561">
         <mark key="[" line="459" column="91" />
