@@ -69,11 +69,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-test/src/test/java/com/alibaba/adp/fee/FeeCalculatorTest.java" timestamp="1592556516748">
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="16" />
+      <file name="/Dummy.txt" timestamp="1592816999669">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-shiptime.xml" timestamp="1592878711349">
+        <mark key="[" line="162" column="14" />
+        <mark key="]" line="162" column="65" />
       </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1592796882381">
         <mark key="[" line="253" column="19" />
@@ -81,22 +84,9 @@
         <mark key="^" line="255" column="10" />
         <mark key="." line="255" column="9" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592816405225">
-        <mark key="[" line="129" column="37" />
-        <mark key="]" line="130" column="23" />
-        <mark key="^" line="130" column="23" />
-        <mark key="." line="130" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592816999669">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/ReplaceTemplateFeeCalculator.java" timestamp="1592556495342">
-        <mark key="[" line="65" column="91" />
-        <mark key="]" line="65" column="97" />
-        <mark key="^" line="65" column="97" />
-        <mark key="." line="65" column="96" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/cn/CnProtocolsSupportServiceWrapper.java" timestamp="1592825745380">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="40" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592817157432">
         <mark key="[" line="67" column="84" />
@@ -108,7 +98,6 @@
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="27" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CpLineService.java" timestamp="1592814046332" />
       <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1592817315593">
         <mark key="'" line="7" column="22" />
       </file>
@@ -118,11 +107,15 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592556504561">
-        <mark key="[" line="459" column="91" />
-        <mark key="]" line="459" column="97" />
-        <mark key="^" line="459" column="97" />
-        <mark key="." line="459" column="96" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592816405225">
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="130" column="23" />
+        <mark key="^" line="130" column="23" />
+        <mark key="." line="130" column="22" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1592825735127">
+        <mark key="[" line="78" column="59" />
+        <mark key="]" line="78" column="78" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1592794644195">
         <mark key="'" line="37" column="4" />
@@ -245,10 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>templateManager</text>
+        <text>callService</text>
       </register>
       <register name="+" type="4">
-        <text>templateManager</text>
+        <text>callService</text>
       </register>
       <register name="-" type="4">
         <text>templateManager</text>
