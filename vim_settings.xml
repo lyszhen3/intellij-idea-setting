@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592816999669">
+      <file name="/Dummy.txt" timestamp="1592884950430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,6 +137,9 @@
         <mark key="]" line="158" column="114" />
         <mark key="^" line="158" column="90" />
         <mark key="." line="158" column="90" />
+      </file>
+      <file name="/fragment.java" timestamp="1592884950502">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
