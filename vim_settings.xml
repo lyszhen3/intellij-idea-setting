@@ -78,6 +78,11 @@
         <mark key="[" line="162" column="14" />
         <mark key="]" line="162" column="65" />
       </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/AdpProtocol.java" timestamp="1592880979729" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/TagCode.java" timestamp="1592880800767">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="21" />
+      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1592796882381">
         <mark key="[" line="253" column="19" />
         <mark key="]" line="253" column="42" />
@@ -113,6 +118,7 @@
         <mark key="^" line="130" column="23" />
         <mark key="." line="130" column="22" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/service/impl/SellerSettingTimingCalService.java" timestamp="1592880630734" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1592825735127">
         <mark key="[" line="78" column="59" />
         <mark key="]" line="78" column="78" />
@@ -238,10 +244,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>callService</text>
+        <text>INTERNAL_LOGISTICS</text>
       </register>
       <register name="+" type="4">
-        <text>callService</text>
+        <text>INTERNAL_LOGISTICS</text>
       </register>
       <register name="-" type="4">
         <text>templateManager</text>
