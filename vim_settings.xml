@@ -70,49 +70,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592901787047">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-shiptime.xml" timestamp="1592878711349">
         <mark key="[" line="162" column="14" />
         <mark key="]" line="162" column="65" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/AdpProtocol.java" timestamp="1592880979729" />
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/TagCode.java" timestamp="1592880800767">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.config/515-SNAPSHOT/sdp.config-515-20200515.091318-3.jar!/sdp-platform.xml" timestamp="1592902068540">
         <mark key="'" line="199" column="42" />
         <mark key="[" line="32" column="85" />
         <mark key="]" line="32" column="103" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/cn/CnProtocolsSupportServiceWrapper.java" timestamp="1592825745380">
-        <mark key="[" line="46" column="30" />
-        <mark key="]" line="46" column="40" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/config/TairConfig.java" timestamp="1592892660363" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592894163613">
-        <mark key="[" line="25" column="93" />
-        <mark key="]" line="68" column="40" />
-        <mark key="^" line="68" column="40" />
-        <mark key="." line="68" column="39" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/pom.xml" timestamp="1592812814305">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="27" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1592817315593">
-        <mark key="'" line="7" column="22" />
-      </file>
-      <file name="D:/workspace/company/adp/pom.xml" timestamp="1592798373345">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="35" />
-      </file>
+      <file name="D:/workspace/company/sdp/sdp_shared.dal/src/main/resources/spring-dal.xml" timestamp="1592902491349" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592894264330">
         <mark key="[" line="129" column="21" />
         <mark key="]" line="129" column="33" />
@@ -129,10 +96,34 @@
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="25" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1592892024526" />
+      <file name="/Dummy.txt" timestamp="1592901787047">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/AdpProtocol.java" timestamp="1592880979729" />
+      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/TagCode.java" timestamp="1592880800767">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="21" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/cn/CnProtocolsSupportServiceWrapper.java" timestamp="1592825745380">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="40" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/config/TairConfig.java" timestamp="1592892660363" />
+      <file name="D:/workspace/company/sdp/sdp_shared.dal/src/main/resources/spring-db-config-sharding.xml" timestamp="1592902925134" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592894163613">
+        <mark key="[" line="25" column="93" />
+        <mark key="]" line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+        <mark key="." line="68" column="39" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.java" timestamp="1592902750923" />
+      <file name="D:/workspace/company/sdp/sdp_shared.dal/src/main/java/com/cainiao/sdp/shared/dal/mybatis/MybatisLineTemplateDAOImpl.java" timestamp="1592902863247" />
       <file name="/fragment.java" timestamp="1592901787078">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1592892024526" />
     </filemarks>
     <jumps>
       <jump line="373" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
@@ -240,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TemplateServiceImpl</text>
+        <text>spring-db-config-sharding</text>
       </register>
       <register name="+" type="4">
-        <text>TemplateServiceImpl</text>
+        <text>spring-db-config-sharding</text>
       </register>
       <register name="-" type="4">
         <text>2.1.14</text>
