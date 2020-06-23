@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592884950430">
+      <file name="/Dummy.txt" timestamp="1592892810330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,7 +93,8 @@
         <mark key="[" line="46" column="30" />
         <mark key="]" line="46" column="40" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592817157432">
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/config/TairConfig.java" timestamp="1592892660363" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592892788866">
         <mark key="[" line="67" column="84" />
         <mark key="]" line="68" column="40" />
         <mark key="^" line="68" column="40" />
@@ -124,13 +125,6 @@
         <mark key="]" line="78" column="78" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmSolutionConverter.java" timestamp="1592883302436" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/calculator/impl/MallGroupBuySellerSettingShipTimingForwardCalculator.java" timestamp="1592794644195">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="104" column="90" />
-        <mark key="]" line="104" column="90" />
-        <mark key="." line="104" column="89" />
-        <mark key="^" line="104" column="90" />
-      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1592796956892">
         <mark key="'" line="40" column="12" />
         <mark key="[" line="158" column="90" />
@@ -138,9 +132,10 @@
         <mark key="^" line="158" column="90" />
         <mark key="." line="158" column="90" />
       </file>
-      <file name="/fragment.java" timestamp="1592884950502">
+      <file name="/fragment.java" timestamp="1592892211926">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1592892024526" />
     </filemarks>
     <jumps>
       <jump line="5" column="51" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
@@ -248,10 +243,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>INTERNAL_LOGISTICS</text>
+        <text>regionRetailTairManager</text>
       </register>
       <register name="+" type="4">
-        <text>INTERNAL_LOGISTICS</text>
+        <text>regionRetailTairManager</text>
       </register>
       <register name="-" type="4">
         <text>templateManager</text>
