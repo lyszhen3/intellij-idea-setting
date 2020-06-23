@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592892810330">
+      <file name="/Dummy.txt" timestamp="1592894977462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -83,19 +83,17 @@
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="21" />
       </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" timestamp="1592796882381">
-        <mark key="[" line="253" column="19" />
-        <mark key="]" line="253" column="42" />
-        <mark key="^" line="255" column="10" />
-        <mark key="." line="255" column="9" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.config/515-SNAPSHOT/sdp.config-515-20200515.091318-3.jar!/sdp-platform.xml" timestamp="1592895046994">
+        <mark key="[" line="199" column="44" />
+        <mark key="]" line="199" column="69" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/cn/CnProtocolsSupportServiceWrapper.java" timestamp="1592825745380">
         <mark key="[" line="46" column="30" />
         <mark key="]" line="46" column="40" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/config/TairConfig.java" timestamp="1592892660363" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592892788866">
-        <mark key="[" line="67" column="84" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592894163613">
+        <mark key="[" line="25" column="93" />
         <mark key="]" line="68" column="40" />
         <mark key="^" line="68" column="40" />
         <mark key="." line="68" column="39" />
@@ -113,26 +111,23 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592816405225">
-        <mark key="[" line="129" column="37" />
-        <mark key="]" line="130" column="23" />
-        <mark key="^" line="130" column="23" />
-        <mark key="." line="130" column="22" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592894264330">
+        <mark key="[" line="129" column="21" />
+        <mark key="]" line="129" column="33" />
+        <mark key="^" line="130" column="31" />
+        <mark key="." line="129" column="21" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/service/impl/SellerSettingTimingCalService.java" timestamp="1592880630734" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/protocol/ProtocolDispatcherAbility.java" timestamp="1592825735127">
         <mark key="[" line="78" column="59" />
         <mark key="]" line="78" column="78" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmSolutionConverter.java" timestamp="1592883302436" />
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" timestamp="1592796956892">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="158" column="90" />
-        <mark key="]" line="158" column="114" />
-        <mark key="^" line="158" column="90" />
-        <mark key="." line="158" column="90" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmSolutionConverter.java" timestamp="1592893949540" />
+      <file name="D:/workspace/company/sdp/sdp.config/pom.xml" timestamp="1592894184672">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1592892211926">
+      <file name="/fragment.java" timestamp="1592894977483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1592892024526" />
@@ -243,13 +238,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>regionRetailTairManager</text>
+        <text>millau2liaoyuan.init.async</text>
       </register>
       <register name="+" type="4">
-        <text>regionRetailTairManager</text>
+        <text>millau2liaoyuan.init.async</text>
       </register>
       <register name="-" type="4">
-        <text>templateManager</text>
+        <text>2.1.14</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
