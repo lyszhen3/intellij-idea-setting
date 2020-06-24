@@ -70,6 +70,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/sdp2-sdk-model/2.1.6/sdp2-sdk-model-2.1.6.jar!/com/alibaba/ascp/sdp2/sdk/model/base/item/Item.class" timestamp="1592971083092">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="57" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/ability/adp-protocol-dispatch.xml" timestamp="1592969682928">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="41" column="38" />
@@ -98,12 +102,6 @@
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/confirm/ConfirmBlockTradeManager.java" timestamp="1592966460839" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1592969290040" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592904432067">
-        <mark key="[" line="25" column="118" />
-        <mark key="]" line="30" column="36" />
-        <mark key="^" line="30" column="36" />
-        <mark key="." line="30" column="35" />
-      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/code/AdpServiceErrorCode.java" timestamp="1592966404453">
         <mark key="[" line="330" column="44" />
         <mark key="]" line="330" column="69" />
@@ -220,10 +218,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>promotionInitProcessor</text>
+        <text>KEY_TEMPLATE_BASIC_SERVICES</text>
       </register>
       <register name="+" type="4">
-        <text>promotionInitProcessor</text>
+        <text>KEY_TEMPLATE_BASIC_SERVICES</text>
       </register>
       <register name="-" type="4">
         <text>provided</text>
