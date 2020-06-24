@@ -70,22 +70,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.config/515-SNAPSHOT/sdp.config-515-20200515.091318-3.jar!/sdp-platform.xml" timestamp="1592902068540">
-        <mark key="'" line="199" column="42" />
-        <mark key="[" line="32" column="85" />
-        <mark key="]" line="32" column="103" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.platform/515-SNAPSHOT/sdp.platform-515-20200515.091230-3.jar!/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.class" timestamp="1592903800693">
         <mark key="[" line="57" column="31" />
         <mark key="]" line="57" column="47" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592904762024">
-        <mark key="[" line="136" column="19" />
-        <mark key="]" line="136" column="19" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592968474102">
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="26" />
         <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="19" />
+        <mark key="." line="89" column="19" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1592965035032" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1592967761961" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-platform.xml" timestamp="1592905763707">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="51" />
@@ -96,7 +91,7 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592901787047">
+      <file name="/Dummy.txt" timestamp="1592968443934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -112,8 +107,8 @@
         <mark key="[" line="330" column="44" />
         <mark key="]" line="330" column="69" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592966899670" />
-      <file name="/fragment.java" timestamp="1592901787078">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592967553010" />
+      <file name="/fragment.java" timestamp="1592967497292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1592966392098" />
@@ -224,13 +219,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DELIVEY_TEMPLATE_NOT_EXIST</text>
+        <text>provided</text>
       </register>
       <register name="+" type="4">
-        <text>DELIVEY_TEMPLATE_NOT_EXIST</text>
+        <text>compile</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>provided</text>
       </register>
       <register name="/" type="4">
         <text>${.*}</text>
