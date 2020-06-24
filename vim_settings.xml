@@ -70,37 +70,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/adp-shiptime.xml" timestamp="1592878711349">
-        <mark key="[" line="162" column="14" />
-        <mark key="]" line="162" column="65" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.config/515-SNAPSHOT/sdp.config-515-20200515.091318-3.jar!/sdp-platform.xml" timestamp="1592902068540">
-        <mark key="'" line="199" column="42" />
-        <mark key="[" line="32" column="85" />
-        <mark key="]" line="32" column="103" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.platform/515-SNAPSHOT/sdp.platform-515-20200515.091230-3.jar!/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.class" timestamp="1592903800693">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="47" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.dal/src/main/resources/spring-dal.xml" timestamp="1592902491349" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592904762024">
-        <mark key="[" line="136" column="19" />
-        <mark key="]" line="136" column="19" />
-        <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="19" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/shiptime/service/impl/SellerSettingTimingCalService.java" timestamp="1592880630734" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmSolutionConverter.java" timestamp="1592893949540" />
-      <file name="D:/workspace/company/sdp/sdp.config/pom.xml" timestamp="1592894184672">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="25" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1592892024526" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-platform.xml" timestamp="1592905763707">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="51" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/resources/sdp-platform-test.xml" timestamp="1592903529196">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="47" />
@@ -112,23 +81,42 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/AdpProtocol.java" timestamp="1592880979729" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.config/515-SNAPSHOT/sdp.config-515-20200515.091318-3.jar!/sdp-platform.xml" timestamp="1592902068540">
+        <mark key="'" line="199" column="42" />
+        <mark key="[" line="32" column="85" />
+        <mark key="]" line="32" column="103" />
+      </file>
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/constant/TagCode.java" timestamp="1592880800767">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="21" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/config/TairConfig.java" timestamp="1592892660363" />
-      <file name="D:/workspace/company/sdp/sdp_shared.dal/src/main/resources/spring-db-config-sharding.xml" timestamp="1592902925134" />
+      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.platform/515-SNAPSHOT/sdp.platform-515-20200515.091230-3.jar!/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.class" timestamp="1592903800693">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="47" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592904432067">
         <mark key="[" line="25" column="118" />
         <mark key="]" line="30" column="36" />
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="35" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.java" timestamp="1592902750923" />
-      <file name="D:/workspace/company/sdp/sdp_shared.dal/src/main/java/com/cainiao/sdp/shared/dal/mybatis/MybatisLineTemplateDAOImpl.java" timestamp="1592902863247" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592904762024">
+        <mark key="[" line="136" column="19" />
+        <mark key="]" line="136" column="19" />
+        <mark key="^" line="136" column="21" />
+        <mark key="." line="136" column="19" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp.config/pom.xml" timestamp="1592894184672">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="25" />
+      </file>
       <file name="/fragment.java" timestamp="1592901787078">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1592965035032" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-platform.xml" timestamp="1592905763707">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="51" />
       </file>
     </filemarks>
     <jumps>
