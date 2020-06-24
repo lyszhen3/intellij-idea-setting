@@ -70,32 +70,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1592983271716">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/ItemConverter.java" timestamp="1592985683845">
+        <mark key="[" line="81" column="86" />
+        <mark key="]" line="82" column="8" />
+        <mark key="^" line="82" column="8" />
+        <mark key="." line="82" column="7" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/ItemConverter.java" timestamp="1592983542035" />
-      <file name="D:/workspace/company/cdc/cdc-client/src/main/java/com/cainiao/cdc/common/service/CdcTradeService.java" timestamp="1592980667222" />
-      <file name="D:/workspace/company/cdc/cdc-delivery-biz/src/main/java/com/taobao/delivery/biz/sdp/SdpAdapter.java" timestamp="1592981030286">
-        <mark key="[" line="270" column="34" />
-        <mark key="]" line="270" column="55" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/cn/service/impl/CnDeliveryAbilityService.java" timestamp="1592984284105" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1592987383303">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-20200616.075058-5.jar!/com/cainiao/cdc/common/service/CdcTradeService.class" timestamp="1592981034896" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.21/cdc-client-1.11.21-sources.jar!/com/cainiao/cdc/common/service/client/CdcSdpServiceWrapper.java" timestamp="1592980500494" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/SdpCdcTradeWrapper.java" timestamp="1592981408811">
-        <mark key="[" line="95" column="28" />
-        <mark key="]" line="95" column="42" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/base/item/Item.java" timestamp="1592985550198">
+        <mark key="[" line="20" column="87" />
+        <mark key="]" line="21" column="63" />
+        <mark key="^" line="21" column="63" />
+        <mark key="." line="21" column="62" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/platform/provider-legacy.xml" timestamp="1592981363765" />
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/sdp2-sdk-model/2.1.13/sdp2-sdk-model-2.1.13-sources.jar!/com/alibaba/ascp/sdp2/sdk/model/base/item/Item.java" timestamp="1592981950931" />
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.21/cdc-client-1.11.21-sources.jar!/com/cainiao/cdc/common/service/CdcTradeService.java" timestamp="1592980661657">
-        <mark key="[" line="125" column="47" />
-        <mark key="]" line="125" column="68" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnBaseAdapter.java" timestamp="1592984576023" />
+      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1592986230387" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/pom.xml" timestamp="1592986965421" />
+      <file name="/Dummy.txt" timestamp="1592987413724">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/SdpCdcTradeServiceV2Impl.java" timestamp="1592981098716">
-        <mark key="'" line="56" column="12" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/util/BeanCopyUtil.java" timestamp="1592985350131">
+        <mark key="[" line="349" column="8" />
+        <mark key="]" line="353" column="67" />
+        <mark key="^" line="353" column="67" />
+        <mark key="." line="353" column="66" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592986493122">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1592984510473" />
     </filemarks>
     <jumps>
       <jump line="15" column="27" filename="D:/workspace/company/usa-console/pom.xml" />
@@ -202,14 +216,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sdp2-plugin-starter</text>
       </register>
       <register name="+" type="4">
-        <text>cdcTradeService</text>
+        <text>sdp2-plugin-starter</text>
       </register>
       <register name="-" type="4">
-        <text>Item.KEY_TEMPLATE_BASIC_SERVICES)</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>${.*}</text>
