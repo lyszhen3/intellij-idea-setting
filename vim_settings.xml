@@ -70,10 +70,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp.platform/515-SNAPSHOT/sdp.platform-515-20200515.091230-3.jar!/com/cainiao/sdp/platform/template/manager/impl/TemplateManagerImpl.class" timestamp="1592903800693">
-        <mark key="[" line="57" column="31" />
-        <mark key="]" line="57" column="47" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/resources/ability/adp-protocol-dispatch.xml" timestamp="1592969682928">
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="38" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/RegionRetailLogisticsServiceSolutionCalculatorTest.java" timestamp="1592968919870" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/ConfirmManager.java" timestamp="1592969324684" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1592968474102">
         <mark key="[" line="89" column="19" />
         <mark key="]" line="89" column="26" />
@@ -85,18 +87,17 @@
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="51" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/resources/sdp-platform-test.xml" timestamp="1592903529196">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="47" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="47" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592968443934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592970775488">
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="54" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/confirm/ConfirmBlockTradeManager.java" timestamp="1592966460839" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1592969290040" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/java/com/alibaba/ascp/sdp2/app/regionretail/ability/SubscriberServiceTest.java" timestamp="1592904432067">
         <mark key="[" line="25" column="118" />
         <mark key="]" line="30" column="36" />
@@ -219,10 +220,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>provided</text>
+        <text>promotionInitProcessor</text>
       </register>
       <register name="+" type="4">
-        <text>compile</text>
+        <text>promotionInitProcessor</text>
       </register>
       <register name="-" type="4">
         <text>provided</text>
