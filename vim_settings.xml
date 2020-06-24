@@ -87,20 +87,18 @@
         <mark key="." line="89" column="19" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1592967761961" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-platform.xml" timestamp="1592905763707">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="51" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592968443934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/sdp2-sdk-model/2.1.13/sdp2-sdk-model-2.1.13-sources.jar!/com/alibaba/ascp/sdp2/sdk/model/base/item/Item.java" timestamp="1592979344433" />
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/flow/adp2-flow.xml" timestamp="1592970775488">
         <mark key="[" line="58" column="33" />
         <mark key="]" line="58" column="54" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/confirm/ConfirmBlockTradeManager.java" timestamp="1592966460839" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/util/BeanCopyUtil.java" timestamp="1592979180918" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1592969290040" />
       <file name="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/code/AdpServiceErrorCode.java" timestamp="1592966404453">
         <mark key="[" line="330" column="44" />
@@ -110,7 +108,6 @@
       <file name="/fragment.java" timestamp="1592967497292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1592966392098" />
     </filemarks>
     <jumps>
       <jump line="373" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" />
