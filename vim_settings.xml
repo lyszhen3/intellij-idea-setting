@@ -70,34 +70,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1592989922745">
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="120" column="21" />
-        <mark key="." line="120" column="20" />
-        <mark key="^" line="120" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593310926313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/base/item/Item.java" timestamp="1592991070095">
-        <mark key="[" line="20" column="87" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="62" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/NormalFeeCalculator.java" timestamp="1593310793519">
         <mark key="[" line="78" column="12" />
         <mark key="]" line="78" column="55" />
         <mark key="." line="82" column="17" />
         <mark key="^" line="82" column="18" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1592988394429">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/postfree/domain/CheckReq.java" timestamp="1593310702073">
         <mark key="'" line="19" column="32" />
@@ -114,9 +96,9 @@
         <mark key="^" line="856" column="59" />
         <mark key="." line="856" column="58" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1592991056842">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="75" column="0" />
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1593311684099">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="36" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
@@ -126,13 +108,6 @@
         <mark key="^" line="16" column="154" />
         <mark key="." line="16" column="153" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1592987383303">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="44" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1593310466516" />
       <file name="/fragment.java" timestamp="1593310598654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -243,10 +218,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>AdpProtocol.DELIVERY_SERVICETYPE_MENDIAN_JSD</text>
+        <text>plugin-region-retail.version</text>
       </register>
       <register name="+" type="4">
-        <text>AdpProtocol.DELIVERY_SERVICETYPE_MENDIAN_JSD</text>
+        <text>plugin-region-retail.version</text>
       </register>
       <register name="-" type="4">
         <text>TODO LYS</text>
