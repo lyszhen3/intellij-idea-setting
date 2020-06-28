@@ -75,12 +75,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/ItemService.java" timestamp="1593329161748">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="25" />
-      </file>
       <file name="D:/workspace/company/adp2/pom.xml" timestamp="1593333292534">
         <mark key="[" line="45" column="27" />
         <mark key="]" line="45" column="32" />
@@ -149,6 +143,12 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/ScItemExtUtils.java" timestamp="1593330582521" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1593333966317">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="37" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/EcomSessionConverter.java" timestamp="1593330811487" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" timestamp="1593330559063" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/inventory/ip-client/5.1.19/ip-client-5.1.19.jar!/com/taobao/inventory/client/util/IpmSpringBean.class" timestamp="1593333077863">
@@ -263,10 +263,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>${ip.client.version}</text>
+        <text>spring.profiles.active</text>
       </register>
       <register name="+" type="4">
-        <text>5.1.19</text>
+        <text>spring.profiles.active</text>
       </register>
       <register name="-" type="4">
         <text>${ip.client.version}</text>
