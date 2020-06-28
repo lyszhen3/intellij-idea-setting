@@ -94,6 +94,11 @@
         <mark key="[" line="74" column="16" />
         <mark key="]" line="74" column="23" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593325027562">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593313930803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -217,8 +222,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>服务类型校验错误</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8udWljLmNvbW1vbi5kb21haW4uQmFzZURlbGl2ZXJBZGRyZXNzRE87CmltcG9ydCBjb20udGFvYmFvLnVpYy5jb21tb24uZG9tYWluLlJlc3VsdERPOwppbXBvcnQgY29tLnRhb2Jhby51aWMuY29tbW9uLnNlcnZpY2UudXNlcmluZm8uY2xpZW50LlVpY0RlbGl2ZXJBZGRyZXNzUmVhZFNlcnZpY2VDbGllbnQ7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>服务类型校验错误</text>
@@ -230,31 +235,31 @@
         <text>com.cainiao.sdp.shared.api.service.common.cycle.</text>
       </register>
       <register name="1" type="2">
-        <text>修改淘速达卖家包邮计算</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8udWljLmNvbW1vbi5kb21haW4uQmFzZURlbGl2ZXJBZGRyZXNzRE87CmltcG9ydCBjb20udGFvYmFvLnVpYy5jb21tb24uZG9tYWluLlJlc3VsdERPOwppbXBvcnQgY29tLnRhb2Jhby51aWMuY29tbW9uLnNlcnZpY2UudXNlcmluZm8uY2xpZW50LlVpY0RlbGl2ZXJBZGRyZXNzUmVhZFNlcnZpY2VDbGllbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uaXRlbS5kb21haW4uQXBwSW5mb0RPOwppbXBvcnQgY29tLnRhb2Jhby5pdGVtLmRvbWFpbi5JdGVtRE87CmltcG9ydCBjb20udGFvYmFvLml0ZW0uZG9tYWluLmNoYW5uZWxpbnYuSW52ZW50b3J5UnVsZURPOwppbXBvcnQgY29tLnRhb2Jhby5pdGVtLmRvbWFpbi5jaGFubmVsaW52LlRyYWRlSW52ZW50b3J5RE87CmltcG9ydCBjb20udGFvYmFvLml0ZW0uZG9tYWluLnF1ZXJ5LlF1ZXJ5SXRlbU9wdGlvbnNETzsKaW1wb3J0IGNvbS50YW9iYW8uaXRlbS5kb21haW4ucXVlcnkuUXVlcnlRdWFudGl0eURPOwppbXBvcnQgY29tLnRhb2Jhby5pdGVtLmRvbWFpbi5yZXN1bHQuQmF0Y2hJdGVtUmVzdWx0RE87CmltcG9ydCBjb20udGFvYmFvLml0ZW0uZG9tYWluLnJlc3VsdC5JdGVtUXVhbnRpdHlSZXN1bHRETzsKaW1wb3J0IGNvbS50YW9iYW8uaXRlbS5zZWFyY2guaXRlbWluc3RhbnQuSXRlbUluc3RhbnRTZWFyY2hETzsKaW1wb3J0IGNvbS50YW9iYW8uaXRlbS5zZWFyY2guaXRlbWluc3RhbnQuSXRlbUluc3RhbnRTZWFyY2hRdWVyeTsKaW1wb3J0IGNvbS50YW9iYW8uaXRlbS5zZXJ2aWNlLkl0ZW1JbnN0YW50U2VhcmNoU2VydmljZTsKaW1wb3J0IGNvbS50YW9iYW8uaXRlbS5zZXJ2aWNlLmNsaWVudC5JdGVtUXVlcnlTZXJ2aWNlQ2xpZW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLnNkcC5zaGFyZWQuYXBpLnNlcnZpY2UuY29tbW9uLmN5Y2xlLkN5Y2xlUmVzdWx0OwppbXBvcnQgY29tLmNhaW5pYW8uc2RwLnNoYXJlZC5hcGkuc2VydmljZS5tb2RlbC5yZXF1ZXN0LmN5Y2xlLkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uY2Fpbmlhby5zZHAuc2hhcmVkLmFwaS5zZXJ2aWNlLm1vZGVsLnJlc3BvbnNlLmN5Y2xlLkN5Y2xlU2VuZFJ1bGVEVE87Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uY29tbW9uLnNlYXJjaGVuZ2luZS5TZWFyY2hSZXN1bHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLnNkcC5wbGF0Zm9ybS5hcGkuc2VydmljZS5jeWNsZS5jYWxjdWxhdG9yLlpxc0NhbGN1bGF0b3I7CmltcG9ydCBjb20uY2Fpbmlhby5zZHAucGxhdGZvcm0uYXBpLnNlcnZpY2UuY3ljbGUuZXJyb3IuQ3ljbGVTZXJ2aWNlRXhjZXB0aW9uOwppbXBvcnQgY29tLmNhaW5pYW8uc2RwLnBsYXRmb3JtLmFwaS5zZXJ2aWNlLmN5Y2xlLnJlbmRlci5acXNSZW5kZXI7CmltcG9ydCBjb20uY2Fpbmlhby5zZHAucGxhdGZvcm0uYXBpLnNlcnZpY2UuY3ljbGUuc2VsZWN0b3IuWnFzVGVtcGxhdGVTZWxlY3RvcjsKaW1wb3J0IGNvbS5jYWluaWFvLnNkcC5wbGF0Zm9ybS5hcGkuc2VydmljZS5jeWNsZS51dGlsLkN5Y2xlUnVsZVV0aWw7CmltcG9ydCBjb20uY2Fpbmlhby5zZHAuc2hhcmVkLmFwaS5zZXJ2aWNlLkN5Y2xlRGV0YWlsU2VydmljZTsKaW1wb3J0IGNvbS5jYWluaWFvLnNkcC5zaGFyZWQuYXBpLnNlcnZpY2UuY29tbW9uLmN5Y2xlLio7CmltcG9ydCBjb20uY2Fpbmlhby5zZHAuc2hhcmVkLmFwaS5zZXJ2aWNlLm1vZGVsLnJlcXVlc3QuY3ljbGUuQ3ljbGVTZW5kUmVxdWVzdDsKaW1wb3J0IGNvbS5jYWluaWFvLnNkcC5zaGFyZWQuYXBpLnNlcnZpY2UubW9kZWwucmVzcG9uc2UuY3ljbGUuQ3ljbGVTZW5kUnVsZURUTzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5tb2RlbC5vdXQudGVtcGxhdGUuKjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZVR5cGVzID0gKExpc3Q8TG9uZz4pc2VydmljZVR5cGVzOwo=</text>
+        <text>修改淘速达卖家包邮计算</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICA8YmVhbiBpZD0iY2FwT2NjdXB5U2VydmljZSIgY2xhc3M9ImNvbS5jYWluaWFvLnNkcC5wbGF0Zm9ybS5jYXAuQ2FwT2NjdXB5U2VydmljZSIvPgoKICAgIDxpbXBvcnQgcmVzb3VyY2U9ImFvcC54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzdGFnZS9zdGFnZS54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpwbGF0Zm9ybS9zZHAtcm91dGUueG1sIi8+CiAgICA8aW1wb3J0IHJlc291cmNlPSJjbGFzc3BhdGg6cGxhdGZvcm0vcHJvdmlkZXIueG1sIi8+CiAgICA8aW1wb3J0IHJlc291cmNlPSJjbGFzc3BhdGg6cGxhdGZvcm0vcHJvdmlkZXItbGVnYWN5LnhtbCIvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jYWluaWFvLnNkcC5zaGFyZWQuYXBpLnNlcnZpY2UuY29tbW9uLmN5Y2xlLkN5Y2xlUmVzdWx0OwppbXBvcnQgY29tLmNhaW5pYW8uc2RwLnNoYXJlZC5hcGkuc2VydmljZS5tb2RlbC5yZXF1ZXN0LmN5Y2xlLkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uY2Fpbmlhby5zZHAuc2hhcmVkLmFwaS5zZXJ2aWNlLm1vZGVsLnJlc3BvbnNlLmN5Y2xlLkN5Y2xlU2VuZFJ1bGVEVE87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gbXRvcCDljrvkuK3lv4PljJYgLS0+CiAgICA8YmVhbiBpZD0ibXRvcEhzZmFnZW50IiBjbGFzcz0iY29tLnRhb2Jhby5tdG9wLmFwaS5hZ2VudC5NdG9wQWdlbnQiIGluaXQtbWV0aG9kPSJpbml0Ij4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iYXBwTmFtZSI+CiAgICAgICAgICAgIDx2YWx1ZT5zZHA8L3ZhbHVlPiAgPCEtLeaCqOeahOezu+e7n+WQjeensChhb25l57O757uf6Iux5paH5ZCNKe+8jOWmgm10b3DjgIFidXnvvIzkuI3lj6/pmo/kvr/kubHlhpktLT4KICAgICAgICA8L3Byb3BlcnR5PgogICAgPC9iZWFuPgo=</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
