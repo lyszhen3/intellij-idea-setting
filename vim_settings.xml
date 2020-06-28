@@ -75,6 +75,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/TagProcessor.java" timestamp="1593336385937" />
       <file name="D:/workspace/company/adp2/pom.xml" timestamp="1593333292534">
         <mark key="[" line="45" column="27" />
         <mark key="]" line="45" column="32" />
@@ -90,72 +91,52 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593329228533">
-        <mark key="'" line="36" column="24" />
-        <mark key="[" line="265" column="43" />
-        <mark key="]" line="265" column="43" />
-        <mark key="." line="265" column="42" />
-        <mark key="^" line="265" column="43" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1593333297764">
-        <mark key="[" line="306" column="25" />
-        <mark key="]" line="306" column="31" />
-        <mark key="." line="306" column="25" />
-        <mark key="^" line="302" column="12" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1593333204378">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="31" />
+      <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/constant/OrderAttributesConstant.java" timestamp="1593336287826">
+        <mark key="[" line="98" column="48" />
+        <mark key="]" line="98" column="58" />
+        <mark key="." line="98" column="48" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/adp2-ic-client.xml" timestamp="1593332705165">
         <mark key="[" line="21" column="58" />
         <mark key="]" line="21" column="84" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/service/impl/ItemCenterServiceImpl.java" timestamp="1593329243965">
-        <mark key="[" line="298" column="11" />
-        <mark key="]" line="298" column="19" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" timestamp="1593334780339">
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="72" column="30" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.plugin/src/main/java/com/cainiao/sdp/shared/api/plugin/service/ic/ItemCenterService.java" timestamp="1593329356702">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="34" />
-        <mark key="." line="62" column="34" />
-      </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/adaptor/CapacityService.java" timestamp="1593336274745" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/inventory/ip-client/5.1.19/ip-client-5.1.19.jar!/ipm-client-ext.xml" timestamp="1593333097207">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="65" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1593331383593">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmSolutionConverter.java" timestamp="1593330444874">
-        <mark key="[" line="119" column="23" />
-        <mark key="]" line="119" column="32" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1593332442842" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ic.xml" timestamp="1593331156829">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="/Dummy.txt" timestamp="1593334479140">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/ScItemExtUtils.java" timestamp="1593330582521" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1593336312865">
+        <mark key="[" line="170" column="23" />
+        <mark key="]" line="170" column="44" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1593333966317">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="35" />
         <mark key="^" line="45" column="38" />
         <mark key="." line="45" column="37" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/EcomSessionConverter.java" timestamp="1593330811487" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" timestamp="1593330559063" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/AppointmentDisplayService.java" timestamp="1593335514729">
+        <mark key="[" line="241" column="26" />
+        <mark key="]" line="241" column="67" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/inventory/ip-client/5.1.19/ip-client-5.1.19.jar!/com/taobao/inventory/client/util/IpmSpringBean.class" timestamp="1593333077863">
         <mark key="[" line="25" column="70" />
         <mark key="]" line="25" column="83" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp_shared.api.plugin/src/main/java/com/cainiao/sdp/shared/api/plugin/service/ic/IcItemDTO.java" timestamp="1593329968828" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/OrderAttributesConstant.java" timestamp="1593336389583">
+        <mark key="[" line="77" column="56" />
+        <mark key="]" line="77" column="76" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="266" column="62" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" />
@@ -263,13 +244,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>spring.profiles.active</text>
+        <text>ofp_expect_start_code</text>
       </register>
       <register name="+" type="4">
-        <text>spring.profiles.active</text>
+        <text>ofp_expect_start_code</text>
       </register>
       <register name="-" type="4">
-        <text>${ip.client.version}</text>
+        <text>capOccupyId</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
