@@ -75,7 +75,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/TagProcessor.java" timestamp="1593337272661" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/TagProcessor.java" timestamp="1593337612802" />
       <file name="D:/workspace/company/adp2/pom.xml" timestamp="1593333292534">
         <mark key="[" line="45" column="27" />
         <mark key="]" line="45" column="32" />
@@ -109,7 +109,7 @@
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="65" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1593332442842" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" timestamp="1593338181926" />
       <file name="/Dummy.txt" timestamp="1593334479140">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -133,7 +133,7 @@
         <mark key="[" line="25" column="70" />
         <mark key="]" line="25" column="83" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/OrderAttributesConstant.java" timestamp="1593336389583">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/OrderAttributesConstant.java" timestamp="1593337793830">
         <mark key="[" line="77" column="56" />
         <mark key="]" line="77" column="76" />
       </file>
