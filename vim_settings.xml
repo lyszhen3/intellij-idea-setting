@@ -75,12 +75,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593411901628">
-        <mark key="'" line="40" column="24" />
-        <mark key="[" line="172" column="70" />
-        <mark key="]" line="172" column="92" />
-        <mark key="." line="172" column="70" />
-        <mark key="^" line="168" column="65" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593413660350">
+        <mark key="'" line="41" column="24" />
+        <mark key="[" line="215" column="26" />
+        <mark key="]" line="215" column="42" />
+        <mark key="." line="173" column="70" />
+        <mark key="^" line="169" column="65" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/ItemService.java" timestamp="1593411685952">
         <mark key="[" line="75" column="110" />
@@ -146,7 +146,7 @@
         <mark key="[" line="72" column="25" />
         <mark key="]" line="72" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1593402192469">
+      <file name="/fragment.java" timestamp="1593411966493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1593411599218">
@@ -260,10 +260,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getFeatures</text>
+        <text>CycleTemplateType</text>
       </register>
       <register name="+" type="4">
-        <text>itemInstantSearchQuery</text>
+        <text>CycleTemplateType</text>
       </register>
       <register name="-" type="4">
         <text>getFeatures</text>
