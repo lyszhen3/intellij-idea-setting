@@ -108,20 +108,29 @@
         <mark key="^" line="75" column="28" />
         <mark key="." line="75" column="27" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/selector/ZqsTemplateSelector.java" timestamp="1593417471421">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="22" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/CycleSendTemplateDO.java" timestamp="1593417229803">
         <mark key="[" line="113" column="42" />
         <mark key="]" line="113" column="42" />
         <mark key="." line="113" column="41" />
         <mark key="^" line="113" column="42" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1593416795094">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="13" column="9" />
-        <mark key="^" line="13" column="10" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/selector/CommonRuleTemplateSelector.java" timestamp="1593417466319">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="29" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CycleTemplateRuleService.java" timestamp="1593417287662">
-        <mark key="[" line="10" column="39" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CycleTemplateRuleService.java" timestamp="1593417583625">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/CycleSendFrequencyDO.java" timestamp="1593417174993">
         <mark key="[" line="50" column="60" />
@@ -133,13 +142,13 @@
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="29" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593416378926">
-        <mark key="a" line="227" column="27" />
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="50" column="25" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593417457701">
+        <mark key="a" line="228" column="27" />
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="233" column="30" />
+        <mark key="]" line="233" column="30" />
+        <mark key="." line="233" column="29" />
+        <mark key="^" line="233" column="30" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/render/MultiRuleRender.java" timestamp="1593416042607">
         <mark key="[" line="114" column="20" />
@@ -271,13 +280,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.alibaba.delivery.platform.common.model.out.template.</text>
+        <text>T</text>
       </register>
       <register name="+" type="4">
         <text>CycleSendTime</text>
       </register>
       <register name="-" type="4">
-        <text>com.alibaba.delivery.platform.common.model.out.template.</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
