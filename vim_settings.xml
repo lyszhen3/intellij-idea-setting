@@ -87,15 +87,11 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-subdomain/subdomain-service/src/main/java/com/alibaba/delivery/platform/subdomain/service/common/constant/RuleType.java" timestamp="1593420401053">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="50" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/util/CycleModelConvert.java" timestamp="1593424527117">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/util/CycleModelConvert.java" timestamp="1593424832608">
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsRuleRepo.java" timestamp="1593421557642">
         <mark key="'" line="28" column="27" />
@@ -112,11 +108,11 @@
         <mark key="." line="244" column="49" />
         <mark key="^" line="244" column="50" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/CommonRuleCalculator.java" timestamp="1593424503575">
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="82" column="33" />
-        <mark key="." line="82" column="32" />
-        <mark key="^" line="82" column="33" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/CommonRuleCalculator.java" timestamp="1593424918335">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="84" column="33" />
+        <mark key="." line="84" column="32" />
+        <mark key="^" line="84" column="33" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/CpLineRepo.java" timestamp="1593421194098">
         <mark key="[" line="65" column="0" />
@@ -135,11 +131,11 @@
         <mark key="]" line="32" column="71" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/util/CycleRuleUtil.java" timestamp="1593423791932">
-        <mark key="[" line="565" column="27" />
-        <mark key="]" line="565" column="29" />
-        <mark key="." line="565" column="28" />
-        <mark key="^" line="565" column="29" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/util/CycleRuleUtil.java" timestamp="1593424971261">
+        <mark key="[" line="599" column="61" />
+        <mark key="]" line="599" column="70" />
+        <mark key="." line="599" column="69" />
+        <mark key="^" line="599" column="70" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CycleTemplateRuleService.java" timestamp="1593423015322">
         <mark key="[" line="22" column="13" />
@@ -273,11 +269,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5tb2RlbC5vdXQudGVtcGxhdGUuQ3ljbGVTZW5kRnJlcXVlbmN5OwppbXBvcnQgY29tLmFsaWJhYmEuZGVsaXZlcnkucGxhdGZvcm0uY29tbW9uLm1vZGVsLm91dC50ZW1wbGF0ZS5DeWNsZVNlbmRNb2RlbDsKaW1wb3J0IGNvbS5hbGliYWJhLmRlbGl2ZXJ5LnBsYXRmb3JtLmNvbW1vbi5tb2RlbC5vdXQudGVtcGxhdGUuQ3ljbGVTZW5kVGltZTsKaW1wb3J0IGNvbS5jYWluaWFvLnNkcC5zaGFyZWQuYXBpLnNlcnZpY2UubW9kZWwucmVzcG9uc2UuY3ljbGUuQ3ljbGVTZW5kRnJlcXVlbmN5RFRPOwppbXBvcnQgY29tLmNhaW5pYW8uc2RwLnNoYXJlZC5hcGkuc2VydmljZS5tb2RlbC5yZXNwb25zZS5jeWNsZS5DeWNsZVNlbmRNb2RlbERUTzsKaW1wb3J0IGNvbS5jYWluaWFvLnNkcC5zaGFyZWQuYXBpLnNlcnZpY2UubW9kZWwucmVzcG9uc2UuY3ljbGUuQ3ljbGVTZW5kVGltZURUTzsK</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="+" type="4">
-        <text>CycleSendInfoParam</text>
+        <text>CycleFeatureConstant</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
