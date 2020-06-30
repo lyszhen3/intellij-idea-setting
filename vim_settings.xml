@@ -75,10 +75,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/DistributionTimingDO.java" timestamp="1593505693619">
-        <mark key="[" line="72" column="20" />
-        <mark key="]" line="72" column="36" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/service/AppointServiceModel.java" timestamp="1593505702463">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="29" column="0" />
@@ -103,12 +99,13 @@
         <mark key="^" line="177" column="83" />
       </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/biz/ReservationProcessor.java" timestamp="1593507015995" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593507126142">
-        <mark key="[" line="185" column="44" />
-        <mark key="]" line="185" column="94" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593511490281">
+        <mark key="[" line="119" column="89" />
+        <mark key="]" line="119" column="107" />
         <mark key="." line="185" column="93" />
         <mark key="^" line="185" column="94" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/ability/AbilityResponse.java" timestamp="1593511312414" />
     </filemarks>
     <jumps>
       <jump line="455" column="17" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
@@ -215,11 +212,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>增加是否默认预约配送</text>
+      <register name="&quot;" type="4">
+        <text>wdkPromiseTimeSlice</text>
       </register>
       <register name="+" type="4">
-        <text>appointServiceModel</text>
+        <text>wdkPromiseTimeSlice</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
