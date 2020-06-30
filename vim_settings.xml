@@ -80,20 +80,11 @@
         <mark key="]" line="5" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/external/jakarta.commons.logging/0.0.0/jakarta.commons.logging-0.0.0-sources.jar!/org/apache/commons/logging/impl/LogFactoryImpl.java" timestamp="1593485606976" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/ability-local.properties" timestamp="1593432878098">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="35" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/resources/adp2-uic-client.xml" timestamp="1593432672388">
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="60" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/RegionRetailLogisticsServiceSolutionCalculatorTest.java" timestamp="1593483652084">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="88" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class" timestamp="1593487575291" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-ic.xml" timestamp="1593486320809">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -135,23 +126,17 @@
         <mark key="^" line="308" column="33" />
         <mark key="." line="308" column="32" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/ability-production.properties" timestamp="1593432871567">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-test/2.1.9.2/pandora-boot-test-2.1.9.2-sources.jar!/com/taobao/pandora/boot/test/junit4/impl/PandoraClassLoader.java" timestamp="1593487251896" />
+      <file name="C:/java/jdk1.8.0_202/src.zip!/java/lang/ClassLoader.java" timestamp="1593487641999" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.13.RELEASE/spring-test-5.0.13.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class" timestamp="1593487493005">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="37" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/ability-staging.properties" timestamp="1593432886823">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/ability-testing.properties" timestamp="1593432859193">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="30" />
+      <file name="/fragment.java" timestamp="1593487301055">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="73" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -260,10 +245,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ITransferObject</text>
+        <text>ContextConfiguration</text>
       </register>
       <register name="+" type="4">
-        <text>ITransferObject</text>
+        <text>ContextConfiguration</text>
       </register>
       <register name="-" type="4">
         <text>testCycleDetail</text>
