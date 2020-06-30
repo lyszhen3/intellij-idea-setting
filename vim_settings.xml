@@ -81,16 +81,11 @@
         <mark key="." line="30" column="5" />
         <mark key="^" line="30" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/common/logging/toolkit-common-logging/1.0/toolkit-common-logging-1.0.jar!/com/alibaba/common/logging/spi/log4j/Log4jLogger.class" timestamp="1593485370394">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="33" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/external/jakarta.commons.logging/0.0.0/jakarta.commons.logging-0.0.0-sources.jar!/org/apache/commons/logging/impl/LogFactoryImpl.java" timestamp="1593485606976" />
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar!/org/apache/commons/collections/CollectionUtils.java" timestamp="1593498111144" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar!/org/apache/commons/collections4/CollectionUtils.java" timestamp="1593497367465" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/service/AdpCnBaseAdapter.java" timestamp="1593502679965" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/inventory/ip-client/5.1.19/ip-client-5.1.19.pom" timestamp="1593488323980" />
       <file name="D:/workspace/company/adp2/pom.xml" timestamp="1593499682680" />
-      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class" timestamp="1593487575291" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/external/jakarta.commons.collections/0.0.0/jakarta.commons.collections-0.0.0-sources.jar!/org/apache/commons/collections/CollectionUtils.java" timestamp="1593498127431" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-ic.xml" timestamp="1593489025002">
         <mark key="[" line="24" column="58" />
@@ -111,18 +106,20 @@
         <mark key="^" line="351" column="12" />
         <mark key="." line="382" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-test/2.1.9.2/pandora-boot-test-2.1.9.2-sources.jar!/com/taobao/pandora/boot/test/junit4/impl/PandoraClassLoader.java" timestamp="1593487251896" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/displayservice/impl/AppointmentDisplayService.java" timestamp="1593502751072" />
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/CommonRuleCalculator.java" timestamp="1593498726402">
         <mark key="[" line="30" column="6" />
         <mark key="]" line="31" column="10" />
         <mark key="^" line="31" column="10" />
         <mark key="." line="31" column="9" />
       </file>
-      <file name="C:/java/jdk1.8.0_202/src.zip!/java/lang/ClassLoader.java" timestamp="1593487821679" />
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1593499785514" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.13.RELEASE/spring-test-5.0.13.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class" timestamp="1593487493005">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="37" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/biz/ReservationProcessor.java" timestamp="1593502664045" />
+      <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/adp2/resp/Adp2RespAdapter.java" timestamp="1593502370403" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1593502743280" />
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1593502027770" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/delivery/adp2-common/1.1.5/adp2-common-1.1.5.jar!/com/alibaba/delivery/platform/common/model/core/timing/DistributionTimingDO.class" timestamp="1593502389094">
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1593489668027">
         <mark key="[" line="0" column="0" />
@@ -130,6 +127,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1593502165287" />
     </filemarks>
     <jumps>
       <jump line="455" column="17" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
@@ -237,10 +235,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>itemTairCacheService</text>
+        <text>isDefaultSelected</text>
       </register>
       <register name="+" type="4">
-        <text>itemTairCacheService</text>
+        <text>isDefaultSelected</text>
       </register>
       <register name="-" type="4">
         <text>commons</text>
