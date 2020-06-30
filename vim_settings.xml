@@ -86,7 +86,12 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1593505717351" />
-      <file name="/Dummy.txt" timestamp="1593507129663">
+      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1593507405404">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593507415900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -210,44 +215,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text>增加是否默认预约配送</text>
       </register>
       <register name="+" type="4">
         <text>appointServiceModel</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text>feature 增加一个值</text>
+        <text>增加是否默认预约配送</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>feature 增加一个值</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlZiBsb2NhbD0ibWVyZ2VTZWFyY2hNYW5hZ2VyIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlZiBsb2NhbD0ibWVyZ2VTZWFyY2hNYW5hZ2VyIi8+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0g5o6l5YWlQ0FDSEUgLS0+CiAgICA8YmVhbiBpZD0icmVnaW9uUmV0YWlsVWljQ2FjaGVTZXJ2aWNlIiBjbGFzcz0iY29tLnRhb2Jhby51aWMuY29tbW9uLmNhY2hlLkRlZmF1bHRVSUNDYWNoZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCI+CiAgICA8L2JlYW4+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwhLS0g5o6l5YWlQ0FDSEUgLS0+CiAgICA8YmVhbiBpZD0icmVnaW9uUmV0YWlsVWljQ2FjaGVTZXJ2aWNlIiBjbGFzcz0iY29tLnRhb2Jhby51aWMuY29tbW9uLmNhY2hlLkRlZmF1bHRVSUNDYWNoZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCI+CiAgICA8L2JlYW4+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
