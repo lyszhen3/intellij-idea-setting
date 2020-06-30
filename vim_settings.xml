@@ -75,17 +75,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/MultiRuleCalculator.java" timestamp="1593498743069">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="6" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/common/logging/toolkit-common-logging/1.0/toolkit-common-logging-1.0.jar!/com/alibaba/common/logging/spi/log4j/Log4jLogger.class" timestamp="1593485370394">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/external/jakarta.commons.logging/0.0.0/jakarta.commons.logging-0.0.0-sources.jar!/org/apache/commons/logging/impl/LogFactoryImpl.java" timestamp="1593485606976" />
+      <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar!/org/apache/commons/collections/CollectionUtils.java" timestamp="1593498111144" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar!/org/apache/commons/collections4/CollectionUtils.java" timestamp="1593497367465" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/inventory/ip-client/5.1.19/ip-client-5.1.19.pom" timestamp="1593488323980" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/RegionRetailLogisticsServiceSolutionCalculatorTest.java" timestamp="1593483652084">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="88" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class" timestamp="1593487575291" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/external/jakarta.commons.collections/0.0.0/jakarta.commons.collections-0.0.0-sources.jar!/org/apache/commons/collections/CollectionUtils.java" timestamp="1593498127431" />
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-ic.xml" timestamp="1593489025002">
         <mark key="[" line="24" column="58" />
         <mark key="]" line="24" column="84" />
@@ -96,22 +101,6 @@
         <mark key="]" line="134" column="21" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/model/cycle/response/CycleSendModelDTO.java" timestamp="1593482935896">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/CycleDetailService.java" timestamp="1593482868144">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="19" column="84" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593482462472">
-        <mark key="a" line="233" column="27" />
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="47" column="47" />
-        <mark key="]" line="47" column="64" />
-        <mark key="." line="323" column="0" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/CycleDetailServiceTest.java" timestamp="1593483668563">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -120,13 +109,19 @@
       <file name="/Dummy.txt" timestamp="1593489667994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1593489180323">
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="317" column="50" />
-        <mark key="^" line="308" column="33" />
-        <mark key="." line="308" column="32" />
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1593498552001">
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="0" />
+        <mark key="^" line="351" column="12" />
+        <mark key="." line="382" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-test/2.1.9.2/pandora-boot-test-2.1.9.2-sources.jar!/com/taobao/pandora/boot/test/junit4/impl/PandoraClassLoader.java" timestamp="1593487251896" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/CommonRuleCalculator.java" timestamp="1593498726402">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="9" />
+      </file>
       <file name="C:/java/jdk1.8.0_202/src.zip!/java/lang/ClassLoader.java" timestamp="1593487821679" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.13.RELEASE/spring-test-5.0.13.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class" timestamp="1593487493005">
         <mark key="[" line="20" column="18" />
@@ -244,44 +239,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>itemTairCacheService</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS50YW9iYW8uaW52ZW50b3J5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aXAtY2xpZW50PC9hcnRpZmFjdElkPgo=</text>
+      <register name="+" type="4">
+        <text>itemTairCacheService</text>
       </register>
       <register name="-" type="4">
-        <text>testCycleDetail</text>
+        <text>commons</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlZiBsb2NhbD0ibWVyZ2VTZWFyY2hNYW5hZ2VyIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlZiBsb2NhbD0ibWVyZ2VTZWFyY2hNYW5hZ2VyIi8+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0g5o6l5YWlQ0FDSEUgLS0+CiAgICA8YmVhbiBpZD0icmVnaW9uUmV0YWlsVWljQ2FjaGVTZXJ2aWNlIiBjbGFzcz0iY29tLnRhb2Jhby51aWMuY29tbW9uLmNhY2hlLkRlZmF1bHRVSUNDYWNoZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCI+CiAgICA8L2JlYW4+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwhLS0g5o6l5YWlQ0FDSEUgLS0+CiAgICA8YmVhbiBpZD0icmVnaW9uUmV0YWlsVWljQ2FjaGVTZXJ2aWNlIiBjbGFzcz0iY29tLnRhb2Jhby51aWMuY29tbW9uLmNhY2hlLkRlZmF1bHRVSUNDYWNoZVNlcnZpY2UiCiAgICAgICAgICBpbml0LW1ldGhvZD0iaW5pdCI+CiAgICA8L2JlYW4+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAg6ICBZGF0YUlkOiBjb20uYWxpYmFiYS5kZWxpdmVyeS5wbGF0Zm9ybS5jb21tb24uYnJlc3Nvbi5tZXRyaWNzLmNvbmZpZwovLyAgICAgICAgIOiAgWdyb3VwIDogREVGQVVMVF9HUk9VUAogICAgICAgIC8vVE9ETyDlhYjnlKjogIHnmoQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Ly8gICAgICAg6ICBZGF0YUlkOiBjb20uYWxpYmFiYS5kZWxpdmVyeS5wbGF0Zm9ybS5jb21tb24uYnJlc3Nvbi5tZXRyaWNzLmNvbmZpZwovLyAgICAgICAgIOiAgWdyb3VwIDogREVGQVVMVF9HUk9VUAogICAgICAgIC8vVE9ETyDlhYjnlKjogIHnmoQK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
