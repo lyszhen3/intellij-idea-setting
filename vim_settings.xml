@@ -75,13 +75,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/service/AppointServiceModel.java" timestamp="1593505702463">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-model/src/main/java/com/alibaba/ascp/sdp2/component/model/D2SolutionInstance.java" timestamp="1593521956197">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="29" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/processor/CalculateProcessor.java" timestamp="1593505717351" />
       <file name="D:/workspace/company/sdp/pom.xml" timestamp="1593507405404">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="27" />
@@ -92,18 +89,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1593506583512">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1593521580069">
         <mark key="[" line="177" column="27" />
         <mark key="]" line="177" column="83" />
         <mark key="." line="177" column="82" />
         <mark key="^" line="177" column="83" />
       </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/biz/ReservationProcessor.java" timestamp="1593507015995" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593511490281">
-        <mark key="[" line="119" column="89" />
-        <mark key="]" line="119" column="107" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593522062341">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="25" />
         <mark key="." line="185" column="93" />
         <mark key="^" line="185" column="94" />
+      </file>
+      <file name="/fragment.java" timestamp="1593522065648">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="73" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/ability/AbilityResponse.java" timestamp="1593511312414" />
     </filemarks>
@@ -213,10 +216,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>wdkPromiseTimeSlice</text>
+        <text>TimingServiceModel</text>
       </register>
       <register name="+" type="4">
-        <text>wdkPromiseTimeSlice</text>
+        <text>TimingServiceModel</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
