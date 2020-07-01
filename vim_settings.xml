@@ -78,16 +78,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593570452814">
+      <file name="/Dummy.txt" timestamp="1593571713453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/pom.xml" timestamp="1593570446632">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="99" column="8" />
-        <mark key="." line="100" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/pom.xml" timestamp="1593571759058">
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="26" />
+        <mark key="^" line="103" column="26" />
+        <mark key="." line="103" column="25" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/pom.xml" timestamp="1593570424713">
         <mark key="[" line="71" column="0" />
@@ -124,6 +124,8 @@
         <mark key="." line="185" column="93" />
         <mark key="^" line="185" column="94" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1593572100342" />
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/core/subflows/servicecalc/confirm/TradeAttributeTagProcessor.java" timestamp="1593572159688" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/service/AppointServiceModel.java" timestamp="1593523459937">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="29" column="0" />
@@ -243,13 +245,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>to http://gitlab.alibaba-inc.com/middleware-container/pandora-boot/wikis/faq for the solution.</text>
+        <text />
       </register>
       <register name="+" type="4">
         <text>to http://gitlab.alibaba-inc.com/middleware-container/pandora-boot/wikis/faq for the solution.</text>
       </register>
       <register name="-" type="4">
-        <text>appoint</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>\.</text>
