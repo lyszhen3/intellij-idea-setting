@@ -78,6 +78,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp2/pom.xml" timestamp="1593594386992">
+        <mark key="[" line="1204" column="0" />
+        <mark key="]" line="1226" column="25" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1593592532223">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="0" />
@@ -98,26 +102,22 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593592967348">
+      <file name="/Dummy.txt" timestamp="1593595071842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1593589575178">
-        <mark key="[" line="177" column="89" />
-        <mark key="]" line="179" column="105" />
-        <mark key="." line="179" column="104" />
-        <mark key="^" line="179" column="105" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-client/2.8.9.9/itemcenter-client-2.8.9.9.pom" timestamp="1593594363816" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" timestamp="1593591753643">
         <mark key="[" line="76" column="14" />
         <mark key="]" line="76" column="50" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1593591100576">
-        <mark key="[" line="142" column="75" />
-        <mark key="]" line="142" column="74" />
-        <mark key="^" line="142" column="74" />
-        <mark key="." line="142" column="73" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1593594957209">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="207" column="16" />
+        <mark key="]" line="207" column="42" />
+        <mark key="." line="207" column="41" />
+        <mark key="^" line="207" column="42" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-optimization/src/main/java/com/alibaba/ascp/sdp2/component/optimization/manager/OptimizationCombineManager.java" timestamp="1593592273119">
         <mark key="[" line="207" column="15" />
@@ -130,12 +130,20 @@
         <mark key="." line="36" column="38" />
         <mark key="^" line="36" column="39" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/postfree/checker/TemplateSellerPayChecker.java" timestamp="1593595014139">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-provider.xml" timestamp="1593592663267">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-all/2.8.9.9/itemcenter-all-2.8.9.9.pom" timestamp="1593594358889" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593591572751" />
+      <file name="$MAVEN_REPOSITORY$/com/taobao/place/place-client/1.3.73/place-client-1.3.73.pom" timestamp="1593594274163" />
       <file name="/fragment.java" timestamp="1593592087841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="73" />
@@ -144,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="17" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
       <jump line="57" column="54" filename="D:/workspace/company/usa-console/pom.xml" />
       <jump line="79" column="0" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" />
       <jump line="130" column="30" filename="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" />
@@ -244,18 +251,19 @@
       <jump line="31" column="0" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" />
       <jump line="28" column="27" filename="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsRuleRepo.java" />
       <jump line="2" column="0" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/model/cycle/response/CycleSendRuleDTO.java" />
+      <jump line="69" column="0" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">QEhTRlByb3ZpZGVyKHNlcnZpY2VJbnRlcmZhY2UgPSBacXNEZXRhaWxTZXJ2aWNlLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20udGFvYmFvLnBsYWNlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhY2UtY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtwbGFjZS52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPio8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5wbGFjZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnBsYWNlLWNvbW1vbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7cGxhY2UudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
