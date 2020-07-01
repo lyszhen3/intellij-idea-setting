@@ -82,10 +82,15 @@
         <mark key="[" line="1204" column="0" />
         <mark key="]" line="1226" column="25" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1593592532223">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-ic.xml" timestamp="1593601174883">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="38" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-uic-client.xml" timestamp="1593600004072">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/CycleDetailService.java" timestamp="1593592587820">
         <mark key="[" line="10" column="0" />
@@ -97,6 +102,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="50" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1593601203235">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1593594957209">
         <mark key="'" line="69" column="0" />
@@ -127,17 +137,12 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593596743134">
+      <file name="/Dummy.txt" timestamp="1593601207585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-client/2.8.9.9/itemcenter-client-2.8.9.9.pom" timestamp="1593594363816" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-optimization/src/main/java/com/alibaba/ascp/sdp2/component/optimization/manager/OptimizationCombineManager.java" timestamp="1593592273119">
-        <mark key="[" line="207" column="15" />
-        <mark key="]" line="207" column="36" />
-        <mark key="." line="207" column="15" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1593592963772">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="36" column="39" />
@@ -155,12 +160,6 @@
         <mark key="]" line="110" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/place/place-client/1.3.73/place-client-1.3.73.pom" timestamp="1593594274163" />
-      <file name="/fragment.java" timestamp="1593592087841">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="73" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="57" column="54" filename="D:/workspace/company/usa-console/pom.xml" />
@@ -268,43 +267,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oMjAwMEwgPT0gbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aCo6aXBtLWNsaWVudC54bWwiLz4K</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKICAgICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CiAgICA8cGFyZW50PgogICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+Mi4xLjE1LVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9wYXJlbnQ+CgogICAgPGFydGlmYWN0SWQ+c2RwMi1wbGF0Zm9ybTwvYXJ0aWZhY3RJZD4KCiAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDIucGx1Z2luPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zdW5pbmctbW9kZWw8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1wbHVnaW4tc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1zZXJ2aWNlPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvbXBvbmVudC1wbGFuPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvbXBvbmVudC1zb2x1dGlvbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1jb21wb25lbnQtbHNzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvbXBvbmVudC1vcHRpbWl6YXRpb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNkcDItY29tcG9uZW50LXJlbmRlcmluZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1jb21wb25lbnQtb3JkZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uY2Fpbmlhby5zZHA8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNkcF9zaGFyZWQuZG9tYWluPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS50YW9iYW8uY3NwPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZW50aW5lbDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS50YW9iYW8uaXRlbWNlbnRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aXRlbWNlbnRlci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEudG1mPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD50bWYyLW1vZGVsPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNoLnFvcy5sb2diYWNrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2diYWNrLWNsYXNzaWM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZzRqLXRvLXNsZjRqPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdWwtdG8tc2xmNGo8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJlYW5zPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+CjwvcHJvamVjdD4=</text>
+      <register name="+" type="4">
+        <text>regionRetailIpmSpringBean</text>
       </register>
       <register name="-" type="4">
-        <text>==</text>
+        <text>clientInfo</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oMjAwMEwgPT0gbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aCo6aXBtLWNsaWVudC54bWwiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text>周期送区域零售插件修改为2.0</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oMjAwMEwgPT0gbnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
+        <text>周期送区域零售插件修改为2.0</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKICAgICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDI8L2dyb3VwSWQ+CgoKCjwvcHJvamVjdD4=</text>
+        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text>增加预约配送默认值</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKICAgICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDI8L2dyb3VwSWQ+CgoKCjwvcHJvamVjdD4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>增加预约配送默认值</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OmFubm90YXRpb24tY29uZmlnLz4KICAgIDxjb250ZXh0OmNvbXBvbmVudC1zY2FuIGJhc2UtcGFja2FnZT0iY29tLmFsaWJhYmEuYXNjcC5zZHAyLmFwcC5yZWdpb25yZXRhaWwuYml6IiAvPgoKICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYWJpbGl0eS54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYmFzZS54bWwiLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0OmFubm90YXRpb24tY29uZmlnLz4KICAgIDxjb250ZXh0OmNvbXBvbmVudC1zY2FuIGJhc2UtcGFja2FnZT0iY29tLmFsaWJhYmEuYXNjcC5zZHAyLmFwcC5yZWdpb25yZXRhaWwuYml6IiAvPgoKICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYWJpbGl0eS54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYmFzZS54bWwiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
