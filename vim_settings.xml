@@ -94,13 +94,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1593588023105">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1593589575178">
         <mark key="[" line="177" column="89" />
         <mark key="]" line="179" column="105" />
         <mark key="." line="179" column="104" />
         <mark key="^" line="179" column="105" />
       </file>
       <file name="D:/workspace/company/adp/adp-adapter/src/main/java/com/alibaba/delivery/adapter/cn/processor/biz/ReservationProcessor.java" timestamp="1593573459727" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1593590103307">
+        <mark key="[" line="142" column="38" />
+        <mark key="]" line="142" column="38" />
+        <mark key="^" line="67" column="97" />
+        <mark key="." line="142" column="22" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1593572685023" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593574028453">
         <mark key="[" line="191" column="53" />
@@ -108,7 +114,6 @@
         <mark key="." line="192" column="85" />
         <mark key="^" line="192" column="86" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/StoreJsdAttributeServiceNode.java" timestamp="1593572100342" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/adaptor/AdpResultAdapter.java" timestamp="1593572951520" />
     </filemarks>
     <jumps>
@@ -216,11 +221,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text />
+      <register name="&quot;" type="4">
+        <text>calculateEachPkg</text>
       </register>
       <register name="+" type="4">
-        <text>logisticsSolutionCombineParams</text>
+        <text>calculateEachPkg</text>
       </register>
       <register name="-" type="4">
         <text>parse</text>
@@ -229,31 +234,31 @@
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgUmVnaW9uUmV0YWlsTG9naXN0aWNzU2VydmljZVNvbHV0aW9uQ2FsY3VsYXRvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlQYWlyPE9iamVjdCwgT2JqZWN0PiBvZiA9IFBhaXIub2YobnVsbCwgbnVsbCk7CgkJU3lzdGVtLm91dC5wcmludGxuKG9mLmdldFJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlQYWlyPE9iamVjdCwgT2JqZWN0PiBvZiA9IFBhaXIub2YobnVsbCwgbnVsbCk7CgkJU3lzdGVtLm91dC5wcmludGxuKG9mLmdldFJpZ2h0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLzEuMeiOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLzEuMeiOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
