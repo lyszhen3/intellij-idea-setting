@@ -87,10 +87,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1593592562386">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="55" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/CycleDetailService.java" timestamp="1593592587820">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -102,16 +98,6 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593595071842">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-client/2.8.9.9/itemcenter-client-2.8.9.9.pom" timestamp="1593594363816" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/BaseActivity.java" timestamp="1593591753643">
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="76" column="50" />
-      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/fee/calculator/FeeCalculator.java" timestamp="1593594957209">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="207" column="16" />
@@ -119,6 +105,34 @@
         <mark key="." line="207" column="41" />
         <mark key="^" line="207" column="42" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.platform/pom.xml" timestamp="1593596325928" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-provider.xml" timestamp="1593592663267">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-all/2.8.9.9/itemcenter-all-2.8.9.9.pom" timestamp="1593594358889" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/pom.xml" timestamp="1593596736693">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="10" />
+        <mark key="." line="110" column="9" />
+        <mark key="^" line="110" column="10" />
+      </file>
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1593596861149">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-platform/platform-biz/src/main/java/com/alibaba/delivery/platform/express/ZqsDetailServiceImpl.java" timestamp="1593592562386">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="55" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593596743134">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-client/2.8.9.9/itemcenter-client-2.8.9.9.pom" timestamp="1593594363816" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-optimization/src/main/java/com/alibaba/ascp/sdp2/component/optimization/manager/OptimizationCombineManager.java" timestamp="1593592273119">
         <mark key="[" line="207" column="15" />
         <mark key="]" line="207" column="36" />
@@ -136,13 +150,10 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-provider.xml" timestamp="1593592663267">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/pom.xml" timestamp="1593596719384">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="110" column="9" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-all/2.8.9.9/itemcenter-all-2.8.9.9.pom" timestamp="1593594358889" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593591572751" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/place/place-client/1.3.73/place-client-1.3.73.pom" timestamp="1593594274163" />
       <file name="/fragment.java" timestamp="1593592087841">
         <mark key="[" line="0" column="0" />
@@ -256,11 +267,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oMjAwMEwgPT0gbnVsbCk7Cg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20udGFvYmFvLnBsYWNlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhY2UtY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtwbGFjZS52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPio8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnRhb2Jhby5wbGFjZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnBsYWNlLWNvbW1vbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7cGxhY2UudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKICAgICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CiAgICA8cGFyZW50PgogICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+Mi4xLjE1LVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9wYXJlbnQ+CgogICAgPGFydGlmYWN0SWQ+c2RwMi1wbGF0Zm9ybTwvYXJ0aWZhY3RJZD4KCiAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDIucGx1Z2luPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zdW5pbmctbW9kZWw8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1wbHVnaW4tc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1zZXJ2aWNlPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvbXBvbmVudC1wbGFuPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvbXBvbmVudC1zb2x1dGlvbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1jb21wb25lbnQtbHNzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuYXNjcC5zZHAyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZHAyLWNvbXBvbmVudC1vcHRpbWl6YXRpb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNkcDItY29tcG9uZW50LXJlbmRlcmluZzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLmFzY3Auc2RwMjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2RwMi1jb21wb25lbnQtb3JkZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uY2Fpbmlhby5zZHA8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNkcF9zaGFyZWQuZG9tYWluPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS50YW9iYW8uY3NwPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zZW50aW5lbDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS50YW9iYW8uaXRlbWNlbnRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aXRlbWNlbnRlci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEudG1mPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD50bWYyLW1vZGVsPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNoLnFvcy5sb2diYWNrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2diYWNrLWNsYXNzaWM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZzRqLXRvLXNsZjRqPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdWwtdG8tc2xmNGo8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJlYW5zPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+CjwvcHJvamVjdD4=</text>
       </register>
       <register name="-" type="4">
         <text>==</text>
@@ -269,31 +280,31 @@
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text>增加预约配送默认值</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oMjAwMEwgPT0gbnVsbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>周期送区域零售插件修改为2.0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OmFubm90YXRpb24tY29uZmlnLz4KICAgIDxjb250ZXh0OmNvbXBvbmVudC1zY2FuIGJhc2UtcGFja2FnZT0iY29tLmFsaWJhYmEuYXNjcC5zZHAyLmFwcC5yZWdpb25yZXRhaWwuYml6IiAvPgoKICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYWJpbGl0eS54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYmFzZS54bWwiLz4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIKICAgICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8bW9kZWxWZXJzaW9uPjQuMC4wPC9tb2RlbFZlcnNpb24+CgogICAgPHBhcmVudD4KICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5hc2NwLnNkcDI8L2dyb3VwSWQ+CgoKCjwvcHJvamVjdD4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text>增加预约配送默认值</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0OmFubm90YXRpb24tY29uZmlnLz4KICAgIDxjb250ZXh0OmNvbXBvbmVudC1zY2FuIGJhc2UtcGFja2FnZT0iY29tLmFsaWJhYmEuYXNjcC5zZHAyLmFwcC5yZWdpb25yZXRhaWwuYml6IiAvPgoKICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYWJpbGl0eS54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYmFzZS54bWwiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OmFubm90YXRpb24tY29uZmlnLz4KICAgIDxjb250ZXh0OmNvbXBvbmVudC1zY2FuIGJhc2UtcGFja2FnZT0iY29tLmFsaWJhYmEuYXNjcC5zZHAyLmFwcC5yZWdpb25yZXRhaWwuYml6IiAvPgoKICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYWJpbGl0eS54bWwiLz4KICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctYmFzZS54bWwiLz4K</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
