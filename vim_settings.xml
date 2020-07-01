@@ -70,33 +70,33 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/service/AppointServiceModel.java" timestamp="1593523459937">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-optimization/src/main/java/com/alibaba/ascp/sdp2/component/optimization/service/impl/D2SolutionInstanceOptimizationServiceImpl.java" timestamp="1593523450194" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-model/src/main/java/com/alibaba/ascp/sdp2/component/model/D2SolutionInstance.java" timestamp="1593521956197">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="29" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/OrderD2SolutionInstancesQueryActivity.java" timestamp="1593522963205">
-        <mark key="a" line="258" column="96" />
-        <mark key="[" line="258" column="106" />
-        <mark key="]" line="258" column="122" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593523945458">
+      <file name="/Dummy.txt" timestamp="1593570452814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/plugin/region-retail-biz/1.0-SNAPSHOT/region-retail-biz-1.0-20200623.114822-57.jar!/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.class" timestamp="1593522334168" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/pom.xml" timestamp="1593570446632">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="99" column="8" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/pom.xml" timestamp="1593570424713">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="75" column="21" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-model/src/main/java/com/alibaba/ascp/sdp2/component/model/D2SolutionInstance.java" timestamp="1593521956197">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="29" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1593521580069">
         <mark key="[" line="177" column="27" />
         <mark key="]" line="177" column="83" />
@@ -113,11 +113,22 @@
         <mark key="." line="153" column="15" />
         <mark key="^" line="153" column="16" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/OrderD2SolutionInstancesQueryActivity.java" timestamp="1593522963205">
+        <mark key="a" line="258" column="96" />
+        <mark key="[" line="258" column="106" />
+        <mark key="]" line="258" column="122" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/src/main/java/com/alibaba/ascp/sdp2/adapter/trade/common/FeeDescConverter.java" timestamp="1593522062341">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="25" />
         <mark key="." line="185" column="93" />
         <mark key="^" line="185" column="94" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-sdk/sdp2-sdk-model/src/main/java/com/alibaba/ascp/sdp2/sdk/model/service/AppointServiceModel.java" timestamp="1593523459937">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1593522226408">
         <mark key="[" line="0" column="0" />
@@ -125,7 +136,6 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/ability/AbilityResponse.java" timestamp="1593511312414" />
     </filemarks>
     <jumps>
       <jump line="455" column="17" filename="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreJsdTimingUtil.java" />
@@ -232,11 +242,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>修改cdc 版本</text>
+      <register name="&quot;" type="4">
+        <text>to http://gitlab.alibaba-inc.com/middleware-container/pandora-boot/wikis/faq for the solution.</text>
       </register>
       <register name="+" type="4">
-        <text>appointServiceModels</text>
+        <text>to http://gitlab.alibaba-inc.com/middleware-container/pandora-boot/wikis/faq for the solution.</text>
       </register>
       <register name="-" type="4">
         <text>appoint</text>
@@ -245,31 +255,31 @@
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text>修改cdc 版本</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>修改cdc 版本</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpc3RpY3NTb2x1dGlvbkNvbWJpbmVQYXJhbXMuZ2V0KDApLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text>增加是否默认预约配送</text>
+        <text encoding="base64">ICAgICAgICBsb2dpc3RpY3NTb2x1dGlvbkNvbWJpbmVQYXJhbXMuZ2V0KDApLgo=</text>
       </register>
       <register name="5" type="2">
-        <text>feature 增加一个值</text>
+        <text>增加是否默认预约配送</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>feature 增加一个值</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlZiBsb2NhbD0ibWVyZ2VTZWFyY2hNYW5hZ2VyIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlZiBsb2NhbD0ibWVyZ2VTZWFyY2hNYW5hZ2VyIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
