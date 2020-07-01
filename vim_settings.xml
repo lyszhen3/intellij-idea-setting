@@ -94,23 +94,21 @@
         <mark key="[" line="76" column="14" />
         <mark key="]" line="76" column="50" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-optimization/src/main/java/com/alibaba/ascp/sdp2/component/optimization/manager/OptimizationCombineManager.java" timestamp="1593585585787">
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-optimization/src/main/java/com/alibaba/ascp/sdp2/component/optimization/manager/OptimizationCombineManager.java" timestamp="1593586695512">
         <mark key="a" line="172" column="14" />
-        <mark key="[" line="180" column="24" />
-        <mark key="]" line="172" column="46" />
-        <mark key="." line="172" column="45" />
-        <mark key="^" line="172" column="46" />
+        <mark key="[" line="192" column="1" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/cainiao/cdc/cdc-client/1.11.23-rr-SNAPSHOT/cdc-client-1.11.23-rr-20200616.075058-5.jar!/com/taobao/adapter/common/dataobject/AppointExtendsDTO.class" timestamp="1593573983480">
         <mark key="[" line="100" column="13" />
         <mark key="]" line="100" column="22" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/jsd/displayservice/impl/StoreJsdAppointmentDisplayService.java" timestamp="1593572685023" />
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1593584789868">
-        <mark key="[" line="69" column="54" />
-        <mark key="]" line="70" column="40" />
-        <mark key="^" line="70" column="40" />
-        <mark key="." line="70" column="39" />
+      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1593585715902">
+        <mark key="[" line="69" column="27" />
+        <mark key="]" line="69" column="27" />
+        <mark key="." line="69" column="27" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/OrderD2SolutionInstancesQueryActivity.java" timestamp="1593522963205">
         <mark key="a" line="258" column="96" />
@@ -244,44 +242,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>standardSelectSignRange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
-        <text>standardSelectSignRange</text>
+        <text>logisticsSolutionCombineParams</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>parse</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLzEuMeiOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLzEuMeiOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
+        <text encoding="base64">CQlQYWlyPE9iamVjdCwgT2JqZWN0PiBvZiA9IFBhaXIub2YobnVsbCwgbnVsbCk7CgkJU3lzdGVtLm91dC5wcmludGxuKG9mLmdldFJpZ2h0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLzEuMeiOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>修改cdc 版本</text>
+        <text encoding="base64">ICAgICAgICAvLzEuMeiOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL+iOt+WPluiuvue9rum7mOiupOW/hemhu+mihOe6pumFjemAgSzlvZPliY3lj6rmnInljLrln5/pm7bllK7mj5Lku7bkvb/nlKgKICAgICAgICBib29sZWFuIGlzRGVmYXVsdFNlbGVjdCAgPSBmZXRjaERlZmF1bHRTZWxlY3QobG9naXN0aWNzU29sdXRpb25Db21iaW5lUGFyYW1zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
