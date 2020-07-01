@@ -78,12 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/UicService.java" timestamp="1593603160133">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="29" column="81" />
-        <mark key="." line="29" column="71" />
-        <mark key="^" line="26" column="4" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/regionRetailUicService.java" timestamp="1593605406083">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="22" column="32" />
@@ -107,24 +101,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cainiao/sdp/sdp_shared.api.plugin/2.1.15-SNAPSHOT/sdp_shared.api.plugin-2.1.15-SNAPSHOT-sources.jar!/com/cainiao/sdp/shared/api/plugin/service/uic/UicService.java" timestamp="1593603257169">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="23" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1593606732899">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="59" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.config/src/main/resources/client/uic-client.xml" timestamp="1593602234205">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="47" />
-      </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-common/src/main/java/com/alibaba/adpmanager/common/constant/ServiceType.java" timestamp="1593607420119" />
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/module/screen/user/TemplateList.java" timestamp="1593604398193" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/api/service/SdpSuningShopServiceImpl.java" timestamp="1593602798025">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="21" />
-      </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1593606539769">
         <mark key="[" line="76" column="70" />
         <mark key="]" line="76" column="79" />
@@ -136,16 +118,6 @@
       </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/build/settings/ExpressPartnerBuilder.java" timestamp="1593608691888">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1593603130647">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="47" column="5" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1593603101636">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-        <mark key="^" line="46" column="31" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1593608433217">
         <mark key="[" line="36" column="9" />
