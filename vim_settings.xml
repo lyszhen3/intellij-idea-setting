@@ -90,10 +90,6 @@
         <mark key="." line="33" column="11" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-ic.xml" timestamp="1593601174883">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="38" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-uic-client.xml" timestamp="1593603341599">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="59" />
@@ -138,7 +134,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/build/settings/ExpressPartnerBuilder.java" timestamp="1593607064061">
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/build/settings/ExpressPartnerBuilder.java" timestamp="1593608691888">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/CapacityService.java" timestamp="1593603130647">
@@ -150,6 +146,12 @@
         <mark key="]" line="46" column="30" />
         <mark key="." line="46" column="30" />
         <mark key="^" line="46" column="31" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1593608433217">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -258,10 +260,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5000000000046L</text>
+        <text>plugin-region-retail.version</text>
       </register>
       <register name="+" type="4">
-        <text>5000000000046L</text>
+        <text>plugin-region-retail.version</text>
       </register>
       <register name="-" type="4">
         <text>getDevisionCode</text>
