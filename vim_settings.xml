@@ -105,7 +105,12 @@
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/util/CycleRuleUtil.java" timestamp="1593661516571" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.65/fastjson-1.2.65-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1593664724006" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsRuleRepo.java" timestamp="1593671052877" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsRuleRepo.java" timestamp="1593671906208">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="13" />
+        <mark key="^" line="46" column="13" />
+        <mark key="." line="46" column="12" />
+      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1593660045164">
         <mark key="[" line="151" column="17" />
         <mark key="]" line="151" column="45" />
@@ -119,7 +124,7 @@
         <mark key="." line="47" column="45" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593670331606">
+      <file name="/Dummy.txt" timestamp="1593671912143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -136,19 +141,19 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="4" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1593656000808">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="25" column="84" />
-        <mark key="." line="25" column="65" />
-        <mark key="^" line="24" column="0" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/render/MultiRuleRender.java" timestamp="1593670326804">
         <mark key="[" line="151" column="57" />
         <mark key="]" line="151" column="74" />
         <mark key="." line="151" column="57" />
         <mark key="^" line="149" column="61" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1593656456369" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/selector/MultiRuleTemplateSelector.java" timestamp="1593671345212" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/CacheDiamondConfig.java" timestamp="1593671936856">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="31" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="9" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/model/cycle/CycleSendInfoParam.java" timestamp="1593662415366">
         <mark key="[" line="52" column="32" />
         <mark key="]" line="52" column="32" />
@@ -265,13 +270,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonUtils.toString</text>
+        <text>cache.properties</text>
       </register>
       <register name="+" type="4">
-        <text>JSON.toJSONString</text>
+        <text>cache.properties</text>
       </register>
       <register name="-" type="4">
-        <text>JsonUtils.toString</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
