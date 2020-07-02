@@ -81,14 +81,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" timestamp="1593689068897">
-        <mark key="a" line="80" column="7" />
-        <mark key="'" line="57" column="37" />
-        <mark key="[" line="78" column="13" />
-        <mark key="]" line="78" column="13" />
-        <mark key="." line="78" column="12" />
-        <mark key="^" line="78" column="13" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1593689024851">
         <mark key="[" line="216" column="54" />
         <mark key="]" line="216" column="63" />
@@ -135,7 +127,7 @@
         <mark key="." line="47" column="45" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593689082438">
+      <file name="/Dummy.txt" timestamp="1593689902798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,12 +139,6 @@
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreUtil.java" timestamp="1593688304144">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="80" column="5" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1593687752064">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="26" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfig.java" timestamp="1593688994222">
         <mark key="[" line="150" column="20" />
