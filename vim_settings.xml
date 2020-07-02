@@ -143,6 +143,12 @@
       <file name="/fragment.java" timestamp="1593658630116">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1593660045164">
+        <mark key="[" line="151" column="17" />
+        <mark key="]" line="151" column="45" />
+        <mark key="." line="151" column="44" />
+        <mark key="^" line="151" column="45" />
+      </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1593606539769">
         <mark key="[" line="76" column="70" />
         <mark key="]" line="76" column="79" />
@@ -254,13 +260,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.alibaba.ascp.sdp2.api.TerminalSegmentSolutionService</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>com.alibaba.ascp.sdp2.api.TerminalSegmentSolutionService</text>
       </register>
       <register name="-" type="4">
-        <text>terminalSegmentSolutionService</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
