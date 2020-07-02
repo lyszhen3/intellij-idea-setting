@@ -88,14 +88,11 @@
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="41" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/MultiRuleCalculator.java" timestamp="1593661016016" />
       <file name="/Dummy.txt" timestamp="1593658630084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1593606732899">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="59" />
       </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-web/src/main/java/com/alibaba/adpmanager/template/build/settings/ExpressPartnerBuilder.java" timestamp="1593608691888">
         <mark key="'" line="0" column="0" />
@@ -119,6 +116,7 @@
         <mark key="." line="25" column="65" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/render/MultiRuleRender.java" timestamp="1593660594198" />
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1593608433217">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="36" />
@@ -148,10 +146,6 @@
         <mark key="]" line="151" column="45" />
         <mark key="." line="151" column="44" />
         <mark key="^" line="151" column="45" />
-      </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1593606539769">
-        <mark key="[" line="76" column="70" />
-        <mark key="]" line="76" column="79" />
       </file>
     </filemarks>
     <jumps>
