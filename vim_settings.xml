@@ -122,7 +122,18 @@
         <mark key="." line="179" column="84" />
         <mark key="^" line="177" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593674614745">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/CycleDetailService.java" timestamp="1593681789645">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="14" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593681815537">
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="45" />
+        <mark key="." line="47" column="45" />
+        <mark key="^" line="47" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593681819527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,9 +168,6 @@
         <mark key="]" line="52" column="32" />
         <mark key="^" line="52" column="32" />
         <mark key="." line="52" column="31" />
-      </file>
-      <file name="/fragment.java" timestamp="1593658630116">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -267,14 +275,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>增加缓存关闭</text>
+      <register name="&quot;" type="4">
+        <text>cycleSendRequest</text>
       </register>
       <register name="+" type="4">
-        <text>valueStr</text>
+        <text>cycleSendRequest</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>cycleSendRequest</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
