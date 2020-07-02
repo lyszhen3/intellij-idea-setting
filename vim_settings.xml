@@ -87,7 +87,7 @@
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593655215607">
+      <file name="/Dummy.txt" timestamp="1593656026141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -108,11 +108,15 @@
         <mark key="[" line="40" column="55" />
         <mark key="]" line="40" column="71" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1593611950797">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="46" column="30" />
-        <mark key="^" line="46" column="31" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/BatchRegionRetailLogisticsSolutionCalculator.java" timestamp="1593655989793">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="117" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1593656000808">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="25" column="84" />
+        <mark key="." line="25" column="65" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1593608433217">
         <mark key="[" line="36" column="9" />
@@ -239,43 +243,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sdpZqsProcessorHolder</text>
+        <text>BatchRegionRetailLogisticsSolutionCalculator</text>
       </register>
       <register name="+" type="4">
-        <text>regionRetailZqsProcessorHolder</text>
+        <text>SdpBizServiceConfig</text>
       </register>
       <register name="-" type="4">
-        <text>sdpZqsProcessorHolder</text>
+        <text>BatchRegionRetailLogisticsSolutionCalculator</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QFNsZjRqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW5jcnlwdFByb3BOYW1lcyI+CiAgICAgICAgICAgIDxsaXN0PgogICAgICAgICAgICAgICAgPHZhbHVlPnJlZGlzLnBhc3M8L3ZhbHVlPgogICAgICAgICAgICAgICAgPHZhbHVlPmpkYmMucGFzc3dvcmQ8L3ZhbHVlPgogICAgICAgICAgICA8L2xpc3Q+CiAgICAgICAgPC9wcm9wZXJ0eT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT5jbGFzc3BhdGg6emsucHJvcGVydGllczwvdmFsdWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0iZW5jcnlwdFByb3BOYW1lcyI+CiAgICAgICAgICAgIDxsaXN0PgogICAgICAgICAgICAgICAgPHZhbHVlPnJlZGlzLnBhc3M8L3ZhbHVlPgogICAgICAgICAgICAgICAgPHZhbHVlPmpkYmMucGFzc3dvcmQ8L3ZhbHVlPgogICAgICAgICAgICA8L2xpc3Q+CiAgICAgICAgPC9wcm9wZXJ0eT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT5jbGFzc3BhdGg6cmVkaXMucHJvcGVydGllczwvdmFsdWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT5jbGFzc3BhdGg6emsucHJvcGVydGllczwvdmFsdWU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT5jbGFzc3BhdGg6cmVkaXMucHJvcGVydGllczwvdmFsdWU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctcmVnaW9uLXJldGFpbC11aWMtY2xpZW50LnhtbCIvPgo=</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpzcHJpbmctcmVnaW9uLXJldGFpbC11aWMtY2xpZW50LnhtbCIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0LmdldE1vZHVsZSgpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCA9PSByZXN1bHQgfHwgbnVsbCA9PSByZXN1bHQuZ2V0TW9kdWxlKCkpIHsKCQkJbG9nLmVycm9yKCJnZXRVc2VyQWRkcmVzc0J5SWQgZmFpbCBhZGRyZXNzSWQ6IiArIGFkZHJlc3NJZCArICJ8dXNlcklkOiIgKyB1c2VySWQgKyAifHJlc3VsdDoiICsgSlNPTi50b0pTT05TdHJpbmcocmVzdWx0KSk7CgkJCXJldHVybiBudWxsOwoJCX0K</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0LmdldE1vZHVsZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
