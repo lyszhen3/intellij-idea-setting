@@ -141,11 +141,11 @@
         <mark key="." line="25" column="65" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/render/MultiRuleRender.java" timestamp="1593662815506">
-        <mark key="[" line="125" column="68" />
-        <mark key="]" line="124" column="45" />
-        <mark key="^" line="124" column="45" />
-        <mark key="." line="124" column="44" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/render/MultiRuleRender.java" timestamp="1593664686994">
+        <mark key="[" line="151" column="76" />
+        <mark key="]" line="151" column="91" />
+        <mark key="." line="151" column="90" />
+        <mark key="^" line="151" column="91" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1593656456369" />
       <file name="D:/workspace/self/myWeb/demo_web/src/main/resources/lys_spring.xml" timestamp="1593611848461">
@@ -268,43 +268,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DTO</text>
+        <text>cycleSendInfoParam.getFrequency()</text>
       </register>
       <register name="+" type="4">
-        <text>supportModels</text>
+        <text>supportModelDTOs</text>
       </register>
       <register name="-" type="4">
-        <text>DTO</text>
+        <text>cycleSendInfoParam.getFrequency()</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvL+i9rOaNouaIkOWvueWkluaooeWeiwoJCUxpc3Q8Q3ljbGVTZW5kRnJlcXVlbmN5RFRPPiBzdXBwb3J0RnJlcXVlbmN5RFRPcyA9IHN1cHBvcnRGcmVxdWVuY3lzLnN0cmVhbSgpLm1hcChDeWNsZU1vZGVsQ29udmVydDo6Y29udmVydFNlbmRGcmVxdWVuY3kyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoJCXJ1bGUuc2V0RnJlcXVlbmN5cyhzdXBwb3J0RnJlcXVlbmN5RFRPcyk7Cg==</text>
+        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoJCXJ1bGUuc2V0U3VwcG9ydE1vZGVscyhzdXBwb3J0TW9kZWxEVE9zKTsK</text>
+        <text encoding="base64">CQkvL+i9rOaNouaIkOWvueWkluaooeWeiwoJCUxpc3Q8Q3ljbGVTZW5kRnJlcXVlbmN5RFRPPiBzdXBwb3J0RnJlcXVlbmN5RFRPcyA9IHN1cHBvcnRGcmVxdWVuY3lzLnN0cmVhbSgpLm1hcChDeWNsZU1vZGVsQ29udmVydDo6Y29udmVydFNlbmRGcmVxdWVuY3kyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoJCXJ1bGUuc2V0RnJlcXVlbmN5cyhzdXBwb3J0RnJlcXVlbmN5RFRPcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>加个日志</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
