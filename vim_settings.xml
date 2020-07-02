@@ -88,7 +88,7 @@
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593656840168">
+      <file name="/Dummy.txt" timestamp="1593658630084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,9 +125,9 @@
         <mark key="." line="36" column="38" />
         <mark key="^" line="36" column="39" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1593656747235">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="71" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1593657759655">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="104" />
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="37" />
       </file>
@@ -139,6 +139,9 @@
       <file name="D:/workspace/self/myWeb/demo_web/src/main/resources/lys_spring.xml" timestamp="1593611848461">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="39" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1593658630116">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1593606539769">
         <mark key="[" line="76" column="70" />
@@ -250,11 +253,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>加个日志</text>
+      <register name="&quot;" type="4">
+        <text>com.alibaba.ascp.sdp2.api.TerminalSegmentSolutionService</text>
       </register>
       <register name="+" type="4">
-        <text>regionRetailCycleDetailServiceImpl</text>
+        <text>com.alibaba.ascp.sdp2.api.TerminalSegmentSolutionService</text>
       </register>
       <register name="-" type="4">
         <text>terminalSegmentSolutionService</text>
