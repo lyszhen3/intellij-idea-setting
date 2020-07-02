@@ -81,22 +81,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1593689024851">
-        <mark key="[" line="216" column="54" />
-        <mark key="]" line="216" column="63" />
-        <mark key="^" line="216" column="63" />
-        <mark key="." line="216" column="62" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-common/src/main/java/com/alibaba/delivery/platform/common/model/params/template/CycleSendParam.java" timestamp="1593679767111" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/RegionRetailDiamondConstant.java" timestamp="1593672064411">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="91" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/repo/LogisticsRuleRepo.java" timestamp="1593671906208">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="13" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="46" column="12" />
+      <file name="D:/workspace/company/adp2/pom.xml" timestamp="1593690563874">
+        <mark key="'" line="1191" column="0" />
       </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1593688720527">
         <mark key="[" line="149" column="23" />
@@ -127,29 +114,41 @@
         <mark key="." line="47" column="45" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593689902798">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/resources/store-service.xml" timestamp="1593687677615">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="45" column="10" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreUtil.java" timestamp="1593688304144">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="80" column="5" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-platform/platform-service/src/main/java/com/alibaba/delivery/platform/config/PlatformServiceConfig.java" timestamp="1593688994222">
-        <mark key="[" line="150" column="20" />
-        <mark key="]" line="150" column="34" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/selector/MultiRuleTemplateSelector.java" timestamp="1593671345212" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/CacheDiamondConfig.java" timestamp="1593672121358">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="48" />
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="9" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1593689024851">
+        <mark key="[" line="216" column="54" />
+        <mark key="]" line="216" column="63" />
+        <mark key="^" line="216" column="63" />
+        <mark key="." line="216" column="62" />
+      </file>
+      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1593690596515">
+        <mark key="[" line="2390" column="27" />
+        <mark key="]" line="2390" column="30" />
+        <mark key="." line="2390" column="29" />
+        <mark key="^" line="2390" column="30" />
+      </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-adapter/sdp2-adapter-trade/pom.xml" timestamp="1593690995086">
+        <mark key="[" line="105" column="29" />
+        <mark key="]" line="104" column="21" />
+        <mark key="." line="104" column="20" />
+        <mark key="^" line="104" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593689902798">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/utils/StoreUtil.java" timestamp="1593688304144">
+        <mark key="]" line="6" column="5" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreUtils.java" timestamp="1593688945845">
         <mark key="'" line="42" column="34" />
@@ -164,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="39" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfig.java" />
       <jump line="38" column="13" filename="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/java/com/cainiao/sdp/plugin/warehouse/service/timing/filter/PriorityServiceFilterV2.java" />
       <jump line="91" column="13" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/cdc/biz/decision/consign/ConsignDecisionServiceImpl.java" />
       <jump line="57" column="12" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" />
@@ -264,48 +262,49 @@
       <jump line="56" column="37" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/TimingCalculateManager.java" />
       <jump line="34" column="0" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreUtils.java" />
       <jump line="41" column="34" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreUtils.java" />
+      <jump line="1191" column="0" filename="D:/workspace/company/adp2/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dealerDowngrade</text>
+        <text>client</text>
       </register>
-      <register name="+" type="4">
-        <text>dealerDowngrade</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuZGVsaXZlcnk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmFkcDItY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
-        <text>Integer.valueOf(dealerTag)</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTnVtYmVyVXRpbHMuaXNEaWdpdHMoZGVhbGVyVGFnKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTnVtYmVyVXRpbHMuaXNEaWdpdHMoZGVhbGVyVGFnKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgbG9naXN0aWNzU29sdXRpb24uZ2V0RnJvbSgpLmdldENvZGUoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgbG9naXN0aWNzU29sdXRpb24uZ2V0RnJvbSgpLmdldENvZGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkID0gInBsYWNlU2VydmljZUNvbnRleHQiIGNsYXNzPSIiIC8+Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text>修改参数名</text>
+        <text encoding="base64">ICAgIDxiZWFuIGlkID0gInBsYWNlU2VydmljZUNvbnRleHQiIGNsYXNzPSIiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修改参数名</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
