@@ -166,13 +166,13 @@
         <mark key="." line="2390" column="29" />
         <mark key="^" line="2390" column="30" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/java/com/alibaba/ascp/sdp2/config/cycle/SwitchStreamConvert.java" timestamp="1593696953861">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="21" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/java/com/alibaba/ascp/sdp2/config/cycle/SwitchStreamConvert.java" timestamp="1593698777856">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="28" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593695776170">
+      <file name="/Dummy.txt" timestamp="1593698861321">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,29 +296,29 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>将hsf服务迁移到sdp2</text>
       </register>
       <register name="+" type="4">
         <text>CycleSendRuleDTO</text>
       </register>
       <register name="-" type="4">
-        <text>vo</text>
+        <text>将hsf服务迁移到sdp2</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlSZXN1bHQ8Q3ljbGVTZW5kUnVsZVZPPiByZXN1bHQgPSBuZXcgUmVzdWx0PD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5DeWNsZVNlbmRSdWxlRFRPOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUudXRpbHMuSnNvblV0aWxzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5DeWNsZVNlbmRSdWxlRFRPOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5DeWNsZVNlbmRSdWxlRFRPOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUudXRpbHMuSnNvblV0aWxzOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5DeWNsZVNlbmRSdWxlRFRPOwo=</text>
