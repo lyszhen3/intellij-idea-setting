@@ -90,27 +90,15 @@
         <mark key="." line="151" column="44" />
         <mark key="^" line="151" column="45" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1593687049160">
-        <mark key="[" line="179" column="84" />
-        <mark key="]" line="179" column="92" />
-        <mark key="." line="179" column="91" />
-        <mark key="^" line="179" column="92" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/service/PlaceService.java" timestamp="1593688226237">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="23" column="15" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593691132921">
         <mark key="[" line="62" column="76" />
         <mark key="]" line="62" column="91" />
         <mark key="." line="47" column="45" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/resources/store-service.xml" timestamp="1593687677615">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="45" column="10" />
+      <file name="D:/workspace/company/wonder/wonder-start/src/main/resources/logback.xml" timestamp="1593692874817">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="33" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1593689024851">
         <mark key="[" line="216" column="54" />
@@ -118,6 +106,7 @@
         <mark key="^" line="216" column="63" />
         <mark key="." line="216" column="62" />
       </file>
+      <file name="D:/workspace/company/wonder/wonder-autoVerification/src/main/java/com/wonder/autoVerification/service/dao/TradeBaseMapper.java" timestamp="1593693659750" />
       <file name="D:/workspace/company/sdp/pom.xml" timestamp="1593690596515">
         <mark key="[" line="2390" column="27" />
         <mark key="]" line="2390" column="30" />
@@ -149,10 +138,6 @@
         <mark key="]" line="183" column="34" />
         <mark key="^" line="183" column="34" />
         <mark key="." line="183" column="33" />
-      </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/adaptor/PlaceService.java" timestamp="1593687930570">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="5" />
       </file>
       <file name="/fragment.java" timestamp="1593691578633">
         <mark key="[" line="0" column="39" />
@@ -266,10 +251,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>CONSOLE</text>
       </register>
       <register name="+" type="4">
-        <text>CycleSendRequest</text>
+        <text>CONSOLE</text>
       </register>
       <register name="-" type="4">
         <text>request</text>
