@@ -85,6 +85,10 @@
         <mark key="^" line="83" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.65/fastjson-1.2.65-sources.jar!/com/alibaba/fastjson/serializer/JSONSerializer.java" timestamp="1593664728654" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/RegionRetailDiamondConstant.java" timestamp="1593672064411">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="91" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/util/CycleModelConvert.java" timestamp="1593661358316">
         <mark key="[" line="28" column="72" />
         <mark key="]" line="29" column="68" />
@@ -117,13 +121,7 @@
         <mark key="." line="151" column="44" />
         <mark key="^" line="151" column="45" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1593671146813" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593656730995">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="45" />
-        <mark key="." line="47" column="45" />
-        <mark key="^" line="47" column="46" />
-      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1593673269090" />
       <file name="/Dummy.txt" timestamp="1593671912143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -148,9 +146,9 @@
         <mark key="^" line="149" column="61" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/selector/MultiRuleTemplateSelector.java" timestamp="1593671345212" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/CacheDiamondConfig.java" timestamp="1593671936856">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="31" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/CacheDiamondConfig.java" timestamp="1593672121358">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="48" />
         <mark key="^" line="25" column="10" />
         <mark key="." line="25" column="9" />
       </file>
@@ -270,10 +268,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cache.properties</text>
+        <text>closeLogisticsRuleCache</text>
       </register>
       <register name="+" type="4">
-        <text>cache.properties</text>
+        <text>closeLogisticsRuleCache</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
