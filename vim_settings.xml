@@ -110,17 +110,11 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="D:/workspace/company/adp2/adp2-plugins/store-plugin/src/main/java/com/alibaba/delivery/plugins/store/plugin/service/delivery/node/handler/StoreHandler.java" timestamp="1593660045164">
-        <mark key="[" line="151" column="17" />
-        <mark key="]" line="151" column="45" />
-        <mark key="." line="151" column="44" />
-        <mark key="^" line="151" column="45" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1593675166351">
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/cache/TairUtils.java" timestamp="1593687049160">
         <mark key="[" line="179" column="84" />
         <mark key="]" line="179" column="92" />
-        <mark key="." line="179" column="84" />
-        <mark key="^" line="177" column="16" />
+        <mark key="." line="179" column="91" />
+        <mark key="^" line="179" column="92" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/CycleDetailService.java" timestamp="1593681789645">
         <mark key="[" line="15" column="14" />
@@ -133,7 +127,7 @@
         <mark key="." line="47" column="45" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593682354630">
+      <file name="/Dummy.txt" timestamp="1593687058001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -275,44 +269,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>cycleSendRequest</text>
+      <register name="&quot;" type="2">
+        <text>修改参数名</text>
       </register>
-      <register name="+" type="4">
-        <text>cycleSendRequest</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHZhbHVlU3RyID0gSnNvblV0aWxzLnRvU3RyaW5nKHZhbHVlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>cycleSendRequest</text>
+        <text>ObjectUtils.NULL</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text>增加缓存关闭</text>
+        <text>修改参数名</text>
       </register>
       <register name="2" type="2">
-        <text>迁移hsf 到sdp2</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlDeWNsZVNlbmRJbmZvUGFyYW0gY3ljbGVTZW5kSW5mb1BhcmFtID0genFzQ29udGV4dC5nZXRDeWNsZVNlbmRJbmZvUGFyYW0oKTsK</text>
+        <text>增加缓存关闭</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text>迁移hsf 到sdp2</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlDeWNsZVNlbmRJbmZvUGFyYW0gY3ljbGVTZW5kSW5mb1BhcmFtID0genFzQ29udGV4dC5nZXRDeWNsZVNlbmRJbmZvUGFyYW0oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMaXN0PEN5Y2xlU2VuZE1vZGVsRFRPPiBzdXBwb3J0TW9kZWxEVE9zID0gc3VwcG9ydE1vZGVscy5zdHJlYW0oKS5tYXAoQ3ljbGVNb2RlbENvbnZlcnQ6OmNvbnZlcnRTZW5kTW9kZWwyRFRPKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
