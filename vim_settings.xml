@@ -109,22 +109,22 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593746390912">
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="71" column="54" />
-        <mark key="." line="71" column="53" />
-        <mark key="^" line="71" column="54" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593748788075">
+        <mark key="[" line="79" column="107" />
+        <mark key="]" line="79" column="41" />
+        <mark key="." line="79" column="41" />
+        <mark key="^" line="79" column="40" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/CycleDetailServiceTest.java" timestamp="1593741721374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1593746671022">
-        <mark key="[" line="347" column="27" />
-        <mark key="]" line="347" column="39" />
-        <mark key="^" line="347" column="27" />
-        <mark key="." line="347" column="27" />
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1593748327112">
+        <mark key="[" line="341" column="25" />
+        <mark key="]" line="341" column="39" />
+        <mark key="." line="341" column="38" />
+        <mark key="^" line="341" column="39" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1593743772686">
         <mark key="[" line="11" column="0" />
@@ -176,9 +176,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-consumer.xml" timestamp="1593743716414">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="10" column="62" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-consumer.xml" timestamp="1593748263521">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="33" />
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="55" />
       </file>
@@ -300,14 +300,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Cycle</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuZGVsaXZlcnk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmFkcDItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmEuZGVsaXZlcnk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmFkcDItY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="+" type="4">
+        <text>CycleSendParam</text>
       </register>
       <register name="-" type="4">
-        <text>1.1.6</text>
+        <text>Cycle</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
@@ -316,28 +316,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBzdHJpbmdTZXQgPSBuZXcgSGFzaFNldDw+KHN0cmluZ0xpc3QpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0uCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPio8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5kZWxpdmVyeTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmFkcDItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHthZHAyLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+KjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+KjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aWMuc2VydmljZS52ZXJzaW9uPTEuMC4wCmlwbS5wcm92aWRlci5zZXJ2aWNlLnZlcnNpb249MS4wLjAKaXRlbWNlbnRlci5pdGVtY2FjaGUudGFpci5kYXRhSWQ9dGFpci5tZGIubWMuaXRlbQoKdWljX3NlcnZpY2VfdmVyc2lvbj0xLjAuMAp1aWMuY29uZmlnc2VydmVyLnZlcnNpb249MS4wLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
