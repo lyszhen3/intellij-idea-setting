@@ -81,17 +81,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/Foo.java" timestamp="1593696644485">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="4" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/ZqsContext.java" timestamp="1593695557746">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/Foo1.java" timestamp="1593696843972">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="12" column="15" />
@@ -102,11 +91,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="25" column="11" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1593743790143">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="35" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1593744196474">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="^" line="22" column="62" />
+        <mark key="." line="22" column="61" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/biz-local.properties" timestamp="1593743728559">
         <mark key="[" line="0" column="0" />
@@ -114,37 +103,26 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593695631167">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="47" column="46" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1593746390912">
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="70" column="54" />
+        <mark key="." line="70" column="53" />
+        <mark key="^" line="70" column="54" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/test/java/CycleDetailServiceTest.java" timestamp="1593741721374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1593746671022">
+        <mark key="[" line="347" column="27" />
+        <mark key="]" line="347" column="39" />
+        <mark key="^" line="347" column="27" />
+        <mark key="." line="347" column="27" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1593743772686">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="17" column="11" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/calculator/CommonRuleCalculator.java" timestamp="1593695644046">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/cycle/render/MultiRuleRender.java" timestamp="1593695678589">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="148" column="61" />
-      </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/Bar.java" timestamp="1593696714979">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="24" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/biz-production.properties" timestamp="1593743737510">
         <mark key="[" line="0" column="0" />
@@ -158,11 +136,34 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1593745297829">
+        <mark key="[" line="222" column="66" />
+        <mark key="]" line="222" column="87" />
+        <mark key="^" line="222" column="87" />
+        <mark key="." line="222" column="86" />
+      </file>
       <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/CommonTest.java" timestamp="1593696863365">
         <mark key="[" line="98" column="11" />
         <mark key="]" line="98" column="27" />
         <mark key="^" line="98" column="27" />
         <mark key="." line="98" column="26" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1593746546572">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/AbstractKvDiamondListener.java" timestamp="1593745266875">
+        <mark key="[" line="150" column="35" />
+        <mark key="]" line="150" column="63" />
+        <mark key="." line="150" column="62" />
+        <mark key="^" line="150" column="63" />
+      </file>
+      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1593746598810">
+        <mark key="[" line="2376" column="0" />
+        <mark key="]" line="2397" column="25" />
+        <mark key="." line="2390" column="29" />
+        <mark key="^" line="2390" column="30" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/java/com/alibaba/ascp/sdp2/config/cycle/SwitchStreamConvert.java" timestamp="1593698777856">
         <mark key="[" line="26" column="33" />
@@ -300,48 +301,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ability</text>
+        <text>1.1.6</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuY29uZmlnLlByb3BlcnR5UGxhY2Vob2xkZXJDb25maWd1cmVyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ibG9jYXRpb25zIj4KICAgICAgICAgICAgPGxpc3Q+CiAgICAgICAgICAgICAgICA8dmFsdWU+Y2xhc3NwYXRoOmFiaWxpdHktJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlOmxvY2FsfS5wcm9wZXJ0aWVzPC92YWx1ZT4KICAgICAgICAgICAgPC9saXN0PgogICAgICAgIDwvcHJvcGVydHk+CiAgICA8L2JlYW4+Cg==</text>
+      <register name="+" type="4">
+        <text>adp2.version</text>
       </register>
       <register name="-" type="4">
-        <text>ability</text>
+        <text>1.1.6</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWMuc2VydmljZS52ZXJzaW9uPTEuMC4wCmlwbS5wcm92aWRlci5zZXJ2aWNlLnZlcnNpb249MS4wLjAKaXRlbWNlbnRlci5pdGVtY2FjaGUudGFpci5kYXRhSWQ9dGFpci5tZGIubWMuaXRlbQoKdWljX3NlcnZpY2VfdmVyc2lvbj0xLjAuMAp1aWMuY29uZmlnc2VydmVyLnZlcnNpb249MS4wLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRwMi5jb25zdW1lci52ZXJzaW9uPTEuMC4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWMuc2VydmljZS52ZXJzaW9uPTEuMC4wCmlwbS5wcm92aWRlci5zZXJ2aWNlLnZlcnNpb249MS4wLjAKaXRlbWNlbnRlci5pdGVtY2FjaGUudGFpci5kYXRhSWQ9dGFpci5tZGIubWMuaXRlbQoKdWljX3NlcnZpY2VfdmVyc2lvbj0xLjAuMAp1aWMuY29uZmlnc2VydmVyLnZlcnNpb249MS4wLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWMuc2VydmljZS52ZXJzaW9uPTEuMC4wCmlwbS5wcm92aWRlci5zZXJ2aWNlLnZlcnNpb249MS4wLjAKaXRlbWNlbnRlci5pdGVtY2FjaGUudGFpci5kYXRhSWQ9dGFpci5tZGIubWMuaXRlbQoKdWljX3NlcnZpY2VfdmVyc2lvbj0xLjAuMAp1aWMuY29uZmlnc2VydmVyLnZlcnNpb249MS4wLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text>ic.service.version=1.0.0.daily
-ipm.provider.service.version=1.0.0.daily
-itemcenter.itemcache.tair.dataId=tair.mdb.mc.item-daily
-
-uic.service.version=1.0.0.daily
-uic.configserver.version=1.0.0.daily</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBzdHJpbmdTZXQgPSBuZXcgSGFzaFNldDw+KHN0cmluZ0xpc3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxiZWFuICBjbGFzcz0iIj48Lwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlSZXN1bHQ8Q3ljbGVTZW5kUnVsZVZPPiByZXN1bHQgPSBuZXcgUmVzdWx0PD4oKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aWMuc2VydmljZS52ZXJzaW9uPTEuMC4wCmlwbS5wcm92aWRlci5zZXJ2aWNlLnZlcnNpb249MS4wLjAKaXRlbWNlbnRlci5pdGVtY2FjaGUudGFpci5kYXRhSWQ9dGFpci5tZGIubWMuaXRlbQoKdWljX3NlcnZpY2VfdmVyc2lvbj0xLjAuMAp1aWMuY29uZmlnc2VydmVyLnZlcnNpb249MS4wLjAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5DeWNsZVNlbmRSdWxlRFRPOwo=</text>
+        <text encoding="base64">YWRwMi5jb25zdW1lci52ZXJzaW9uPTEuMC4wCg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
