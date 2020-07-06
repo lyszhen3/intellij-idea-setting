@@ -103,7 +103,8 @@
         <mark key="[" line="42" column="21" />
         <mark key="]" line="42" column="48" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1594004895451">
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" timestamp="1594009587230">
+        <mark key="'" line="136" column="16" />
         <mark key="[" line="30" column="16" />
         <mark key="]" line="30" column="49" />
       </file>
@@ -154,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="13" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/cdc/biz/decision/consign/ConsignDecisionServiceImpl.java" />
       <jump line="57" column="12" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/SfExpressArbitrator.java" />
       <jump line="28" column="6" filename="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/common/constants/FulfilServiceCodeConst.java" />
       <jump line="81" column="33" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" />
@@ -254,15 +254,16 @@
       <jump line="41" column="34" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/util/StoreUtils.java" />
       <jump line="1191" column="0" filename="D:/workspace/company/adp2/pom.xml" />
       <jump line="80" column="0" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" />
+      <jump line="136" column="16" filename="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>platform-service-config.properties</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5kZWxpdmVyeTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmFkcDItY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MS4xLjY8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="+" type="4">
+        <text>platform-service-config.properties</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
