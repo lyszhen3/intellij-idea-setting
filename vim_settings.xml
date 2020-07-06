@@ -122,7 +122,7 @@
         <mark key="]" line="349" column="69" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594012090306">
+      <file name="/Dummy.txt" timestamp="1594016432401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/resources/spring-ability.xml" timestamp="1594006763157">
@@ -149,6 +149,10 @@
         <mark key="]" line="183" column="41" />
         <mark key="^" line="183" column="41" />
         <mark key="." line="183" column="40" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/CacheDiamondConfig.java" timestamp="1594016868235">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -257,10 +261,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>regionRetailMockDiamondConfig</text>
+        <text>cache.properties</text>
       </register>
       <register name="+" type="4">
-        <text>regionRetailMockDiamondConfig</text>
+        <text>cache.properties</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
