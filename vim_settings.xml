@@ -96,26 +96,8 @@
         <mark key="." line="37" column="48" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="D:/workspace/company/adp/adp-client/src/main/java/com/alibaba/delivery/client/service/adapt/DeliveryCartServiceAdaptor.java" timestamp="1594002965017">
-        <mark key="[" line="385" column="111" />
-        <mark key="]" line="385" column="138" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-region-retail-ic.xml" timestamp="1594005068150">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="38" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1594005834652">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/calculator/impl/shiptime/MallGroupBuySubOrderShipTimingCalculator.java" timestamp="1594019474051" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/AbstractKvDiamondListener.java" timestamp="1594011897018" />
-      <file name="D:/workspace/company/sdp/pom.xml" timestamp="1594006563870">
-        <mark key="[" line="2398" column="0" />
-        <mark key="]" line="2398" column="0" />
-        <mark key="." line="2398" column="0" />
-        <mark key="^" line="2401" column="30" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1594010173581">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="349" column="0" />
@@ -130,29 +112,20 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-consumer.xml" timestamp="1594006285330">
-        <mark key="[" line="8" column="74" />
-        <mark key="]" line="8" column="94" />
+      <file name="D:/workspace/company/adp/adp-client/src/main/java/com/alibaba/delivery/client/service/client/DeliveryCustomerServiceClient.java" timestamp="1594018701929">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="47" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1594006395093">
-        <mark key="[" line="335" column="50" />
-        <mark key="]" line="343" column="31" />
-        <mark key="^" line="343" column="31" />
-        <mark key="." line="343" column="30" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1594005813447">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="86" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.platform/pom.xml" timestamp="1594006589581">
-        <mark key="[" line="181" column="21" />
-        <mark key="]" line="183" column="41" />
-        <mark key="^" line="183" column="41" />
-        <mark key="." line="183" column="40" />
-      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/phase/RenderPhase.java" timestamp="1594019511711" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/diamond/CacheDiamondConfig.java" timestamp="1594016868235">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1594016915512">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="82" />
+        <mark key="^" line="1" column="70" />
+        <mark key="." line="1" column="70" />
       </file>
     </filemarks>
     <jumps>
@@ -261,10 +234,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cache.properties</text>
+        <text>adpLocalOrderService</text>
       </register>
       <register name="+" type="4">
-        <text>cache.properties</text>
+        <text>adpLocalOrderService</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
