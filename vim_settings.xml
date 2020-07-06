@@ -81,14 +81,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/middleware/eagleeye-core-sdk/1.8.4.5--2019-09-stable/eagleeye-core-sdk-1.8.4.5--2019-09-stable-sources.jar!/com/taobao/eagleeye/EagleEye.java" timestamp="1594025534559" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/eagleeye/eagleeye-core/1.7.4.8/eagleeye-core-1.7.4.8-sources.jar!/com/taobao/eagleeye/EagleEye.java" timestamp="1594023331926">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="74" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/pom.xml" timestamp="1594024225418">
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/pom.xml" timestamp="1594027675896">
         <mark key="[" line="103" column="19" />
-        <mark key="]" line="103" column="31" />
-        <mark key="." line="103" column="30" />
+        <mark key="]" line="103" column="19" />
+        <mark key="." line="103" column="19" />
         <mark key="^" line="103" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/eagleeye/eagleeye-core/1.7.4.8/eagleeye-core-1.7.4.8-sources.jar!/com/taobao/eagleeye/RpcContext_inner.java" timestamp="1594023715728" />
@@ -98,11 +99,11 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1594024493083">
-        <mark key="[" line="277" column="49" />
-        <mark key="]" line="280" column="52" />
-        <mark key="^" line="280" column="52" />
-        <mark key="." line="280" column="51" />
+      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1594028355956">
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="398" column="44" />
+        <mark key="^" line="398" column="44" />
+        <mark key="." line="398" column="43" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/order/phase/RenderPhase.java" timestamp="1594019511711" />
       <file name="D:/workspace/company/region-retail-app/region-retail-base/pom.xml" timestamp="1594023843893">
