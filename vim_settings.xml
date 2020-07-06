@@ -124,6 +124,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-test/2.1.9.2/pandora-boot-test-2.1.9.2-sources.jar!/com/taobao/pandora/boot/test/junit4/impl/PandoraClassLoader.java" timestamp="1594036735873">
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="70" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1594034855749">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -138,11 +142,11 @@
       <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1594035213634">
         <mark key="'" line="70" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1594036629473">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1594036742310">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -250,11 +254,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZSE9bnVsbCAmJiBuYW1lLmVxdWFscygiY29tLmFsaWJhYmEudG1mLmZ1bmN0aW9uLm1vZGVsLklUcmFuc2Zlck9iamVjdCIp</text>
+      <register name="&quot;" type="4">
+        <text>com.taobao.pandora.boot.test.junit4</text>
       </register>
       <register name="+" type="4">
-        <text>PandoraClassLoader</text>
+        <text>com.taobao.pandora.boot.test.junit4</text>
       </register>
       <register name="-" type="4">
         <text>provided</text>
