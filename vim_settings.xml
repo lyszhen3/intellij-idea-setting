@@ -142,9 +142,9 @@
       <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1594035213634">
         <mark key="'" line="70" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1594036742310">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="36" />
+      <file name="/fragment.java" timestamp="1594040054177">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -255,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.taobao.pandora.boot.test.junit4</text>
+        <text>com.taobao.eagleeye.EagleEye</text>
       </register>
       <register name="+" type="4">
-        <text>com.taobao.pandora.boot.test.junit4</text>
+        <text>com.taobao.eagleeye.EagleEye</text>
       </register>
       <register name="-" type="4">
         <text>provided</text>
