@@ -87,6 +87,12 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="37" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1594116196088">
+        <mark key="[" line="27" column="88" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/pom.xml" timestamp="1594113823052">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -98,16 +104,15 @@
         <mark key="." line="53" column="12" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendConfirmDTO.java" timestamp="1594113668607" />
+      <file name="/Dummy.txt" timestamp="1594114641334">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1594113813951">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="24" column="21" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-client/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendRuleDTO.java" timestamp="1594113187602">
-        <mark key="[" line="180" column="12" />
-        <mark key="]" line="180" column="87" />
-        <mark key="." line="180" column="12" />
-        <mark key="^" line="180" column="12" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1594114528853">
         <mark key="[" line="36" column="38" />
@@ -222,43 +227,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>biz</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>biz</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>修改版本号</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSAqIEBzZWUgY29tLmNhaW5pYW8uc2RwLnNoYXJlZC5hcGkuc2VydmljZS5tb2RlbC5jb21tb24uQ3ljbGVDb25zdGFudAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS1UT0RPIExZUyDlpoLmnpwgLS0+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAqIEBzZWUgY29tLmNhaW5pYW8uc2RwLnNoYXJlZC5hcGkuc2VydmljZS5tb2RlbC5jb21tb24uQ3ljbGVDb25zdGFudAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwhLS1UT0RPIExZUyDlpoLmnpwgLS0+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
