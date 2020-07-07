@@ -81,7 +81,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1594090551808">
+      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594106100581">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="59" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1594105701481" />
+      <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1594110851587" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1594111000911" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/biz-local.properties" timestamp="1594111014349" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1594104591153">
+        <mark key="[" line="371" column="63" />
+        <mark key="]" line="372" column="64" />
+        <mark key="." line="372" column="63" />
+        <mark key="^" line="372" column="64" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/CycleDetailServiceImpl.java" timestamp="1594110863558">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="52" column="12" />
         <mark key="]" line="52" column="45" />
@@ -92,6 +106,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/resources/spring-ability.xml" timestamp="1594111018929" />
       <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/ScItemExtUtils.java" timestamp="1594090927018">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="26" />
@@ -102,23 +117,18 @@
         <mark key="^" line="280" column="12" />
         <mark key="." line="279" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-test/2.1.9.2/pandora-boot-test-2.1.9.2-sources.jar!/com/taobao/pandora/boot/test/junit4/impl/PandoraClassLoader.java" timestamp="1594036735873">
-        <mark key="[" line="58" column="36" />
-        <mark key="]" line="58" column="70" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1594110920714" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1594111358254">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594106100581">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="59" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1594105701481" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/diamond/C2MDiamondListener.java" timestamp="1594105713451">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="73" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1594034855749">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/util/AreaUtil.java" timestamp="1594111101488">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="36" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1594109114894">
         <mark key="[" line="406" column="0" />
@@ -133,31 +143,6 @@
         <mark key="[" line="339" column="0" />
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
-      </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1594035213634">
-        <mark key="'" line="70" column="22" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1594034710793">
-        <mark key="[" line="135" column="8" />
-        <mark key="]" line="131" column="20" />
-        <mark key="." line="131" column="19" />
-        <mark key="^" line="131" column="20" />
-      </file>
-      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1594104591153">
-        <mark key="[" line="371" column="63" />
-        <mark key="]" line="372" column="64" />
-        <mark key="." line="372" column="63" />
-        <mark key="^" line="372" column="64" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-common/2.8.9.9/itemcenter-common-2.8.9.9-sources.jar!/com/taobao/item/service/impl/ItemCacheManager.java" timestamp="1594034034796">
-        <mark key="[" line="79" column="61" />
-        <mark key="]" line="79" column="75" />
-      </file>
-      <file name="/fragment.java" timestamp="1594040054177">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/reqresp/QueryScItemResp.java" timestamp="1594104561515">
         <mark key="[" line="25" column="23" />
@@ -271,11 +256,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>PropertySource</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NJdGVtRFRPTGlzdCA9IHJlc3AuZ2V0U2NJdGVtRFRPTGlzdCgpOwogICAgICAgICAgICBpZiAoIXJlc3AuaXNTdWNjZXNzKCkgfHwgc2NJdGVtRFRPTGlzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBVc2FDb25zb2xlUmVzdWx0PExpc3Q8Qm1zUGtnTWFuYWdlbWVudFNjSXRlbVZPPj4gcmVzdWx0ID0gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKS5zdWNjZXNzKGZhbHNlKS5tc2coIuafpeivouWksei0pSIpLmJ1aWxkKCk7CiAgICAgICAgICAgICAgICBpZiAocmVzcC5nZXRDb2RlKCkhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldENvZGUocmVzcC5nZXRDb2RlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKHJlc3AuZ2V0TXNnKCkhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldE1zZyhyZXNwLmdldE1zZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="+" type="4">
+        <text>PropertySource</text>
       </register>
       <register name="-" type="4">
         <text>queryScItemResp</text>
