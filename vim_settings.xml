@@ -87,16 +87,16 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/pom.xml" timestamp="1594122665533">
-        <mark key="[" line="40" column="21" />
-        <mark key="]" line="40" column="21" />
-        <mark key="^" line="40" column="21" />
-        <mark key="." line="40" column="20" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/pom.xml" timestamp="1594123801712">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="38" column="49" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1594116196088">
-        <mark key="[" line="27" column="88" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1594123868156">
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="121" />
+        <mark key="." line="27" column="49" />
         <mark key="^" line="25" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/pom.xml" timestamp="1594113823052">
@@ -110,12 +110,12 @@
         <mark key="." line="53" column="12" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendConfirmDTO.java" timestamp="1594113668607" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/java/com/alibaba/ascp/sdp2/config/cycle/SwitchStreamConvert.java" timestamp="1594122755091">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/java/com/alibaba/ascp/sdp2/config/cycle/SwitchStreamConvert.java" timestamp="1594123948422">
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594122779069">
+      <file name="/Dummy.txt" timestamp="1594123999660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,11 +125,11 @@
         <mark key="]" line="24" column="21" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1594122723737">
-        <mark key="[" line="185" column="42" />
-        <mark key="]" line="185" column="48" />
-        <mark key="." line="185" column="47" />
-        <mark key="^" line="185" column="48" />
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1594123826256">
+        <mark key="[" line="186" column="25" />
+        <mark key="]" line="186" column="56" />
+        <mark key="." line="186" column="25" />
+        <mark key="^" line="182" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -238,43 +238,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
       </register>
       <register name="+" type="4">
-        <text>plugin-region-retail.version</text>
+        <text>CycleDetailService</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>com.alibaba.ascp.sdp2.app.regionretail.biz.spi.CycleDetailService</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text>修改版本号</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="5" type="2">
+        <text>修改版本号</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSAqIEBzZWUgY29tLmNhaW5pYW8uc2RwLnNoYXJlZC5hcGkuc2VydmljZS5tb2RlbC5jb21tb24uQ3ljbGVDb25zdGFudAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS1UT0RPIExZUyDlpoLmnpwgLS0+Cg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
