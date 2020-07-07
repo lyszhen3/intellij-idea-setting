@@ -86,8 +86,15 @@
         <mark key="]" line="20" column="59" />
       </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationWorkOrderController.java" timestamp="1594105701481" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/ability-local.properties" timestamp="1594111665060" />
+      <file name="D:/workspace/company/usa2/usa2-biz/src/main/java/com/ascp/usa2/biz/BizApplication.java" timestamp="1594112048828" />
       <file name="D:/workspace/company/adp2/adp2-client/src/main/java/com/alibaba/delivery/platform/client/service/adapt/LogisticsTemplateRuleServiceAdapter.java" timestamp="1594110851587" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1594111000911" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1594112117753">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/biz-local.properties" timestamp="1594111014349" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1594104591153">
         <mark key="[" line="371" column="63" />
@@ -107,18 +114,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/test/resources/spring-ability.xml" timestamp="1594111018929" />
-      <file name="D:/workspace/company/sdp/sdp_shared.domain/src/main/java/com/cainiao/sdp/shared/domain/session/support/ScItemExtUtils.java" timestamp="1594090927018">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="26" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-consumer.xml" timestamp="1594111879521">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="7" column="77" />
+        <mark key="." line="7" column="76" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/pom.xml" timestamp="1594088287496">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="280" column="12" />
-        <mark key="." line="279" column="0" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1594110920714" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1594111358254">
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1594111691671" />
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1594111623144">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="16" />
       </file>
@@ -126,7 +129,7 @@
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="73" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/util/AreaUtil.java" timestamp="1594111101488">
+      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/util/AreaUtil.java" timestamp="1594111603141">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="36" />
       </file>
@@ -135,15 +138,12 @@
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1594103643309">
-        <mark key="[" line="517" column="35" />
-        <mark key="]" line="517" column="66" />
-      </file>
       <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1594109208014">
         <mark key="[" line="339" column="0" />
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.20.RELEASE/spring-context-4.3.20.RELEASE-sources.jar!/org/springframework/context/annotation/PropertySources.java" timestamp="1594111991711" />
       <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/reqresp/QueryScItemResp.java" timestamp="1594104561515">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="27" column="34" />
@@ -256,11 +256,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>PropertySource</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS1UT0RPIExZUyDlpoLmnpwgLS0+Cg==</text>
       </register>
       <register name="+" type="4">
-        <text>PropertySource</text>
+        <text>addressServiceOfPlatform</text>
       </register>
       <register name="-" type="4">
         <text>queryScItemResp</text>
@@ -269,31 +269,31 @@
         <text>56</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDwhLS1UT0RPIExZUyDlpoLmnpwgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NJdGVtRFRPTGlzdCA9IHJlc3AuZ2V0U2NJdGVtRFRPTGlzdCgpOwogICAgICAgICAgICBpZiAoIXJlc3AuaXNTdWNjZXNzKCkgfHwgc2NJdGVtRFRPTGlzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBVc2FDb25zb2xlUmVzdWx0PExpc3Q8Qm1zUGtnTWFuYWdlbWVudFNjSXRlbVZPPj4gcmVzdWx0ID0gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKS5zdWNjZXNzKGZhbHNlKS5tc2coIuafpeivouWksei0pSIpLmJ1aWxkKCk7CiAgICAgICAgICAgICAgICBpZiAocmVzcC5nZXRDb2RlKCkhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldENvZGUocmVzcC5nZXRDb2RlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKHJlc3AuZ2V0TXNnKCkhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldE1zZyhyZXNwLmdldE1zZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoIXF1ZXJ5U2NJdGVtUmVzcC5pc1N1Y2Nlc3MoKSB8fCBxdWVyeVNjSXRlbVJlc3AuZ2V0U2NJdGVtRFRPTGlzdCgpID09IG51bGwpIHsKCQkJVXNhQ29uc29sZVJlc3VsdDxMaXN0PEJtc1BrZ01hbmFnZW1lbnRTY0l0ZW1WTz4+IHJlc3VsdCA9IFVzYUNvbnNvbGVSZXN1bHQuPExpc3Q8Qm1zUGtnTWFuYWdlbWVudFNjSXRlbVZPPj5idWlsZGVyKCkuc3VjY2VzcyhmYWxzZSkubXNnKCLmn6Xor6LlpLHotKUiKS5idWlsZCgpOwoJCQlpZiAocXVlcnlTY0l0ZW1SZXNwLmdldENvZGUoKSE9IG51bGwpIHsKCQkJCXJlc3VsdC5zZXRDb2RlKHF1ZXJ5U2NJdGVtUmVzcC5nZXRDb2RlKCkpOwoJCQl9CgkJCWlmIChxdWVyeVNjSXRlbVJlc3AuZ2V0TXNnKCkhPSBudWxsKSB7CgkJCQlyZXN1bHQuc2V0TXNnKHF1ZXJ5U2NJdGVtUmVzcC5nZXRNc2coKSk7CgkJCX0KCQl9Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NJdGVtRFRPTGlzdCA9IHJlc3AuZ2V0U2NJdGVtRFRPTGlzdCgpOwogICAgICAgICAgICBpZiAoIXJlc3AuaXNTdWNjZXNzKCkgfHwgc2NJdGVtRFRPTGlzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBVc2FDb25zb2xlUmVzdWx0PExpc3Q8Qm1zUGtnTWFuYWdlbWVudFNjSXRlbVZPPj4gcmVzdWx0ID0gVXNhQ29uc29sZVJlc3VsdC48TGlzdDxCbXNQa2dNYW5hZ2VtZW50U2NJdGVtVk8+PmJ1aWxkZXIoKS5zdWNjZXNzKGZhbHNlKS5tc2coIuafpeivouWksei0pSIpLmJ1aWxkKCk7CiAgICAgICAgICAgICAgICBpZiAocmVzcC5nZXRDb2RlKCkhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldENvZGUocmVzcC5nZXRDb2RlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKHJlc3AuZ2V0TXNnKCkhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnNldE1zZyhyZXNwLmdldE1zZygpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpZiAoIXF1ZXJ5U2NJdGVtUmVzcC5pc1N1Y2Nlc3MoKSB8fCBxdWVyeVNjSXRlbVJlc3AuZ2V0U2NJdGVtRFRPTGlzdCgpID09IG51bGwpIHsKCQkJVXNhQ29uc29sZVJlc3VsdDxMaXN0PEJtc1BrZ01hbmFnZW1lbnRTY0l0ZW1WTz4+IHJlc3VsdCA9IFVzYUNvbnNvbGVSZXN1bHQuPExpc3Q8Qm1zUGtnTWFuYWdlbWVudFNjSXRlbVZPPj5idWlsZGVyKCkuc3VjY2VzcyhmYWxzZSkubXNnKCLmn6Xor6LlpLHotKUiKS5idWlsZCgpOwoJCQlpZiAocXVlcnlTY0l0ZW1SZXNwLmdldENvZGUoKSE9IG51bGwpIHsKCQkJCXJlc3VsdC5zZXRDb2RlKHF1ZXJ5U2NJdGVtUmVzcC5nZXRDb2RlKCkpOwoJCQl9CgkJCWlmIChxdWVyeVNjSXRlbVJlc3AuZ2V0TXNnKCkhPSBudWxsKSB7CgkJCQlyZXN1bHQuc2V0TXNnKHF1ZXJ5U2NJdGVtUmVzcC5nZXRNc2coKSk7CgkJCX0KCQl9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9IGNhdGNoIChCaXpFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBlOwoJCX0K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
