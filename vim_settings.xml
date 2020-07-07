@@ -87,39 +87,15 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/ability-local.properties" timestamp="1594111665060" />
-      <file name="D:/workspace/company/usa2/usa2-biz/src/main/java/com/ascp/usa2/biz/BizApplication.java" timestamp="1594112048828" />
       <file name="D:/workspace/company/region-retail-app/region-retail-client/pom.xml" timestamp="1594113823052">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-app.xml" timestamp="1594112117753">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594112325698">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/request/CycleSendRequest.java" timestamp="1594113555615">
         <mark key="[" line="53" column="12" />
         <mark key="]" line="53" column="80" />
         <mark key="." line="53" column="12" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/resources/config/spring-region-retail-hsf-consumer.xml" timestamp="1594111879521">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="77" />
-        <mark key="^" line="7" column="77" />
-        <mark key="." line="7" column="76" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/resources/spring-ability.xml" timestamp="1594111691671" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/config/SdpBizServiceConfig.java" timestamp="1594111623144">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="16" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendConfirmDTO.java" timestamp="1594113668607" />
       <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1594113813951">
@@ -127,25 +103,18 @@
         <mark key="]" line="24" column="21" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1594112321901">
-        <mark key="[" line="397" column="13" />
-        <mark key="]" line="398" column="26" />
-        <mark key="." line="398" column="25" />
-        <mark key="^" line="398" column="26" />
-      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-client/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendRuleDTO.java" timestamp="1594113187602">
         <mark key="[" line="180" column="12" />
         <mark key="]" line="180" column="87" />
         <mark key="." line="180" column="12" />
         <mark key="^" line="180" column="12" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1594112298755">
-        <mark key="[" line="336" column="17" />
-        <mark key="]" line="337" column="30" />
-        <mark key="." line="337" column="29" />
-        <mark key="^" line="337" column="30" />
+      <file name="D:/workspace/company/sdp/sdp2/pom.xml" timestamp="1594114528853">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="39" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.20.RELEASE/spring-context-4.3.20.RELEASE-sources.jar!/org/springframework/context/annotation/PropertySources.java" timestamp="1594111991711" />
     </filemarks>
     <jumps>
       <jump line="81" column="33" filename="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/consign/arbitrator/XpmExpressArbitrator.java" />
@@ -252,14 +221,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>com.cainiao.sdp.shared.api.service.model.common.CycleConstant</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
