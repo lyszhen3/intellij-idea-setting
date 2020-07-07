@@ -87,7 +87,7 @@
         <mark key="]" line="52" column="45" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594091270621">
+      <file name="/Dummy.txt" timestamp="1594104803422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,12 +102,32 @@
         <mark key="^" line="280" column="12" />
         <mark key="." line="279" column="0" />
       </file>
-      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1594035213634">
-        <mark key="'" line="70" column="22" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/pandora/pandora-boot-test/2.1.9.2/pandora-boot-test-2.1.9.2-sources.jar!/com/taobao/pandora/boot/test/junit4/impl/PandoraClassLoader.java" timestamp="1594036735873">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="70" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1594034855749">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1594104745790">
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="402" column="13" />
+        <mark key="^" line="395" column="13" />
+        <mark key="." line="395" column="12" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-biz/src/main/java/com/ascp/usa/console/biz/pkg/ScItemPkgManager.java" timestamp="1594103643309">
+        <mark key="[" line="517" column="35" />
+        <mark key="]" line="517" column="66" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/operation/OperationPkgManagementController.java" timestamp="1594104783850">
+        <mark key="[" line="340" column="34" />
+        <mark key="]" line="340" column="38" />
+        <mark key="." line="340" column="34" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" timestamp="1594035213634">
+        <mark key="'" line="70" column="22" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-ability/pom.xml" timestamp="1594034710793">
         <mark key="[" line="135" column="8" />
@@ -115,12 +135,12 @@
         <mark key="." line="131" column="19" />
         <mark key="^" line="131" column="20" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-core/pom.xml" timestamp="1594034855749">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/CnskuService.java" timestamp="1594104591153">
+        <mark key="[" line="371" column="63" />
+        <mark key="]" line="372" column="64" />
+        <mark key="." line="372" column="63" />
+        <mark key="^" line="372" column="64" />
       </file>
-      <file name="D:/workspace/company/usa-console/usa-console-start/src/main/java/com/ascp/usa/console/start/controller/pkg/bms/BmsPkgManagementController.java" timestamp="1594102056364" />
       <file name="$MAVEN_REPOSITORY$/com/taobao/itemcenter/itemcenter-common/2.8.9.9/itemcenter-common-2.8.9.9-sources.jar!/com/taobao/item/service/impl/ItemCacheManager.java" timestamp="1594034034796">
         <mark key="[" line="79" column="61" />
         <mark key="]" line="79" column="75" />
@@ -130,6 +150,12 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="D:/workspace/company/usa-console/usa-console-service/src/main/java/com/ascp/usa/console/service/cnsku/reqresp/QueryScItemResp.java" timestamp="1594104561515">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="27" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -238,43 +264,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ScItemExtUtils</text>
+        <text>queryScItemResp</text>
       </register>
       <register name="+" type="4">
-        <text>ScItemExtUtils</text>
+        <text>resp</text>
       </register>
       <register name="-" type="4">
-        <text>provided</text>
+        <text>queryScItemResp</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
       </register>
       <register name="1" type="2">
-        <text>修改为3.0</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text />
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZSE9bnVsbCAmJiBuYW1lLmVxdWFscygiY29tLmFsaWJhYmEudG1mLmZ1bmN0aW9uLm1vZGVsLklUcmFuc2Zlck9iamVjdCIp</text>
+        <text encoding="base64">CQl9IGNhdGNoIChCaXpFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBlOwoJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWVyeVNjSXRlbVJlc3AgcXVlcnlTY0l0ZW1SZXNwID0gbmV3IFF1ZXJ5U2NJdGVtUmVzcCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text>修改为3.0</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpYmFiYS5taWRkbGV3YXJlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWV0cmljcy1jb3JlLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuNy45PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLm1pZGRsZXdhcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5lYWdsZWV5ZS1jb3JlLXNkazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuOC40LjUtLTIwMTktMDktc3RhYmxlPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZSE9bnVsbCAmJiBuYW1lLmVxdWFscygiY29tLmFsaWJhYmEudG1mLmZ1bmN0aW9uLm1vZGVsLklUcmFuc2Zlck9iamVjdCIp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
