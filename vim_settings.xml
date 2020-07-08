@@ -86,9 +86,9 @@
         <mark key="]" line="44" column="40" />
       </file>
       <file name="D:/workspace/company/sdp/sdp.misc/src/main/java/com/cainiao/sdp/misc/biz/NewEcomSpRouter.java" timestamp="1594198388514" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/ItemTagsEnum.java" timestamp="1594202213929">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="30" />
+      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/ItemTagsEnum.java" timestamp="1594202406605">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="44" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-api/src/main/java/com/cainiao/sdp/api/tmp/ItemRelationDTO.java" timestamp="1594198476866">
         <mark key="[" line="50" column="26" />
@@ -232,10 +232,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>18433</text>
+        <text>103234</text>
       </register>
       <register name="+" type="4">
-        <text>18433</text>
+        <text>103234</text>
       </register>
       <register name="-" type="4">
         <text>logisticsRule表</text>
