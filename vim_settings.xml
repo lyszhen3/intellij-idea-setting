@@ -81,9 +81,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594206613084">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="59" />
+      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594207325068">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="34" />
       </file>
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/json/AutoConfigureJsonTesters.java" timestamp="1594195990011">
         <mark key="[" line="44" column="18" />
@@ -113,17 +113,12 @@
       </file>
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/resources/META-INF/spring.factories" timestamp="1594195949623" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmTagUtils.java" timestamp="1594202064663" />
+      <file name="D:/workspace/company/usa/usa-biz/src/main/java/com/taobao/usa/service/impl/cainiao/UsaProductReadServiceImpl.java" timestamp="1594207702507" />
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/webservices/client/WebServiceClientTest.java" timestamp="1594196028141">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="69" column="37" />
       </file>
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/aliwork/Adp2SubscriberTairProcessorInvalid.java" timestamp="1594176185909">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="29" />
-        <mark key="]" line="122" column="30" />
-        <mark key="^" line="122" column="30" />
-        <mark key="." line="122" column="29" />
-      </file>
+      <file name="D:/workspace/company/usa/usa-biz/src/main/java/com/taobao/usa/service/impl/cainiao/UsaChooseExpressReadServiceImpl.java" timestamp="1594207681383" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/bo/RouteSpDivisorBO.java" timestamp="1594199615486" />
     </filemarks>
     <jumps>
@@ -232,10 +227,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5000000000046L</text>
+        <text>ResServiceItemConstant</text>
       </register>
       <register name="+" type="4">
-        <text>5000000000046L</text>
+        <text>ResServiceItemConstant</text>
       </register>
       <register name="-" type="4">
         <text>logisticsRule表</text>
