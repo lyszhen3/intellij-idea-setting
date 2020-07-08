@@ -81,6 +81,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594206613084">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="59" />
+      </file>
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/json/AutoConfigureJsonTesters.java" timestamp="1594195990011">
         <mark key="[" line="44" column="18" />
         <mark key="]" line="44" column="40" />
@@ -93,10 +97,6 @@
       <file name="D:/workspace/company/sdp/sdp-api/src/main/java/com/cainiao/sdp/api/tmp/ItemRelationDTO.java" timestamp="1594198476866">
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="34" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/AdpConstant.java" timestamp="1594175868259">
-        <mark key="[" line="147" column="48" />
-        <mark key="]" line="147" column="64" />
       </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1594196104538">
         <mark key="'" line="53" column="13" />
@@ -232,10 +232,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>103234</text>
+        <text>5000000000046L</text>
       </register>
       <register name="+" type="4">
-        <text>103234</text>
+        <text>5000000000046L</text>
       </register>
       <register name="-" type="4">
         <text>logisticsRule表</text>
