@@ -93,6 +93,11 @@
         <mark key="[" line="44" column="18" />
         <mark key="]" line="44" column="40" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp.misc/src/main/java/com/cainiao/sdp/misc/biz/NewEcomSpRouter.java" timestamp="1594198388514" />
+      <file name="D:/workspace/company/sdp/sdp-api/src/main/java/com/cainiao/sdp/api/tmp/ItemRelationDTO.java" timestamp="1594198476866">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="34" />
+      </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-base/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/base/constant/AdpConstant.java" timestamp="1594175868259">
         <mark key="[" line="147" column="48" />
         <mark key="]" line="147" column="64" />
@@ -113,12 +118,6 @@
         <mark key="]" line="37" column="43" />
       </file>
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/resources/META-INF/spring.factories" timestamp="1594195949623" />
-      <file name="D:/workspace/self/springsamples/spring-jmx-samples/pom.xml" timestamp="1594175166057">
-        <mark key="[" line="93" column="37" />
-        <mark key="]" line="94" column="23" />
-        <mark key="^" line="94" column="23" />
-        <mark key="." line="94" column="22" />
-      </file>
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/webservices/client/WebServiceClientTest.java" timestamp="1594196028141">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="69" column="37" />
@@ -129,9 +128,6 @@
         <mark key="]" line="122" column="30" />
         <mark key="^" line="122" column="30" />
         <mark key="." line="122" column="29" />
-      </file>
-      <file name="/fragment.java" timestamp="1594174549629">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -240,10 +236,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>WebServiceClientTest</text>
+        <text>gray_flag</text>
       </register>
       <register name="+" type="4">
-        <text>WebServiceClientTest</text>
+        <text>gray_flag</text>
       </register>
       <register name="-" type="4">
         <text>logisticsRule表</text>
