@@ -81,11 +81,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1594261523921" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/ItemTagsEnum.java" timestamp="1594209265576">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="23" />
-      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/LocationManager.java" timestamp="1594269574903" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1594265173071">
         <mark key="[" line="29" column="49" />
         <mark key="]" line="29" column="72" />
@@ -94,14 +90,13 @@
         <mark key="[" line="151" column="11" />
         <mark key="]" line="151" column="29" />
       </file>
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1594261749845" />
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/utils/TianxianpeiUtil.java" timestamp="1594265455567">
         <mark key="[" line="399" column="46" />
         <mark key="]" line="403" column="67" />
         <mark key="." line="403" column="66" />
         <mark key="^" line="403" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594266023135">
+      <file name="/Dummy.txt" timestamp="1594270785761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/resources/META-INF/autoconf/spring-cyclic-delivery-hsf-depen.xml" timestamp="1594265249230">
@@ -110,26 +105,28 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1594270615860">
+        <mark key="[" line="99" column="43" />
+        <mark key="]" line="99" column="73" />
+        <mark key="." line="99" column="72" />
+        <mark key="^" line="99" column="73" />
+      </file>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1594269578174">
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="94" column="49" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/plugin/region-retail-client/2.0-SNAPSHOT/region-retail-client-2.0-SNAPSHOT.jar!/com/alibaba/ascp/sdp2/app/regionretail/client/service/CycleDetailService.class" timestamp="1594265357384">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="31" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-component/sdp2-component-lss/src/main/java/com/alibaba/ascp/sdp2/component/lss/LogisticsServiceDomainService.java" timestamp="1594267344413" />
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/provider/DeliveryProvider.java" timestamp="1594265403489">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="18" />
         <mark key="^" line="29" column="45" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1594261471530" />
       <file name="/fragment.java" timestamp="1594267186444">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/cyclic-delivery-product/pom.xml" timestamp="1594265040331">
-        <mark key="[" line="112" column="21" />
-        <mark key="]" line="117" column="34" />
-        <mark key="^" line="117" column="34" />
-        <mark key="." line="117" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -238,43 +235,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CycleSendConfirmVO</text>
+        <text>3</text>
       </register>
       <register name="+" type="4">
-        <text>CycleSendConfirmDTO</text>
+        <text>convertTimingServiceModel(deliveryProtocolDO)</text>
       </register>
       <register name="-" type="4">
-        <text>CycleSendConfirmVO</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwb2ludFNlcnZpY2VNb2RlbExpc3QuYWRkKGNvbnZlcnRBcHBvaW50U2VydmljZU1vZGVsKGRlbGl2ZXJ5UHJvdG9jb2xETykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text>修改版本号</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="7" type="2">
+        <text>修改版本号</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
