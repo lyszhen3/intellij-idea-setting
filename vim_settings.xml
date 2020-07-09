@@ -81,6 +81,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/line/prediction/impl/SellerPredictiveLineQueryServiceImpl.java" timestamp="1594286372542">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="92" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/MobileMallEstimateTimeCalculator.java" timestamp="1594285444260">
         <mark key="[" line="151" column="15" />
         <mark key="]" line="151" column="19" />
@@ -113,8 +117,12 @@
         <mark key="." line="115" column="18" />
         <mark key="^" line="115" column="19" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594285909761">
-        <mark key="[" line="94" column="0" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594286556202">
+        <mark key="'" line="34" column="77" />
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="232" column="0" />
+        <mark key="^" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594272030070">
         <mark key="[" line="0" column="0" />
@@ -147,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" />
       <jump line="76" column="69" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" />
       <jump line="210" column="48" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" />
       <jump line="77" column="24" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" />
@@ -247,15 +254,16 @@
       <jump line="0" column="0" filename="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/aliwork/Adp2SubscriberTairProcessorInvalid.java" />
       <jump line="53" column="13" filename="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" />
       <jump line="34" column="48" filename="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" />
+      <jump line="33" column="77" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>SellerPredictiveLineQueryService</text>
       </register>
       <register name="+" type="4">
-        <text>sdp2-plugin-starter</text>
+        <text>SellerPredictiveLineQueryService</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
