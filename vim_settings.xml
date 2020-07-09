@@ -119,6 +119,9 @@
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="31" />
       </file>
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1594271726951">
+        <mark key="'" line="34" column="48" />
+      </file>
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/provider/DeliveryProvider.java" timestamp="1594265403489">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="33" />
@@ -130,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="84" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" />
       <jump line="26" column="0" filename="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/diamond/PlatformServiceConfig.java" />
       <jump line="76" column="69" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" />
       <jump line="210" column="48" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/RenderManager.java" />
@@ -230,6 +232,7 @@
       <jump line="11" column="0" filename="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/aliwork/Adp2SubscriberTairProcessorInvalid.java" />
       <jump line="0" column="0" filename="D:/workspace/self/springsamples/spring-jmx-samples/src/test/java/com/lin/springjmxsamples/aliwork/Adp2SubscriberTairProcessorInvalid.java" />
       <jump line="53" column="13" filename="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" />
+      <jump line="34" column="48" filename="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
