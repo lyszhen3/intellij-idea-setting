@@ -81,40 +81,60 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/provider/CycleDetailServiceImpl.java" timestamp="1594194048200">
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="55" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594207325068">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="34" />
-      </file>
-      <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/json/AutoConfigureJsonTesters.java" timestamp="1594195990011">
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="40" />
       </file>
       <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1594261523921" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/ItemTagsEnum.java" timestamp="1594209265576">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="23" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/resources/murch-inner-plugin.xml" timestamp="1594180795939">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="43" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp-api/src/main/java/com/cainiao/sdp/api/tmp/ItemRelationDTO.java" timestamp="1594198476866">
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="34" />
       </file>
-      <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/webservices/client/WebServiceClientTest.java" timestamp="1594196028141">
-        <mark key="[" line="69" column="18" />
-        <mark key="]" line="69" column="37" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1594265173071">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="72" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1594196104538">
-        <mark key="'" line="53" column="13" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/plugin/region-retail-client/2.0-SNAPSHOT/region-retail-client-2.0-SNAPSHOT.jar!/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendRuleDTO.class" timestamp="1594265443703">
+        <mark key="[" line="151" column="11" />
+        <mark key="]" line="151" column="29" />
+      </file>
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1594261749845" />
+      <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/utils/TianxianpeiUtil.java" timestamp="1594265455567">
+        <mark key="[" line="399" column="46" />
+        <mark key="]" line="403" column="67" />
+        <mark key="." line="403" column="66" />
+        <mark key="^" line="403" column="67" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594266023135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/workspace/company/cyclic-delivery-product/src/main/resources/META-INF/autoconf/spring-cyclic-delivery-hsf-depen.xml" timestamp="1594265249230">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/plugin/region-retail-client/2.0-SNAPSHOT/region-retail-client-2.0-SNAPSHOT.jar!/com/alibaba/ascp/sdp2/app/regionretail/client/service/CycleDetailService.class" timestamp="1594265357384">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="31" />
+      </file>
+      <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/provider/DeliveryProvider.java" timestamp="1594265403489">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1594261471530" />
-      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1594261749845" />
+      <file name="D:/workspace/company/cyclic-delivery-product/pom.xml" timestamp="1594265040331">
+        <mark key="[" line="112" column="21" />
+        <mark key="]" line="117" column="34" />
+        <mark key="^" line="117" column="34" />
+        <mark key="." line="117" column="33" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="207" column="84" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" />
@@ -222,13 +242,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>81154</text>
+        <text>CycleSendConfirmVO</text>
       </register>
       <register name="+" type="4">
-        <text>81154</text>
+        <text>CycleSendConfirmDTO</text>
       </register>
       <register name="-" type="4">
-        <text>logisticsRule表</text>
+        <text>CycleSendConfirmVO</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
