@@ -81,13 +81,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/LocationManager.java" timestamp="1594269574903" />
-      <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/utils/TianxianpeiUtil.java" timestamp="1594265455567">
-        <mark key="[" line="399" column="46" />
-        <mark key="]" line="403" column="67" />
-        <mark key="." line="403" column="66" />
-        <mark key="^" line="403" column="67" />
-      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/processor/impl/CalcEstimateTimeProcessor.java" timestamp="1594277804092" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/estimate/abst/AbstLineQueryService.java" timestamp="1594281663341" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594281546785" />
       <file name="/Dummy.txt" timestamp="1594272030070">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,15 +97,13 @@
         <mark key="[" line="94" column="34" />
         <mark key="]" line="94" column="49" />
       </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/estimate/convert/impl/EstimateLineConvertStrategy.java" timestamp="1594282142558" />
       <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1594272027911">
         <mark key="'" line="34" column="48" />
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="19" />
-      </file>
-      <file name="/fragment.java" timestamp="1594267186444">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
