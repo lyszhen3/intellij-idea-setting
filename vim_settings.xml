@@ -81,29 +81,69 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/MobileMallEstimateTimeCalculator.java" timestamp="1594285444260">
+        <mark key="[" line="151" column="15" />
+        <mark key="]" line="151" column="19" />
+        <mark key="." line="151" column="18" />
+        <mark key="^" line="151" column="19" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/SellerStoreEstimateTimeCalculator.java" timestamp="1594285368768">
+        <mark key="[" line="161" column="15" />
+        <mark key="]" line="161" column="19" />
+        <mark key="." line="161" column="18" />
+        <mark key="^" line="161" column="19" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/TaobaoPlatformEstimateTimeCalculator.java" timestamp="1594285485928">
+        <mark key="[" line="118" column="15" />
+        <mark key="]" line="118" column="19" />
+        <mark key="." line="118" column="18" />
+        <mark key="^" line="118" column="19" />
+      </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/processor/impl/CalcEstimateTimeProcessor.java" timestamp="1594277804092" />
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/estimate/abst/AbstLineQueryService.java" timestamp="1594281663341" />
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594281546785" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/IEstimateTimeCalculator.java" timestamp="1594285334805">
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="66" column="26" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="25" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/CainiaoEstimateTimeCalculator.java" timestamp="1594285425529">
+        <mark key="[" line="115" column="15" />
+        <mark key="]" line="115" column="19" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="115" column="19" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594285909761">
+        <mark key="[" line="94" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594272030070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1594270615860">
-        <mark key="[" line="99" column="43" />
-        <mark key="]" line="99" column="73" />
-        <mark key="." line="99" column="72" />
-        <mark key="^" line="99" column="73" />
-      </file>
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/spi/impl/RegionRetailLogisticsServiceSolutionCalculator.java" timestamp="1594269578174">
-        <mark key="[" line="94" column="34" />
-        <mark key="]" line="94" column="49" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/TmallNextDayEstimateTimeCalculator.java" timestamp="1594285419271">
+        <mark key="[" line="118" column="15" />
+        <mark key="]" line="118" column="19" />
+        <mark key="." line="118" column="18" />
+        <mark key="^" line="118" column="19" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/estimate/convert/impl/EstimateLineConvertStrategy.java" timestamp="1594282142558" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/FmcgEstimateTimeCalculator.java" timestamp="1594285430013">
+        <mark key="[" line="114" column="15" />
+        <mark key="]" line="114" column="19" />
+        <mark key="." line="114" column="18" />
+        <mark key="^" line="114" column="19" />
+      </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1594272027911">
         <mark key="'" line="34" column="48" />
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="19" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/TmallPlatformEstimateTimeCalculator.java" timestamp="1594285521197">
+        <mark key="[" line="118" column="15" />
+        <mark key="]" line="118" column="19" />
+        <mark key="." line="118" column="18" />
+        <mark key="^" line="118" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -212,43 +252,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>false</text>
       </register>
       <register name="+" type="4">
         <text>sdp2-plugin-starter</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+        return false;
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwb2ludFNlcnZpY2VNb2RlbExpc3QuYWRkKGNvbnZlcnRBcHBvaW50U2VydmljZU1vZGVsKGRlbGl2ZXJ5UHJvdG9jb2xETykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwb2ludFNlcnZpY2VNb2RlbExpc3QuYWRkKGNvbnZlcnRBcHBvaW50U2VydmljZU1vZGVsKGRlbGl2ZXJ5UHJvdG9jb2xETykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text>修改版本号</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmJpei5tb2RlbC5jeWNsZS5yZXF1ZXN0LkN5Y2xlU2VuZFJlcXVlc3Q7CmltcG9ydCBjb20uYWxpYmFiYS5hc2NwLnNkcDIuYXBwLnJlZ2lvbnJldGFpbC5iaXoubW9kZWwuY3ljbGUucmVzcG9uc2UuQ3ljbGVTZW5kUnVsZURUTzsKaW1wb3J0IGNvbS5hbGliYWJhLmFzY3Auc2RwMi5hcHAucmVnaW9ucmV0YWlsLmNvcmUucmVzcG9uc2UuQ3ljbGVSZXN1bHQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>修改版本号</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,72s/com.cainiao.sdp.shared.api.service.common.cycle.//gc</text>
