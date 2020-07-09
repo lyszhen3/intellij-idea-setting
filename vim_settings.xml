@@ -96,7 +96,7 @@
         <mark key="." line="403" column="66" />
         <mark key="^" line="403" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594270785761">
+      <file name="/Dummy.txt" timestamp="1594272030070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/resources/META-INF/autoconf/spring-cyclic-delivery-hsf-depen.xml" timestamp="1594265249230">
@@ -119,8 +119,12 @@
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="31" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1594271726951">
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1594272027911">
         <mark key="'" line="34" column="48" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/provider/DeliveryProvider.java" timestamp="1594265403489">
         <mark key="[" line="25" column="18" />
@@ -238,13 +242,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>6</text>
       </register>
       <register name="+" type="4">
-        <text>convertTimingServiceModel(deliveryProtocolDO)</text>
+        <text>sdp2-plugin-starter</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
