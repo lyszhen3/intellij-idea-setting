@@ -91,12 +91,12 @@
         <mark key="." line="151" column="18" />
         <mark key="^" line="151" column="19" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/SellerStoreEstimateTimeCalculator.java" timestamp="1594292480621">
-        <mark key="'" line="33" column="61" />
-        <mark key="[" line="166" column="67" />
-        <mark key="]" line="168" column="47" />
-        <mark key="." line="168" column="46" />
-        <mark key="^" line="168" column="47" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/SellerStoreEstimateTimeCalculator.java" timestamp="1594294093130">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="167" column="64" />
+        <mark key="]" line="167" column="122" />
+        <mark key="." line="170" column="73" />
+        <mark key="^" line="170" column="74" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/TaobaoPlatformEstimateTimeCalculator.java" timestamp="1594285485928">
         <mark key="[" line="118" column="15" />
@@ -122,17 +122,17 @@
         <mark key="." line="115" column="18" />
         <mark key="^" line="115" column="19" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594292571977">
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" timestamp="1594294146674">
         <mark key="a" line="125" column="7" />
         <mark key="'" line="35" column="45" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="13" />
-        <mark key="^" line="35" column="13" />
-        <mark key="." line="35" column="12" />
+        <mark key="[" line="126" column="8" />
+        <mark key="]" line="126" column="8" />
+        <mark key="^" line="126" column="8" />
+        <mark key="." line="126" column="7" />
       </file>
-      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/line/prediction/SellerPredictiveLineQueryService.java" timestamp="1594292294560">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="39" />
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-service/src/main/java/com/alibaba/delivery/logistics/service/line/prediction/SellerPredictiveLineQueryService.java" timestamp="1594294036625">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="91" />
       </file>
       <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/TmallNextDayEstimateTimeCalculator.java" timestamp="1594285419271">
         <mark key="[" line="118" column="15" />
@@ -155,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="24" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/Period.java" />
       <jump line="11" column="21" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" />
       <jump line="13" column="17" filename="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/constant/ItemTagConstant.java" />
       <jump line="17" column="39" filename="D:/workspace/company/region-retail-app/region-retail-ability/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/ability/model/ServiceExpressDO.java" />
@@ -255,18 +254,19 @@
       <jump line="124" column="7" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" />
       <jump line="34" column="45" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/abst/AbstEstimateTimeCalculator.java" />
       <jump line="33" column="61" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/SellerStoreEstimateTimeCalculator.java" />
+      <jump line="38" column="6" filename="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/ability/estimate/calculator/impl/SellerStoreEstimateTimeCalculator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>DeliveryPackageDO</text>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgU2VsbGVyUHJlZGljdGl2ZUxpbmVEVE8+</text>
+        <text>DeliveryPackageDO packageDO, DeliveryPackageGroupDO groupDO</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>DeliveryPackageDO</text>
       </register>
       <register name="/" type="4">
         <text>56</text>
