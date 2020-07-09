@@ -82,14 +82,6 @@
     <globalmarks />
     <filemarks>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/manager/LocationManager.java" timestamp="1594269574903" />
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-config/src/main/resources/config/spring-sdp2-provider.xml" timestamp="1594265173071">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="72" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/plugin/region-retail-client/2.0-SNAPSHOT/region-retail-client-2.0-SNAPSHOT.jar!/com/alibaba/ascp/sdp2/app/regionretail/client/model/cycle/response/CycleSendRuleDTO.class" timestamp="1594265443703">
-        <mark key="[" line="151" column="11" />
-        <mark key="]" line="151" column="29" />
-      </file>
       <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/utils/TianxianpeiUtil.java" timestamp="1594265455567">
         <mark key="[" line="399" column="46" />
         <mark key="]" line="403" column="67" />
@@ -98,12 +90,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1594272030070">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/company/cyclic-delivery-product/src/main/resources/META-INF/autoconf/spring-cyclic-delivery-hsf-depen.xml" timestamp="1594265249230">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="29" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="27" column="18" />
       </file>
       <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/converter/CalculatorConverter.java" timestamp="1594270615860">
         <mark key="[" line="99" column="43" />
@@ -115,22 +101,12 @@
         <mark key="[" line="94" column="34" />
         <mark key="]" line="94" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/ascp/sdp2/plugin/region-retail-client/2.0-SNAPSHOT/region-retail-client-2.0-SNAPSHOT.jar!/com/alibaba/ascp/sdp2/app/regionretail/client/service/CycleDetailService.class" timestamp="1594265357384">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="31" />
-      </file>
       <file name="D:/workspace/company/sdp/sdp2/sdp2-plugin-starter/pom.xml" timestamp="1594272027911">
         <mark key="'" line="34" column="48" />
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="19" />
-      </file>
-      <file name="D:/workspace/company/cyclic-delivery-product/src/main/java/com/alibaba/business/product/cyclic/delivery/provider/DeliveryProvider.java" timestamp="1594265403489">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="29" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1594267186444">
         <mark key="[" line="0" column="0" />
