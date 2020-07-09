@@ -81,6 +81,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/provider/CycleDetailServiceImpl.java" timestamp="1594194048200">
+        <mark key="[" line="54" column="49" />
+        <mark key="]" line="54" column="55" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/delivery/delivery-common/4.0.3.2/delivery-common-4.0.3.2.jar!/com/taobao/delivery/common/constant/ResServiceItemConstant.class" timestamp="1594207325068">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="34" />
@@ -89,37 +93,28 @@
         <mark key="[" line="44" column="18" />
         <mark key="]" line="44" column="40" />
       </file>
-      <file name="D:/workspace/company/sdp/sdp.misc/src/main/java/com/cainiao/sdp/misc/biz/NewEcomSpRouter.java" timestamp="1594198388514" />
+      <file name="D:/workspace/company/adp/adp-template/adp-template-trade/adp-template-service/src/main/java/com/alibaba/delivery/template/util/TemplateMockUtil.java" timestamp="1594261523921" />
       <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/constants/ItemTagsEnum.java" timestamp="1594209265576">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="23" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp-api/src/main/java/com/cainiao/sdp/api/tmp/ItemRelationDTO.java" timestamp="1594198476866">
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="34" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1594196104538">
-        <mark key="'" line="53" column="13" />
-      </file>
-      <file name="D:/workspace/company/sdp/sdp.misc/src/main/java/com/cainiao/sdp/misc/service/impl/SdpProductDecideServiceImpl.java" timestamp="1594199688742" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmSolutionConverter.java" timestamp="1594202023033" />
-      <file name="D:/workspace/company/region-retail-app/region-retail-biz/src/main/java/com/alibaba/ascp/sdp2/app/regionretail/biz/provider/CycleDetailServiceImpl.java" timestamp="1594194048200">
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="55" />
       </file>
       <file name="D:/workspace/company/sdp/sdp-plugin-cnunion/src/main/resources/murch-inner-plugin.xml" timestamp="1594180795939">
         <mark key="[" line="37" column="24" />
         <mark key="]" line="37" column="43" />
       </file>
-      <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/resources/META-INF/spring.factories" timestamp="1594195949623" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/adapter/trade/confirm/ConfirmTagUtils.java" timestamp="1594202064663" />
-      <file name="D:/workspace/company/usa/usa-biz/src/main/java/com/taobao/usa/service/impl/cainiao/UsaProductReadServiceImpl.java" timestamp="1594207702507" />
+      <file name="D:/workspace/company/sdp/sdp-api/src/main/java/com/cainiao/sdp/api/tmp/ItemRelationDTO.java" timestamp="1594198476866">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="34" />
+      </file>
       <file name="D:/workspace/resource/spring/spring-boot/spring-boot-project/spring-boot-test-autoconfigure/src/main/java/org/springframework/boot/test/autoconfigure/webservices/client/WebServiceClientTest.java" timestamp="1594196028141">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="69" column="37" />
       </file>
-      <file name="D:/workspace/company/usa/usa-biz/src/main/java/com/taobao/usa/service/impl/cainiao/UsaChooseExpressReadServiceImpl.java" timestamp="1594207681383" />
-      <file name="D:/workspace/company/sdp/sdp.platform/src/main/java/com/cainiao/sdp/platform/bo/RouteSpDivisorBO.java" timestamp="1594199615486" />
+      <file name="D:/workspace/company/sdp/sdp2/sdp2-core/sdp2-platform/src/main/java/com/alibaba/ascp/sdp2/activity/ItemD2SolutionInstancesQueryActivity2.java" timestamp="1594196104538">
+        <mark key="'" line="53" column="13" />
+      </file>
+      <file name="D:/workspace/company/adp/adp-logistics/adp-logistics-biz/src/main/java/com/alibaba/delivery/logistics/service/iml/TemplateQueryServiceImpl.java" timestamp="1594261471530" />
+      <file name="D:/workspace/company/adpmanager/adpmanager/adpmanager-biz/src/main/java/com/alibaba/adpmanager/commons/switcher/AdpTemplateManagerSwitch.java" timestamp="1594261749845" />
     </filemarks>
     <jumps>
       <jump line="207" column="84" filename="D:/workspace/company/adp/adp-common/src/main/java/com/alibaba/delivery/common/diamond/order/OrderConfigListener.java" />
