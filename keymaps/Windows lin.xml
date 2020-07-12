@@ -1,6 +1,9 @@
 <keymap version="1" name="Windows lin" parent="$default">
   <action id="AutoIndentLines" />
+  <action id="CallHierarchy" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorPageDown" />
+  <action id="EditorPageUp" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
@@ -25,4 +28,8 @@
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByShowPackages" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
 </keymap>
