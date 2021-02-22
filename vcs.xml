@@ -138,6 +138,18 @@
           <option name="url" value="http://gitlab.alibaba-inc.com/tradeplatform/trademanager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com/malldetail/malldetailskip" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com/malldetail/malldetailskip.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com/taodetail/taodetail.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\company" />
