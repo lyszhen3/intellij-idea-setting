@@ -4,7 +4,7 @@
     <property name="created">2018-10-18T10:45:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2020-06-12T15:51:15</property>
+    <property name="modified">2021-04-22T14:13:21</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -43,7 +43,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdc7b8" />
+        <option name="FOREGROUND" value="eeedea" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -61,6 +61,11 @@
         <option name="FOREGROUND" value="287bde" />
         <option name="EFFECT_COLOR" value="ff" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="79e05f" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -114,7 +119,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ad7400" />
+        <option name="FOREGROUND" value="1e4056" />
       </value>
     </option>
     <option name="TEXT">
