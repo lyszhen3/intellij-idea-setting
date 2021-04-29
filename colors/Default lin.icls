@@ -4,14 +4,15 @@
     <property name="created">2018-10-18T10:45:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2021-04-22T14:13:21</property>
+    <property name="modified">2021-04-29T10:23:51</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="222b" />
@@ -60,7 +61,7 @@
       <value>
         <option name="FOREGROUND" value="287bde" />
         <option name="EFFECT_COLOR" value="ff" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CodeWithMe.USER_1_SELECTION">
