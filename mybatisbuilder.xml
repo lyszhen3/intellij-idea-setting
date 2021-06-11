@@ -1,6 +1,6 @@
 <application>
   <component name="MybatisBuilder.application.config">
-    <option name="accessToken" value="eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjMzMTk0NDgsInN0YXRlIjoie1wicHJpbmNpcGFsXCI6XCIzY2UzZjMwOC0wYzVjLTQzZjEtYjZiZi0yODUzNzI1MDY4ODRcIixcInNlY3JldEtleVwiOlwiMTdhYjRiMjgwMzJiNDg1ZWE5MGJhYjU5NTliZjI1YzJcIn0ifQ.gxd8ZRN02TO4VW5nwaUJpiGG7woRk6X6iKLQUCFF9bc" />
+    <option name="accessToken" value="eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjM0MTA1MTcsInN0YXRlIjoie1wicHJpbmNpcGFsXCI6XCIzY2UzZjMwOC0wYzVjLTQzZjEtYjZiZi0yODUzNzI1MDY4ODRcIixcInNlY3JldEtleVwiOlwiZGJhMWM2ZjNjYWQxNGM5NDhmZjMyZDBhN2Y1OThjNjZcIn0ifQ.gtfxGIwfkPJPEmsPGezZoRVK2eH3F2gdB7uEwBHGDhc" />
     <option name="deviceId" value="3ce3f308-0c5c-43f1-b6bf-285372506884" />
     <option name="refreshToken" value="9ca52e603a7a463abd54ed954b22e8ad" />
   </component>
