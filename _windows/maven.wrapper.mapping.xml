@@ -2,7 +2,7 @@
   <component name="MavenWrapperMapping">
     <option name="mapping">
       <map>
-        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.5.2/apache-maven-3.5.2-bin.zip" value="C:\Users\wb-lys543834\.m2\wrapper\dists\apache-maven-3.5.2-bin\7hf0mht29afbpa1e4v2d1a16p0\apache-maven-3.5.2" />
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.5.2/apache-maven-3.5.2-bin.zip" value="C:\Users\linys\.m2\wrapper\dists\apache-maven-3.5.2-bin\7hf0mht29afbpa1e4v2d1a16p0\apache-maven-3.5.2" />
       </map>
     </option>
   </component>
