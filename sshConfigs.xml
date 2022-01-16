@@ -1,9 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.36" id="405eac3f-c5a0-4688-90cf-cd6500d6fd19" port="22" customName="192.168.1.36" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="192.168.1.36" />
-      </sshConfig>
-    </configs>
-  </component>
-</application>
