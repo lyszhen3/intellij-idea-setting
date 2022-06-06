@@ -28,6 +28,7 @@
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleBookmark" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl alt h" />
