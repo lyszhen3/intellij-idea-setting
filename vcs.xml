@@ -218,6 +218,10 @@
           <option name="url" value="http://gitlab.alibaba-inc.com/sdp/cdc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com/cainiao-dev-group/capacity-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\company" />
