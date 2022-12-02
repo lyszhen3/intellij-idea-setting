@@ -3,7 +3,7 @@
     <property name="created">2022-12-02T11:50:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-02T11:54:04</property>
+    <property name="modified">2022-12-02T22:20:14</property>
     <property name="originalScheme">_@user_Light</property>
   </metaInfo>
   <colors>
@@ -395,13 +395,13 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="80808" />
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="f9f5e9" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="fcd47e" />
         <option name="ERROR_STRIPE_COLOR" value="c47233" />
       </value>
