@@ -1,8 +1,0 @@
-<application>
-  <component name="OverrideFileTypeManager">
-    <file url="file://D:/workspace/company/adp/adp-rule/src/main/resources/protocolFilter.conf" />
-    <file url="file://D:/workspace/company/adp/adp-rule/src/main/resources/protocolMergeRule.conf" />
-    <file url="file://D:/workspace/company/adp/adp-rule/src/main/resources/protocolRules.conf" />
-    <file url="file://D:/workspace/company/adp/adp-rule/src/main/resources/sourceProtocols.conf" />
-  </component>
-</application>
